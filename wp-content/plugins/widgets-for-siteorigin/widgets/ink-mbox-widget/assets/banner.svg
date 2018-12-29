@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>element-media box</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-869.000000, -106.000000)">
+            <g id="media-box" transform="translate(869.000000, 106.000000)">
+                <rect id="Rectangle-16" fill="#FFFFFF" x="0" y="0" width="125" height="125"></rect>
+                <g id="post" transform="translate(40.000000, 26.000000)">
+                    <rect id="Rectangle-20" stroke="#3EB0F7" stroke-width="2" x="1" y="1" width="42.1140137" height="29"></rect>
+                    <rect id="Rectangle-20-Copy" stroke="#3EB0F7" stroke-width="2" x="14" y="67" width="16" height="6"></rect>
+                    <path d="M7,40.4305556 L38,40.4305556" id="Line" stroke="#DDDDDD" stroke-width="4" stroke-linecap="square"></path>
+                    <path d="M13,49.9537037 L31,49.9537037" id="Line-Copy-15" stroke="#DDDDDD" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M13,56.9537037 L31,56.9537037" id="Line-Copy-16" stroke="#DDDDDD" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

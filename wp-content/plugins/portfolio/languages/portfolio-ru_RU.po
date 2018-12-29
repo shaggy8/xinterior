@@ -1,0 +1,1483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: portfolio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-25 09:09+0200\n"
+"PO-Revision-Date: 2018-01-25 09:15+0200\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class-prtfl-settings.php:26 portfolio.php:42 portfolio.php:1510
+#: portfolio.php:1527
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/class-prtfl-settings.php:27
+msgid "Misc"
+msgstr "Разное"
+
+#: inc/class-prtfl-settings.php:28
+msgid "Custom Code"
+msgstr "Пользовательский код"
+
+#: inc/class-prtfl-settings.php:29
+msgid "Import / Export"
+msgstr "Импорт / Экспорт"
+
+#: inc/class-prtfl-settings.php:30
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+#: inc/class-prtfl-settings.php:79 portfolio.php:293 portfolio.php:307
+msgid "Executors"
+msgstr "Исполнители"
+
+#: inc/class-prtfl-settings.php:80 portfolio.php:325 portfolio.php:339
+#: portfolio.php:428 portfolio.php:1131
+msgid "Technologies"
+msgstr "Технологии"
+
+#: inc/class-prtfl-settings.php:81 portfolio.php:89
+msgid "Date of completion"
+msgstr "Дата окончания выполнения"
+
+#: inc/class-prtfl-settings.php:82 portfolio.php:94
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/class-prtfl-settings.php:83
+msgid "Short Description"
+msgstr "Краткое описание"
+
+#: inc/class-prtfl-settings.php:84
+msgid "Description"
+msgstr "Описание"
+
+#: inc/class-prtfl-settings.php:85 portfolio.php:99
+msgid "SVN URL"
+msgstr "Путь к SVN"
+
+#: inc/class-prtfl-settings.php:155
+msgid "Custom image size was changed. You need to update project images."
+msgstr ""
+"Пользовательский размер изображения был изменен. Вам необходимо обновить "
+"изображения проектов."
+
+#: inc/class-prtfl-settings.php:222
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: inc/class-prtfl-settings.php:234
+msgid "Please enable JavaScript in Your browser."
+msgstr "Пожалуйста, включите поддержку JavaScript в вашем браузере."
+
+#: inc/class-prtfl-settings.php:239
+msgid "Update Images"
+msgstr "Обновить изображения"
+
+#: inc/class-prtfl-settings.php:249 portfolio.php:42 portfolio.php:391
+msgid "Portfolio Settings"
+msgstr "Настройки Portfolio"
+
+#: inc/class-prtfl-settings.php:254
+msgid "Number of Columns"
+msgstr "Количество колонок"
+
+#: inc/class-prtfl-settings.php:256
+msgid "columns"
+msgstr "колонок"
+
+#: inc/class-prtfl-settings.php:257
+#, php-format
+msgid "Number of image columns (default is %s)."
+msgstr "Количество колонок изображений (по умолчанию - %s)."
+
+#: inc/class-prtfl-settings.php:261
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: inc/class-prtfl-settings.php:267 inc/class-prtfl-settings.php:297
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: inc/class-prtfl-settings.php:269
+msgid ""
+"Maximum portfolio image size. \"Custom\" uses the Image Dimensions values."
+msgstr ""
+"Максимальный размер изображений портфолио. \"Пользовательский\" использует "
+"значения, указанные в поле Размеры изображения."
+
+#: inc/class-prtfl-settings.php:273
+msgid "Custom Image Size"
+msgstr "Пользовательский размер изображения"
+
+#: inc/class-prtfl-settings.php:275
+msgid ""
+"Adjust these values based on the number of columns in your project. This "
+"won't affect the full size of your images in the lightbox."
+msgstr ""
+"Настройте эти значения на основе количества колонок в вашем проекте. Это не "
+"влияет на размеры изображения в лайтбоксе."
+
+#: inc/class-prtfl-settings.php:279
+msgid "Portfolio Page"
+msgstr "Страница портфолио"
+
+#: inc/class-prtfl-settings.php:287
+msgid "Base page where all existing projects will be displayed."
+msgstr ""
+"Базовая страница, на которой будут отображены все существующие проекты."
+
+#: inc/class-prtfl-settings.php:291
+msgid "Cover Image Size"
+msgstr "Размер изображения альбома"
+
+#: inc/class-prtfl-settings.php:299
+msgid "Maximum cover image size. Custom uses the Image Dimensions values."
+msgstr ""
+"Максимальный размер изображения альбома. Пользовательский использует "
+"значения Размеров изображения."
+
+#: inc/class-prtfl-settings.php:303
+msgid "Custom Cover Image Size"
+msgstr "Пользовательский размер изображения альбома"
+
+#: inc/class-prtfl-settings.php:309
+msgid "Sort Projects by"
+msgstr "Cортировка проектов по"
+
+#: inc/class-prtfl-settings.php:312
+msgid "Project ID"
+msgstr "ID проекта"
+
+#: inc/class-prtfl-settings.php:313 portfolio.php:454
+msgid "Title"
+msgstr "Название"
+
+#: inc/class-prtfl-settings.php:314
+msgid "Date"
+msgstr "Дата"
+
+#: inc/class-prtfl-settings.php:315
+msgid "Last modified date"
+msgstr "Дата последнего изменения"
+
+#: inc/class-prtfl-settings.php:316
+msgid "Comment count"
+msgstr "Количество комментариев"
+
+#: inc/class-prtfl-settings.php:317
+msgid "Sorting order (the input field for sorting order)"
+msgstr "Порядок сортировки (поле ввода для сортировки)"
+
+#: inc/class-prtfl-settings.php:318
+msgid "Author"
+msgstr "Автор"
+
+#: inc/class-prtfl-settings.php:319
+msgid "Random"
+msgstr "Произвольно"
+
+#: inc/class-prtfl-settings.php:321
+msgid "Select projects sorting order in your portfolio page."
+msgstr "Выберите порядок сортировки проектов на странице портфолио."
+
+#: inc/class-prtfl-settings.php:325
+msgid "Arrange Projects by"
+msgstr "Сортировать проекты"
+
+#: inc/class-prtfl-settings.php:328
+msgid "Ascending (e.g. 1, 2, 3; a, b, c)"
+msgstr "По возрастанию (например, 1, 2, 3; а, б, в)"
+
+#: inc/class-prtfl-settings.php:330
+msgid "Descending (e.g. 3, 2, 1; c, b, a)"
+msgstr "По убыванию (например, 3, 2, 1; в, б, а)"
+
+#: inc/class-prtfl-settings.php:338 inc/class-prtfl-settings.php:403
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/class-prtfl-settings.php:342
+msgid "Manual Sorting"
+msgstr "Ручная сортировка"
+
+#: inc/class-prtfl-settings.php:345
+msgid "Enable to sort projects manually by date or title."
+msgstr "Включить сортировку проектов вручную по дате или названию."
+
+#: inc/class-prtfl-settings.php:350
+msgid "Lightbox Helper"
+msgstr "Вспомогательные элементы в лайтбоксе"
+
+#: inc/class-prtfl-settings.php:352
+msgid "Enable to use a lightbox helper navigation between images."
+msgstr ""
+"Разрешить использовать вспомогательные элементы лайтбокса для навигации "
+"между изображениями."
+
+#: inc/class-prtfl-settings.php:356
+msgid "Lightbox Helper Type"
+msgstr "Тип вспомогательных элементов лайтбокса"
+
+#: inc/class-prtfl-settings.php:359
+msgid "Thumbnails"
+msgstr "Миниатюры"
+
+#: inc/class-prtfl-settings.php:360
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: inc/class-prtfl-settings.php:371
+msgid "Text Link"
+msgstr "Текстовая ссылка"
+
+#: inc/class-prtfl-settings.php:374
+msgid "Enable to display link field as a text for non-registered users."
+msgstr ""
+"Включить отображение поля ссылки в качестве текста для незарегистрированных "
+"пользователей."
+
+#: inc/class-prtfl-settings.php:379 inc/class-prtfl-settings.php:407
+msgid "Projects Fields"
+msgstr "Поля проектов"
+
+#: inc/class-prtfl-settings.php:392 inc/class-prtfl-settings.php:430
+msgid "\"More screenshots\" block"
+msgstr "Блок \"Больше скриншотов\""
+
+#: inc/class-prtfl-settings.php:412 inc/class-prtfl-settings.php:413
+#: portfolio.php:549
+msgid "Categories"
+msgstr "Категории"
+
+#: inc/class-prtfl-settings.php:417 inc/class-prtfl-settings.php:418
+#: portfolio.php:550
+msgid "Sectors"
+msgstr "Отрасли"
+
+#: inc/class-prtfl-settings.php:422 inc/class-prtfl-settings.php:423
+#: portfolio.php:551
+msgid "Services"
+msgstr "Сервисы"
+
+#: inc/class-prtfl-settings.php:427 inc/class-prtfl-settings.php:428
+#: portfolio.php:571
+msgid "Client"
+msgstr "Клиент"
+
+#: inc/class-prtfl-settings.php:447
+msgid "Demo Data"
+msgstr "Демо данные"
+
+#: inc/class-prtfl-settings.php:449
+msgid ""
+"Install demo data to create portfolio projects with images, post with "
+"shortcodes and page with a list of all portfolio projects."
+msgstr ""
+"Установите демо-данные, чтобы создать проекты портфолио с изображениями, "
+"запись с шорткодами и страницу со списком всех проектов портфолио."
+
+#: inc/class-prtfl-settings.php:468
+msgid "Portfolio Post Type"
+msgstr "Тип записи портфолио"
+
+#: inc/class-prtfl-settings.php:472
+msgid ""
+"Enable to avoid conflicts with other portfolio plugins installed. All "
+"portfolio created earlier will stay unchanged. However, after enabling we "
+"recommend to check settings of other plugins where \"portfolio\" post type "
+"is used."
+msgstr ""
+"Включите, чтобы избежать конфликтов с другими установленными плагинами "
+"портфолио. Все созданные ранее портфолио останутся без изменений. Однако, "
+"после переименования проверьте, пожалуйста, настройки других плагинов, где "
+"используется тип записи \"portfolio\"."
+
+#: inc/class-prtfl-settings.php:478
+msgid "Portfolio Slug"
+msgstr "Ярлык портфолио"
+
+#: inc/class-prtfl-settings.php:481
+msgid "Enter the unique portfolio slug."
+msgstr "Введите уникальный ярлык портфолио."
+
+#: inc/class-prtfl-settings.php:485
+msgid "Search Portfolio Projects"
+msgstr "Поиск проектов портфолио"
+
+#: inc/class-prtfl-settings.php:491
+msgid "Activate Now"
+msgstr "Активировать сейчас"
+
+#: inc/class-prtfl-settings.php:506
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: inc/class-prtfl-settings.php:509
+msgid "Enable to include portfolio projects to your website search."
+msgstr "Включить проекты портфолио в поиск на вашем сайте."
+
+#: inc/class-prtfl-settings.php:509
+#, php-format
+msgid "%s plugin is required."
+msgstr "Требуется плагин %s."
+
+#: inc/class-prtfl-settings.php:523
+msgid "Portfolio Shortcode"
+msgstr "Шорткод портфолио"
+
+#: inc/class-prtfl-settings.php:526
+msgid ""
+"Add the latest portfolio projects using the following shortcode (where * is "
+"a number of projects to display):"
+msgstr ""
+"Добавьте последние проекты портфолио, используя следующий шорткод (где * - "
+"количество отображаемых проектов):"
+
+#: inc/demo-data/class-bws-demo-data.php:31
+msgid "Install Demo Data"
+msgstr "Установить демо-данные"
+
+#: inc/demo-data/class-bws-demo-data.php:34
+msgid "Remove Demo Data"
+msgstr "Удалить демо-данные"
+
+#: inc/demo-data/class-bws-demo-data.php:35
+msgid "Delete demo data and restore previous plugin settings."
+msgstr "Удалить демо данные и восстановить предыдущие настройки плагина."
+
+#: inc/demo-data/class-bws-demo-data.php:48
+msgid "Yes, install demo data"
+msgstr "Да, установить демо-данные"
+
+#: inc/demo-data/class-bws-demo-data.php:49
+msgid "Are you sure you want to install demo data?"
+msgstr "Вы уверены, что хотите установить демо-данные?"
+
+#: inc/demo-data/class-bws-demo-data.php:51
+msgid "Yes, remove demo data"
+msgstr "Да, удалить демо-данные"
+
+#: inc/demo-data/class-bws-demo-data.php:52
+msgid "Are you sure you want to remove demo data?"
+msgstr "Вы уверены, что хотите удалить демо-данные?"
+
+#: inc/demo-data/class-bws-demo-data.php:59
+msgid "No, go back to the settings page"
+msgstr "Нет, вернуться на страницу настроек"
+
+#: inc/demo-data/class-bws-demo-data.php:115
+msgid "Can not get demo data."
+msgstr "Невозможно получить демо-данные."
+
+#: inc/demo-data/class-bws-demo-data.php:122
+msgid "Demo settings are already installed."
+msgstr "Настройки демо уже установлены."
+
+#: inc/demo-data/class-bws-demo-data.php:360
+msgid "Demo data successfully installed."
+msgstr "Демо-данные успешно установлены."
+
+#: inc/demo-data/class-bws-demo-data.php:362
+msgid "View post with shortcodes"
+msgstr "Просмотрите запись с шорткодами"
+
+#: inc/demo-data/class-bws-demo-data.php:365
+msgid "View page with examples"
+msgstr "Просмотрите запись с примерами"
+
+#: inc/demo-data/class-bws-demo-data.php:374
+msgid "Demo data installation proceeded with some errors."
+msgstr "Установка демо-данных прошла с ошибками."
+
+#: inc/demo-data/class-bws-demo-data.php:377
+msgid "Post data is missing."
+msgstr "Контент записи отсутствует."
+
+#: inc/demo-data/class-bws-demo-data.php:451
+msgid "Demo data have been already removed."
+msgstr "Демо-данные уже удалены."
+
+#: inc/demo-data/class-bws-demo-data.php:508
+msgid "Demo data successfully removed."
+msgstr "Демо-данные успешно удалены."
+
+#: inc/demo-data/class-bws-demo-data.php:512
+msgid "Removing demo data with some errors occurred."
+msgstr "Удаление демо-данных прошло с ошибками."
+
+#: inc/demo-data/class-bws-demo-data.php:581
+msgid "Close notice"
+msgstr "Закрыть сообщение"
+
+#: inc/demo-data/class-bws-demo-data.php:585
+#, php-format
+msgid ""
+"Do you want to install demo content and settings for %s (You can do this "
+"later using Import / Export settings)?"
+msgstr ""
+"Вы хотите установить демо контент и настройки для %s? (вы можете сделать это "
+"позже, используя настройки Импорта / Экспорта)"
+
+#: inc/demo-data/class-bws-demo-data.php:585
+msgid "Yes, install demo now"
+msgstr "Да, установить демо-данные сейчас"
+
+#: portfolio.php:48
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: portfolio.php:84
+msgid "Short description"
+msgstr "Краткое описание"
+
+#: portfolio.php:218
+msgid "Date of completion:"
+msgstr "Дата окончания выполнения:"
+
+#: portfolio.php:219
+msgid "Link:"
+msgstr "Ссылка:"
+
+#: portfolio.php:220
+msgid "Short description:"
+msgstr "Краткое описание:"
+
+#: portfolio.php:221
+msgid "Description:"
+msgstr "Описание:"
+
+#: portfolio.php:222
+msgid "SVN:"
+msgstr "SVN:"
+
+#: portfolio.php:223
+msgid "Executor:"
+msgstr "Исполнитель:"
+
+#: portfolio.php:224
+msgid "More screenshots:"
+msgstr "Больше скриншотов:"
+
+#: portfolio.php:225
+msgid "Technologies:"
+msgstr "Технологии:"
+
+#: portfolio.php:246
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: portfolio.php:247
+msgid "Projects"
+msgstr "Проекты"
+
+#: portfolio.php:248
+msgid "Project"
+msgstr "Проект"
+
+#: portfolio.php:249
+msgid "Add New"
+msgstr "Добавить проект"
+
+#: portfolio.php:250
+msgid "Add New Project"
+msgstr "Добавить новый проект"
+
+#: portfolio.php:251
+msgid "Edit"
+msgstr "Редактировать"
+
+#: portfolio.php:252
+msgid "Edit Project"
+msgstr "Редактировать проект"
+
+#: portfolio.php:253
+msgid "New Project"
+msgstr "Новый проект"
+
+#: portfolio.php:254 portfolio.php:255
+msgid "View Project"
+msgstr "Просмотреть проект"
+
+#: portfolio.php:256
+msgid "Search Projects"
+msgstr "Поиск проектов"
+
+#: portfolio.php:257
+msgid "No project found"
+msgstr "Ни одного проекта не найдено"
+
+#: portfolio.php:258
+msgid "No project found in Trash"
+msgstr "Ни одного проекта в корзине не найдено"
+
+#: portfolio.php:259
+msgid "Parent Project"
+msgstr "Родительский проект"
+
+#: portfolio.php:260
+msgid "Filter projects list"
+msgstr "Фильтр списка проектов"
+
+#: portfolio.php:261
+msgid "Projects list navigation"
+msgstr "Навигация списка проектов"
+
+#: portfolio.php:262
+msgid "Projects list"
+msgstr "Список проектов"
+
+#: portfolio.php:264
+msgid "Create a project item"
+msgstr "Создать проект"
+
+#: portfolio.php:294
+msgid "Executor"
+msgstr "Профиль исполнителя"
+
+#: portfolio.php:295
+msgid "Search Executors"
+msgstr "Искать исполнителя"
+
+#: portfolio.php:296
+msgid "Popular Executors"
+msgstr "Популярные исполнители"
+
+#: portfolio.php:297
+msgid "All Executors"
+msgstr "Все исполнители"
+
+#: portfolio.php:298
+msgid "Parent Executor"
+msgstr "Родительский исполнитель"
+
+#: portfolio.php:299
+msgid "Parent Executor:"
+msgstr "Родительский исполнитель:"
+
+#: portfolio.php:300
+msgid "Edit Executor"
+msgstr "Редактировать исполнителя"
+
+#: portfolio.php:301
+msgid "Update Executor"
+msgstr "Обновить исполнителя"
+
+#: portfolio.php:302
+msgid "Add New Executor"
+msgstr "Добавить нового исполнителя"
+
+#: portfolio.php:303
+msgid "New Executor Name"
+msgstr "Имя нового Исполнителя"
+
+#: portfolio.php:304
+msgid "Separate executors with commas"
+msgstr "Разделите исполнителей запятыми"
+
+#: portfolio.php:305
+msgid "Add or remove Executor"
+msgstr "Добавить или удалить исполнителя"
+
+#: portfolio.php:306
+msgid "Choose from the most used Executors"
+msgstr "Выбрать из списка часто используемых исполнителей"
+
+#: portfolio.php:308
+msgid "Executors list navigation"
+msgstr "Навигация списка исполнителей"
+
+#: portfolio.php:309
+msgid "Executors list"
+msgstr "Список исполнителей"
+
+#: portfolio.php:326
+msgid "Technology"
+msgstr "Технология"
+
+#: portfolio.php:327
+msgid "Search Technologies"
+msgstr "Поиск технологии"
+
+#: portfolio.php:328
+msgid "Popular Technologies"
+msgstr "Популярные Технологии"
+
+#: portfolio.php:329
+msgid "All Technologies"
+msgstr "Все Технологии"
+
+#: portfolio.php:330
+msgid "Parent Technology"
+msgstr "Родительская Технология"
+
+#: portfolio.php:331
+msgid "Parent Technology:"
+msgstr "Родительская Технология:"
+
+#: portfolio.php:332
+msgid "Edit Technology"
+msgstr "Редактировать Технологию"
+
+#: portfolio.php:333
+msgid "Update Technology"
+msgstr "Обновить Технологию"
+
+#: portfolio.php:334
+msgid "Add New Technology"
+msgstr "Добавить новую Технологию"
+
+#: portfolio.php:335
+msgid "New Technology Name"
+msgstr "Название новой Технологии"
+
+#: portfolio.php:336
+msgid "Separate technologies with commas"
+msgstr "Разделите технологии запятыми"
+
+#: portfolio.php:337
+msgid "Add or remove Technology"
+msgstr "Добавить или удалить Технологию"
+
+#: portfolio.php:338
+msgid "Choose from the most used technologies"
+msgstr "Выбрать из наиболее используемых технологий"
+
+#: portfolio.php:340
+msgid "Technologies list navigation"
+msgstr "Навигация списка технологий"
+
+#: portfolio.php:341
+msgid "Technologies list"
+msgstr "Список технологий"
+
+#: portfolio.php:429
+msgid "The tag cloud with your most used portfolio technologies."
+msgstr "Облако тегов из технологий плагина Portfolio."
+
+#: portfolio.php:544
+msgid "Images"
+msgstr "Изображения"
+
+#: portfolio.php:545
+msgid "General"
+msgstr "Общее"
+
+#: portfolio.php:582
+msgid "Featured project"
+msgstr "Избранный проект"
+
+#: portfolio.php:584
+msgid "Add to slider"
+msgstr "Добавить в слайдер"
+
+#: portfolio.php:588 portfolio.php:647 portfolio.php:688 portfolio.php:729
+msgid "Learn More"
+msgstr "Подробнее"
+
+#: portfolio.php:628
+msgid "All Categories"
+msgstr "Все Категории"
+
+#: portfolio.php:629 portfolio.php:669 portfolio.php:710
+msgid "Most Used"
+msgstr "Наиболее используемые"
+
+#: portfolio.php:634 portfolio.php:640 portfolio.php:674 portfolio.php:715
+msgid "Uncatgorized"
+msgstr "Без категории"
+
+#: portfolio.php:668
+msgid "All Sectors"
+msgstr "Все отрасли"
+
+#: portfolio.php:680 portfolio.php:681
+msgid "Sector"
+msgstr "Отрасль"
+
+#: portfolio.php:709
+msgid "All Services"
+msgstr "Все услуги"
+
+#: portfolio.php:721 portfolio.php:722
+msgid "Service"
+msgstr "Услуга"
+
+#: portfolio.php:741
+msgid "Please enable JavaScript to add or delete images."
+msgstr ""
+"Пожалуйста, включите javascript для добавления или удаления изображений."
+
+#: portfolio.php:777
+msgid "Delete image"
+msgstr "Удалить изображение"
+
+#: portfolio.php:777
+msgid "Delete"
+msgstr "Удалить"
+
+#: portfolio.php:791
+msgid "Add images"
+msgstr "Добавить изображение"
+
+#: portfolio.php:979 portfolio.php:1107 portfolio.php:1612 portfolio.php:1723
+msgid "No title"
+msgstr "Без названия"
+
+#: portfolio.php:1125 portfolio.php:1776
+msgid "Read more"
+msgstr "Подробнее"
+
+#: portfolio.php:1136 portfolio.php:1785 portfolio.php:1959
+#, php-format
+msgid "View all projects in %s"
+msgstr "Посмотреть все проекты в %s"
+
+#: portfolio.php:1169
+msgid "Updating images..."
+msgstr "Обновление изображений..."
+
+#: portfolio.php:1170
+msgid "No image found."
+msgstr "Изображения не найдены."
+
+#: portfolio.php:1171
+msgid "All images are updated."
+msgstr "Все изображения были обновлены."
+
+#: portfolio.php:1172
+msgid "Error:"
+msgstr "Ошибка:"
+
+#: portfolio.php:1374
+msgid "Image size not defined"
+msgstr "Невозможно определить размер изображения"
+
+#: portfolio.php:1388
+msgid ""
+"We can update only PNG, JPEG, GIF, WPMP or XBM filetype. For other image "
+"formats, please manually reload image."
+msgstr ""
+"Плагин может обновить только PNG, JPEG, GIF, XBM или WPMP типы файлов. Для "
+"других, пожалуйста, вручную перезагрузите изображения."
+
+#: portfolio.php:1398
+msgid "Image size changes not defined"
+msgstr "Не удалось вычислить изменения размеров изображения"
+
+#: portfolio.php:1423 portfolio.php:1426 portfolio.php:1431
+msgid "Invalid path"
+msgstr "Некорректный путь к изображениям"
+
+#: portfolio.php:1511
+msgid "FAQ"
+msgstr "FAQ"
+
+#: portfolio.php:1512
+msgid "Support"
+msgstr "Поддержка"
+
+#: portfolio.php:1568
+msgid "ATTENTION!"
+msgstr "ВНИМАНИЕ!"
+
+#: portfolio.php:1569
+msgid ""
+"In the current version of Portfolio plugin we updated the Technologies "
+"widget. If it was added to the sidebar, it will disappear and you will have "
+"to add it again."
+msgstr ""
+"В данной версии плагина Portfolio мы обновили виджет технологий. Поэтому "
+"если он у вас уже был добавлен в сайдбар, то после обновления он пропадет, и "
+"вам нужно будет его заново добавить."
+
+#: portfolio.php:1573
+msgid "Read and Understood"
+msgstr "Ознакомлен"
+
+#: portfolio.php:2024
+msgid "The number of portfolio projects to display"
+msgstr "Количество проектов портфолио для отображения"
+
+#~ msgid "Lightbox Helper Thumbnail Size"
+#~ msgstr "Размер вспомогательных элементов лайтбокса"
+
+#~ msgid "Lightbox Helper Thumbnail Position"
+#~ msgstr "Позиция вспомогательных элементов лайтбокса"
+
+#~ msgid "Top"
+#~ msgstr "Сверху"
+
+#~ msgid "Bottom"
+#~ msgstr "Снизу"
+
+#~ msgid "Install demo data"
+#~ msgstr "Установить демо-данные"
+
+#~ msgid "for an acquaintance with the possibilities of the"
+#~ msgstr "для ознакомления с возможностями плагина"
+
+#~ msgid "Please, enable JavaScript in Your browser."
+#~ msgstr "Пожалуйста, включите JavaScript в вашем браузере."
+
+#~ msgid "px"
+#~ msgstr "пикс"
+
+#~ msgid ""
+#~ "Adjust these values based on the number of columns in your project. This "
+#~ "won't effect the full size of your images in the lightbox."
+#~ msgstr ""
+#~ "Настройте эти значения на основе количества колонок в вашем проекте. Это "
+#~ "не влияет на размеры изображения в лайтбоксе."
+
+#~ msgid "Manually Sorting"
+#~ msgstr "Ручная сортировка"
+
+#~ msgid "%s is required."
+#~ msgstr "Требуется %s."
+
+#~ msgid "Delete demo data and restore old plugin settings."
+#~ msgstr "Удалить демо данные и восстановить предыдущие настройки плагина."
+
+#~ msgid "Demo options already installed."
+#~ msgstr "Настройки демо уже установлены."
+
+#~ msgid "Installation of demo data with some errors occurred."
+#~ msgstr "Установка демо-данных прошла с ошибками."
+
+#~ msgid "Posts data is missing."
+#~ msgstr "Контент записи отсутствует."
+
+#~ msgid "Demo data have already been removed."
+#~ msgstr "Демо-данные уже удалены."
+
+#~ msgid "Your most used portfolio technologies as a tag cloud"
+#~ msgstr "Вы можете использовать Технологии Portfolio как облако тегов"
+
+#~ msgid "Add New Category"
+#~ msgstr "Добавить новую Категорию"
+
+#~ msgid "New Category Name"
+#~ msgstr "Название новой Категории"
+
+#~ msgid "Parent Category"
+#~ msgstr "Родительская Категория"
+
+#~ msgid ""
+#~ "We can update only PNG, JPEG, GIF, WPMP or XBM filetype. For other, "
+#~ "please, manually reload image."
+#~ msgstr ""
+#~ "Плагин может обновить только PNG, JPEG, GIF, XBM или WPMP типы файлов. "
+#~ "Для других, пожалуйста, вручную перезагрузите изображения."
+
+#~ msgid ""
+#~ "A short description which you'd like to be displayed on your portfolio "
+#~ "page"
+#~ msgstr ""
+#~ "Краткое описание для Portfolio, которые вы бы хотели видеть на странице "
+#~ "Portfolio"
+
+#~ msgid "The date when the task was completed"
+#~ msgstr "Дата, когда задание было закончено"
+
+#~ msgid "A link to the site"
+#~ msgstr "Ссылка на сайт"
+
+#~ msgid "SVN"
+#~ msgstr "SVN"
+
+#~ msgid "Executor Profile:"
+#~ msgstr "Профайл исполнителя:"
+
+#~ msgid ""
+#~ "The files \"portfolio.php\" and \"portfolio-post.php\" are not found in "
+#~ "your theme directory. Please copy them from the directory `wp-content/"
+#~ "plugins/portfolio/template/` to your theme directory for correct work of "
+#~ "the Portfolio plugin"
+#~ msgstr ""
+#~ "Следующие файлы \"portfolio.php \" и \"portfolio-post.php \" не найдены в "
+#~ "каталоге вашей темы. Пожалуйста, скопируйте их из каталога `/ wp-content/"
+#~ "plugins/portfolio/template /` в каталог с вашей темой для корректной "
+#~ "работы плагина Portfolio"
+
+#~ msgid "All plugin settings were restored."
+#~ msgstr "Настройки плагина были восстановлены."
+
+#~ msgid "Custom code"
+#~ msgstr "Пользовательский код"
+
+#~ msgid "Go PRO"
+#~ msgstr "Перейти на PRO версию"
+
+#~ msgid "Please enable JavaScript to use the option to renew images."
+#~ msgstr ""
+#~ "Пожалуйста, включите javascript для использования опции обновления "
+#~ "изображений."
+
+#~ msgid ""
+#~ "If you would like to add the Latest Portfolio Items to your page or post, "
+#~ "please use %s button"
+#~ msgstr ""
+#~ "Если вы хотите добавить Последние Portfolio на вашу страницу или пост, то "
+#~ "используйте кнопку %s"
+
+#~ msgid ""
+#~ "You can add the Latest Portfolio Items to your page or post by clicking "
+#~ "on %s button in the content edit block using the Visual mode. If the "
+#~ "button isn't displayed, please use the shortcode %s, where * is a number "
+#~ "of portfolio to display"
+#~ msgstr ""
+#~ "Вы можете добавить последние Portfolio  на вашу страницу или пост, нажав "
+#~ "на кнопку %s в блоке редактирования контента в режиме Visual. Если кнопка "
+#~ "не отображается, пожалуйста, используйте шорткод %s, где * обозначает "
+#~ "количество портфолио для отображения"
+
+#~ msgid "Image size"
+#~ msgstr "Размер изображения"
+
+#~ msgid ""
+#~ "WordPress will create a copy of the post thumbnail with the specified "
+#~ "dimensions when you upload a new photo."
+#~ msgstr ""
+#~ "WordPress создаст новую миниатюру с заданными размерами при загрузке "
+#~ "новой фотографии."
+
+#~ msgid "For the album cover"
+#~ msgstr "Для обложки альбома"
+
+#~ msgid "width x height"
+#~ msgstr "ширина x высота"
+
+#~ msgid "in px"
+#~ msgstr "в px"
+
+#~ msgid "For thumbnails"
+#~ msgstr "Для миниатюр"
+
+#~ msgid "Update images for portfolio"
+#~ msgstr "Размер для изображений в Portfolio"
+
+#~ msgid "In order to update images, please save settings"
+#~ msgstr "Чтобы обновить изображения, пожалуйста, сохраните настройки"
+
+#~ msgid "Sort portfolio by"
+#~ msgstr "Сортировка Portfolio по"
+
+#~ msgid "portfolio id"
+#~ msgstr "Portfolio id"
+
+#~ msgid "portfolio title"
+#~ msgstr "названию Portfolio"
+
+#~ msgid "date"
+#~ msgstr "дате"
+
+#~ msgid "menu order"
+#~ msgstr "порядку в меню"
+
+#~ msgid "random"
+#~ msgstr "в любом порядке"
+
+#~ msgid "Portfolio sorting"
+#~ msgstr "Сортировка Portfolio"
+
+#~ msgid ""
+#~ "ASC (ascending order from lowest to highest values - 1, 2, 3; a, b, c)"
+#~ msgstr ""
+#~ "ASC (в порядке возрастания от наименьшего до наибольшего значения - 1, 2, "
+#~ "3, а, б, в)"
+
+#~ msgid ""
+#~ "DESC (descending order from highest to lowest values - 3, 2, 1; c, b, a)"
+#~ msgstr ""
+#~ "DESC (в порядке убывания от наибольшего до наименьшего значения - 3, 2, "
+#~ "1; c, b, a)"
+
+#~ msgid "Number of images in the row"
+#~ msgstr "Количество изображений в строке"
+
+#~ msgid "Display the link field as a text for non-registered users"
+#~ msgstr ""
+#~ "Отображать поле с ссылкой текстом для незарегистрированных пользователей"
+
+#~ msgid "Display in the front end"
+#~ msgstr "Отображать во фронтенде"
+
+#~ msgid "Executor Profiles"
+#~ msgstr "Профили исполнителей"
+
+#~ msgid "Selectbox of sorting portfolio by date or title"
+#~ msgstr "Возможность выбора сортировки портфолио по дате или тайтлу"
+
+#~ msgid "The lightbox helper"
+#~ msgstr "Вспомогательные элементы в лайтбоксе"
+
+#~ msgid "Do not use"
+#~ msgstr "Не использовать"
+
+#~ msgid "Button helper"
+#~ msgstr "Вспомогательные кнопки"
+
+#~ msgid "Thumbnail helper"
+#~ msgstr "Вспомогательные миниатюры"
+
+#~ msgid "Width (in px)"
+#~ msgstr "Ширина (в пикселях)"
+
+#~ msgid "Height (in px)"
+#~ msgstr "Высота (в пикселях)"
+
+#~ msgid "top"
+#~ msgstr "верх"
+
+#~ msgid "bottom"
+#~ msgstr "низ"
+
+#~ msgid "Position"
+#~ msgstr "Позиция"
+
+#~ msgid ""
+#~ "If you upgrade to Pro version all your settings and portfolios will be "
+#~ "saved."
+#~ msgstr ""
+#~ "Если Вы обновитесь до Pro версии все Ваши настройки и портфолио будут "
+#~ "сохранены."
+
+#~ msgid "Unlock premium options by upgrading to Pro version"
+#~ msgstr "Активируйте премиум опции обновившись до Pro версии"
+
+#~ msgid "Text for additional fields"
+#~ msgstr "Текст для дополнительных полей"
+
+#~ msgid "Slug for portfolio item"
+#~ msgstr "Название для элементов Portfolio"
+
+#~ msgid "for any structure of permalinks except the default structure"
+#~ msgstr "для любой структуры ссылок, за исключением структуры по умолчанию"
+
+#~ msgid "Rewrite templates after update"
+#~ msgstr "Перезапись шаблонов после обновления"
+
+#~ msgid ""
+#~ "Turn off the checkbox, if You edited the file %s or %s file in your theme "
+#~ "folder and You don't want to rewrite them"
+#~ msgstr ""
+#~ "Отключите чекбокс, если вы внесли изменения в файлы %s  или %s в папке "
+#~ "темы, и вы не хотите чтобы они были обновлены"
+
+#~ msgid "Add portfolio to the search"
+#~ msgstr "Добавить Portfolio в поиск"
+
+#~ msgid "Using Custom Search powered by"
+#~ msgstr "Используя Custom Search, разработанный"
+
+#~ msgid "Activate Custom Search"
+#~ msgstr "Активировать Custom Search"
+
+#~ msgid "Download Custom Search"
+#~ msgstr "Загрузить Custom Search"
+
+#~ msgid "Save Changes"
+#~ msgstr "Сохранить изменения"
+
+#~ msgid ""
+#~ "If you install the demo-data, will be created portfolios with images, "
+#~ "demo-post with available shortcodes and page with a list of all the "
+#~ "portfolios."
+#~ msgstr ""
+#~ "При установке демо-данных будут установлены портфолио с изображениями, "
+#~ "пост с доступными шорткодами и страница со списком всех портфолио, "
+#~ "настройки плагина будут перезаписаны, однако, при удалении демо-данных, "
+#~ "они будут восстановлены."
+
+#~ msgid "Add New Portfolio"
+#~ msgstr "Добавить новое Portfolio"
+
+#~ msgid "Edit Portfolio"
+#~ msgstr "Редактировать Portfolio"
+
+#~ msgid "New Portfolio"
+#~ msgstr "Новое Portfolio"
+
+#~ msgid "View Portfolio"
+#~ msgstr "Просмотреть Portfolio"
+
+#~ msgid "Search Portfolio"
+#~ msgstr "Поиск Portfolio"
+
+#~ msgid "No portfolio found"
+#~ msgstr "Ни одного Portfolio не найдено"
+
+#~ msgid "No portfolio found in Trash"
+#~ msgstr "Ни одного Portfolio в корзине не найдено"
+
+#~ msgid "Parent Portfolio"
+#~ msgstr "Родительское Portfolio"
+
+#~ msgid "Filter portfolios list"
+#~ msgstr "Фильтр списка портфолио"
+
+#~ msgid "Portfolios list navigation"
+#~ msgstr "Навигация списка портфолио"
+
+#~ msgid "Portfolios list"
+#~ msgstr "Список портфолио"
+
+#~ msgid "Create a portfolio item"
+#~ msgstr "Создать Portfolio"
+
+#~ msgid "Executor Profile"
+#~ msgstr "Профиль исполнителя"
+
+#~ msgid "Search Executor Profiles"
+#~ msgstr "Поиск по Профилю исполнителя"
+
+#~ msgid "Popular Executor Profiles"
+#~ msgstr "Популярные Профили исполнителей"
+
+#~ msgid "All Executor Profiles"
+#~ msgstr "Все Профили исполнителей"
+
+#~ msgid "Parent Executor Profile"
+#~ msgstr "Родительский Профиль исполнителя"
+
+#~ msgid "Parent Executor Profile:"
+#~ msgstr "Родительский Профиль исполнителя:"
+
+#~ msgid "Edit Executor Profile"
+#~ msgstr "Редактировать Профиль исполнителя"
+
+#~ msgid "Update Executor Profile"
+#~ msgstr "Обновить Профиль исполнителя"
+
+#~ msgid "Add New Executor Profile"
+#~ msgstr "Добавить новый профиль исполнителя"
+
+#~ msgid "Separate Executor Profiles with commas"
+#~ msgstr "Разделяйте Профили исполнителей запятыми"
+
+#~ msgid "Add or remove Executor Profile"
+#~ msgstr "Добавить или удалить Профиль исполнителя"
+
+#~ msgid "Choose from the most used Executor Profiles"
+#~ msgstr "Выберите Профиль исполнителя из наиболее используемых"
+
+#~ msgid "Separate Technologies with commas"
+#~ msgstr "Разделяйте Технологии запятыми"
+
+#~ msgid "Portfolio Info"
+#~ msgstr "Информация о Portfolio"
+
+#~ msgid "Portfolio images"
+#~ msgstr "Изображения Portfolio"
+
+#~ msgid "Featured portfolio"
+#~ msgstr "Избранные портфолио"
+
+#~ msgid "Display this portfolio in the slider?"
+#~ msgstr "Отображать это портфолио в слайдере?"
+
+#~ msgid "Add portfolio images"
+#~ msgstr "Добавить изображения в портфолио"
+
+#~ msgid "View all posts in %s"
+#~ msgstr "Посмотреть все посты в %s"
+
+#~ msgid "No image found"
+#~ msgstr "Никаких изображений не найдено"
+
+#~ msgid "All images are updated"
+#~ msgstr "Все изображения были обновлены"
+
+#~ msgid "Error."
+#~ msgstr "Ошибка."
+
+#~ msgid "The number of portfolio to display"
+#~ msgstr "Количество портфолио для отображения"
+
+#~ msgid "Delete demo-data and restore old plugin settings."
+#~ msgstr "Удалить демо-данные и восстановить старые настройки плагина."
+
+#~ msgid ""
+#~ "WordPress will create a new thumbnail with the specified dimensions when "
+#~ "you upload a new photo. It is necessary to click the Update images button "
+#~ "at the top of this page in order to generate new images and set new "
+#~ "dimensions for the old photo."
+#~ msgstr ""
+#~ "При загрузке нового фото, WordPress создаст миниатюру с заданными "
+#~ "размерами. Для отображения ранее загруженных фото в соответствии с новыми "
+#~ "размерами необходимо нажать кнопку \"Обновить изображения\" в верхней "
+#~ "части страницы."
+
+#~ msgid "More screenshots"
+#~ msgstr "Больше скриншотов"
+
+#~ msgid "Rename uploaded images"
+#~ msgstr "Переименовывать загружаемые изображения"
+
+#~ msgid ""
+#~ "To avoid conflicts, all the symbols will be excluded, except numbers, the "
+#~ "Roman letters,  _ and - symbols."
+#~ msgstr ""
+#~ "Во избежании конфликтов из названия изображения будут исключаться все "
+#~ "символы, кроме латиницы, цифр, символов - и _."
+
+#~ msgid "Already attached"
+#~ msgstr "Уже прикреплен"
+
+#~ msgid "Activate"
+#~ msgstr "Активировать"
+
+#~ msgid "Install now"
+#~ msgstr "Установить"
+
+#~ msgid ""
+#~ "If you'd like to attach the files, which are already uploaded, please use "
+#~ "Re-attacher plugin."
+#~ msgstr ""
+#~ "Чтобы перекрепить уже загруженные файлы, пожалуйста, воспользуйтесь нашим "
+#~ "плагином Re-attacher."
+
+#~ msgid "Learn more"
+#~ msgstr "Подробнее"
+
+#~ msgid "Notice:"
+#~ msgstr "Внимание:"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Настройки плагина были изменены. Для того, чтобы сохранить их, "
+#~ "пожалуйста, не забудьте нажать кнопку \"Сохранить\"."
+
+#~ msgid "where count=3 is a number of posts to show up in the portfolio."
+#~ msgstr ""
+#~ "где count=3 - количество постов portfolio которое будет отображаться."
+
+#~ msgid "Change the way to store your post_meta information for portfolio"
+#~ msgstr "Обновить способ хранения post_meta информации для Portfolio"
+
+#~ msgid "Update All Info"
+#~ msgstr "Обновить всю информацию"
+
+#~ msgid "Go"
+#~ msgstr "Перейти на"
+
+#~ msgid "Requires at least"
+#~ msgstr "Доступно с версии"
+
+#~ msgid "The album cover size"
+#~ msgstr "Размер обложки альбома для Portfolio"
+
+#~ msgid "Updating post_meta information..."
+#~ msgstr "Обновляется post_meta информация..."
+
+#~ msgid "No portfolio item found"
+#~ msgstr "Ни одного Portfolio не найдено"
+
+#~ msgid "All info is updated"
+#~ msgstr "Вся информация обновлена"
+
+#~ msgid "requires"
+#~ msgstr "требует"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "или выше, поэтому плагин был деактивирован! Обновите WordPress и "
+#~ "повторите попытку."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Вернуться на WordPress"
+
+#~ msgid "Plugins page"
+#~ msgstr "страницу плагинов"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr "Если вам понравился плагин то поставте нам 5 звезд на WordPress"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Оценить плагин"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Если у вас есть какие-то вопросы, обращайтесь"
+
+#~ msgid "Not set"
+#~ msgstr "Не задан"
+
+#~ msgid "On"
+#~ msgstr "Вкл"
+
+#~ msgid "Off"
+#~ msgstr "Выкл"
+
+#~ msgid "N/A"
+#~ msgstr "Неизвестно"
+
+#~ msgid " Mb"
+#~ msgstr " Mb"
+
+#~ msgid "Yes"
+#~ msgstr "Да"
+
+#~ msgid "No"
+#~ msgstr "Нет"
+
+#~ msgid "Operating System"
+#~ msgstr "Операционная система"
+
+#~ msgid "Server"
+#~ msgstr "Тип сервера"
+
+#~ msgid "Memory usage"
+#~ msgstr "Памяти использовано"
+
+#~ msgid "MYSQL Version"
+#~ msgstr "Версия MYSQL"
+
+#~ msgid "SQL Mode"
+#~ msgstr "Режим SQL"
+
+#~ msgid "PHP Version"
+#~ msgstr "Версия PHP"
+
+#~ msgid "PHP Safe Mode"
+#~ msgstr "PHP Safe Mode"
+
+#~ msgid "PHP Allow URL fopen"
+#~ msgstr "PHP Allow URL fopen"
+
+#~ msgid "PHP Memory Limit"
+#~ msgstr "Лимит памяти"
+
+#~ msgid "PHP Max Upload Size"
+#~ msgstr "Макс. размер загружаемого файла"
+
+#~ msgid "PHP Max Post Size"
+#~ msgstr "Макс. размер записи"
+
+#~ msgid "PHP Max Script Execute Time"
+#~ msgstr "Макс. время выполнения сценария"
+
+#~ msgid "PHP Exif support"
+#~ msgstr "Поддержка PHP Exif"
+
+#~ msgid "PHP IPTC support"
+#~ msgstr "Поддержка PHP IPTC"
+
+#~ msgid "PHP XML support"
+#~ msgstr "Поддержка PHP XML"
+
+#~ msgid "Site URL"
+#~ msgstr "Основной адрес сайта"
+
+#~ msgid "Home URL"
+#~ msgstr "Адрес сайта"
+
+#~ msgid "WordPress Version"
+#~ msgstr "Версия WordPress"
+
+#~ msgid "WordPress DB Version"
+#~ msgstr "Версия базы данных WordPress"
+
+#~ msgid "Multisite"
+#~ msgstr "Мультиблог"
+
+#~ msgid "Active Theme"
+#~ msgstr "Текущая тема"
+
+#~ msgid "Please enter a valid email address."
+#~ msgstr "Пожалуйста, введите валидный емайл."
+
+#~ msgid "Email with system info is sent to "
+#~ msgstr "E-mail с системной информацией отправлен на"
+
+#~ msgid "Thank you for contacting us."
+#~ msgstr "Спасибо, что связались с нами."
+
+#~ msgid "Sorry, email message could not be delivered."
+#~ msgstr "Извините, ваш email не может быть отправлен."
+
+#~ msgid "Installed plugins"
+#~ msgstr "Установленные плагины"
+
+#~ msgid "Recommended plugins"
+#~ msgstr "Рекомендованные к установке плагины"
+
+#~ msgid "Purchase"
+#~ msgstr "Купить"
+
+#~ msgid "Download"
+#~ msgstr "Скачать"
+
+#~ msgid "Install now from wordpress.org"
+#~ msgstr "Установить с wordpress.org"
+
+#~ msgid "System status"
+#~ msgstr "Системная информация"
+
+#~ msgid "Environment"
+#~ msgstr "Системная среда"
+
+#~ msgid "Active Plugins"
+#~ msgstr "Активированные плагины"
+
+#~ msgid "Inactive Plugins"
+#~ msgstr "Неактивированные плагины"
+
+#~ msgid "Send to support"
+#~ msgstr "Отправить в тех.поддержку"
+
+#~ msgid "Send to custom email &#187;"
+#~ msgstr "Отправить на емейл &#187;"
+
+#~ msgid "Could not read image size"
+#~ msgstr "Невозможно определить размер изображения"
+
+#~ msgid "Could not calculate resized image dimensions"
+#~ msgstr "Не удалось вычислить изменения размеров изображения"
+
+#~ msgid "Resize path invalid"
+#~ msgstr "Путь к изображению для редактирования некорректный"
+
+#~ msgid ""
+#~ "If you have any questions, please contact us via plugin@bestwebsoft.com "
+#~ "or fill out the contact form on our website"
+#~ msgstr ""
+#~ "Если у вас есть какие-то впросы, обращайтесь на plugin@bestwebsoft.com "
+#~ "или заполните контактную форму на нашем сайте"
+
+#~ msgid "URL of the SVN"
+#~ msgstr "Путь для SVN"
+
+#~ msgid "Executor Profiles "
+#~ msgstr "Исполнители"
+
+#~ msgid "The size of the cover album for portfolio"
+#~ msgstr "Размер обложки альбома для Портфолио"
+
+#~ msgid "Portfolio order by"
+#~ msgstr "Сортировака Портфолио по"
+
+#~ msgid "Portfolio order"
+#~ msgstr "сортировка портфолио"
+
+#~ msgid "No informations found."
+#~ msgstr "Ни одного Портфолио не найдено"
+
+#~ msgid "Style for lightbox"
+#~ msgstr "Стили для лайтбокса"

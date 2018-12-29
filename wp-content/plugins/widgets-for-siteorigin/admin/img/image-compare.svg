@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>element-image compare</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-249.000000, -726.000000)">
+            <g id="image-compare" transform="translate(249.000000, 726.000000)">
+                <rect id="Rectangle-16" fill="#FFFFFF" x="0" y="0" width="125" height="125"></rect>
+                <g id="post" transform="translate(24.000000, 32.000000)" stroke="#DDDDDD">
+                    <rect id="Rectangle-20" stroke-width="2" x="1" y="1" width="75.3959961" height="59"></rect>
+                    <g id="Group-5" transform="translate(21.000000, 19.000000)" stroke-linecap="square">
+                        <path d="M1.39175415,21.0833333 L12.4202576,8.25" id="Line"></path>
+                        <path d="M15.5712585,13.75 L12.4202576,8.25" id="Line-Copy-2"></path>
+                        <path d="M15.5712585,13.75 L25.0242615,0.916666667" id="Line-Copy-3"></path>
+                        <path d="M25.0242615,0.916666667 L34.4772644,17.4166667" id="Line-Copy-4"></path>
+                    </g>
+                </g>
+                <path d="M62.5,15.5 L63.5,101.5" id="Line" stroke="#3EB0F7" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

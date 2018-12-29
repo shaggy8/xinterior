@@ -1,0 +1,387 @@
+# Translation of Themes - Twenty Nineteen in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Twenty Nineteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-20 05:19:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Twenty Nineteen\n"
+
+#. Theme Name of the theme
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen"
+
+#. Description of the theme
+msgid "A new Gutenberg-ready theme."
+msgstr "與 Gutenberg 完全相容的全新佈景主題。"
+
+#. translators: %s: parent post link
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">上層內容:</span><span class=\"post-title\">%s</span>"
+
+#: functions.php:60 footer.php:37
+msgid "Footer Menu"
+msgstr "頁尾選單"
+
+#: functions.php:115
+msgid "Small"
+msgstr "小型"
+
+#: functions.php:116
+msgid "S"
+msgstr "S"
+
+#: functions.php:121
+msgid "Normal"
+msgstr "標準"
+
+#: functions.php:122
+msgid "M"
+msgstr "M"
+
+#: functions.php:127
+msgid "Large"
+msgstr "大型"
+
+#: functions.php:128
+msgid "L"
+msgstr "L"
+
+#: functions.php:133
+msgid "Huge"
+msgstr "超大型"
+
+#: functions.php:134
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:151
+msgid "Secondary"
+msgstr "次要"
+
+#: functions.php:156
+msgid "Dark Gray"
+msgstr "暗灰色"
+
+#: functions.php:161
+msgid "Light Gray"
+msgstr "亮灰色"
+
+#: functions.php:166
+msgid "White"
+msgstr "白色"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">上層內容:</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php:39 inc/back-compat.php:53 inc/back-compat.php:73
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Nineteen 最低需求為 WordPress 4.7，而這個網站執行的是 %s，請於網站完成升級後再試一次。"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "預設"
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "自訂"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "將自訂色彩套用至按鈕、連結及特色圖片等項目。"
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "將主要色彩設定為精選圖片的色彩濾鏡"
+
+#: inc/template-functions.php:208
+msgid "More"
+msgstr "更多"
+
+#: inc/template-functions.php:216
+msgid "Back"
+msgstr "返回"
+
+#: template-parts/content/content.php:18
+#: template-parts/content/content-excerpt.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "精選內容"
+
+#: functions.php:188 template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "頁尾"
+
+#: functions.php:190
+msgid "Add widgets here to appear in your footer."
+msgstr "在這裡新增小工具以顯示於網站頁尾。"
+
+#: image.php:56
+msgid "Page"
+msgstr "頁次"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "完整大小"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "主要色彩"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "上一篇文章"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "頂部選單"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "很抱歉，找不到符合條件的頁面。"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "在這裡找不到符合條件的項目，請使用搜尋功能進行查詢。"
+
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s<span class=\"screen-reader-text\">表示:</span>"
+
+#. translators: 1: comment date, 2: comment time
+#: classes/class-twentynineteen-walker-comment.php:79
+msgid "%1$s at %2$s"
+msgstr "%1$s%2$s"
+
+#: classes/class-twentynineteen-walker-comment.php:87
+msgid "Edit"
+msgstr "編輯"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "參與討論"
+
+#: comments.php:35 comments.php:105 comments.php:107
+msgid "Leave a comment"
+msgstr "發佈留言"
+
+#. translators: %s: post title
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "《%s》有 1 則留言"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有 %1$s 則留言"
+
+#: comments.php:92 comments.php:95 comments.php:96
+msgid "Comments"
+msgstr "留言"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "上一篇"
+
+#: comments.php:96
+msgid "Next"
+msgstr "下一篇"
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "留言功能已關閉。"
+
+#: functions.php:59 functions.php:146
+msgid "Primary"
+msgstr "主要"
+
+#: functions.php:61 template-parts/header/site-branding.php:46
+msgid "Social Links Menu"
+msgstr "社群網路連結選單"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "跳至主內容區"
+
+#: image.php:52 template-parts/content/content.php:49
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content-page.php:27
+msgid "Pages:"
+msgstr "頁次:"
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "分類彙整: "
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "標籤彙整: "
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "作者彙整: "
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "年份彙整: "
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y 年"
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "每月彙整: "
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y 年 n 月"
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "每日彙整: "
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "內容類型彙整: "
+
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "「%s」彙整:"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "彙整:"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "作者:"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">在《%s》</span>發佈留言"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "分類:"
+
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "標籤:"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120 template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:32
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編輯 <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "較新的文章"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "較舊的文章"
+
+#: search.php:22
+msgid "Search results for:"
+msgstr "「%s」的搜尋結果"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "下一篇文章"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "下一篇文章:"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "下一篇文章:"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "沒有找到任何項目"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一篇文章了嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，找不到符合搜尋條件的結果，請以不同的關鍵字重試。"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "作者: %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "檢視更多文章"
+
+#. translators: %1(X comments)$s
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d 則留言"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "尚無留言"
+
+#: classes/class-twentynineteen-walker-comment.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "你的留言正在等候審閱。"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "找不到符合條件的內容。請使用搜尋功能，應會有所幫助。"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "本站採用 %s 建置"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content.php:36
+#: template-parts/content/content-single.php:27
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "閱讀全文 <span class=\"screen-reader-text\">%s</span>"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "WordPress 團隊"
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://tw.wordpress.org/"
+
+#. Theme URI of the theme
+msgid "https://github.com/WordPress/twentynineteen"
+msgstr "https://tw.wordpress.org/themes/twentynineteen/"

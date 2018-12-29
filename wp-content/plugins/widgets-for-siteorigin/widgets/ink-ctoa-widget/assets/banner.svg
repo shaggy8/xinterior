@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>element-call to action</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-1179.000000, -261.000000)">
+            <g id="call-to-action" transform="translate(1179.000000, 261.000000)">
+                <rect id="Rectangle-16" fill="#FFFFFF" x="0" y="0" width="125" height="125"></rect>
+                <rect id="Rectangle-21" stroke="#3EB0F7" stroke-width="2" x="40" y="70" width="44" height="20"></rect>
+                <text id="call" font-family="VarelaRound-Regular, Varela Round" font-size="14" font-weight="normal" letter-spacing="0.700000048" fill="#DDDDDD">
+                    <tspan x="49.2529999" y="84">call</tspan>
+                </text>
+                <path d="M61.5,62.5 L61.5,23.5" id="Line-Copy-25" stroke="#DDDDDD" stroke-linecap="square" transform="translate(61.500000, 43.000000) scale(-1, 1) translate(-61.500000, -43.000000) "></path>
+                <path id="Line-Copy-25-decoration-1" d="M61.5,23.5 L58.5,34.3 L64.5,34.3 L61.5,23.5 Z" stroke="#DDDDDD" stroke-linecap="square"></path>
+                <path d="M100.5,62.5 L74.5,26.5" id="Line-Copy-24" stroke="#DDDDDD" stroke-linecap="square" transform="translate(87.500000, 44.500000) scale(-1, 1) translate(-87.500000, -44.500000) "></path>
+                <path id="Line-Copy-24-decoration-1" d="M74.5,26.5 L78.3912603,37.0118073 L83.2553357,33.498864 L74.5,26.5 Z" stroke="#DDDDDD" stroke-linecap="square"></path>
+                <path d="M47.5,62.5 L21.5,26.5" id="Line" stroke="#DDDDDD" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M21.5,26.5 L25.3912603,37.0118073 L30.2553357,33.498864 L21.5,26.5 Z" stroke="#DDDDDD" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

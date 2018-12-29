@@ -1,0 +1,373 @@
+@import "../mixins/less/mixins";
+
+.widget-function('import_google_font');
+
+@background: #fff;
+@title-color: '';
+@title-size: '';
+@subtitle-color:'';
+@subtitle-size: '';
+@btn-fullwidth: '';
+@btn-theme: classic;
+@btn-corners: 0.25em;
+@btn-size: standard;
+@btn-1-h-color: transparent;
+@btn-1-t-color: '';
+@btn-2-h-color: transparent;
+@btn-2-t-color: '';
+@title-font-fly: default;
+@title-font-wt: '';
+@subtitle-font-fly: default;
+@subtitle-font-wt: '';
+@btn-font-fly: default;
+@btn-font-wt: '';
+@btn-1-icon: left;
+@btn-2-icon: left;
+
+.iw-so-call-to-action {
+	background: @background;
+
+	.iw-so-c2a-text {
+		.iw-so-c2a-title {
+			color: @title-color;
+			font-size: @title-size;
+			.font(@title-font-fly, @title-font-wt);
+		}
+		.iw-so-c2a-subtitle {
+			color: @subtitle-color;
+			font-size: @subtitle-size;
+			.font(@subtitle-font-fly, @subtitle-font-wt);
+		}
+	}
+
+	.iw-so-c2a-buttons {
+		.iw-so-c2a-btn-base {
+			.iw-so-button {
+				.font(@btn-font-fly, @btn-font-wt);
+
+				border-radius: @btn-corners;
+
+				.btn-size() when (@btn-size = tiny) {
+					font-size: 0.75em;
+					padding: 0.625em 1.25em;
+				}
+				.btn-size() when (@btn-size = small) {
+					font-size: 0.9em;
+					padding: 0.875em 1.75em;
+				}
+				.btn-size() when (@btn-size = standard) {
+					font-size: 1.2em;
+					padding: 1em 2em ;
+				}
+				.btn-size() when (@btn-size = large) {
+					font-size: 1.75em;
+					padding: 1.125em 2.25em;
+				}
+				.btn-size();
+
+				[class^="sow-icon-"] {
+
+					.icon-size() when (@btn-size = tiny) {
+						font-size: 0.9em;
+					}
+					.icon-size() when (@btn-size = small) {
+						font-size: 1.1em;
+					}
+					.icon-size() when (@btn-size = standard) {
+						font-size: 1.5em;
+					}
+					.icon-size() when (@btn-size = large) {
+						font-size: 2em;
+					}
+					.icon-size();
+
+					height: 1em;
+					width: auto;
+					display: block;
+
+				}
+
+				&.iw-so-button-1 {
+					color: @btn-1-t-color;
+					.btn-theme() when (@btn-theme = classic) {
+						.gradient(@btn-1-h-color, darken(@btn-1-h-color, 15%), @btn-1-h-color);
+						border: 1px solid;
+						border-color: darken(@btn-1-h-color, 8%) darken(@btn-1-h-color, 10%) darken(@btn-1-h-color, 13%) darken(@btn-1-h-color, 10%);
+					}
+					.btn-theme() when (@btn-theme = flat) {
+						background: @btn-1-h-color;
+						border: 1px solid @btn-1-h-color;
+					}
+					.btn-theme() when (@btn-theme = outline) {
+						background: transparent;
+						border: 2px solid @btn-1-h-color;
+						color: @btn-1-h-color;
+					}
+					.btn-theme() when (@btn-theme = threed) {
+						background: @btn-1-h-color;
+						box-shadow: 0px 5px 0px 0px darken(@btn-1-h-color, 10%);
+					}
+					.btn-theme() when (@btn-theme = shadow) {
+						.drop-shadow(1px, 1px, 4px, 0.4);
+						background: @btn-1-h-color;
+						border: 1px solid @btn-1-h-color;
+					}
+					.btn-theme() when (@btn-theme = deline) {
+						background: @btn-1-h-color;
+						border: 2px solid @btn-1-h-color;
+					}
+					.btn-theme();
+
+					[class^="sow-icon-"] {
+
+						.icon-loc() when (@btn-1-icon = left) {
+							float: left;
+							margin: -0.1em 0.75em -0.2em 0em;
+						}
+						.icon-loc() when (@btn-1-icon = right) {
+							float: right;
+							margin: -0.1em 0em -0.2em 0.75em;
+						}
+						.icon-loc() when (@btn-1-icon = above) {
+							margin: -0.1em auto 0.5em auto;
+						}
+						.icon-loc();
+
+					}
+
+					&:hover {
+
+						.dft-theme() when (@btn-theme = classic) {
+							color: @btn-1-t-color;
+						}
+						.dft-theme() when (@btn-theme = flat) {
+							color: @btn-1-t-color;
+						}
+						.dft-theme() when (@btn-theme = outline) {
+							color: @btn-1-h-color;
+						}
+						.dft-theme() when (@btn-theme = threed) {
+							color: @btn-1-t-color;
+						}
+						.dft-theme() when (@btn-theme = shadow) {
+							color: @btn-1-t-color;
+						}
+						.dft-theme() when (@btn-theme = deline) {
+							color: @btn-1-t-color;
+						}
+						.dft-theme();
+
+					}
+
+					&.iw-so-button-hover {
+
+						&:hover {
+							color: @btn-1-t-color;
+
+							.btn-hover() when (@btn-theme = classic) {
+								.gradient(lighten(@btn-1-h-color, 2%), darken(@btn-1-h-color, 20%), lighten(@btn-1-h-color, 2%));
+								border-color: darken(@btn-1-h-color, 4%) darken(@btn-1-h-color, 6%) darken(@btn-1-h-color, 18%) darken(@btn-1-h-color, 6%);
+								color: @btn-1-t-color;
+							}
+							.btn-hover() when (@btn-theme = flat) {
+								background: darken(@btn-1-h-color, 7.5%);
+								border-color: darken(@btn-1-h-color, 7.5%);
+							}
+							.btn-hover() when (@btn-theme = outline) {
+								background: @btn-1-h-color;
+								color: @btn-1-t-color;
+							}
+							.btn-hover() when (@btn-theme = threed) {
+								background: lighten(@btn-1-h-color, 10%);
+							}
+							.btn-hover() when (@btn-theme = shadow) {
+								background: lighten(@btn-1-h-color, 5%);
+								border-color: lighten(@btn-1-h-color, 5%);
+								.drop-shadow(1px, 1px, 8px, 0.4);
+							}
+							.btn-hover() when (@btn-theme = deline) {
+								color: @btn-1-h-color;
+								background: transparent;
+							}
+							.btn-hover();
+						}
+					}
+
+					&.iw-so-button-click {
+						&:active {
+							.btn-active() when (@btn-theme = classic) {
+								.box-shadow(inset 0 3px 25px darken(@btn-1-h-color, 25%));
+							}
+							.btn-active() when (@btn-theme = flat) {
+								background: darken(@btn-1-h-color, 15%);
+								border-color: darken(@btn-1-h-color, 15%);
+							}
+							.btn-active() when (@btn-theme = outline) {
+								background: lighten(@btn-1-h-color, 10%);
+								border-color: lighten(@btn-1-h-color, 10%);
+								color: @btn-1-t-color;
+							}
+							.btn-active() when (@btn-theme = threed) {
+								-webkit-transform: translate(0, 5px);
+								-moz-transform: translate(0, 5px);
+								-ms-transform: translate(0, 5px);
+								-o-transform: translate(0, 5px);
+								transform: translate(0, 5px);
+								box-shadow: 0px 1px 0px 0px;
+							}
+							.btn-active() when (@btn-theme = shadow) {
+								background: darken(@btn-1-h-color, 4%);
+								border-color: darken(@btn-1-h-color, 4%);
+							}
+							.btn-active() when (@btn-theme = deline) {
+								color: lighten(@btn-1-h-color, 20%);
+								border-color: lighten(@btn-1-h-color, 20%);
+								background: transparent;
+							}
+							.btn-active();
+						}
+					}
+				}
+
+				&.iw-so-button-2 {
+					color: @btn-2-t-color;
+					.btn-theme() when (@btn-theme = classic) {
+						.gradient(@btn-2-h-color, darken(@btn-2-h-color, 15%), @btn-2-h-color);
+						border: 1px solid;
+						border-color: darken(@btn-2-h-color, 8%) darken(@btn-2-h-color, 10%) darken(@btn-2-h-color, 13%) darken(@btn-2-h-color, 10%);
+					}
+					.btn-theme() when (@btn-theme = flat) {
+						background: @btn-2-h-color;
+						border: 1px solid @btn-2-h-color;
+					}
+					.btn-theme() when (@btn-theme = outline) {
+						background: transparent;
+						border: 2px solid @btn-2-h-color;
+						color: @btn-2-h-color;
+					}
+					.btn-theme() when (@btn-theme = threed) {
+						background: @btn-2-h-color;
+						box-shadow: 0px 5px 0px 0px darken(@btn-2-h-color, 10%);
+					}
+					.btn-theme() when (@btn-theme = shadow) {
+						.drop-shadow(1px, 1px, 4px, 0.4);
+						background: @btn-2-h-color;
+						border: 1px solid @btn-2-h-color;
+					}
+					.btn-theme() when (@btn-theme = deline) {
+						background: @btn-2-h-color;
+						border: 2px solid @btn-2-h-color;
+					}
+					.btn-theme();
+
+					[class^="sow-icon-"] {
+
+						.icon-loc() when (@btn-2-icon = left) {
+							float: left;
+							margin: 0 0.75em 0 0;
+						}
+						.icon-loc() when (@btn-2-icon = right) {
+							float: right;
+							margin: 0 0 0 0.75em;
+						}
+						.icon-loc() when (@btn-2-icon = above) {
+							margin: -0.1em auto 0.5em auto;
+						}
+						.icon-loc();
+
+					}
+
+					&:hover {
+
+						.dft-theme() when (@btn-theme = classic) {
+							color: @btn-2-t-color;
+						}
+						.dft-theme() when (@btn-theme = flat) {
+							color: @btn-2-t-color;
+						}
+						.dft-theme() when (@btn-theme = outline) {
+							color: @btn-2-h-color;
+						}
+						.dft-theme() when (@btn-theme = threed) {
+							color: @btn-2-t-color;
+						}
+						.dft-theme() when (@btn-theme = shadow) {
+							color: @btn-2-t-color;
+						}
+						.dft-theme() when (@btn-theme = deline) {
+							color: @btn-2-t-color;
+						}
+						.dft-theme();
+					}
+
+					&.iw-so-button-hover {
+						&:hover {
+							color: @btn-1-t-color;
+							.btn-hover() when (@btn-theme = classic) {
+								.gradient(lighten(@btn-2-h-color, 2%), darken(@btn-2-h-color, 20%), lighten(@btn-2-h-color, 2%));
+								border-color: darken(@btn-2-h-color, 4%) darken(@btn-2-h-color, 6%) darken(@btn-2-h-color, 18%) darken(@btn-2-h-color, 6%);
+								color: @btn-1-t-color;
+							}
+							.btn-hover() when (@btn-theme = flat) {
+								background: darken(@btn-2-h-color, 7.5%);
+								border-color: darken(@btn-2-h-color, 7.5%);
+							}
+							.btn-hover() when (@btn-theme = outline) {
+								background: @btn-2-h-color;
+								color: @btn-1-t-color;
+							}
+							.btn-hover() when (@btn-theme = threed) {
+								background: lighten(@btn-2-h-color, 10%);
+							}
+							.btn-hover() when (@btn-theme = shadow) {
+								background: lighten(@btn-2-h-color, 5%);
+								border-color: lighten(@btn-2-h-color, 5%);
+								.drop-shadow(1px, 1px, 8px, 0.4);
+							}
+							.btn-hover() when (@btn-theme = deline) {
+								color: @btn-2-h-color;
+								background: transparent;
+							}
+							.btn-hover();
+						}
+					}
+
+					&.iw-so-button-click {
+						&:active {
+							.btn-active() when (@btn-theme = classic) {
+								.box-shadow(inset 0 3px 25px darken(@btn-2-h-color, 25%));
+							}
+							.btn-active() when (@btn-theme = flat) {
+								background: darken(@btn-2-h-color, 15%);
+								border-color: darken(@btn-2-h-color, 15%);
+							}
+							.btn-active() when (@btn-theme = outline) {
+								background: lighten(@btn-2-h-color, 10%);
+								border-color: lighten(@btn-2-h-color, 10%);
+								color: @btn-1-t-color;
+							}
+							.btn-active() when (@btn-theme = threed) {
+								-webkit-transform: translate(0, 5px);
+								-moz-transform: translate(0, 5px);
+								-ms-transform: translate(0, 5px);
+								-o-transform: translate(0, 5px);
+								transform: translate(0, 5px);
+								box-shadow: 0px 1px 0px 0px;
+							}
+							.btn-active() when (@btn-theme = shadow) {
+								background: darken(@btn-2-h-color, 4%);
+								border-color: darken(@btn-2-h-color, 4%);
+							}
+							.btn-active() when (@btn-theme = deline) {
+								color: lighten(@btn-2-h-color, 20%);
+								border-color: lighten(@btn-2-h-color, 20%);
+								background: transparent;
+							}
+							.btn-active();
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,3251 @@
+# Translation of Plugins - All in One SEO Pack - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - All in One SEO Pack - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-28 15:05:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - All in One SEO Pack - Stable (latest release)\n"
+
+#: aioseop_class.php:995
+msgid "Content Type Settings"
+msgstr "Налаштування типів вмісту"
+
+#. translators: Link to sitemap within current site.
+#: modules/aioseop_sitemap.php:872
+msgid "Click here to %1$sview your RSS sitemap%2$s."
+msgstr "Натисніть тут для %1$sперегляду RSS карти сайту%2$s."
+
+#. translators: Link to documentation.
+#: modules/aioseop_sitemap.php:866
+msgid "view your XML sitemap"
+msgstr "подивитися XML карту вашого сайту"
+
+#: modules/aioseop_robots.php:533
+msgid "Modify Rule"
+msgstr "Змінити правило"
+
+#: modules/aioseop_robots.php:49
+msgid "Disallow"
+msgstr "Заборонити"
+
+#: inc/aioseop_functions.php:439
+msgid "Please provide absolute URLs (including http or https)."
+msgstr "Будь ласка, вкажіть абсолютні URL (включаючи http або https)."
+
+#: modules/aioseop_robots.php:505
+msgid "Wild-card path cannot be overridden: %s"
+msgstr "Шлях по масці не може бути перевизначений: %s"
+
+#: modules/aioseop_robots.php:483
+msgid "Path cannot be overridden: %s"
+msgstr "Шлях не може бути перевизначений: %s"
+
+#: modules/aioseop_robots.php:476
+msgid "Rule cannot be overridden: %s"
+msgstr "Правило не може бути перевизначене: %s"
+
+#: modules/aioseop_robots.php:462
+msgid "Identical rule exists: %s"
+msgstr "Ідентичне правило існує: %s"
+
+#: modules/aioseop_robots.php:443
+msgid "Directory Path cannot be empty"
+msgstr "Шлях директорії не може бути порожнім"
+
+#: modules/aioseop_robots.php:440
+msgid "User Agent cannot be empty"
+msgstr "User Agent не може бути порожнім"
+
+#: modules/aioseop_robots.php:183
+msgid "Unable to delete file"
+msgstr "Неможливо видалити файл"
+
+#: modules/aioseop_robots.php:178
+msgid "Unable to read file"
+msgstr "Неможливо прочитати файл"
+
+#: modules/aioseop_robots.php:125
+msgid "A physical file exists. This feature cannot be used."
+msgstr "Фізичний файл існує. Ця особливість не може бути використана."
+
+#: modules/aioseop_robots.php:75
+msgid "Configured Rules"
+msgstr "Налаштовані правила"
+
+#: modules/aioseop_robots.php:49
+msgid "Allow"
+msgstr "Дозволити"
+
+#: modules/aioseop_robots.php:47
+msgid "Rule"
+msgstr "Правило"
+
+#: modules/aioseop_robots.php:34
+msgid "Use the rule builder below to add/delete rules."
+msgstr "Використовуйте конструктор правил нижче для додавання/видалення правил."
+
+#: modules/aioseop_feature_manager.php:51
+msgid "Edit your .htaccess file to fine-tune your site."
+msgstr "Відредагуйте файл .htaccess для тонкого налаштування вашого сайту."
+
+#. translators: Shows which sitemap files were renamed.
+#: modules/aioseop_sitemap.php:1169
+msgid "Renamed %1$s to %2$s."
+msgstr "Перейменовано %1$s на %2$s."
+
+#: modules/aioseop_sitemap.php:172
+msgid "URL to the page. This field accepts relative URLs or absolute URLs with the protocol specified."
+msgstr "URL-адреса сторінки. Це поле приймає відносні URL або абсолютні URL-адреси за вказаним протоколом."
+
+#: admin/aioseop_module_class.php:1273
+msgid "File %s already exists!\n"
+msgstr "Файл %s вже існує!\n"
+
+#: admin/aioseop_module_class.php:1265
+msgid "Failed to rename file %s!\n"
+msgstr "Не вдалося перейменувати файл %s!\n"
+
+#: admin/aioseop_module_class.php:1243 admin/aioseop_module_class.php:1271
+msgid "File %s doesn't exist!\n"
+msgstr "Файл %s не існує!\n"
+
+#: admin/aioseop_module_class.php:1238
+msgid "Failed to delete file %s!\n"
+msgstr "Не вдалося видалити файл %s!\n"
+
+#: admin/aioseop_module_class.php:1208
+msgid "File %s isn't writable!\n"
+msgstr "Файл %s не доступний для запису!\n"
+
+#: admin/aioseop_module_class.php:1207
+msgid "Failed to write file %s!\n"
+msgstr "Не вдалося записати файл %s!\n"
+
+#: admin/aioseop_module_class.php:52
+msgid "Method %s doesn't exist"
+msgstr "Метод %s не існує"
+
+#: inc/aioseop_functions.php:481
+msgid "All values are mandatory."
+msgstr "Всі значення обов'язкові."
+
+#: modules/aioseop_sitemap.php:236
+msgid "Exclude Images"
+msgstr "Виключити зображення"
+
+#: modules/aioseop_sitemap.php:168
+msgid "Exclude Images in your sitemap."
+msgstr "Виключити зображення з карти сайту."
+
+#. translators: Links to the current AIOSEOP Sitemap settings.
+#: modules/aioseop_sitemap.php:495
+msgid "%1$s Click here%2$s to make these recommended changes."
+msgstr "%1$s Натисніть тут%2$s щоб виконати ці рекомендовані зміни."
+
+#: modules/aioseop_sitemap.php:491
+msgid "Notice: To avoid problems with your XML Sitemap, we strongly recommend you enable Sitemap Indexes and set the Maximum Posts per Sitemap Page to 1000."
+msgstr "Замітка: Для уникнення проблем з вашої XML картою сайту, ми дуже рекомендуємо ввімкнути індекси карти сайту і встановити максимальну кількість записів 1000 на сторінку карти."
+
+#: modules/aioseop_sitemap.php:867
+msgid " Your sitemap has been created with content and images."
+msgstr "Карта сайту створена з посиланнями на вміст та зображення."
+
+#: inc/commonstrings.php:73
+msgid "Check this if you want to track interactions with the official Facebook and Twitter widgets with Google Analytics."
+msgstr "Відзначте, якщо ви хочете відстежувати взаємодію з офіційними віджетами Facebook і Twitter через Google Analytics."
+
+#: inc/commonstrings.php:72
+msgid "Check this if you want to track how far down a user scrolls a page with Google Analytics."
+msgstr "Відзначте, якщо ви хочете відслідковувати наскільки відвідувач прокручує сторінку через Google Analytics."
+
+#: inc/commonstrings.php:71
+msgid "Check this if you want to ensure consistency in URL paths reported to Google Analytics."
+msgstr "Відзначте, якщо ви хочете бути впевнені в цілісності шляхів URL рапортуємих в Google Analytics."
+
+#. Translators: The term 'viewport' refers to the area of the page that is
+#. visible to the user, see https://www.w3schools.com/css/css_rwd_viewport.asp.
+#: inc/commonstrings.php:70
+msgid "Check this if you want to track when elements are visible within the viewport with Google Analytics."
+msgstr "Відзначте, якщо ви хочете відслідковувати які елементи будуть видимі в перегляді через Google Analytics."
+
+#. Translators: 'This option allows users to track media queries, allowing them
+#. to find out if users are viewing a responsive layout or not and which layout
+#. changes have been applied if the browser window has been resized by the
+#. user, see
+#. https://github.com/googleanalytics/autotrack/blob/master/docs/plugins/media-query-tracker.md.
+#: inc/commonstrings.php:65
+msgid "Check this if you want to track media query matching and queries with Google Analytics."
+msgstr "Відзначте, якщо ви хочете відстежувати збіги медіа запитів і запити через Google Analytics."
+
+#: inc/commonstrings.php:59
+msgid "Check this if you want to track how long pages are in visible state with Google Analytics."
+msgstr "Відзначте, якщо ви хочете відстежувати як довго сторінки є видимими через Google Analytics."
+
+#: inc/commonstrings.php:58
+msgid "Check this if you want to track URL changes for single pages with Google Analytics."
+msgstr "Відзначте, якщо ви хочете відслідковувати зміни URL для одиночних сторінок через Google Analytics."
+
+#: inc/commonstrings.php:57
+msgid "Check this if you want to track events with Google Analytics."
+msgstr "Відзначте, якщо ви хочете відстежувати події через Google Analytics."
+
+#: inc/commonstrings.php:56
+msgid "Check this if you want to track outbound forms with Google Analytics."
+msgstr "Відзначте, якщо ви хочете відслідковувати вихідні форми через Google Analytics."
+
+#: inc/commonstrings.php:55
+msgid "Ensure URL Consistency:"
+msgstr "Переконатися в цілісності URL:"
+
+#: inc/commonstrings.php:54
+msgid "Track Facebook and Twitter:"
+msgstr "Відстеження Facebook і Twitter:"
+
+#: inc/commonstrings.php:53
+msgid "Track Page Scrolling:"
+msgstr "Відстеження прокрутки сторінок:"
+
+#: inc/commonstrings.php:52
+msgid "Track Elements Visibility:"
+msgstr "Відстеження видимості елементів:"
+
+#: inc/commonstrings.php:51
+msgid "Track Media Query:"
+msgstr "Відстеження медіа запитів:"
+
+#: inc/commonstrings.php:50
+msgid "Track Page Visibility:"
+msgstr "Відстеження видимості сторінок:"
+
+#: inc/commonstrings.php:49
+msgid "Track URL Changes:"
+msgstr "Відстеження змін URL:"
+
+#: inc/commonstrings.php:48
+msgid "Track Events:"
+msgstr "Відстеження подій:"
+
+#: inc/commonstrings.php:47
+msgid "Track Outbound Forms:"
+msgstr "Відстеження вихідних форм:"
+
+#: modules/aioseop_opengraph.php:110
+msgid "Select the Twitter Card type to use for this Page or Post, overriding the default setting."
+msgstr "Виберіть тип Twitter Card для цього запису/сторінки, перевизначаючи налаштування за умовчанням."
+
+#. translators: Social Meta refers to Open Graph (OG:) meta tags, which can be
+#. used to control the appearance of a site's posts/pages when shared on social
+#. media networks like Facebook and Twitter.
+#: modules/aioseop_feature_manager.php:41
+msgid "Add Social Meta data to your site to deliver closer integration between your website/blog and social media."
+msgstr "Додати соціальні метадані до вашого сайту для більшої інтеграції його з соціальними мережами."
+
+#: inc/commonstrings.php:46
+msgid "Your license has expired. Please %1$s click here %2$s to purchase a new one."
+msgstr "Ваша ліцензія закінчились. Будь ласка, %1$s натисніть тут %2$s щоб придбати нову."
+
+#: inc/commonstrings.php:44
+msgid "You must <a href=\"%s\">enter a valid License Key</a> for it to work."
+msgstr "Вам потрібно <a href=\"%s\">ввести вірний ліцензійний ключ</a> для роботи."
+
+#: inc/commonstrings.php:43
+msgid "%s is almost ready."
+msgstr "%s майже готово."
+
+#: aioseop_class.php:942
+msgid "NOFOLLOW this page/post"
+msgstr "NOFOLLOW  цю сторінку/запис"
+
+#: aioseop_class.php:938
+msgid "NOINDEX this page/post"
+msgstr "NOINDEX цю сторінку/запис"
+
+#: aioseop_class.php:182
+msgid "%post_month% - The month the page/post was published (localized)"
+msgstr "%post_month% - Місяць публікації сторінки/запису (локалізовано)"
+
+#: aioseop_class.php:181
+msgid "%post_year% - The year the page/post was published (localized)"
+msgstr "%post_year% - Рік публікації сторінки/запису (локалізовано)"
+
+#: aioseop_class.php:180
+msgid "%post_date% - The date the page/post was published (localized)"
+msgstr "%post_date% - Дата публікації сторінки/запису (локалізовано)"
+
+#: aioseop_class.php:137 aioseop_class.php:3199
+msgid "%post_month% - The month the post was published (localized)"
+msgstr "%post_month% - Місяць публікації запису (локалізовано)"
+
+#: aioseop_class.php:136 aioseop_class.php:3198
+msgid "%post_year% - The year the post was published (localized)"
+msgstr "%post_year% - Рік публікації запису (локалізовано)"
+
+#: aioseop_class.php:135 aioseop_class.php:3197
+msgid "%post_date% - The date the post was published (localized)"
+msgstr "%post_date% - Дата публікації запису (локалізовано)"
+
+#: aioseop_class.php:121
+msgid "%post_month% - The month the page was published (localized)"
+msgstr "%post_month% - Місяць публікації сторінки (локалізовано)"
+
+#: aioseop_class.php:120
+msgid "%post_year% - The year the page was published (localized)"
+msgstr "%post_year% - Рік публікації сторінки (локалізовано)"
+
+#: aioseop_class.php:119
+msgid "%post_date% - The date the page was published (localized)"
+msgstr "%post_date% - Дата публікації сторінки (локалізовано)"
+
+#: admin/aioseop_module_class.php:2329
+msgid "Upload Image"
+msgstr "Завантажити зображення"
+
+#: all_in_one_seo_pack.php:299
+msgid "Feature Request/Bug Report"
+msgstr "Запит функціоналу/Повідомити про помилку"
+
+#: modules/aioseop_opengraph.php:424
+msgid "Enable Facebook Meta for Post Types"
+msgstr "Увімкнути Facebook Meta для типів записів"
+
+#: modules/aioseop_performance.php:267
+msgid "Permalink Setting"
+msgstr "Налаштування постійних посилань"
+
+#: modules/aioseop_performance.php:266
+msgid "Search Engine Visibility"
+msgstr "Видимість сайту для пошукових машин"
+
+#: modules/aioseop_performance.php:265
+msgid "Front Page Displays"
+msgstr "Головна сторінка показує"
+
+#: modules/aioseop_performance.php:264
+msgid "Site Language"
+msgstr "Мова сайту"
+
+#: modules/aioseop_performance.php:263
+msgid "Site Title"
+msgstr "Назва сайту"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://semperplugins.com/all-in-one-seo-pack-pro-version/"
+msgstr "https://semperplugins.com/all-in-one-seo-pack-pro-version/"
+
+#: modules/aioseop_importer_exporter.php:47
+msgid "Post Data"
+msgstr "Дані запису"
+
+#: aioseop_class.php:502
+msgid "Nothing found for %request_words%"
+msgstr "Нічого не знайдено для %request_words%"
+
+#: admin/display/general-metaboxes.php:182
+msgid "Access to Knowledge Center"
+msgstr "Доступ до Бази знань"
+
+#: admin/display/general-metaboxes.php:181
+msgid "Access to Premium Support Forums"
+msgstr "Доступ до форумів преміальної підтримки"
+
+#: admin/display/general-metaboxes.php:180
+msgid "Access to Video Screencasts"
+msgstr "Доступ до відео-скрінкастів"
+
+#: admin/display/general-metaboxes.php:179
+msgid "SEO for Categories, Tags and Custom Taxonomies"
+msgstr "SEO для рубрик, позначок і користувацьких таксономій"
+
+#: admin/display/general-metaboxes.php:178
+msgid "Video SEO Module"
+msgstr "Відео модуль SEO"
+
+#: admin/display/general-metaboxes.php:175
+msgid "Advanced support for e-commerce"
+msgstr "Розширена підтримка e-commerce"
+
+#: admin/display/general-metaboxes.php:173
+msgid "Advanced support for WooCommerce"
+msgstr "Розширена підтримка WooCommerce"
+
+#: admin/display/general-metaboxes.php:123
+msgid "Subscribe"
+msgstr "Підписатися"
+
+#: admin/display/general-metaboxes.php:122
+msgid "Email Address"
+msgstr "Email Адреса"
+
+#: admin/display/general-metaboxes.php:46
+msgid " to upgrade to Pro Version and get:"
+msgstr "для оновлення до Про-версії і отримаєте:"
+
+#: modules/aioseop_opengraph.php:272
+msgid "Use Content For Autogenerated OG Descriptions"
+msgstr "Використовувати вміст для авто-генерування Open Graph описів"
+
+#: modules/aioseop_opengraph.php:95
+msgid "This option will auto generate your Open Graph descriptions from your post content instead of your post excerpt. WooCommerce users should read the documentation regarding this setting."
+msgstr "Ця опція дозволяє автоматично генерувати описи Open Graph зі змісту запису замість її уривка. Користувачам WooCommerce рекомендується прочитати документацію по даному налаштуванню."
+
+#: modules/aioseop_opengraph.php:87
+msgid "Enter your Facebook Admin ID here. You can enter multiple IDs separated by a comma. You can look up your Facebook ID using this tool http://findmyfbid.com/"
+msgstr "Введіть сюди ваш Facebook Admin ID. Можна ввести декілька ID через кому. Щоб дізнатися ваш Facebook ID можна використовувати цей інструмент http://findmyfbid.com/"
+
+#: aioseop_class.php:793
+msgid "Use Content For Autogenerated Descriptions:"
+msgstr "Використовувати вміст для авто-генерування описів:"
+
+#: aioseop_class.php:231
+msgid "This option will auto generate your meta descriptions from your post content instead of your post excerpt. This is useful if you want to use your content for your autogenerated meta descriptions instead of the excerpt. WooCommerce users should read the documentation regarding this setting."
+msgstr "Ця опція дозволяє автоматично генерувати meta-description зі змісту запису замість її уривка. Користувачам WooCommerce рекомендується прочитати документацію по даному налаштуванню."
+
+#: admin/display/welcome-content.php:66
+msgid "Access to video tutorials about SEO with the Pro version"
+msgstr "Доступ до відео-уроків по SEO в Pro версії"
+
+#: admin/aioseop_module_class.php:2716
+msgid "Reset %s Settings to Defaults"
+msgstr "Скинути %s налаштування до значень за замовчуванням"
+
+#: aioseop_class.php:3076
+msgid "Welcome to version %s. Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Ласкаво просимо в версію %s. Спасибі вам за використання новітньої і найкращої версії All in One SEO Pack Pro! Будь ласка, вивчіть налаштування, так як ми постійно додаємо нові функції для вас."
+
+#: aioseop_class.php:107 aioseop_class.php:118 aioseop_class.php:134
+#: aioseop_class.php:179 aioseop_class.php:3196
+msgid "%current_date% - The current date (localized)"
+msgstr "%current_date% - Поточна дата (локалізована)"
+
+#: aioseop_class.php:84
+msgid "This option will automatically generate Canonical URLs for your entire WordPress installation.  This will help to prevent duplicate content penalties by Google"
+msgstr "Цей параметр автоматично генерує канонічні URL для всього сайту на WordPress. Це допоможе уникнути дублювання і блокування контенту від Google."
+
+#: admin/display/general-metaboxes.php:45
+msgid "CLICK HERE"
+msgstr "НАТИСНІТЬ ТУТ"
+
+#. translators: Shows which files were removed.
+#: modules/aioseop_sitemap.php:1277
+msgid "Removed empty file %s."
+msgstr "Вилучений порожній файл %s."
+
+#: inc/commonstrings.php:40
+msgid "This displays an SEO News widget on the dashboard."
+msgstr "Це відображає віджет SEO-новин в консолі."
+
+#: inc/commonstrings.php:37
+msgid "Show SEO News"
+msgstr "Показати SEO-новини"
+
+#: modules/aioseop_sitemap.php:876
+msgid "Changes are automatically submitted to search engines."
+msgstr "Зміни автоматично відправлені пошуковим системам."
+
+#. translators: Link to documentation.
+#: modules/aioseop_sitemap.php:866
+msgid "Click here to %s."
+msgstr "Натисніть сюди, щоб %s."
+
+#: admin/display/welcome-content.php:77
+msgid "Continue to the General Settings"
+msgstr "Продовжити в Загальних налаштуваннях"
+
+#: admin/display/dashboard_widget.php:26
+msgid "SEO News"
+msgstr "SEO-новини"
+
+#: admin/display/welcome.php:127
+msgid "Credits"
+msgstr "Подяки"
+
+#: admin/display/welcome.php:123
+msgid "What&#8217;s New"
+msgstr "Що нового"
+
+#: admin/display/welcome.php:118
+msgid "All in One SEO Pack %s contains new features, bug fixes, increased security, and tons of under the hood performance improvements."
+msgstr "All in One SEO Pack %s містить нові функції, виправлення помилок, підвищена безпека і покращена продуктивність."
+
+#: admin/display/welcome.php:116
+msgid "Welcome to All in One SEO Pack %s"
+msgstr "Ласкаво просимо в All in One SEO Pack %s"
+
+#: admin/display/welcome.php:55 admin/display/welcome.php:56
+msgid "Welcome to All in One SEO Pack"
+msgstr "Ласкаво просимо в All in One SEO Pack"
+
+#: admin/display/welcome-content.php:70
+msgid "Control SEO on categories, tags and custom taxonomies with the Pro version"
+msgstr "Ви можете контролювати SEO в категоріях, позначках і на кастомних таксономіях в версії Pro"
+
+#: admin/display/welcome-content.php:61
+msgid "We have complete documentation on every setting and feature"
+msgstr "Ми маємо повну документацію на кожен параметр і функцію"
+
+#: admin/display/welcome-content.php:57
+msgid "Did You Know?"
+msgstr "Чи знаєте ви?"
+
+#: admin/display/welcome-content.php:51
+msgid "Set up Google Analytics"
+msgstr "Установки Google Analytics"
+
+#: admin/display/welcome-content.php:47
+msgid "Submit an XML Sitemap to Google"
+msgstr "Надіслати XML-карти сайту на розгляд Google"
+
+#: admin/display/welcome-content.php:43
+msgid "Quality guidelines for SEO titles and descriptions"
+msgstr "Рекомендації по якості SEO заголовків і описів"
+
+#: admin/display/welcome-content.php:38
+msgid "Tips for good on-page SEO"
+msgstr "Поради по SEO-просуванню"
+
+#: admin/display/welcome-content.php:34
+msgid "Beginners Guide for Social Meta module"
+msgstr "Інструкція по модулю Соціальних мета для новачків"
+
+#: admin/display/welcome-content.php:30
+msgid "Beginners Guide for XML Sitemap module"
+msgstr "Інструкція по модулю XML-карти сайту для новачків"
+
+#: admin/display/welcome-content.php:25
+msgid "Beginners Guide for All in One SEO Pack"
+msgstr "Інструкція All in One SEO Pack для новачків"
+
+#: admin/display/welcome-content.php:21
+msgid "Get Started"
+msgstr "Почнемо"
+
+#: admin/display/welcome-content.php:17
+msgid "Translate"
+msgstr "Перекласти"
+
+#: admin/display/welcome-content.php:13
+msgid "Help translate All in One SEO Pack into your language."
+msgstr "Допоможіть перевести All in One SEO Pack на вашу мову."
+
+#: admin/display/welcome-content.php:11
+msgid "Upgrade"
+msgstr "Оновлення"
+
+#: admin/display/welcome-content.php:7
+msgid "Upgrade to All in One SEO Pack Pro to access priority support and premium features."
+msgstr "Оновіться до All in One SEO Pack Pro щоб отримати пріоритетну підтримку і преміальні функції."
+
+#: admin/display/welcome-content.php:6
+msgid "There are many ways you can help support All in One SEO Pack."
+msgstr "Існує багато способів підтримати All in One SEO Pack."
+
+#: admin/display/welcome-content.php:5
+msgid "Support All in One SEO Pack"
+msgstr "Підтримка All in One SEO Pack"
+
+#: admin/display/credits-content.php:103
+msgid "Translation contributors and translation editors"
+msgstr "Перекладачі і редактори перекладів"
+
+#: admin/display/credits-content.php:44
+msgid "Want to see your name and picture here as a community developer? %1$sClick here%2$s to open an issue on GitHub to report a bug, request a feature or find an issue and submit code!"
+msgstr "Хочете побачити тут своє ім'я і фотографію в якості учасника спільноти розробників? Оформіть нову проблему на Github, щоб повідомити про помилку або запросити нову функцію або знайдіть опубліковану проблему, яка вам по зубах і надайте свій код!"
+
+#: admin/display/credits-content.php:38
+msgid "Recent Rockstar Contributors"
+msgstr "Нові учасники Rockstar"
+
+#: admin/display/credits-content.php:24 admin/display/credits-content.php:29
+#: admin/display/credits-content.php:34
+msgid "Development Team"
+msgstr "Команда розробників"
+
+#: admin/display/credits-content.php:19
+msgid "Core Team"
+msgstr "Основна команда"
+
+#: admin/display/credits-content.php:15
+msgid "Project Manager"
+msgstr "Менеджер проекту"
+
+#: admin/display/credits-content.php:10
+msgid "Project Lead"
+msgstr "Керівник проекту"
+
+#: admin/display/credits-content.php:5
+msgid "Project Leaders"
+msgstr "Керівники проекту"
+
+#: admin/display/credits-content.php:3
+msgid "All in One SEO Pack is created by a worldwide network of friendly folks like these."
+msgstr "All in One SEO Pack створюється доброзичливою спільнотою людей, як ці."
+
+#: modules/aioseop_opengraph.php:402
+msgid "Custom Twitter Image"
+msgstr "Користувацьке Twitter-зображення"
+
+#: modules/aioseop_opengraph.php:114
+msgid "This option lets you upload an image to use as the Twitter image for this Page or Post."
+msgstr "Ця опція дозволяє завантажити зображення для використання в якості Twitter-зображення для цієї сторінки або запису."
+
+#: aioseop_class.php:819
+msgid "Redirect Attachments to Post Parent:"
+msgstr "Перенаправлення вкладань на батьківський запис:"
+
+#: aioseop_class.php:238
+msgid "Redirect attachment pages to post parent."
+msgstr "Перенаправлення сторінок вкладань на батьківський запис."
+
+#: modules/aioseop_sitemap.php:171
+msgid "Dynamically creates the XML sitemap instead of using a static file."
+msgstr "Динамічно створює XML-карту сайту замість використання статичного файлу."
+
+#: modules/aioseop_importer_exporter.php:559
+msgid "<b>Security warning:</b> Your file looks compromised. Please check the file for any script-injection."
+msgstr "<b>Попередження системи безпеки:</b> Ваш файл виглядає скомпрометованим. Будь ласка перевірте файл на наявність скрипт-ін'єкції."
+
+#: admin/display/general-metaboxes.php:93
+msgid "All in One SEO Pack has been translated into %1$s languages, but currently the %3$s translation is only %2$s percent complete. %4$s Click here %5$s to help get it to 100 percent."
+msgstr "All in One SEO Pack був перекладений на %1$s мов, але поточна %3$s завершена тільки на %2$s відсотків. %4$s Натисніть сюди %5$s, щоб допомогти довести до 100 відсотків."
+
+#: admin/meta_import.php:82 admin/meta_import.php:88
+msgid "Sorry, you can't do that. Please choose a platform and then click Analyze or Convert."
+msgstr "На жаль, ви не можете зробити це. Будь ласка, виберіть платформу, а потім натисніть кнопку Аналізувати або Конвертувати."
+
+#: aioseop_class.php:3093
+msgid "New in 2.4: Improved support for taxonomies, Woocommerce and massive performance improvements under the hood! Please review your settings on each options page!"
+msgstr "Нове в 2.4: Покращена підтримка таксономій, сумісність з WooCommerce та інші поліпшення продуктивності під капотом! Будь ласка перевірте параметри на кожній сторінці налаштувань."
+
+#: admin/meta_import.php:196
+msgid "Convert"
+msgstr "Конвертувати"
+
+#: admin/meta_import.php:195
+msgid "Analyze"
+msgstr "Аналізувати"
+
+#: admin/meta_import.php:184
+msgid "Themes"
+msgstr "Теми"
+
+#: admin/meta_import.php:176
+msgid "Plugins"
+msgstr "Розширення"
+
+#: admin/meta_import.php:174
+msgid "Choose platform:"
+msgstr "Виберіть платформу:"
+
+#: admin/meta_import.php:172
+msgid "Import SEO data from:"
+msgstr "Імпорт даних SEO з:"
+
+#: admin/meta_import.php:158
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "Натисніть \"конвертувати\" для виконання імпорту. Після закінчення процесу імпорту, ви будете повідомлені про кількість імпортованих записів, а також про те, скільки записів були проігноровані відповідно до критеріїв, виставленими вище."
+
+#: admin/meta_import.php:154
+msgid "Some plugins and themes do not share similar data, or they store data in a non-standard way. If we cannot import this data, it will remain unchanged in your database. Any compatible SEO data will be displayed for you to review. If a post or page already has SEO data in All in One SEO Pack, we will not import data from another plugin/theme."
+msgstr "Деякі плагіни і теми не забезпечують доступ до подібних даних, або вони зберігають їх в нестандартному вигляді. Якщо ми не можемо імпортувати ці дані, вони залишаться незмінними у вашій базі даних. Будь-які сумісні SEO-дані будуть відображені для вашого перегляду. Якщо запис або сторінка вже містить SEO-дані в All in One SEO Pack, ми не будемо імпортувати дані з інших плагінів/тем."
+
+#: admin/meta_import.php:154
+msgid "Please Note: "
+msgstr "Будь ласка, зверніть увагу:"
+
+#: admin/meta_import.php:150
+msgid "Click \"Analyze\" for a list of SEO data that can be imported into All in One SEO Pack, along with the number of records that will be imported."
+msgstr "Натисніть \"Аналізувати\" для виведення списку всіх SEO-даних, які можуть бути імпортовані в All in One SEO Pack, разом з кількістю записів, доступних для імпорту."
+
+#: admin/meta_import.php:146
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "Використовуйте випадаючий список нижче для вибору теми або плагіна з якого ви хочете імпортувати SEO-дані."
+
+#: admin/meta_import.php:143
+msgid "Import SEO Settings"
+msgstr "Імпорт SEO налаштувань"
+
+#: admin/meta_import.php:119
+msgid "Conversion Results"
+msgstr "Результати перетворення"
+
+#: admin/meta_import.php:109
+msgid "Compatible data:"
+msgstr "Сумісні дані:"
+
+#: admin/meta_import.php:101 admin/meta_import.php:123
+msgid "Sorry, something went wrong. Please try again"
+msgstr "Щось пішло не так. Будь ласка, спробуйте ще раз"
+
+#: admin/meta_import.php:97
+msgid "Analysis Results"
+msgstr "Результати аналізу"
+
+#: admin/meta_import.php:64
+msgid "SEO Data Import"
+msgstr "Імпорт SEO-даних"
+
+#: admin/meta_import.php:64
+msgid "Import SEO Data"
+msgstr "Імпортувати SEO-дані"
+
+#: admin/meta_import.php:37
+msgid "All in One SEO has been deactivated"
+msgstr "All In One SEO деактивовано"
+
+#. translators: this refers to a module that is exclusively available in All in
+#. One SEO Pack Pro.
+#: modules/aioseop_feature_manager.php:95
+msgid "Pro Version Only"
+msgstr "Тільки в Pro-версії"
+
+#: aioseop_class.php:3773
+msgid "We've detected you're running WooCommerce."
+msgstr "Ми виявили, що ви використовуєте WooCommerce."
+
+#. Description of the plugin
+msgid "Out-of-the-box SEO for your WordPress blog. Features like XML Sitemaps, SEO for custom post types, SEO for blogs or business sites, SEO for ecommerce sites, and much more. More than 50 million downloads since 2007."
+msgstr "SEO з коробки для вашого сайту на WordPress. Такий функціонал, як XML карта сайту, SEO для користувацьких типів публікацій, SEO для блогів і бізнес-сайтів, SEO для інтернет-магазинів, і багато іншого. Майже 50 мільйонів завантажень з 2007р."
+
+#: modules/aioseop_feature_manager.php:87
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Створіть і налаштуйте вашу карту сайту для відео, використовуючи цей функціонал і надайте її Google, Bing/Yahoo і Ask.com."
+
+#. translators: the Image SEO module allows users to optimize their images for
+#. search engines.
+#: modules/aioseop_feature_manager.php:80
+msgid "Image SEO"
+msgstr "SEO для зображень"
+
+#: modules/aioseop_bad_robots.php:36
+msgid "Use Custom Blocklists"
+msgstr "Використовувати свій чорний список"
+
+#: modules/aioseop_bad_robots.php:34
+msgid "Block Referral Spam using HTTP"
+msgstr "Блокувати реферальний спам, використовуючи HTTP"
+
+#: modules/aioseop_bad_robots.php:33
+msgid "Block Bad Bots using HTTP"
+msgstr "Блокування шкідливих ботів, використовуючи HTTP"
+
+#: modules/aioseop_bad_robots.php:24
+msgid "Block Referral Spam using HTTP."
+msgstr "Блокувати реферальний спам використовуючи HTTP."
+
+#: inc/commonstrings.php:34
+msgid "Manage Licenses"
+msgstr "Управління ліцензіями"
+
+#: inc/commonstrings.php:33
+msgid "Notice: "
+msgstr "Замітка:"
+
+#. translators: Please mind the space at the beginning of the string.
+#: inc/commonstrings.php:32
+msgid " Need a license key?"
+msgstr "Потрібен ліцензійний ключ?"
+
+#: inc/commonstrings.php:30
+msgid "License Key is not set yet or invalid. "
+msgstr "Ліцензійний ключ ще не встановлений, або недійсний"
+
+#: inc/commonstrings.php:29
+msgid "Purchase one now"
+msgstr "Зробити покупку зараз"
+
+#: inc/commonstrings.php:26
+msgid "You do not have access to this page; try logging in as an administrator."
+msgstr "Ви не маєте доступу до цієї сторінки; спробуйте авторизуватися як адміністратор."
+
+#: inc/commonstrings.php:25
+msgid "Enable this option to only allow access to your sitemap by site administrators and major search engines."
+msgstr "Ввімкніть цю опцію, щоб забезпечити доступ до вашої карті сайту адміністраторам сайту і основним пошуковим системам."
+
+#: inc/commonstrings.php:24
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "Якщо вибрано, тільки записи з відео будуть показані в карті сайту."
+
+#: inc/commonstrings.php:23
+msgid "Restrict Access to Video Sitemap"
+msgstr "Обмежити доступ до відео-карти сайту"
+
+#: inc/commonstrings.php:22
+msgid "Show Only Posts With Videos"
+msgstr "Показувати тільки записи з відео"
+
+#: admin/display/menu.php:40 all_in_one_seo_pack.php:350
+msgid "Upgrade to Pro"
+msgstr "Поліпшити до Pro"
+
+#: all_in_one_seo_pack.php:339
+msgid "Documentation"
+msgstr "Документація"
+
+#: all_in_one_seo_pack.php:329
+msgid "SEO Settings"
+msgstr "Налаштування SEO"
+
+#: aioseop_class.php:4959 aioseop_class.php:4966
+msgid "About"
+msgstr "Опис"
+
+#: aioseop_class.php:3921
+msgid "Debug String"
+msgstr "Налагодження рядка"
+
+#: aioseop_class.php:3085
+msgid "Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Дякуємо за використання останнього і найкращого All in One SEO Pack Pro! Будь ласка, перевірте налаштування, так як ми постійно додаємо нові функції!"
+
+#: aioseop_class.php:3239
+msgid "%taxonomy_description% - The description of the taxonomy"
+msgstr "%taxonomy_description% - опис таксономії"
+
+#: aioseop_class.php:3238
+msgid "%taxonomy_title% - The original title of the taxonomy"
+msgstr "%taxonomy_title% - оригінальне найменування таксономії"
+
+#: aioseop_class.php:3227
+msgid "Taxonomy Title Format:"
+msgstr "Формат заголовку таксономії:"
+
+#: aioseop_class.php:906 all_in_one_seo_pack.php:334
+msgid "Support Forum"
+msgstr "Форум підтримки"
+
+#: aioseop_class.php:517
+msgid "SEO on only these taxonomies:"
+msgstr "SEO тільки для цих таксономій:"
+
+#: aioseop_class.php:349
+msgid "License Key:"
+msgstr "Ліцензійний ключ:"
+
+#: aioseop_class.php:194
+msgid "Use these checkboxes to select which Taxonomies you want to use All in One SEO Pack with."
+msgstr "Використовуйте ці прапорці для вибору, з якими таксономіями ви хочете використовувати All in One SEO Pack."
+
+#: aioseop_class.php:83
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "Це буде ліцензійний ключ отриманий в момент придбання товару. Він використовується для автоматичних оновлень."
+
+#: modules/aioseop_opengraph.php:228
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: modules/aioseop_opengraph.php:223
+msgid "Facebook Admin ID"
+msgstr "Facebook Admin ID"
+
+#: modules/aioseop_opengraph.php:88
+msgid "Enter your Facebook App ID here. Information about how to get your Facebook App ID can be found at https://developers.facebook.com/docs/apps/register"
+msgstr "Введіть ваш Facebook App ID тут. Інформація про те, як отримати ваш Facebook App ID можна знайти на https://developers.facebook.com/docs/platforminsights/domains"
+
+#: aioseop_class.php:3749
+msgid "Warning: You're blocking access to search engines."
+msgstr "Увага: Ви блокуєте доступ до пошукових систем!"
+
+#. Author of the plugin
+msgid "Michael Torbert"
+msgstr "Michael Torbert"
+
+#. Plugin Name of the plugin
+msgid "All In One SEO Pack"
+msgstr "All In One SEO Pack"
+
+#: modules/aioseop_sitemap.php:1459
+msgid "static"
+msgstr "статична"
+
+#: modules/aioseop_sitemap.php:1464
+msgid "dynamic"
+msgstr "динамічна"
+
+#: modules/aioseop_sitemap.php:1461
+msgid "compressed"
+msgstr "стисла"
+
+#: modules/aioseop_sitemap.php:1317
+msgid "Delete Conflicting Files"
+msgstr "Видалити конфліктуючі файли"
+
+#: modules/aioseop_sitemap.php:1316
+msgid "Rename Conflicting Files"
+msgstr "Перейменувати конфліктуючі файли"
+
+#. translators: Shows which 'unknown' file is conflicting with the current
+#. sitemap settings.
+#: modules/aioseop_sitemap.php:1271
+msgid "Potential conflict with unknown file %s."
+msgstr "Потенційний конфлікт з невідомим файлом %s."
+
+#. translators: Shows which sitemap files couldn't be found.
+#: modules/aioseop_sitemap.php:1174
+msgid "Couldn't find file %s!"
+msgstr "Неможливо знайти %s!"
+
+#. translators: Shows which sitemap files couldn't be renamed.
+#: modules/aioseop_sitemap.php:1164
+msgid "Couldn't rename file %s!"
+msgstr "Неможливо перейменувати файл %s!"
+
+#. translators: Shows which sitemap files have been deleted.
+#: modules/aioseop_sitemap.php:1153
+msgid "Deleted %s."
+msgstr "Вилучено %s."
+
+#: modules/aioseop_sitemap.php:1132
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "Увага: щоб карта сайту була динамічною, потрібно включити постійні посилання."
+
+#. translators: Link to settings to disable "Discourage search engines from
+#. indexing this site".
+#: modules/aioseop_sitemap.php:895
+msgid "Warning: your privacy settings are configured to ask search engines to not index your site; you can change this under %s for your blog."
+msgstr "Попередження: Ваші приватні налаштування задані так, що пошукові системи не індексують Ваш сайт; Ви можете змінити їх під %s для Вашого блогу."
+
+#: modules/aioseop_sitemap.php:892
+msgid "Privacy Settings"
+msgstr "Налаштування приватності"
+
+#: modules/aioseop_sitemap.php:890
+msgid "Reading Settings"
+msgstr "Налаштування читання"
+
+#: modules/aioseop_sitemap.php:884
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "Динамічна генерація Карти сайту не з'явиться для корректного перепису правил; будь ласка, вимкніть будь-які інші плагіни Карти сайту або функціонали на Вашому сайті та перезапустіть постійне посилання."
+
+#: modules/aioseop_sitemap.php:777
+msgid "Update Sitemap"
+msgstr "Оновити карту сайту"
+
+#: modules/aioseop_sitemap.php:683
+msgid " Taxonomy"
+msgstr "Таксономія"
+
+#: modules/aioseop_sitemap.php:682
+msgid " Post Type"
+msgstr "Тип запису"
+
+#: modules/aioseop_sitemap.php:681
+msgid "Manually set the frequency for the "
+msgstr "Вручну встановити частоту оновлення для"
+
+#: modules/aioseop_sitemap.php:680
+msgid "Manually set the priority for the "
+msgstr "Вручну встановити пріоритет для"
+
+#: modules/aioseop_sitemap.php:675
+msgid "All Taxonomies"
+msgstr "Всі таксономії"
+
+#: modules/aioseop_sitemap.php:674
+msgid "All Post Types"
+msgstr "Всі типи записів"
+
+#: modules/aioseop_sitemap.php:672
+msgid "Media / Attachments"
+msgstr "Медіа / Вкладення"
+
+#: modules/aioseop_sitemap.php:586
+msgid "Daily scheduled sitemap check has finished."
+msgstr "Запланована щоденна перевірка карти сайту завершена."
+
+#: modules/aioseop_sitemap.php:563
+msgid "Once Monthly"
+msgstr "Раз в місяць"
+
+#: modules/aioseop_sitemap.php:559
+msgid "Once Weekly"
+msgstr "Один раз на тиждень"
+
+#: modules/aioseop_sitemap.php:411
+msgid "Frequencies"
+msgstr "Частота оновлення"
+
+#: modules/aioseop_sitemap.php:404
+msgid "Priorities"
+msgstr "Пріоритети"
+
+#: modules/aioseop_sitemap.php:398
+msgid "Excluded Items"
+msgstr "Виключені об'єкти"
+
+#: modules/aioseop_sitemap.php:386
+msgid "Excluded Pages"
+msgstr "Виключені сторінки"
+
+#: modules/aioseop_sitemap.php:381
+msgid "Excluded Categories"
+msgstr "Виключені категорії"
+
+#: modules/aioseop_sitemap.php:371
+msgid "Add URL"
+msgstr "Додати URL"
+
+#: modules/aioseop_sitemap.php:364 modules/aioseop_sitemap.php:392
+msgid "Additional Pages"
+msgstr "Додаткові сторінки"
+
+#: modules/aioseop_sitemap.php:357
+msgid "Last Modified"
+msgstr "Остання зміна"
+
+#: modules/aioseop_sitemap.php:350
+msgid "Page Frequency"
+msgstr "Частота оновлення сторінки"
+
+#: modules/aioseop_sitemap.php:343
+msgid "Page Priority"
+msgstr "Пріоритет сторінки"
+
+#: modules/aioseop_sitemap.php:337
+msgid "Page URL"
+msgstr "URL сторінки"
+
+#: modules/aioseop_sitemap.php:331
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "Введіть інформацію для додаткових посилань, що Ваша карта сайту вже не керується через WordPress."
+
+#: modules/aioseop_sitemap.php:304
+msgid "author pages"
+msgstr "сторінки авторів"
+
+#: modules/aioseop_sitemap.php:303
+msgid "archive pages"
+msgstr "архівні сторінки"
+
+#: modules/aioseop_sitemap.php:302
+msgid "taxonomies"
+msgstr "таксономії"
+
+#: modules/aioseop_sitemap.php:301
+msgid "posts"
+msgstr "записи"
+
+#: modules/aioseop_sitemap.php:300
+msgid "homepage"
+msgstr "Головна сторінка"
+
+#: modules/aioseop_sitemap.php:293
+msgid "frequency"
+msgstr "частота"
+
+#: modules/aioseop_sitemap.php:292
+msgid "priority"
+msgstr "пріоритет"
+
+#: modules/aioseop_sitemap.php:279
+msgid "Select Individual"
+msgstr "Вибрати окремі"
+
+#: modules/aioseop_sitemap.php:278
+msgid "Do Not Override"
+msgstr "Не перевизначати"
+
+#: modules/aioseop_sitemap.php:262
+msgid "Sitemap Status"
+msgstr "Статус карти сайту"
+
+#: modules/aioseop_sitemap.php:246
+msgid "Dynamically Generate Sitemap"
+msgstr "Динамічна карта сайту"
+
+#: modules/aioseop_sitemap.php:242
+msgid "Link From Virtual Robots.txt"
+msgstr "Посилання на карту з віртуального robots.txt"
+
+#: modules/aioseop_sitemap.php:238
+msgid "Create Compressed Sitemap"
+msgstr "Створити стислу версію карти сайту"
+
+#: modules/aioseop_sitemap.php:235
+msgid "Include Author Pages"
+msgstr "Включити сторінки авторів"
+
+#: modules/aioseop_sitemap.php:234
+msgid "Include Date Archive Pages"
+msgstr "Включити архіви за день"
+
+#: modules/aioseop_sitemap.php:230
+msgid "Taxonomies"
+msgstr "Таксономії"
+
+#: modules/aioseop_sitemap.php:225
+msgid "Post Types"
+msgstr "Типи записів"
+
+#: modules/aioseop_sitemap.php:216
+msgid "Maximum Posts Per Sitemap Page"
+msgstr "Максимальна кількість публікацій в карті сайту"
+
+#: modules/aioseop_sitemap.php:214
+msgid "Enable Sitemap Indexes"
+msgstr "Включити індексування карти сайту"
+
+#: modules/aioseop_sitemap.php:210
+msgid "Monthly"
+msgstr "Щомісяця"
+
+#: modules/aioseop_sitemap.php:209
+msgid "Weekly"
+msgstr "Щотижня"
+
+#: modules/aioseop_sitemap.php:208
+msgid "Daily"
+msgstr "Щодня"
+
+#: modules/aioseop_sitemap.php:207
+msgid "No Schedule"
+msgstr "Немає розкладу"
+
+#: modules/aioseop_sitemap.php:204
+msgid "Schedule Updates"
+msgstr "Оновлювати за розкладом"
+
+#: modules/aioseop_sitemap.php:177
+msgid "Use page slugs or page IDs, seperated by commas, to exclude pages from the sitemap."
+msgstr "Використовуйте слаги або ID сторінок, розділені комами, для виключення сторінок з карти сайту."
+
+#: modules/aioseop_sitemap.php:176
+msgid "Entries from these categories will be excluded from the sitemap."
+msgstr "Вміст зазначених рубрик будуть виключені з карти сайту."
+
+#: modules/aioseop_sitemap.php:175
+msgid "Last modified date of the page."
+msgstr "Дата останньої зміни сторінки."
+
+#: modules/aioseop_sitemap.php:174
+msgid "The frequency of the page."
+msgstr "Частота оновлення сторінки."
+
+#: modules/aioseop_sitemap.php:173
+msgid "The priority of the page."
+msgstr "Пріоритет сторінки."
+
+#: modules/aioseop_sitemap.php:170
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "Розмістити посилання на файл Sitemap.xml в віртуальному Robots.txt."
+
+#: modules/aioseop_sitemap.php:169
+msgid "Create a compressed sitemap file in .xml.gz format."
+msgstr "Створити стислий файл sitemap в форматі .xml.gz."
+
+#: modules/aioseop_sitemap.php:167
+msgid "Include Author Archives in your sitemap."
+msgstr "Включити авторів архівів в файл sitemap."
+
+#: modules/aioseop_sitemap.php:166
+msgid "Include Date Archives in your sitemap."
+msgstr "Включити дату архівів в файл sitemap."
+
+#: modules/aioseop_sitemap.php:165
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "Вкажіть архіви таксономій для виведення на карті сайту."
+
+#: modules/aioseop_sitemap.php:164
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Вкажіть типи публікацій для виведення на карті сайту."
+
+#: modules/aioseop_sitemap.php:163
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Вкажіть максимальне число публікацій на карті сайту (до 50 000)."
+
+#: modules/aioseop_sitemap.php:162
+msgid "Organize sitemap entries into distinct files in your sitemap. Enable this only if your sitemap contains over 50,000 URLs or the file is over 5MB in size."
+msgstr "Організувати записи Карти сайту в окремі файли Вашої Карти сайту. Ввімкніть цю опцію, тільки якщо Ваш файл Карти сайту містить більше 50,000 URLів або файл перевищує розмір 5 МБ."
+
+#: modules/aioseop_sitemap.php:161
+msgid "Notify search engines based on the selected schedule, and also update static sitemap daily if in use. (this uses WP-Cron, so make sure this is working properly on your server as well)"
+msgstr "Сповіщати пошукові системи щодня, а також оновлювати статичний файл Карта сайту щодня, якщо він використовується. (це використовує WP-Cron, тому переконайтеся, що це працює належним чином на вашому сервері)"
+
+#: modules/aioseop_sitemap.php:149
+msgid "XML Sitemap"
+msgstr "XML карта сайту"
+
+#: modules/aioseop_robots.php:98
+msgid "Create a Robots.txt File"
+msgstr "Створити Robots.txt"
+
+#: modules/aioseop_robots.php:62
+msgid "Add Rule"
+msgstr "Додати правило"
+
+#: modules/aioseop_robots.php:27 modules/aioseop_robots.php:54
+msgid "Directory Path"
+msgstr "Шлях до каталогу"
+
+#: modules/aioseop_robots.php:26 modules/aioseop_robots.php:41
+msgid "User Agent"
+msgstr "Користвувацький агент"
+
+#: modules/aioseop_robots.php:25
+msgid "Rule Type"
+msgstr "Тип правила"
+
+#: modules/aioseop_performance.php:353
+msgid "Submit"
+msgstr "Відправити"
+
+#: modules/aioseop_performance.php:352
+msgid "E-mail debug information"
+msgstr "Відправити інформацію на пошту"
+
+#: modules/aioseop_performance.php:341
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "Помилка: введіть в поле коректну email адресу."
+
+#: modules/aioseop_performance.php:338
+msgid "Failed to send to %s."
+msgstr "Помилка при відправленні %s."
+
+#: modules/aioseop_performance.php:336
+msgid "Sent to %s."
+msgstr "Відправлено %s."
+
+#: modules/aioseop_performance.php:335
+msgid "SFWD Debug Mail From Site %s."
+msgstr "SFWD налагоджувальне повідомлення з сайту %s."
+
+#: modules/aioseop_performance.php:300
+msgid "Form submission error: verification check failed."
+msgstr "Помилка: перевірка провалена."
+
+#: modules/aioseop_performance.php:282
+msgid "All in One SEO Pack Pro Debug Info"
+msgstr "All in One SEO Pack Pro налагоджувальна інформація"
+
+#: modules/aioseop_performance.php:262
+msgid "Active Theme"
+msgstr "Активна тема"
+
+#: modules/aioseop_performance.php:261
+msgid "Multisite"
+msgstr "Мультисайт"
+
+#: modules/aioseop_performance.php:260
+msgid "WordPress DB Version"
+msgstr "Версія БД WordPress"
+
+#: modules/aioseop_performance.php:259
+msgid "WordPress Version"
+msgstr "Версія WordPress"
+
+#: modules/aioseop_performance.php:258
+msgid "Home URL"
+msgstr "URL домашньої сторінки"
+
+#: modules/aioseop_performance.php:257
+msgid "Site URL"
+msgstr "URL сайту"
+
+#: modules/aioseop_performance.php:256
+msgid "PHP XML support"
+msgstr "Підтримка PHP XML"
+
+#: modules/aioseop_performance.php:255
+msgid "PHP IPTC support"
+msgstr "Підтримка PHP IPTC"
+
+#: modules/aioseop_performance.php:254
+msgid "PHP Exif support"
+msgstr "Підтримка PHP Exif"
+
+#: modules/aioseop_performance.php:253
+msgid "PHP Max Script Execute Time"
+msgstr "PHP макс. час виконання скрипта"
+
+#: modules/aioseop_performance.php:252
+msgid "PHP Max Post Size"
+msgstr "PHP макс. розмір статті"
+
+#: modules/aioseop_performance.php:251
+msgid "PHP Max Upload Size"
+msgstr "PHP макс. розмір завантаження"
+
+#: modules/aioseop_performance.php:250
+msgid "PHP Memory Limit"
+msgstr "PHP ліміт пам'яті"
+
+#: modules/aioseop_performance.php:249
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: modules/aioseop_performance.php:248
+msgid "PHP Version"
+msgstr "PHP версія"
+
+#: modules/aioseop_performance.php:247
+msgid "SQL Mode"
+msgstr "Режим SQL"
+
+#: modules/aioseop_performance.php:246
+msgid "MYSQL Version"
+msgstr "Версія MYSQL"
+
+#: modules/aioseop_performance.php:245
+msgid "Memory usage"
+msgstr "Використання пам'яті"
+
+#: modules/aioseop_performance.php:244
+msgid "Server"
+msgstr "Сервер"
+
+#: modules/aioseop_performance.php:243
+msgid "Operating System"
+msgstr "Операційна система"
+
+#: modules/aioseop_performance.php:205 modules/aioseop_performance.php:210
+#: modules/aioseop_performance.php:215 modules/aioseop_performance.php:224
+msgid "Yes"
+msgstr "Так"
+
+#: modules/aioseop_performance.php:200
+msgid " MByte"
+msgstr "МБайт"
+
+#: modules/aioseop_performance.php:182 modules/aioseop_performance.php:187
+#: modules/aioseop_performance.php:192 modules/aioseop_performance.php:197
+#: modules/aioseop_performance.php:202 modules/aioseop_performance.php:229
+msgid "N/A"
+msgstr "Немає даних"
+
+#: modules/aioseop_performance.php:177
+msgid "Off"
+msgstr "Вимк."
+
+#: modules/aioseop_performance.php:175
+msgid "On"
+msgstr "Увімк."
+
+#: modules/aioseop_performance.php:172
+msgid "Not set"
+msgstr "Не встановлено"
+
+#: modules/aioseop_performance.php:87
+msgid "System Status"
+msgstr "Про систему"
+
+#: modules/aioseop_performance.php:49
+msgid "No limit"
+msgstr "Нема обмежень"
+
+#: modules/aioseop_performance.php:40
+msgid "Raise execution time"
+msgstr "Збільшити час виконання"
+
+#: modules/aioseop_performance.php:32 modules/aioseop_performance.php:44
+msgid "Use the system default"
+msgstr "Використовувати значення системи за умовчанням"
+
+#: modules/aioseop_performance.php:28
+msgid "Raise memory limit"
+msgstr "Збільшити ліміт пам'яті"
+
+#: modules/aioseop_performance.php:23
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "Використовуйте буферизацію виводу, щоб впевнитися, що заголовок переписаний. Ввімкніть цю опцію, якщо у вас виникли проблеми з заголовка тегу встановлений для вашої теми або іншого плагіну."
+
+#: modules/aioseop_performance.php:22
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "Ці налаштування дозволяють Вам підвищувати час виконання PHP до раціонального значення."
+
+#: modules/aioseop_performance.php:21
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "Ці налаштування дозволяють Вам підвищувати Ваш ліміт пам'яті PHP до раціонального значення. Зауважте: WordPress ядро та інші WordPress плагіни також можуть змінювати значення ліміту пам'яті."
+
+#: modules/aioseop_opengraph.php:1567
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "Обрати значення за замовчуванням, яке найкраще описує контент Вашого типу посту."
+
+#: modules/aioseop_opengraph.php:1560
+msgid "Object Type"
+msgstr "Тип даних"
+
+#: modules/aioseop_opengraph.php:903
+msgid "Scan your site for duplicate social meta tags."
+msgstr "Перевірте свій сайт на дублі соціальних мета тегів."
+
+#: modules/aioseop_opengraph.php:902
+msgid "Scan Now"
+msgstr "Сканувати зараз"
+
+#: modules/aioseop_opengraph.php:755
+msgid "Default "
+msgstr "За замовчуванням"
+
+#: modules/aioseop_opengraph.php:616
+msgid "Scan Social Meta"
+msgstr "Сканувати соціальні мета"
+
+#: modules/aioseop_opengraph.php:606
+msgid "Twitter Settings"
+msgstr "Налаштування Twitter"
+
+#: modules/aioseop_opengraph.php:591
+msgid "Facebook Settings"
+msgstr "Налаштування Facebook"
+
+#: modules/aioseop_opengraph.php:581
+msgid "Image Settings"
+msgstr "Налаштування зображення"
+
+#: modules/aioseop_opengraph.php:550
+msgid "Social Settings"
+msgstr "Соціальні налаштуваня"
+
+#: modules/aioseop_opengraph.php:499
+msgid "Associated Name"
+msgstr "Пов'язана назва"
+
+#: modules/aioseop_opengraph.php:495
+msgid "Organization"
+msgstr "Організація"
+
+#: modules/aioseop_opengraph.php:494
+msgid "Person"
+msgstr "Особистість"
+
+#: modules/aioseop_opengraph.php:491
+msgid "Person or Organization?"
+msgstr "Приватна особа або організація"
+
+#: modules/aioseop_opengraph.php:485 modules/aioseop_opengraph.php:586
+msgid "Social Profile Links"
+msgstr "Соціальні посилання"
+
+#: modules/aioseop_opengraph.php:482
+msgid "Show Facebook Author on Articles"
+msgstr "Показувати Facebook автора в статтях"
+
+#: modules/aioseop_opengraph.php:477
+msgid "Show Facebook Publisher on Articles"
+msgstr "Показувати Facebook видавця в статтях"
+
+#: modules/aioseop_opengraph.php:471
+msgid "Article Tags"
+msgstr "Позначки статті"
+
+#: modules/aioseop_opengraph.php:465
+msgid "Article Section"
+msgstr "Розділ статті"
+
+#: modules/aioseop_opengraph.php:462
+msgid "Debug This Post"
+msgstr "Налагодження цього посту"
+
+#: modules/aioseop_opengraph.php:454
+msgid "Facebook Debug"
+msgstr "Налагодження Facebook"
+
+#: modules/aioseop_opengraph.php:419
+msgid "Use Post Tags In Article Tags"
+msgstr "Використовувати позначки публікацій в позначках статті"
+
+#: modules/aioseop_opengraph.php:414
+msgid "Use Categories In Article Tags"
+msgstr "Використовувати категорії в позначках статті"
+
+#: modules/aioseop_opengraph.php:409
+msgid "Use Keywords In Article Tags"
+msgstr "Використовувати ключові слова в позначках до статей"
+
+#: modules/aioseop_opengraph.php:406
+msgid "Automatically Generate Article Tags"
+msgstr "Автоматично генерувати позначки до статей"
+
+#: modules/aioseop_opengraph.php:397
+msgid "Twitter Domain"
+msgstr "Twitter домен"
+
+#: modules/aioseop_opengraph.php:394
+msgid "Show Twitter Author"
+msgstr "Показувати Twitter автора"
+
+#: modules/aioseop_opengraph.php:389
+msgid "Twitter Site"
+msgstr "Twitter сайта"
+
+#: modules/aioseop_opengraph.php:376
+msgid "Twitter Card Type"
+msgstr "Тип Twitter Card"
+
+#: modules/aioseop_opengraph.php:367 modules/aioseop_opengraph.php:379
+msgid "Summary Large Image"
+msgstr "Стандартно (велике зображення)"
+
+#: modules/aioseop_opengraph.php:366 modules/aioseop_opengraph.php:380
+msgid "Summary"
+msgstr "Стандартно (коротко)"
+
+#: modules/aioseop_opengraph.php:362
+msgid "Default Twitter Card"
+msgstr "Twitter Card за замовчуванням"
+
+#: modules/aioseop_opengraph.php:350
+msgid "Specify Video Height"
+msgstr "Вказати висоту відео"
+
+#: modules/aioseop_opengraph.php:338
+msgid "Specify Video Width"
+msgstr "Вказати ширину відео"
+
+#: modules/aioseop_opengraph.php:334
+msgid "Custom Video"
+msgstr "Користувацьке відео"
+
+#: modules/aioseop_opengraph.php:329
+msgid "Specify Image Height"
+msgstr "Вказати висоту зображення"
+
+#: modules/aioseop_opengraph.php:324
+msgid "Specify Image Width"
+msgstr "Вказати ширину зображення"
+
+#: modules/aioseop_opengraph.php:320
+msgid "Custom Image"
+msgstr "Користувацьке зображення"
+
+#: modules/aioseop_opengraph.php:313
+msgid "Image"
+msgstr "Зображення"
+
+#: modules/aioseop_opengraph.php:447
+msgid "Facebook Object Type"
+msgstr "Тип даних Facebook"
+
+#: modules/aioseop_opengraph.php:308
+msgid "Use Custom Field For Image"
+msgstr "Використовувати користувацькі поля для зображення"
+
+#: modules/aioseop_opengraph.php:303
+msgid "Default Image Height"
+msgstr "Висота зображення за замовчуванням"
+
+#: modules/aioseop_opengraph.php:298
+msgid "Default Image Width"
+msgstr "Ширина зображення за замовчуванням"
+
+#: modules/aioseop_opengraph.php:293
+msgid "Default OG:Image"
+msgstr "OG:зображення за замовчуванням"
+
+#: modules/aioseop_opengraph.php:289
+msgid "Use Default If No Image Found"
+msgstr "Використовувати зображення за замовчуванням, якщо не знайдено жодного зображення"
+
+#: modules/aioseop_opengraph.php:285
+msgid "First Available Image"
+msgstr "Перше доступне зображення"
+
+#: modules/aioseop_opengraph.php:284
+msgid "Post Author Image"
+msgstr "Зображення автора посту"
+
+#: modules/aioseop_opengraph.php:283
+msgid "Image From Custom Field"
+msgstr "Зображення з користувацького поля"
+
+#: modules/aioseop_opengraph.php:282
+msgid "First Image In Content"
+msgstr "Перше зображення в контенті"
+
+#: modules/aioseop_opengraph.php:281
+msgid "First Attached Image"
+msgstr "Перше додане зображення"
+
+#: modules/aioseop_opengraph.php:280
+msgid "Featured Image"
+msgstr "Основне (рекомендоване) зображення"
+
+#: modules/aioseop_opengraph.php:279
+msgid "Default Image"
+msgstr "Зображення за замовчуванням"
+
+#: modules/aioseop_opengraph.php:276
+msgid "Select OG:Image Source"
+msgstr "Вибрати джерело OG:Image"
+
+#: modules/aioseop_opengraph.php:268
+msgid "Home Image"
+msgstr "Зображення головної сторінки"
+
+#: modules/aioseop_opengraph.php:256
+msgid "Home Description"
+msgstr "Опис головної сторінки"
+
+#: modules/aioseop_opengraph.php:244
+msgid "Home Title"
+msgstr "Заголовок головної сторінки"
+
+#: modules/aioseop_opengraph.php:239
+msgid "Site Name"
+msgstr "Назва сайту"
+
+#: modules/aioseop_opengraph.php:236
+msgid "Run Shortcodes In Description"
+msgstr "Використовувати шорткоди в описі"
+
+#: modules/aioseop_opengraph.php:233
+msgid "Run Shortcodes In Title"
+msgstr "Включити шорткоди в заголовку"
+
+#: modules/aioseop_opengraph.php:219
+msgid "Use AIOSEO Title and Description"
+msgstr "Використовувати AIOSEO заголовок і опис"
+
+#: modules/aioseop_opengraph.php:214
+msgid "Scan Header"
+msgstr "Сканувати заголовок"
+
+#: modules/aioseop_opengraph.php:130
+msgid "Add the name of the person or organization who owns these profiles."
+msgstr "Додайте ім'я або назву організації власника профайлу."
+
+#: modules/aioseop_opengraph.php:129
+msgid "Add URLs for your website's social profiles here (Facebook, Twitter, Google+, Instagram, LinkedIn), one per line."
+msgstr "Додайте URLи для профайлів соціальних мереж для Вашого веб-сайту тут (Facebook, Twitter, Google+, Instagram, LinkedIn), по одному на рядок."
+
+#: modules/aioseop_opengraph.php:128
+msgid "Are the social profile links for your website for a person or an organization?"
+msgstr "Посилання для профайлів соціальних мереж для Вашого веб-сайту для людини чи для організації?"
+
+#: modules/aioseop_opengraph.php:127
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "Дозволяє Вашим авторам бути ідентифікованими на Opengraph мета через сторінки Facebook як автори контенту для їхніх статей."
+
+#: modules/aioseop_opengraph.php:126
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "Поєднайте статті на сторінці Facebook пов'язані з Вашим сайтом."
+
+#: modules/aioseop_opengraph.php:125
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "Цей Open Graph мета дозволяє Вам додати список ключових слів, яка найкраще описує цей контент."
+
+#: modules/aioseop_opengraph.php:124
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "Цей Open Graph мета дозволяє Вам додати загальну назву розділу, яка найкраще описує цей контент."
+
+#: modules/aioseop_opengraph.php:123
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "Натисніть цю кнопку щоби повторно отримати Facebook і налагодити цю сторінку."
+
+#: modules/aioseop_opengraph.php:122
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "Обрати тип Open Graph який найкраще описує контент цієї Сторінки чи Посту."
+
+#: modules/aioseop_opengraph.php:121
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "Це опис Open Graph для цієї Сторінки чи Посту."
+
+#: modules/aioseop_opengraph.php:120
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "Це Назва Open Graph для цієї Сторінки чи Посту."
+
+#: modules/aioseop_opengraph.php:119
+msgid "Select which Post Types you want to use All in One SEO Pack to set Open Graph meta values for."
+msgstr "Обрати який Тип записів Ви хотіли б використовувати у All in One SEO Pack, який буде задано для Open Graph мета значення."
+
+#: modules/aioseop_opengraph.php:118
+msgid "Use post tags in generated article tags."
+msgstr "Використовувати позначки записів для генерації позначок статті."
+
+#: modules/aioseop_opengraph.php:117
+msgid "Use categories in generated article tags."
+msgstr "Використовувати категорії для генерації позначок статті."
+
+#: modules/aioseop_opengraph.php:116
+msgid "Use keywords in generated article tags."
+msgstr "Використовувати ключові слова для генерації позначок статті."
+
+#: modules/aioseop_opengraph.php:115
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "Автоматично генерувати позначки статей для Facebook статей, коли не задано."
+
+#: modules/aioseop_opengraph.php:113
+msgid "Enter the name of your website here."
+msgstr "Введіть назву вашого сайту."
+
+#: modules/aioseop_opengraph.php:112
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "Дозволяє авторам ідентифікуватися своїми Twitter акаунтами в якості творців контенту на Twitter cards для своїх постів."
+
+#: modules/aioseop_opengraph.php:111
+msgid "Enter the Twitter username associated with your website here."
+msgstr "Введіть ім'я користувача Twitter пов'язане з Вашим сайтом."
+
+#: modules/aioseop_opengraph.php:109
+msgid "Select the default type of Twitter Card to display."
+msgstr "Виберіть тип відображення Twitter Card за замовчуванням."
+
+#: modules/aioseop_opengraph.php:108
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "Введіть висоту для відео Open Graph у пікселях (наприклад 600)."
+
+#: modules/aioseop_opengraph.php:107
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "Введіть ширину для відео Open Graph у пікселях (наприклад 600)."
+
+#: modules/aioseop_opengraph.php:106
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "Ця опція дозволяє Вам вказати посилання на Open Graph відео, яке використовується на цій Сторінці або у Записі."
+
+#: modules/aioseop_opengraph.php:105
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "Введіть висоту для зображення Open Graph у пікселях (наприклад 600)."
+
+#: modules/aioseop_opengraph.php:104
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "Введіть ширину для зображення Open Graph у пікселях (наприклад 600)."
+
+#: modules/aioseop_opengraph.php:103
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "Ця опція дозволяє Вам завантажити зображення яке буде використано як зображення  Open Graph для цієї Сторінки або Запису."
+
+#: modules/aioseop_opengraph.php:102
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "Ця опція дозволяє Вам обрати зображення Open Graph яке буде використано для цієї Сторінки або Запису, перевизначення налаштування за замовчуванням."
+
+#: modules/aioseop_opengraph.php:101
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "Введіть назву поля користувача (або кілька імен полів, розділених комами), щоб використовувати це поле для специфікації зображення Open Graph на Сторінках або Записах."
+
+#: modules/aioseop_opengraph.php:100
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "Ця опція дозволяє Вам задати висоту за замовчуванням, там де її не задано."
+
+#: modules/aioseop_opengraph.php:99
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "Ця опція дозволяє Вам задати ширину за замовчуванням для зображення, там де її не визначено."
+
+#: modules/aioseop_opengraph.php:98
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "Ця опція задає зображення за замовчуванням яке може бути використане для зображення Open Graph. Ви можете завантажити зображення, обрати зображення з Медіа Бібліотеки чи вставити URL зображення сюди."
+
+#: modules/aioseop_opengraph.php:97
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "Ця опція дозволяє Вам повернутися до зображення за замовчуванням, якщо зображення не може бути знайдено вище."
+
+#: modules/aioseop_opengraph.php:96
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "Ця опція дозволяє Вам обрати яке зображення буде показане за замовчуванням для зображення Open Graph. Ви можете змінити це на окремих постах."
+
+#: modules/aioseop_opengraph.php:94
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "Зображення головної сторінки є зображенням Open Graph для Вашої головної сторінки."
+
+#: modules/aioseop_opengraph.php:93
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "Опис головної сторінки є описом Open Graph для Вашої головної сторінки."
+
+#: modules/aioseop_opengraph.php:92
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "Назва головної сторінки є назвою Open Graph для Вашої головної сторінки."
+
+#: modules/aioseop_opengraph.php:91
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "Назва сайту це ім'я яке використовується для ідентифікації Вашого сайту."
+
+#: modules/aioseop_opengraph.php:90
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "Запустити короткі коди, які з'являються в описі соціальних мета тегів."
+
+#: modules/aioseop_opengraph.php:89
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "Запустити короткі коди, які з'являються в назві соціальних мета тегів."
+
+#: modules/aioseop_opengraph.php:86
+msgid "Checking this box will use the Home Title and Home Description set in All in One SEO Pack, General Settings as the Open Graph title and description for your home page."
+msgstr "При відмічанні цього прапорцю буде використано Назву головної сторінки та Опис головної сторінки що установленні в All in One SEO Pack, Загальні налаштування як назва та опис Open Graph для Вашої домашньої сторінки."
+
+#: modules/aioseop_opengraph.php:80
+msgid "Website"
+msgstr "Веб сайт"
+
+#: modules/aioseop_opengraph.php:79
+msgid "Blog"
+msgstr "Блог"
+
+#: modules/aioseop_opengraph.php:78
+msgid "Article"
+msgstr "Стаття"
+
+#: modules/aioseop_opengraph.php:75
+msgid "Episode"
+msgstr "Епізод"
+
+#: modules/aioseop_opengraph.php:74
+msgid "TV Show"
+msgstr "ТВ шоу"
+
+#: modules/aioseop_opengraph.php:73
+msgid "Song"
+msgstr "Пісня"
+
+#: modules/aioseop_opengraph.php:72
+msgid "Product"
+msgstr "Продукт"
+
+#: modules/aioseop_opengraph.php:71
+msgid "Movie"
+msgstr "Фільм"
+
+#: modules/aioseop_opengraph.php:70
+msgid "Game"
+msgstr "Гра"
+
+#: modules/aioseop_opengraph.php:69
+msgid "Food"
+msgstr "Їжа"
+
+#: modules/aioseop_opengraph.php:68
+msgid "Drink"
+msgstr "Напій"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Book"
+msgstr "Книга"
+
+#: modules/aioseop_opengraph.php:66
+msgid "Album"
+msgstr "Альбом"
+
+#: modules/aioseop_opengraph.php:63
+msgid "State Province"
+msgstr "Штат, область"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Landmark"
+msgstr "Орієнтир"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Country"
+msgstr "Країна"
+
+#: modules/aioseop_opengraph.php:60
+msgid "City"
+msgstr "Місто"
+
+#: modules/aioseop_opengraph.php:57
+msgid "Public Figure"
+msgstr "Публічна особа"
+
+#: modules/aioseop_opengraph.php:56
+msgid "Profile"
+msgstr "Профіль"
+
+#: modules/aioseop_opengraph.php:55
+msgid "Politician"
+msgstr "Політик"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Musician"
+msgstr "Музикант"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Director"
+msgstr "Директор"
+
+#: modules/aioseop_opengraph.php:52
+msgid "Author"
+msgstr "Автор"
+
+#: modules/aioseop_opengraph.php:51
+msgid "Athlete"
+msgstr "Спортсмен"
+
+#: modules/aioseop_opengraph.php:50
+msgid "Actor"
+msgstr "Актор"
+
+#: modules/aioseop_opengraph.php:47
+msgid "University"
+msgstr "Університет"
+
+#: modules/aioseop_opengraph.php:46
+msgid "School"
+msgstr "Школа"
+
+#: modules/aioseop_opengraph.php:45
+msgid "Non Profit"
+msgstr "Некомерційний"
+
+#: modules/aioseop_opengraph.php:44
+msgid "Government"
+msgstr "Уряд"
+
+#: modules/aioseop_opengraph.php:43
+msgid "Band"
+msgstr "Група"
+
+#: modules/aioseop_opengraph.php:40
+msgid "Sports Team"
+msgstr "Спортивна команда"
+
+#: modules/aioseop_opengraph.php:39
+msgid "Sports League"
+msgstr "Спортивна ліга"
+
+#: modules/aioseop_opengraph.php:38
+msgid "Cause"
+msgstr "Справа"
+
+#: modules/aioseop_opengraph.php:35
+msgid "Restaurant"
+msgstr "Ресторан"
+
+#: modules/aioseop_opengraph.php:34
+msgid "Hotel"
+msgstr "Готель"
+
+#: modules/aioseop_opengraph.php:33
+msgid "Cafe"
+msgstr "Кафе"
+
+#: modules/aioseop_opengraph.php:32
+msgid "Company"
+msgstr "Компанія"
+
+#: modules/aioseop_opengraph.php:31
+msgid "Bar"
+msgstr "Бар"
+
+#: modules/aioseop_opengraph.php:28
+msgid "Sport"
+msgstr "Спорт"
+
+#: modules/aioseop_opengraph.php:27
+msgid "Activity"
+msgstr "Активність"
+
+#: admin/aioseop_module_class.php:2711
+msgid "Update Options"
+msgstr "Оновити налаштування"
+
+#: admin/aioseop_module_class.php:2635
+msgid "All in One SEO Options Updated."
+msgstr "Налаштування All in One SEO оновлені."
+
+#: admin/aioseop_module_class.php:2626
+msgid "Options Reset."
+msgstr "Скидання налаштувань."
+
+#: admin/aioseop_module_class.php:2623 modules/aioseop_sitemap.php:1139
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "Перевірка безпеки - Якщо Ви отримали це випадково, вилогуйтесь та поверніться до WordPress"
+
+#: admin/aioseop_module_class.php:2395
+msgid "Click for Help!"
+msgstr "Натисніть для допомоги!"
+
+#: admin/aioseop_module_class.php:1691
+msgid "Click here for documentation on this setting"
+msgstr "Натисніть сюди для документації цих налаштувань"
+
+#: modules/aioseop_performance.php:318
+#: modules/aioseop_importer_exporter.php:518
+msgid "Settings export file for All in One SEO Pack"
+msgstr "Файл налаштування експорту для All in One SEO Pack"
+
+#: modules/aioseop_importer_exporter.php:464
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b>Попередження:</b> Цей запис неможливо знайти: <b>\"%s\"</b>"
+
+#: modules/aioseop_importer_exporter.php:156
+msgid ""
+"You may change this by activating or deactivating\n"
+"\t\t\t\t\t\tmodules in the Feature Manager."
+msgstr "Ви можете це змінити за допомогою активації або деактивації модулів у Менеджері Функцій."
+
+#: modules/aioseop_importer_exporter.php:149
+msgid "There are no other modules currently loaded!"
+msgstr "На даний час нема жодних завантажених інших модулів!"
+
+#: modules/aioseop_importer_exporter.php:115
+msgid "Export"
+msgstr "Експорт"
+
+#: modules/aioseop_importer_exporter.php:64
+msgid ""
+"Note: If General Settings is checked, the\n"
+"\t\t\t\t\t\t\t\tGeneral Settings, the Feature Manager settings,\n"
+"\t\t\t\t\t\t\t\tand the following currently active modules will\n"
+"\t\t\t\t\t\t\t\thave their settings data exported:"
+msgstr "Зауважте: Якщо Загальні Налаштування перевірені, то для Загальних Налаштувань, Налаштувань Менеджера Функцій, і наступних активних на даний час модулів будуть експортовані налаштування:"
+
+#: modules/aioseop_importer_exporter.php:51
+msgid "Export Post Types:"
+msgstr "Експортувати Типи Запису:"
+
+#: modules/aioseop_importer_exporter.php:43
+msgid "Export Settings"
+msgstr "Експортувати Налаштування"
+
+#: modules/aioseop_importer_exporter.php:37
+#: modules/aioseop_importer_exporter.php:105
+msgid "Import"
+msgstr "Імпорт"
+
+#: modules/aioseop_importer_exporter.php:29
+msgid "Select which Post Types you want to export your All in One SEO Pack meta data for.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Оберіть які Типи Записів Ви хочете експортувати для Ваших мета даних All in One SEO Pack.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+
+#: modules/aioseop_importer_exporter.php:25
+msgid "You may choose to export settings from active modules, and content from post data.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Ви можете обрати для експорту налаштувань з активних модулів, та контент з даних запису.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+
+#: modules/aioseop_importer_exporter.php:21
+msgid "Select a valid All in One SEO Pack ini file and click 'Import' to import options from a previous state or install of All in One SEO Pack.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Оберіть дійсний файл конфігурації All in One SEO Pack і клікніть 'Імпортувати' для імпорту опцій з попереднього стану або інсталяції All in One SEO Pack.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+
+#: inc/aioseop_functions.php:868
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/aioseop_functions.php:865
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/aioseop_functions.php:859
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/aioseop_functions.php:616
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "Будь ласка, зверніться до документа для кожного інструменту для допомоги у використанні їх для налагодження вашої соціальної мета."
+
+#: inc/aioseop_functions.php:606
+msgid "You should avoid duplicate social meta tags. You can use these free tools from Facebook and Twitter to validate your social meta and check for errors:"
+msgstr "Вам варто уникати дублювання соціальних мета тегів. Ви можете використати ці безкоштовні інструменти з Facebook, Google і Twitter для валідації Ваших соціальних мета та перевірки на наявність помилок:"
+
+#: inc/aioseop_functions.php:605
+msgid "You may prefer to use the social meta tags that are being output by the other plugin(s) or theme. If so, then you should deactivate this Social Meta feature in All in One SEO Pack Feature Manager."
+msgstr "Ви можете надавати перевагу використанню соціальних мета тегів які надаються іншим  плагіном(плагінами) або темою. Якщо це так, то Вам необхідно деактивувати налаштування Соціальні Медіа в All in One SEO Pack у Менеджері Функцій."
+
+#: inc/aioseop_functions.php:604
+msgid "All in One SEO Pack has detected that a plugin(s) or theme is also outputting social meta tags on your site. You can view this social meta in the source code of your site (check your browser help for instructions on how to view source code)."
+msgstr "All in One SEO Pack виявив що плагін(и) або тема також видає соціальні мета позначки на Вашому сайті. Ви можете переглянути ці соціальні мета у початковому коді Вашого сайту (перевірте Помічника Вашого браузера для отримання інструкції як переглянути початковий код)"
+
+#: inc/aioseop_functions.php:603
+msgid "What Does This Mean?"
+msgstr "Що це означає?"
+
+#: inc/aioseop_functions.php:600
+msgid "No duplicate meta tags found."
+msgstr "Не знайдено жодних дубльованих мета тегів."
+
+#: inc/aioseop_functions.php:591
+msgid "Duplicate %s Meta"
+msgstr "Дублювати мета %s"
+
+#: inc/aioseop_functions.php:527
+msgid "Row %s not found; no rows were deleted."
+msgstr "Ряд %s не знайдено; жодного ряду не було видалено."
+
+#: inc/aioseop_functions.php:404
+msgid "Unauthorized access; try reloading the page."
+msgstr "Несанкціонований доступ; спробуйте перезавантажити сторінку."
+
+#: modules/aioseop_performance.php:207 modules/aioseop_performance.php:212
+#: modules/aioseop_performance.php:217 modules/aioseop_performance.php:226
+#: inc/aioseop_functions.php:379 inc/aioseop_functions.php:761
+msgid "No"
+msgstr "Ні"
+
+#: inc/aioseop_functions.php:272
+msgid "Insert time"
+msgstr "Вказати час"
+
+#: inc/aioseop_functions.php:271
+msgid "Revisions"
+msgstr "Ревізії"
+
+#: inc/aioseop_functions.php:270
+msgid "Slug may not be empty!"
+msgstr "Коротке ім'я не може бути порожнім!"
+
+#: inc/aioseop_functions.php:269
+msgid "Please wait..."
+msgstr "Будь ласка, зачекайте..."
+
+#: inc/aioseop_functions.php:267
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: inc/aioseop_functions.php:266
+msgid "Save"
+msgstr "Зберегти"
+
+#: inc/aioseop_functions.php:265
+msgid "Post"
+msgstr "Опублікувати"
+
+#: inc/aioseop_functions.php:264 inc/aioseop_functions.php:383
+#: inc/aioseop_functions.php:765
+msgid "Edit"
+msgstr "Редагувати"
+
+#: inc/aioseop_functions.php:193
+msgid "SEO Keywords"
+msgstr "Ключові слова (keywords)"
+
+#: inc/aioseop_functions.php:191
+msgid "SEO Description"
+msgstr "Опис (description)"
+
+#: inc/aioseop_functions.php:190
+msgid "SEO Title"
+msgstr "Заголовок (title)"
+
+#: modules/aioseop_file_editor.php:86
+msgid "Update .htaccess"
+msgstr "Оновити .htaccess"
+
+#: modules/aioseop_file_editor.php:49
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: modules/aioseop_file_editor.php:33 modules/aioseop_file_editor.php:54
+msgid "Edit .htaccess"
+msgstr "Редагувати .htaccess"
+
+#: modules/aioseop_file_editor.php:29
+msgid ".htaccess editor"
+msgstr "Редактор .htaccess"
+
+#. translators: this button deactivates all active modules of the plugin.
+#: modules/aioseop_feature_manager.php:169
+msgid "Reset Features"
+msgstr "Скинути модулі"
+
+#: modules/aioseop_feature_manager.php:166
+msgid "Update Features"
+msgstr "Оновити модулі"
+
+#. translators: the Video Sitemap module allows users to generate a sitemap
+#. with video content in .xml format for their website and submit it to search
+#. engines such as Google, Bing and Yahoo.
+#: modules/aioseop_feature_manager.php:86
+#: modules/aioseop_feature_manager.php:93 inc/commonstrings.php:21
+msgid "Video Sitemap"
+msgstr "Відео карта сайту"
+
+#. translators: this refers to a feature that will be launched in the near
+#. future.
+#: modules/aioseop_feature_manager.php:78
+msgid "Coming Soon..."
+msgstr "В розробці..."
+
+#: modules/aioseop_feature_manager.php:57
+msgid "Exports and imports your All in One SEO Pack plugin settings."
+msgstr "Експортуйте і імпортуйте налаштування All in One SEO Pack."
+
+#. translators: the Importer & Exporter module allows users to import/export
+#. their All in One SEO Pack settings for backup purposes or when migrating
+#. their site.
+#: modules/aioseop_feature_manager.php:56
+#: modules/aioseop_importer_exporter.php:16
+msgid "Importer & Exporter"
+msgstr "Імпорт & Експорт"
+
+#: modules/aioseop_feature_manager.php:69
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "Оптимізуйте продуктивність і перевірте статус системи (інформація про сервер, WP, PHP та ін.)."
+
+#. translators: the Performance module allows users to set certain performance
+#. related settings and check the status of their WordPress installation.
+#: modules/aioseop_feature_manager.php:68 modules/aioseop_performance.php:15
+msgid "Performance"
+msgstr "Продуктивність"
+
+#. translators: 'bots' refers to user agents/web robots that misbehave.
+#: modules/aioseop_feature_manager.php:63
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "Зупиніть погану поведінку ботів, гальмуючих роботу сайту."
+
+#. translators: the File Editor module allows users to edit the robots.txt file
+#. or .htaccess file on their site.
+#: modules/aioseop_file_editor.php:19 modules/aioseop_feature_manager.php:50
+msgid "File Editor"
+msgstr "Редактор файлів"
+
+#: modules/aioseop_feature_manager.php:46
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "Генерувати та валідувати Ваш файл robots.txt для керівництва пошукових систем через ваш сайт."
+
+#. translators: the Robots.txt module allows users to provide instructions to
+#. web robots, e.g. search engine crawlers.
+#: modules/aioseop_robots.php:19 modules/aioseop_robots.php:80
+#: modules/aioseop_feature_manager.php:45
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#. translators: the Social Meta module allows users to add Open Graph (OG:)
+#. meta tags to their site's post/pages to control the appearance of them when
+#. shared on social media networks like Facebook and Twitter.
+#: modules/aioseop_feature_manager.php:38 modules/aioseop_opengraph.php:22
+msgid "Social Meta"
+msgstr "Соціальні мета"
+
+#: modules/aioseop_feature_manager.php:33
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Створити та управляти Вашими Картами сайту у форматі XML за допомогою цієї функції та надати Вашу Карту сайту у форматі XML для Google, Bing/Yahoo та Ask.com."
+
+#. translators: the XML Sitemaps module allows users to generate a sitemap in
+#. .xml format for their website and submit it to search engines such as
+#. Google, Bing and Yahoo.
+#: modules/aioseop_feature_manager.php:32
+msgid "XML Sitemaps"
+msgstr "XML Карта сайту"
+
+#. translators: the Feature Manager allows users to (de)activate other modules
+#. of the plugin.
+#: modules/aioseop_feature_manager.php:24
+msgid "Feature Manager"
+msgstr "Управління модулями"
+
+#: aioseop_class.php:4651
+msgid "Main Settings"
+msgstr "Основні налаштування"
+
+#: admin/aioseop_module_class.php:2101 admin/aioseop_module_class.php:2430
+#: admin/aioseop_module_class.php:2750 aioseop_class.php:5004
+#: aioseop_class.php:5024
+msgid "Help"
+msgstr "Допомога"
+
+#: aioseop_class.php:4966 aioseop_class.php:4973
+msgid "Version"
+msgstr "Версія"
+
+#: aioseop_class.php:4973
+msgid "Support"
+msgstr "Підтримка"
+
+#: aioseop_class.php:4952
+msgid "Join Our Mailing List"
+msgstr "Підпишіться на нашу розсилку"
+
+#: aioseop_class.php:4865
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: aioseop_class.php:4709
+msgid "Upgrade To Pro"
+msgstr "Поліпшити до PRO"
+
+#: aioseop_class.php:4748 aioseop_class.php:4762
+msgid "Edit SEO"
+msgstr "Редагувати SEO"
+
+#: aioseop_class.php:4700
+msgid "SEO"
+msgstr "SEO"
+
+#: admin/display/general-metaboxes.php:160
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Приступаєте до роботи? Прочитайте Керівництво для початківців"
+
+#: admin/display/general-metaboxes.php:156
+msgid "Watch video tutorials"
+msgstr "Дивитися відео-уроки"
+
+#: admin/display/general-metaboxes.php:152
+msgid "View the Changelog"
+msgstr "Подивитися список"
+
+#: admin/display/general-metaboxes.php:143
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "Список змін All in One SEO Pro"
+
+#: admin/display/general-metaboxes.php:140
+msgid "Access our Premium Support Forums"
+msgstr "Доступ до нашого форуму Преміум підтримки"
+
+#: admin/display/general-metaboxes.php:139
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "Форум підтримки плагіна All in One SEO Pro"
+
+#: admin/display/general-metaboxes.php:135
+msgid "Read the All in One SEO Pack user guide"
+msgstr "Прочитати інструкцію All in One SEO Pack"
+
+#: admin/display/general-metaboxes.php:119
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "Підпишіться сьогодні і отримаєте безкоштовний ел. екземпляр книги \"5 SEO Tips for WordPress\" (звичайна ціна $ 39)."
+
+#: admin/display/general-metaboxes.php:117
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "Підпишіться на нашу розсилку секретів і порад по WordPress."
+
+#: aioseop_class.php:900
+msgid "UPGRADE TO PRO VERSION"
+msgstr "ОНОВІТЬ ДО ПРЕМІУМ ВЕРСІЇ"
+
+#: admin/display/general-metaboxes.php:45
+msgid "Pro Version"
+msgstr "Преміум версія"
+
+#: admin/display/general-metaboxes.php:38
+msgid "Reset Dismissed Notices"
+msgstr "Скинути відхилені повідомлення"
+
+#: aioseop_class.php:3436
+msgid "nofollow"
+msgstr "nofollow"
+
+#: aioseop_class.php:3435
+msgid "follow"
+msgstr "follow"
+
+#: aioseop_class.php:3434
+msgid "Default - nofollow"
+msgstr "За замовчуванням - nofollow"
+
+#: aioseop_class.php:3428
+msgid "noindex"
+msgstr "noindex"
+
+#: aioseop_class.php:3427
+msgid "index"
+msgstr "index"
+
+#: aioseop_class.php:3426
+msgid "Default - noindex"
+msgstr "За замовчуванням - noindex"
+
+#: aioseop_class.php:3342
+msgid "Reset ALL Settings to Defaults"
+msgstr "Скинути ВСІ налаштування за замовчуванням"
+
+#: aioseop_class.php:3338
+msgid "Reset General Settings to Defaults"
+msgstr "Скинути загальні налаштування за замовчуванням"
+
+#: aioseop_class.php:3111
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! New since 2.2: Control who accesses your site with the new Robots.txt Editor and File Editor modules!  Enable them from the Feature Manager.  Remember to review your settings, we have added some new ones!"
+msgstr "Дякуємо що користуєтесь останньою і найкращою All in One SEO Pack! Нове з версії 2.2: Контролюйте хто має доступ до Вашого сайту з новими модулями Редактор Robots.txt та Редактор файлів! Включіть їх за допомогою Менеджера функцій. Не забудьте переглянути Ваші налаштування, ми додали декілька нових!"
+
+#: aioseop_class.php:3075 aioseop_class.php:3092 aioseop_class.php:3110
+msgid "Review Your Settings"
+msgstr "Переглянути налаштування"
+
+#: aioseop_class.php:3103
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Дякуємо що користуєтесь останньою і найкращою All in One SEO Pack! Будь ласка, передивіться Ваші налаштування, так як ми завжди додаємо нові можливості для Вас!"
+
+#: aioseop_class.php:3084 aioseop_class.php:3102
+msgid "Welcome to Version %s!"
+msgstr "Ласкаво просимо в версію %s!"
+
+#: aioseop_class.php:3184
+msgid "%post_title% - The original title of the post."
+msgstr "%post_title% - Оригінальний заголовок запису."
+
+#: aioseop_class.php:3173
+msgid "Title Format:"
+msgstr "Формат заголовку:"
+
+#: aioseop_class.php:3165
+msgid "Everywhere Else"
+msgstr "Скрізь"
+
+#: aioseop_class.php:3165
+msgid "Front Page"
+msgstr "Головна сторінка"
+
+#: aioseop_class.php:1054 modules/aioseop_opengraph.php:611
+msgid "Advanced Settings"
+msgstr "Розришені налаштування"
+
+#: aioseop_class.php:1037
+msgid "Noindex Settings"
+msgstr "Налаштування індексування (noindex)"
+
+#: aioseop_class.php:1010
+msgid "Google Settings"
+msgstr "Налаштування Google"
+
+#: aioseop_class.php:1005
+msgid "Webmaster Verification"
+msgstr "Верифікація вебмайстра"
+
+#: aioseop_class.php:1000
+msgid "Display Settings"
+msgstr "Налаштування відображення"
+
+#: aioseop_class.php:975
+msgid "Title Settings"
+msgstr "Налаштування заголовків"
+
+#: aioseop_class.php:1072
+msgid "Keyword Settings"
+msgstr "Налаштування ключів"
+
+#: aioseop_class.php:970 modules/aioseop_opengraph.php:576
+msgid "Home Page Settings"
+msgstr "Налаштування головної сторінки"
+
+#: aioseop_class.php:948
+msgid "Disable Google Analytics"
+msgstr "Відключити Google Analytics"
+
+#: aioseop_class.php:946
+msgid "Disable on this page/post"
+msgstr "Відключити для цієї сторінки/запису"
+
+#: aioseop_class.php:945
+msgid "Exclude From Sitemap"
+msgstr "Виключити з карти сайту"
+
+#: aioseop_class.php:933
+msgid "Custom Canonical URL"
+msgstr "Користувацькі канонічні URL"
+
+#: aioseop_class.php:929
+msgid "Keywords (comma separated)"
+msgstr "Ключові слова (розділяти комами)"
+
+#: aioseop_class.php:921 modules/aioseop_opengraph.php:438
+msgid "Description"
+msgstr "Опис"
+
+#: aioseop_class.php:915 modules/aioseop_opengraph.php:430
+msgid "Title"
+msgstr "Заголовок"
+
+#: aioseop_class.php:909
+msgid "Preview Snippet"
+msgstr "Фрагмент сніппету"
+
+#: aioseop_class.php:900
+msgid "Upgrade to All in One SEO Pack Pro Version"
+msgstr "Оновитися до All in One SEO Pack Pro версії"
+
+#: aioseop_class.php:852
+msgid "Log important events:"
+msgstr "Вести журнал подій:"
+
+#: aioseop_class.php:846
+msgid "Additional Blog Page Headers:"
+msgstr "Дод. заголовки головної сторінки (блог):"
+
+#: aioseop_class.php:840
+msgid "Additional Front Page Headers:"
+msgstr "Дод. заголовки головної сторінки (статичної):"
+
+#: aioseop_class.php:834
+msgid "Additional Page Headers:"
+msgstr "Дод. заголовки сторінок:"
+
+#: aioseop_class.php:828
+msgid "Additional Post Headers:"
+msgstr "Дод. заголовки записів:"
+
+#: aioseop_class.php:823
+msgid "Exclude Pages:"
+msgstr "Виключити сторінки:"
+
+#: aioseop_class.php:815
+msgid "Unprotect Post Meta Fields:"
+msgstr "Незахищені МЕТА-поля:"
+
+#: aioseop_class.php:811
+msgid "Use Schema.org Markup"
+msgstr "Використовувати розмітку Schema.org"
+
+#: aioseop_class.php:807
+msgid "Never Shorten Long Descriptions:"
+msgstr "Ніколи не скорочувати довгі описи:"
+
+#: aioseop_class.php:803
+msgid "Remove Descriptions For Paginated Pages:"
+msgstr "Видалити описи зі сторінок з пагінацією:"
+
+#: aioseop_class.php:798
+msgid "Run Shortcodes In Autogenerated Descriptions:"
+msgstr "Використовувати шорткоди в авто-генеруючих описах:"
+
+#: aioseop_class.php:789
+msgid "Autogenerate Descriptions:"
+msgstr "Авто-генеруючі описи:"
+
+#: aioseop_class.php:785
+msgid "Use nofollow for paginated pages/posts:"
+msgstr "Використовувати nofollow для сторінок/записів з пагінацією:"
+
+#: aioseop_class.php:781
+msgid "Use noindex for paginated pages/posts:"
+msgstr "Використовувати noindex для сторінок/записів з пагінацією:"
+
+#: aioseop_class.php:776
+msgid "Use noindex for Taxonomy Archives:"
+msgstr "Використовувати noindex для архівів таксономії:"
+
+#: aioseop_class.php:772
+msgid "Use noindex for the 404 page:"
+msgstr "Використовувати noindex для 404 сторінки:"
+
+#: aioseop_class.php:768
+msgid "Use noindex for the Search page:"
+msgstr "Використовувати noindex для сторінки пошуку:"
+
+#: aioseop_class.php:764
+msgid "Use noindex for Tag Archives:"
+msgstr "Використовувати noindex для архівів позначок:"
+
+#: aioseop_class.php:760
+msgid "Use noindex for Author Archives:"
+msgstr "Використовувати noindex для архівів авторів:"
+
+#: aioseop_class.php:756
+msgid "Use noindex for Date Archives:"
+msgstr "Використовувати noindex для архівів дат:"
+
+#: aioseop_class.php:752
+msgid "Use noindex for Categories:"
+msgstr "Використовувати noindex для категорій:"
+
+#: aioseop_class.php:747
+msgid "Dynamically Generate Keywords for Posts Page/Archives:"
+msgstr "Генерувати динамічно ключові слова для сторінки з публікаціями/архівів:"
+
+#: aioseop_class.php:742
+msgid "Use Tags for META keywords:"
+msgstr "Використовувати позначки як ключі:"
+
+#: aioseop_class.php:737
+msgid "Use Categories for META keywords:"
+msgstr "Використовувати категорії як ключі:"
+
+#: aioseop_class.php:725
+msgid "Enhanced Ecommerce:"
+msgstr "Покращена Ecommerce:"
+
+#: aioseop_class.php:713
+msgid "Enhanced Link Attribution:"
+msgstr "Покращене посилання авторства:"
+
+#: aioseop_class.php:701
+msgid "Track Outbound Links:"
+msgstr "Відстежувати вихідні посилання:"
+
+#: aioseop_class.php:689
+msgid "Exclude Users From Tracking:"
+msgstr "Виключити користувачів з відстеження:"
+
+#: aioseop_class.php:677
+msgid "Display Advertiser Tracking:"
+msgstr "Показувати відстеження рекламодавців:"
+
+#: aioseop_class.php:665
+msgid "Anonymize IP Addresses:"
+msgstr "Анонімізація IP-адрес:"
+
+#: aioseop_class.php:652
+msgid "Additional Domains:"
+msgstr "Додаткові домени:"
+
+#: aioseop_class.php:640
+msgid "Track Multiple Domains:"
+msgstr "Відстежувати кілька доменів:"
+
+#: aioseop_class.php:628
+msgid "Tracking Domain:"
+msgstr "Відстеження домену:"
+
+#: aioseop_class.php:612
+msgid "Advanced Analytics Options:"
+msgstr "Розширені настройки аналітики:"
+
+#: aioseop_class.php:606
+msgid "Google Analytics ID:"
+msgstr "Google Analytics ID:"
+
+#: aioseop_class.php:600
+msgid "Specify Publisher URL:"
+msgstr "Вказати URL Видавця:"
+
+#: aioseop_class.php:590
+msgid "Display Publisher Meta on Front Page:"
+msgstr "Відображати тег Видавець (publisher) на головній сторінці:"
+
+#: aioseop_class.php:584
+msgid "Display Google Authorship:"
+msgstr "Відображати Google авторство:"
+
+#: aioseop_class.php:574
+msgid "Advanced Authorship Options:"
+msgstr "Розширені налаштування авторства:"
+
+#: aioseop_class.php:568
+msgid "Specify A Preferred Name:"
+msgstr "Вкажіть переважну назву:"
+
+#: aioseop_class.php:565
+msgid "Set Preferred Site Name:"
+msgstr "Встановіть переважну назву сайту:"
+
+#: aioseop_class.php:562
+msgid "Display Sitelinks Search Box:"
+msgstr "Відображати посилання сайту в пошуковому вікні:"
+
+#: aioseop_class.php:557
+msgid "Disable Google Plus Profile:"
+msgstr "Відключити профіль Google+:"
+
+#: aioseop_class.php:552
+msgid "Google Plus Default Profile:"
+msgstr "Профіль в Google+:"
+
+#: aioseop_class.php:547
+msgid "Pinterest Site Verification:"
+msgstr "Pinterest верифікація:"
+
+#: inc/commonstrings.php:39
+msgid "Display Menu At The Top:"
+msgstr "Відображати меню у верхній панелі:"
+
+#: inc/commonstrings.php:38
+msgid "Display Menu In Admin Bar:"
+msgstr "Відображати меню в адмін панелі:"
+
+#: aioseop_class.php:532
+msgid "Show Column Labels for Custom Post Types:"
+msgstr "Показувати налаштування SEO для користувацьких типів записів:"
+
+#: aioseop_class.php:527
+msgid "Default to NOFOLLOW:"
+msgstr "За замовчуванням NOFOLLOW:"
+
+#: aioseop_class.php:522
+msgid "Default to NOINDEX:"
+msgstr "За замовчуванням NOINDEX:"
+
+#: aioseop_class.php:512
+msgid "SEO on only these Content Types:"
+msgstr "SEO тільки для цих типів вмісту:"
+
+#: aioseop_class.php:506
+msgid "Paged Format:"
+msgstr "Формат для навігації:"
+
+#: aioseop_class.php:500
+msgid "404 Title Format:"
+msgstr "Формат заголовків сторінки 404:"
+
+#: aioseop_class.php:494
+msgid "Description Format"
+msgstr "Формат опису"
+
+#: aioseop_class.php:488
+msgid "Search Title Format:"
+msgstr "Формат заголовків сторінки пошуку:"
+
+#: aioseop_class.php:482
+msgid "Tag Title Format:"
+msgstr "Формат заголовків позначок:"
+
+#: aioseop_class.php:476
+msgid "Author Archive Title Format:"
+msgstr "Формат заголовків архівів авторів:"
+
+#: aioseop_class.php:470
+msgid "Date Archive Title Format:"
+msgstr "Формат заголовків архівів дат:"
+
+#: aioseop_class.php:464
+msgid "Archive Title Format:"
+msgstr "Формат заголовків архівів:"
+
+#: aioseop_class.php:458
+msgid "Category Title Format:"
+msgstr "Формат заголовків категорій:"
+
+#: aioseop_class.php:452
+msgid "Post Title Format:"
+msgstr "Формат заголовків записів:"
+
+#: aioseop_class.php:446
+msgid "Page Title Format:"
+msgstr "Формат заголовків сторінок:"
+
+#: aioseop_class.php:440
+msgid "Home Page Title Format:"
+msgstr "Формат заголовку головної сторінки:"
+
+#: aioseop_class.php:431
+msgid "Use Original Title:"
+msgstr "Використовувати Оригінальний Заголовок:"
+
+#: aioseop_class.php:421 modules/aioseop_performance.php:63
+msgid "Force Rewrites:"
+msgstr "Примусовий перезапис:"
+
+#: aioseop_class.php:412
+msgid "Rewrite Titles:"
+msgstr "Перезаписувати заголовки:"
+
+#: aioseop_class.php:407
+msgid "Enable Custom Canonical URLs:"
+msgstr "Включити користувацькі канонічні URL:"
+
+#: aioseop_class.php:402
+msgid "No Pagination for Canonical URLs:"
+msgstr "Заборонити пагінацію для канонічних URL:"
+
+#: aioseop_class.php:398
+msgid "Canonical URLs:"
+msgstr "Канонічні URL:"
+
+#: aioseop_class.php:389
+msgid "Use Static Front Page Instead"
+msgstr "Використовувати (замість) статичну головну сторінку"
+
+#: aioseop_class.php:382
+msgid "Home Keywords (comma separated):"
+msgstr "Ключові слова головної сторінки (розділяти комами):"
+
+#: aioseop_class.php:378 aioseop_class.php:394 aioseop_class.php:417
+#: aioseop_class.php:427 aioseop_class.php:436 aioseop_class.php:579
+#: aioseop_class.php:595 aioseop_class.php:617
+#: modules/aioseop_performance.php:68
+msgid "Disabled"
+msgstr "Вимкнено"
+
+#: aioseop_class.php:377 aioseop_class.php:393 aioseop_class.php:416
+#: aioseop_class.php:426 aioseop_class.php:435 aioseop_class.php:578
+#: aioseop_class.php:594 aioseop_class.php:616
+#: modules/aioseop_performance.php:67
+msgid "Enabled"
+msgstr "Увімкнено"
+
+#: aioseop_class.php:373
+msgid "Use Keywords:"
+msgstr "Використовувати ключові слова:"
+
+#: aioseop_class.php:363
+msgid "Home Description:"
+msgstr "Опис головної стор.:"
+
+#: aioseop_class.php:353
+msgid "Home Title:"
+msgstr "Заголовок головної стор.:"
+
+#: aioseop_class.php:344
+msgid "Disable Google Analytics on this page."
+msgstr "Відключити Google Analytics на сторінці."
+
+#: aioseop_class.php:343
+msgid "Disable SEO on this page."
+msgstr "Відключити SEO для сторінки."
+
+#: aioseop_class.php:342
+msgid "Don't display this page in the sitemap."
+msgstr "Не відображати цю сторінку в карті сайту."
+
+#: aioseop_class.php:341
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "Відмітьте це щоби попросити пошукові системи не переходити по посиланням з цієї сторінки."
+
+#: aioseop_class.php:340
+msgid "Check this box to ask search engines not to index this page."
+msgstr "Відмітьте цей прапорець щоби попросити пошукові системи не індексувати цю сторінку."
+
+#: aioseop_class.php:339
+msgid "Override the canonical URLs for this post."
+msgstr "Перевизначити канонічні URLи для цього запису."
+
+#: aioseop_class.php:338
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "Розділений комами список найважливіших ключових слів для цієї сторінки який буде записаний як МЕТА ключові слова."
+
+#: aioseop_class.php:337
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "Мета опис для цієї сторінки. Це перевизначить будь-які згенеровані автоматично описи."
+
+#: aioseop_class.php:336
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "Індивідуальний заголовок, який буде відображатися в тезі заголовку для цієї сторінки."
+
+#: aioseop_class.php:335
+msgid "A preview of what this page might look like in search engine results."
+msgstr "Попередній перегляд як Ваша сторінка може виглядати в результатах пошукових систем."
+
+#: aioseop_class.php:243
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Те що Ви введете сюди буде скопійовано дослівно в заголовок домашньої сторінки, якщо Ви маєте Головну сторінку, яка відображає Ваші останні записи обрані в Налаштуваннях, Читання. Це також буде скопійовано дослівно в заголовок на сторінки записів якщо Ви це задали в Налаштуваннях, Читання. Ви можете ввести будь-які додаткові заголовки сюди, навіть посилання на таблиці стилів."
+
+#: aioseop_class.php:242
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "Те що Ви введете сюди буде скопійовано дослівно в заголовок всіх головних сторінок, якщо Ви задасте статичну сторінку в Налаштуваннях, Читання, Відображення Головної сторінки. Ви можете вводити будь-які додаткові заголовки сюди, навіть посилання на таблиці стилів. Це повернеться при використанні Заголовків додаткових сторінок якщо Ви їх задасте і нічого не ввівши сюди."
+
+#: aioseop_class.php:241
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Те що Ви введете сюди буде скопійовано дослівно в заголовок всіх Сторінок. Ви можете вводити будь-які додаткові заголовки сюди, навіть посилання на таблиці стилів."
+
+#: aioseop_class.php:240
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Те що Ви введете сюди буде скопійовано дослівно в заголовок всіх Записів. Ви можете вводити будь-які додаткові заголовки сюди, навіть посилання на таблиці стилів."
+
+#: aioseop_class.php:239
+msgid "Enter a comma separated list of pages here to be excluded by All in One SEO Pack.  This is helpful when using plugins which generate their own non-WordPress dynamic pages.  Ex: <em>/forum/, /contact/</em>  For instance, if you want to exclude the virtual pages generated by a forum plugin, all you have to do is add forum or /forum or /forum/ or and any URL with the word \\\"forum\\\" in it, such as http://mysite.com/forum or http://mysite.com/forum/someforumpage here and it will be excluded from All in One SEO Pack."
+msgstr "Введіть список сторінок, розділений комами, який необхідно виключити з All in One SEO Pack. Це корисно при використанні плагінів, які генерують власні не-WordPress динамічні сторінки. Приклад: <em>/forum/, /contact/</em> Наприклад, якщо Ви бажаєте виключити віртуальні сторінки згенеровані плагіном форуму, все що Вам необхідно зробити - це додати forum чи /forum чи /forum/ чи і будь-який URL зі словом \"forum\" в ньому, такий як http://mysite.com/forum чи http://mysite.com/forum/someforumpage сюди і його буде вилучено з All in One SEO Pack."
+
+#: aioseop_class.php:237
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "Відмітьте це щоби не захищати внутрішні поля мета записів для використання XMLRPC. Якщо Ви не знаєте що це, залиште невідміченим."
+
+#: aioseop_class.php:236
+msgid "Check this to support Schema.org markup, i.e., itemprop on supported metadata."
+msgstr "Відмітьте це щоби підтримати розмітку Schema.org, тобто itemprop мета даних, що підтримуються."
+
+#: aioseop_class.php:235
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "Відмітьте це щоби запобігти скороченню Вашого опису незалежно від його довжини."
+
+#: aioseop_class.php:234
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "Відмітьте це і Ваш Мета опис буде видалено зі сторінки 2 та наступного пронумерованого контенту."
+
+#: aioseop_class.php:233
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "Відмітьте це і короткі коди будуть використані для згенерованих автоматично описів з контенту."
+
+#: aioseop_class.php:230
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Відмітьте це щоби попросити пошукові системи не переходити по посиланням з пронумерованих сторінок/записів. Корисно для уникання дублювання контенту."
+
+#: aioseop_class.php:229
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Відмітьте це щоби попросити пошукові системи не індексувати пронумеровані сторінки/записи. Корисно для уникання дублювання контенту."
+
+#: aioseop_class.php:228
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "Відмітьте це щоби попросити пошукові системи не індексувати налаштовані Сторінки архіву таксономії. Корисно для уникання дублювання контенту."
+
+#: aioseop_class.php:227
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "Відмітьте це щоби попросити пошукові системи не індексувати сторінку 404."
+
+#: aioseop_class.php:226
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "Відмітьте це щоби попросити пошукові системи не індексувати Пошукову сторінку. Корисно для уникання дублювання контенту."
+
+#: aioseop_class.php:225
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "Відмітьте це щоби попросити пошукові системи не індексувати Архіви тегу. Корисно для уникання дублювання контенту."
+
+#: aioseop_class.php:224
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "Відмітьте це щоби попросити пошукові системи не індексувати Архіви автора. Корисно для уникання дублювання контенту."
+
+#: aioseop_class.php:223
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "Відмітьте цей прапорець щоби попросити пошукові системи не індексувати Архіви даних. Корисно для запобігання дублювання контенту."
+
+#: aioseop_class.php:222
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "Відмітьте це щоби попросити пошукові системи не індексувати Категорії архіву. Корисно для уникання дублювання контенту."
+
+#: aioseop_class.php:220
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "Задайте налаштування NOFOLLOW за замовчуванням для кожного Типу запису."
+
+#: aioseop_class.php:219
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "Задайте налаштування NOINDEX за замовчуванням для кожного Типу запису."
+
+#: aioseop_class.php:218
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "Це включає підтримку для Ecommerce в Google Analytics."
+
+#: aioseop_class.php:217
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "Це включає підтримку для Enhanced Link Attribution в Google Analytics."
+
+#: aioseop_class.php:216
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "Натисніть це якщо бажаєте відстежити вихідні посилання з Google Analytics."
+
+#: aioseop_class.php:215
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "Виключити відстеження користувачів, які ввійшли через Google Analytics за роллю."
+
+#: aioseop_class.php:214
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "Це вмикає підтримку для Display Advertiser Features в Google Analytics."
+
+#: aioseop_class.php:213
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "Це вмикає підтримку для IP Anonymization в Google Analytics."
+
+#: aioseop_class.php:212
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "Додайте список додаткових доменів для відстеження тут. Введіть одне ім'я домену в кожну лінія без http://."
+
+#: aioseop_class.php:211
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "Використайте цю опцію щоби включити відстеження багатьох або додаткових доменів."
+
+#: aioseop_class.php:210
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "Введіть ім'я Вашого домену без http:// щоби задати cookie домену."
+
+#: aioseop_class.php:209
+msgid "Check to use advanced Google Analytics options."
+msgstr "Відмітьте щоби використати продвинуті опції Google Analytics."
+
+#: aioseop_class.php:208
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "Введіть тут Google Analytics ID щоби відстежити поведінку відвідувача Вашого сайту використовуючи Google Analytics."
+
+#: aioseop_class.php:207
+msgid "Press the connect button to connect with Google Analytics; or if already connected, press the disconnect button to disable and remove any stored analytics credentials."
+msgstr "Натисніть кнопку зв'язати щоби зв'язати з Google Analytics; або якщо вже зв'язано, натисніть кнопку роз'єднати щоби вимкнути та видалити будь-які збережені аналітичні облікові дані."
+
+#: aioseop_class.php:206
+msgid "Add markup to tell Google the preferred name for your website."
+msgstr "Додайте розмітку щоби повідомити Google бажане ім'я для Вашого веб-сайту."
+
+#: aioseop_class.php:205
+msgid "Add markup to display the Google Sitelinks Search Box next to your search results in Google."
+msgstr "Додати розмітку щоби показати Google Sitelinks Search Box наступними після результатів в Google."
+
+#: aioseop_class.php:204
+msgid "The Google+ profile you enter here will appear on your homepage only as the rel=\\\"publisher\\\" tag. It is recommended that the URL you enter here should be the Google+ profile for your business."
+msgstr "Профіль Google+, який ви тут введете, буде відображатися на вашій домашній сторінці тільки в якості атрибутів rel=\\\"publisher\\\". Рекомендується, щоб URL, який тут вводиться, вказував на профіль Google+ для вашого бізнесу."
+
+#: aioseop_class.php:203
+msgid "This option allows you to control whether rel=\\\"publisher\\\" is displayed on the homepage of your site. Google recommends using this if the site is a business website."
+msgstr "Цей параметр дозволяє вказати, чи повинен атрибут rel=\\\"publisher\\\" бути присутнім на головній сторінці сайту. Google рекомендує використовувати це, якщо даний сайт є комерційним."
+
+#: aioseop_class.php:202
+msgid "This option allows you to control which types of pages you want to display rel=\\\"author\\\" on for Google authorship. The options include the Front Page (the homepage of your site), Posts, Pages, and any Custom Post Types. The Everywhere Else option includes 404, search, categories, tags, custom taxonomies, date archives, author archives and any other page template."
+msgstr "Ця опція дозволяє контролювати, на яких типах сторінок буде присутній rel=\\\"author\\\" для Google-авторства. Варіанти включають в себе головну сторінку (домашня сторінка вашого сайту), записи, сторінки, і будь-які користувацькі типи записів. Скрізь, включно зі сторінками 404, пошук, категорії, позначки, користувацькі таксономії, архіви дат, архіви авторів і будь-які інші шаблони сторінки."
+
+#: aioseop_class.php:201
+msgid "Enable this to display advanced options for controlling Google Plus authorship information on your website."
+msgstr "Включити це щоби відображати продвинуті опції для контролю інформації про авторство Google Plus на Вашому веб-сайті."
+
+#: aioseop_class.php:200
+msgid "Check this to remove the Google Plus field from the user profile screen."
+msgstr "Відмітьте це щоб видалити поле Google Plus з екрану профайлу користувача."
+
+#: aioseop_class.php:199
+msgid "Enter your Google+ Profile URL here to add the rel=“author” tag to your site for Google authorship. It is recommended that the URL you enter here should be your personal Google+ profile.  Use the Advanced Authorship Options below if you want greater control over the use of authorship."
+msgstr "Введіть Ваш URL профайлу Google+ URL сюди щоб додати тег rel=“author” на Ваш сайт для авторства на Google. Рекомендовано щоби URL, який Ви тут введете був Вашим особистим профайлом Google+. Використовуйте Продвинуті опції авторства нижче якщо бажаєте більшого контролю над використанням авторства."
+
+#: aioseop_class.php:198
+msgid "Enter your verification code here to verify your site with Pinterest.<br /><a href='https://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Введіть Ваш код перевірки тут для підтвердження Вашого сайту для Pinterest.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Натисніть сюди для документації для цього налаштуванняg</a>"
+
+#: aioseop_class.php:197
+msgid "Enter your verification code here to verify your site with Bing Webmaster Tools.<br /><a href='https://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Введіть Ваш код перевірки тут для підтвердження Вашого сайту для Bing Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Натисніть сюди для документації для цього налаштування</a>"
+
+#: inc/commonstrings.php:42
+msgid "Check this to move the All in One SEO Pack menu item to the top of your WordPress Dashboard menu."
+msgstr "Відмітьте це для перенесення пункту меню All in One SEO Pack на верхівку Вашої панелі керування WordPress."
+
+#: inc/commonstrings.php:41
+msgid "Check this to add All in One SEO Pack to the Admin Bar for easy access to your SEO settings."
+msgstr "Відмітьте це для додання All in One SEO Pack до Admin Bar для легкого доступу до Ваших налаштувань SEO."
+
+#: aioseop_class.php:195
+msgid "This lets you select which screens display the SEO Title, SEO Keywords and SEO Description columns."
+msgstr "Це дозволяє Вам обрати які екрани відображати Заголовку SEO, Ключовим словам SEO та Колонкам описання SEO."
+
+#: aioseop_class.php:193
+msgid "Use these checkboxes to select which Content Types you want to use All in One SEO Pack with."
+msgstr "Використовуйте прапорці, щоб вибрати, які типи вмісту Ви хочете використовувати з All in One Seo Pack."
+
+#: aioseop_class.php:192
+msgid "%page% - The page number"
+msgstr "%page% - Номер сторінки"
+
+#: aioseop_class.php:191 aioseop_class.php:3181 aioseop_class.php:3235
+msgid "The following macros are supported:"
+msgstr "Підтримуються наступні макроси:"
+
+#: aioseop_class.php:190
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "Цей рядок додається / додається спереду до заголовків сторінок проіндексованих сторінок (наприклад, домашньої або сторінок архіву)."
+
+#: aioseop_class.php:189
+msgid "%404_title% - Additional 404 title input"
+msgstr "%404_title% - Додаткове введення заголовка 404"
+
+#: aioseop_class.php:188
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - Шлях URL в формі читання для людини, наприклад \"Url який не існує\""
+
+#: aioseop_class.php:187
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - Оригінальний шлях URL, наприклад \"/url-that-does-not-exist/\""
+
+#: aioseop_class.php:184
+msgid "This controls the format of the title tag for the 404 page.<br />The following macros are supported:"
+msgstr "Це контролює формат заголовку тегу для сторінки 404.<br />Підтримуються наступні макроси:"
+
+#: aioseop_class.php:178
+msgid "%wp_title% - The original WordPress title, e.g. post_title for posts"
+msgstr "%wp_title% - Оригінальний заголовок wordpress, наприклад post_title для постів"
+
+#: aioseop_class.php:173
+msgid "This controls the format of Meta Descriptions.The following macros are supported:"
+msgstr "Це контролює формат Мета опису. Підтримуються наступні макроси:"
+
+#: aioseop_class.php:172
+msgid "%search% - What was searched for"
+msgstr "%search% - Що шукали"
+
+#: aioseop_class.php:169
+msgid "This controls the format of the title tag for the Search page.<br />The following macros are supported:"
+msgstr "Це контролює формат назви тегу для сторінки пошуку.<br />Підтримуються наступні макроси:"
+
+#: aioseop_class.php:167
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - Назва тегу"
+
+#: aioseop_class.php:164
+msgid "This controls the format of the title tag for Tag Archives.<br />The following macros are supported:"
+msgstr "Це контролює формат назви тегу для архіву тегів.<br />Підтримуються наступні макроси:"
+
+#: aioseop_class.php:162
+msgid "%author% - The original archive title given by wordpress, e.g. \"Steve\" or \"John Smith\""
+msgstr "%author% - Оригінал заголовку архіву, який задав wordpress, наприклад \"Steve\" чи \"John Smith\""
+
+#: aioseop_class.php:159
+msgid "This controls the format of the title tag for Author Archives.<br />The following macros are supported:"
+msgstr "Це контролює формат заголовку тегу архівів автора.<br />Підтримуються наступні макроси:"
+
+#: aioseop_class.php:157
+msgid "%year% - The original archive year given by wordpress, e.g. \"2007\""
+msgstr "%year% - Оригінальний рік архіву даний wordpress, наприклад \"2007\""
+
+#: aioseop_class.php:156
+msgid "%month% - The original archive month given by wordpress, e.g. \"August\""
+msgstr "%month% - Оригінальний місяць архіву даний  wordpress, наприклад \"Серпень\""
+
+#: aioseop_class.php:155
+msgid "%day% - The original archive day given by wordpress, e.g. \"17\""
+msgstr "%day% - Оригінальний день архіву даний wordpress, наприклад \"17\""
+
+#: aioseop_class.php:154
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - Оригінальна назва архіву дана wordpress, наприклад \"2007\" чи \"2007 Серпень\""
+
+#: aioseop_class.php:151
+msgid "This controls the format of the title tag for Date Archives.<br />The following macros are supported:"
+msgstr "Це контролює формат тегу назви для архіву дат.<br />Підтримуються наступні макроси:"
+
+#: aioseop_class.php:149
+msgid "%archive_title - The original archive title given by wordpress"
+msgstr "%archive_title - Оригінальний заголовок архіву даний wordpress"
+
+#: aioseop_class.php:146
+msgid "This controls the format of the title tag for Custom Post Archives.<br />The following macros are supported:"
+msgstr "Це контролює формат тегу заголовку для Архіву налаштованих записів.<br />Підтримуються наступні макроси:"
+
+#: aioseop_class.php:144
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - Опис категорії"
+
+#: aioseop_class.php:143
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - Оригінальна назва категорії"
+
+#: aioseop_class.php:140
+msgid "This controls the format of the title tag for Category Archives.<br />The following macros are supported:"
+msgstr "Це контролює формат тегу заголовку для категорії архівів.<br />Підтримуються наступні макроси:"
+
+#: aioseop_class.php:133 aioseop_class.php:3195
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - Прізвище автора цього запису (з великої літери)"
+
+#: aioseop_class.php:132 aioseop_class.php:3194
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - Ім'я автора цього запису (з великої літери)"
+
+#: aioseop_class.php:131 aioseop_class.php:3193
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - Гарне ім'я автора цього запису"
+
+#: aioseop_class.php:130 aioseop_class.php:3192
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - Логін автора цього запису"
+
+#: aioseop_class.php:128
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - Категорія (основна) посту"
+
+#: aioseop_class.php:127 aioseop_class.php:177
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - Оригінальна назва посту"
+
+#: aioseop_class.php:124
+msgid "This controls the format of the title tag for Posts.<br />The following macros are supported:"
+msgstr "Це контролює формат тегу заголовку для записів.<br />Підтримуються наступні макроси:"
+
+#: aioseop_class.php:110
+msgid "This controls the format of the title tag for Pages.<br />The following macros are supported:"
+msgstr "Це контролює формат тегу заголовку для сторінок.<br />Підтримуються наступні макроси:"
+
+#: aioseop_class.php:106 aioseop_class.php:117
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - Прізвище автора цієї сторінки (з великої літери)"
+
+#: aioseop_class.php:105 aioseop_class.php:116
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - Ім'я автора цієї сторінки (з великої літери)"
+
+#: aioseop_class.php:104 aioseop_class.php:115
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% - Гарне ім'я автора цієї сторінки"
+
+#: aioseop_class.php:103 aioseop_class.php:114
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - Логін автора цієї сторінки"
+
+#: aioseop_class.php:102 aioseop_class.php:113
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - Оригінальна назва сторінки"
+
+#: aioseop_class.php:101 aioseop_class.php:112 aioseop_class.php:126
+#: aioseop_class.php:142 aioseop_class.php:148 aioseop_class.php:153
+#: aioseop_class.php:161 aioseop_class.php:166 aioseop_class.php:171
+#: aioseop_class.php:175 aioseop_class.php:186 aioseop_class.php:3183
+#: aioseop_class.php:3237
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - Опис Вашого блогу"
+
+#: aioseop_class.php:100 aioseop_class.php:111 aioseop_class.php:125
+#: aioseop_class.php:141 aioseop_class.php:147 aioseop_class.php:152
+#: aioseop_class.php:160 aioseop_class.php:165 aioseop_class.php:170
+#: aioseop_class.php:174 aioseop_class.php:185 aioseop_class.php:3182
+#: aioseop_class.php:3236
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - Заголовок Вашого блогу"
+
+#: aioseop_class.php:99
+msgid "This controls the format of the title tag for your Home Page.<br />The following macros are supported:"
+msgstr "Це контролює формат заголовку тегу для Вашої домашньої сторінки.<br />Підтримуються наступні макроси:"
+
+#: aioseop_class.php:97
+msgid "Note that this is all about the title tag. This is what you see in your browser's window title bar. This is NOT visible on a page, only in the title bar and in the source code. If enabled, all page, post, category, search and archive page titles get rewritten. You can specify the format for most of them. For example: Using the default post title format below, Rewrite Titles will write all post titles as 'Post Title | Blog Name'. If you have manually defined a title using All in One SEO Pack, this will become the title of your post in the format string."
+msgstr "Зауважте що все це про назву тегу. Це те що Ви бачите у Вашому заголовку вікна браузера. Якщо ввімкнути, то всі назви сторінки, записи, категорії, пошуки та архівні сторінки будуть переписані. Ви можете задати формат для більшості з них. Наприклад: Використовуючи формат назви посту за замовчуванням нижче, Переписати назви запише всі назви постів як 'Назва посту | Назва блогу'. Якщо Ви визначили вручну назву використовуючи All in One SEO Pack, це стане назвою Вашого посту у формі рядка."
+
+#: aioseop_class.php:96
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Відмітьте це якщо хочете використати ключові слова на Вашій сторінці запису (задати в налаштуваннях  WordPress основні Налаштування, Читання, Відображення титульної сторінки) та Ваші архівні сторінки будуть динамічно згенеровані з ключових слів посту, які відображається на цій сторінці. Якщо не відмітити, то будуть використані ключові слова задані в полі редагування сторінки для записів сторінки."
+
+#: aioseop_class.php:95
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Відзначте, щоб позначки для даного запису використовувалися як ключові слова для неї ж (на додаток до будь-яким ключовим словам, зазначеним на екрані редагування запису)."
+
+#: aioseop_class.php:94
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Відмітьте це якщо хочете використати категорії для заданого посту як Мета ключові слова для цього посту (додатково до будь-яких ключових слів заданих в полі Редагувати запис)."
+
+#: aioseop_class.php:93
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Ця опція дозволяє Вам перемикати використання ключових слів по всьому сайту."
+
+#: aioseop_class.php:92
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "Відмічаючи цю опцію буде використана назва, опис, і ключові слова задані на Вашій статичній титульній сторінці."
+
+#: aioseop_class.php:91
+msgid "Enter a comma separated list of your most important keywords for your site that will be written as Meta Keywords on your homepage. Do not stuff everything in here."
+msgstr "Введіть список найбільш важливих ключових слів, для Вашого веб-сайту, розділених комами, які будуть записані як Мета ключові слова для Вашої домашньої сторінки. Не вводьте все сюди."
+
+#: aioseop_class.php:90
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "Це буде Мета опис Вашої домашньої сторінки. Це не залежить від будь-яко іншої опції. За замовчуванням Мета опис не задано."
+
+#: aioseop_class.php:89
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "Так як назва впливає, це буде Мета назва Вашої домашньої сторінки. Це не залежить від будь-яко іншої опції. Якщо не задано, то буде використана Назва сайту за замовчуванням (можна знайти в розділі налаштування WordPress, основні налаштування, назва сайту)."
+
+#: aioseop_class.php:88
+msgid "Check this and All in One SEO Pack will create a log of important events (all-in-one-seo-pack.log) in its plugin directory which might help debugging. Make sure this directory is writable."
+msgstr "Відмітьте це і All in One SEO Pack створить журнал важливих подій (all-in-one-seo-pack.log) в каталозі плагінів, які можуть використовуватися при налагодженні. Переконайтеся, що цей каталог доступний для запису."
+
+#: aioseop_class.php:87
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "Використовувати wp_title для отримання назви, яку використовує тема; ця функція вимкнена за замовчуванням. Якщо Ви використовуєте цю опцію, задайте Ваші формати сайту відповідно, так як Ваша тема може також намагатися створити свою назву SEO."
+
+#: aioseop_class.php:86
+msgid "Checking this option will allow you to customize Canonical URLs for specific posts."
+msgstr "Відмічання цієї опції дозволить Вам налаштувати канонічні URLи для конкретних записів."
+
+#: aioseop_class.php:85
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "Відмічання цієї опції задасть канонічні URL для всього пронумерованого контенту для першої сторінки."
+
+#: aioseop_class.php:73 aioseop_class.php:965
+#: modules/aioseop_importer_exporter.php:46
+msgid "General Settings"
+msgstr "Загальні налаштування"
+
+#: aioseop_class.php:72
+msgid "%s Plugin Options"
+msgstr "Налаштування плагіна %s"
+
+#: modules/aioseop_bad_robots.php:58
+msgid "No requests yet."
+msgstr "Поки, запитів немає."
+
+#: modules/aioseop_bad_robots.php:57
+msgid "Log Of Blocked Bots"
+msgstr "Журнал блокованих ботів"
+
+#: modules/aioseop_bad_robots.php:46
+msgid "Referer Blocklist"
+msgstr "Чорний список реферерів"
+
+#: modules/aioseop_bad_robots.php:38
+msgid "User Agent Blocklist"
+msgstr "Чорний список користувацьких агентів"
+
+#: modules/aioseop_bad_robots.php:35
+msgid "Track Blocked Bots"
+msgstr "Відстеження блокованих ботів"
+
+#: modules/aioseop_bad_robots.php:29
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "Показати журнал останніх запитів від блокованих ботів. Зауважте: це не відстежує ботів, які вже були блоковані на веб сервері, на рівні / .htaccess."
+
+#: modules/aioseop_bad_robots.php:28
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "Це список заборонених реферерів, який використовується для блокування шкідливих ботів."
+
+#: modules/aioseop_bad_robots.php:27
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "Це список заборонених користувацьких агентів, що використовується для блокування шкідливих ботів."
+
+#: modules/aioseop_bad_robots.php:26
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "Відмітьте це для редагування списку недозволенних агентів користувачів для блокування поганих ботів."
+
+#: modules/aioseop_bad_robots.php:25
+msgid "Log and show recent requests from blocked bots."
+msgstr "Журналювання і відображення останніх запитів від заблокованих ботів."
+
+#: modules/aioseop_bad_robots.php:23
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "Блокування запитів від користувацьких агентів, які відомі пустощами з 503."
+
+#. translators: the Bad Bot Blocker module allows users to block requests from
+#. user agents that are known to misbehave.
+#: modules/aioseop_feature_manager.php:61 modules/aioseop_bad_robots.php:17
+msgid "Bad Bot Blocker"
+msgstr "Блокувальник шкідливих ботів"

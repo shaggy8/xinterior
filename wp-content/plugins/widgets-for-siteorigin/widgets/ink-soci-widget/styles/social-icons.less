@@ -1,0 +1,140 @@
+@import "../mixins/less/mixins";
+
+@gap: 20px;
+@padding: 10px;
+@design: 'cir';
+@size: 30px;
+@default-color: #fff;
+@bg-color: #b9b9b9;
+@hover-color: #fff;
+@hover-bg-color: #000;
+
+.iw-so-social-icons {
+    .iw-so-social-icon {
+        margin-right: @gap;
+        padding: @padding;
+
+        &:last-child {
+            margin-right: 0;
+        }
+
+        [class^="sow-icon-"] {
+            font-size: @size;
+            color: @default-color;
+            width: @size;
+            height: @size;
+        }
+
+        &:hover {
+            [class^="sow-icon-"] {
+                color: @hover-color;
+            }
+        }
+
+        .design() when (@design = cir) {
+            border-radius: 50%;
+            background: @bg-color;
+
+            &:hover {
+                background: @hover-bg-color;
+            }
+        }
+        .design() when (@design = sq) {
+            background: @bg-color;
+
+            &:hover {
+                background: @hover-bg-color;
+            }
+        }
+        .design() when (@design = cirb) {
+            border-radius: 50%;
+            border-color: @bg-color;
+
+            &:hover {
+                background: @hover-bg-color;
+                border-color: @hover-bg-color;
+            }
+        }
+        .design() when (@design = sqb) {
+            border-color: @bg-color;
+
+            &:hover {
+                background: @hover-bg-color;
+                border-color: @hover-bg-color;
+            }
+        }
+        .design();
+    }
+}
+
+.widget-function('generate_calls_to', .create_social_media_icon_style);
+
+.create_social_media_icon_style(@name, @icon-color:'', @icon-bg-color:'', @icon-hover-color:'', @icon-hover-bg-color:'') {
+
+    .iw-so-social-icons {
+        .iw-so-social-icon-@{name} {
+
+            .design_icon() when (@design = cir) {
+                border-radius: 50%;
+                background: @icon-bg-color;
+                [class^="sow-icon-"] {
+                    color: @icon-color;
+                }
+
+                &:hover {
+                    background: @icon-hover-bg-color;
+                    [class^="sow-icon-"] {
+                        color: @icon-hover-color;
+                    }
+                }
+            }
+            .design_icon() when (@design = sq) {
+                background: @icon-bg-color;
+                color: @icon-color;
+                [class^="sow-icon-"] {
+                    color: @icon-color;
+                }
+
+                &:hover {
+                    background: @icon-hover-bg-color;
+                    [class^="sow-icon-"] {
+                        color: @icon-hover-color;
+                    }
+                }
+            }
+            .design_icon() when (@design = cirb) {
+                border-radius: 50%;
+                border-color: @icon-bg-color;
+                color: @icon-color;
+                [class^="sow-icon-"] {
+                    color: @icon-color;
+                }
+
+                &:hover {
+                    background: @icon-hover-bg-color;
+                    border-color: @icon-hover-bg-color;
+                    [class^="sow-icon-"] {
+                        color: @icon-hover-color;
+                    }
+                }
+            }
+            .design_icon() when (@design = sqb) {
+                border-color: @icon-bg-color;
+                color: @icon-color;
+                [class^="sow-icon-"] {
+                    color: @icon-color;
+                }
+
+                &:hover {
+                    background: @icon-hover-bg-color;
+                    border-color: @icon-hover-bg-color;
+                    [class^="sow-icon-"] {
+                        color: @icon-hover-color;
+                    }
+                }
+            }
+            .design_icon();
+
+        }
+    }
+}

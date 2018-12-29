@@ -1,0 +1,1357 @@
+# Translation of Plugins - Page Builder by SiteOrigin - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Page Builder by SiteOrigin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-17 13:00:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Page Builder by SiteOrigin - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://siteorigin.com"
+msgstr "https://siteorigin.com"
+
+#. Author of the plugin/theme
+msgid "SiteOrigin"
+msgstr "SiteOrigin"
+
+#. Description of the plugin/theme
+msgid "A drag and drop, responsive page builder that simplifies building your website."
+msgstr "Ett responsivt sidkonstruktörstillägg som gör det lättare att bygga din webbplats."
+
+#. Plugin URI of the plugin/theme
+msgid "https://siteorigin.com/page-builder/"
+msgstr "https://siteorigin.com/page-builder/"
+
+#. Plugin Name of the plugin/theme
+msgid "Page Builder by SiteOrigin"
+msgstr "Page Builder av SiteOrigin"
+
+#: widgets/widgets.php:951
+msgid "Auto Play Video"
+msgstr "Autostarta Videos"
+
+#: widgets/widgets.php:946
+msgid "An image that displays before the video starts playing."
+msgstr "En bild som visas innan videon startar."
+
+#: widgets/widgets.php:944
+msgid "Poster URL"
+msgstr "URL till Videons Startbild"
+
+#: widgets/widgets.php:940
+msgid "Video URL"
+msgstr "Video URL"
+
+#: widgets/widgets.php:898
+msgid "A self hosted video player."
+msgstr "Egen Videoplayer"
+
+#: widgets/widgets.php:896
+msgid "Self Hosted Video (PB)"
+msgstr "Egen Videospelare (PB)"
+
+#: widgets/widgets.php:880
+msgid "Video"
+msgstr "Video"
+
+#: widgets/widgets.php:842
+msgid "Embeds a video."
+msgstr "Bäddar in en video."
+
+#: widgets/widgets.php:840
+msgid "Embedded Video (PB)"
+msgstr "Inbäddad Video (PB)"
+
+#: widgets/widgets.php:789
+msgid "Displays a simple image."
+msgstr "Visar en enkel bild."
+
+#: widgets/widgets.php:787
+msgid "Image (PB)"
+msgstr "Bild (PB)"
+
+#: widgets/widgets.php:769
+msgid "File"
+msgstr "Fil"
+
+#: widgets/widgets.php:768
+msgid "Attachment Page"
+msgstr "Bilagesida"
+
+#: widgets/widgets.php:766
+msgid "Link To"
+msgstr "Länk Till"
+
+#: widgets/widgets.php:761
+msgid "Columns"
+msgstr "Collumner"
+
+#: widgets/widgets.php:756
+msgid "Gallery Type"
+msgstr "Gallerityp"
+
+#: widgets/widgets.php:748
+msgid "Full"
+msgstr "Hel"
+
+#: widgets/widgets.php:747
+msgid "Thumbnail"
+msgstr "Tumnagel"
+
+#: widgets/widgets.php:746
+msgid "Medium"
+msgstr "Medel"
+
+#: widgets/widgets.php:745
+msgid "Large"
+msgstr "Stor"
+
+#: widgets/widgets.php:742
+msgid "Image Size"
+msgstr "Bildstorlek"
+
+#: widgets/widgets.php:738
+msgid "Comma separated attachment IDs. Defaults to all current page's attachments."
+msgstr "Kommaseparerade ID's. Standardvärdet på alla aktuella sidors bilagor."
+
+#: widgets/widgets.php:734
+msgid "edit gallery"
+msgstr "Editera Galleri"
+
+#: widgets/widgets.php:733
+msgid "Gallery Images"
+msgstr "Galleribilder"
+
+#: widgets/widgets.php:694
+msgid "Displays a gallery."
+msgstr "Visar ett galleri."
+
+#: widgets/widgets.php:692
+msgid "Gallery (PB)"
+msgstr "Galleri (PB)"
+
+#: widgets/widgets.php:631
+msgid "Additional Arguments"
+msgstr "Ytterligare argument"
+
+#: widgets/widgets.php:231
+msgid "%s Style"
+msgstr "%s Stil"
+
+#: widgets/widgets.php:207
+msgid "Style"
+msgstr "Stil"
+
+#. TRANSLATORS: Uniform Resource Locator
+#: widgets/widgets/testimonial/testimonial.php:32
+msgid "URL"
+msgstr "URL"
+
+#: widgets/widgets/testimonial/testimonial.php:23
+msgid "Image"
+msgstr "Bild"
+
+#: widgets/widgets/testimonial/testimonial.php:19
+msgid "Location"
+msgstr "Plats"
+
+#: widgets/widgets/testimonial/testimonial.php:8
+msgid "Displays a bullet list of points"
+msgstr "Visar en punktlista med punkter"
+
+#: widgets/widgets/testimonial/testimonial.php:6
+msgid "Testimonial (PB)"
+msgstr "Vitsord"
+
+#: widgets/widgets/price-box/price-box.php:50
+msgid "Feature List"
+msgstr "Egenskapslista"
+
+#: widgets/widgets/price-box/price-box.php:31
+msgid "Features Text"
+msgstr "Egenskapstext"
+
+#: widgets/widgets/price-box/price-box.php:27
+msgid "Information Text"
+msgstr "Informationstext"
+
+#: widgets/widgets/price-box/price-box.php:23
+msgid "Per"
+msgstr "Per"
+
+#: widgets/widgets/price-box/price-box.php:19
+msgid "Price"
+msgstr "Pris"
+
+#: widgets/widgets/price-box/price-box.php:6
+msgid "Price Box (PB)"
+msgstr "Prisbox (PB)"
+
+#: widgets/widgets/list/list.php:20 widgets/widgets/price-box/price-box.php:32
+msgid "Start each new point with an asterisk (*)"
+msgstr "Starta varje ny punkt med en asterisk (*)"
+
+#: widgets/widgets/list/list.php:8 widgets/widgets/price-box/price-box.php:8
+msgid "Displays a bullet list of elements"
+msgstr "Visar en punktlista över element"
+
+#: widgets/widgets/list/list.php:6
+msgid "List (PB)"
+msgstr "Lista (PB)"
+
+#: widgets/widgets/call-to-action/call-to-action.php:37
+#: widgets/widgets/price-box/price-box.php:49
+msgid "Button"
+msgstr "Knapp"
+
+#: widgets/widgets/call-to-action/call-to-action.php:27
+#: widgets/widgets/price-box/price-box.php:40
+msgid "Button URL"
+msgstr "Knapp URL"
+
+#: widgets/widgets/call-to-action/call-to-action.php:23
+#: widgets/widgets/price-box/price-box.php:36
+msgid "Button Text"
+msgstr "Knapptext"
+
+#: widgets/widgets/call-to-action/call-to-action.php:19
+msgid "Sub Title"
+msgstr "Undertext"
+
+#: widgets/widgets/call-to-action/call-to-action.php:8
+msgid "A Call to Action block"
+msgstr "Uppmaningsblock"
+
+#: widgets/widgets/call-to-action/call-to-action.php:6
+msgid "Call To Action (PB)"
+msgstr "Uppmaning (PB)"
+
+#: widgets/widgets/button/button.php:32
+msgid "Justify"
+msgstr "Justera"
+
+#: widgets/widgets/button/button.php:31
+msgid "Center"
+msgstr "Centrerad"
+
+#: widgets/widgets/button/button.php:30
+msgid "Right"
+msgstr "Höger"
+
+#: widgets/widgets/button/button.php:29
+msgid "Left"
+msgstr "Vänster"
+
+#: widgets/widgets/button/button.php:27
+msgid "Button Alignment"
+msgstr "Knappjustering"
+
+#: widgets/widgets/button/button.php:23
+#: widgets/widgets/call-to-action/call-to-action.php:31
+#: widgets/widgets/price-box/price-box.php:44
+#: widgets/widgets/testimonial/testimonial.php:36
+msgid "Open In New Window"
+msgstr "Öppna i nytt fönster"
+
+#: widgets/widgets/button/button.php:19 widgets/widgets.php:826
+msgid "Destination URL"
+msgstr "Destinations URL"
+
+#: widgets/widgets/button/button.php:15 widgets/widgets/list/list.php:19
+#: widgets/widgets/testimonial/testimonial.php:27
+msgid "Text"
+msgstr "Text"
+
+#: widgets/widgets/button/button.php:6
+msgid "Button (PB)"
+msgstr "Knapp (PB)"
+
+#: widgets/widgets/animated-image/animated-image.php:25
+msgid "Slide Right"
+msgstr "Glid Höger"
+
+#: widgets/widgets/animated-image/animated-image.php:24
+msgid "Slide Left"
+msgstr "Glid Vänster"
+
+#: widgets/widgets/animated-image/animated-image.php:23
+msgid "Slide Down"
+msgstr "Glid Net"
+
+#: widgets/widgets/animated-image/animated-image.php:22
+msgid "Slide Up"
+msgstr "Glid Upp"
+
+#: widgets/widgets/animated-image/animated-image.php:21
+msgid "Fade In"
+msgstr "Tona In"
+
+#: widgets/widgets/animated-image/animated-image.php:19
+msgid "Animation"
+msgstr "Animering"
+
+#: widgets/widgets/animated-image/animated-image.php:15 widgets/widgets.php:822
+msgid "Image URL"
+msgstr "Bild URL"
+
+#: widgets/widgets/animated-image/animated-image.php:8
+msgid "An image that animates in when it enters the screen."
+msgstr "En bild som animeras när den kommer in i skärmen."
+
+#: widgets/widgets/animated-image/animated-image.php:6
+msgid "Animated Image (PB)"
+msgstr "Animerad Bild (PB)"
+
+#: widgets/basic.php:477 widgets/widgets.php:635
+msgid "Additional query arguments. See 1{query_posts}."
+msgstr "Ytterligare frågeargument. Se 1{Funktionsreferencen för/query posts}."
+
+#: widgets/basic.php:470
+msgid "Additional "
+msgstr "Ytterligare␣"
+
+#: widgets/basic.php:465 widgets/widgets.php:625
+msgid "Only Sticky"
+msgstr "Endast Klistrade"
+
+#: widgets/basic.php:464 widgets/widgets.php:624
+msgid "Exclude Sticky"
+msgstr "Uteslut Klistrade"
+
+#: widgets/basic.php:463 widgets/widgets.php:623
+msgid "Ignore Sticky"
+msgstr "Ignorera Klistrade"
+
+#: widgets/basic.php:462 widgets/widgets.php:622 widgets/widgets.php:744
+msgid "Default"
+msgstr "Standard"
+
+#: widgets/basic.php:460 widgets/widgets.php:620
+msgid "Sticky Posts"
+msgstr "Klistrade Inlägg"
+
+#: widgets/basic.php:455 widgets/widgets.php:613
+msgid "Ascending"
+msgstr "Ökande"
+
+#: widgets/basic.php:454 widgets/widgets.php:614
+msgid "Descending"
+msgstr "Fallande"
+
+#: widgets/basic.php:452 widgets/widgets.php:611
+msgid "Order"
+msgstr "Ordning"
+
+#: widgets/basic.php:447
+msgid "Post In Order"
+msgstr "Inläggsordning"
+
+#: widgets/basic.php:446 widgets/widgets.php:605
+msgid "Menu Order"
+msgstr "Menyordning"
+
+#: widgets/basic.php:445 widgets/widgets.php:604
+msgid "Comment Count"
+msgstr "Kommentarsräknare"
+
+#: widgets/basic.php:444 widgets/widgets.php:603
+msgid "Random"
+msgstr "Slumpmässigt"
+
+#: widgets/basic.php:443 widgets/widgets.php:602
+msgid "Parent"
+msgstr "Förälder"
+
+#: widgets/basic.php:442 widgets/widgets.php:601
+msgid "Modified"
+msgstr "Modifierad"
+
+#: widgets/basic.php:441 widgets/widgets.php:600
+msgid "Date"
+msgstr "Datum"
+
+#: widgets/basic.php:439 widgets/basic.php:440
+#: widgets/widgets/testimonial/testimonial.php:15 widgets/widgets.php:598
+#: widgets/widgets.php:599
+msgid "Name"
+msgstr "Namn"
+
+#: widgets/basic.php:438 widgets/widgets.php:597
+msgid "Author"
+msgstr "Författare"
+
+#: widgets/basic.php:437 widgets/widgets.php:596
+msgid "Post ID"
+msgstr "Inläggs ID"
+
+#: widgets/basic.php:434 widgets/widgets.php:593
+msgid "Order By"
+msgstr "Sortera Efter"
+
+#: widgets/basic.php:429 widgets/widgets.php:588
+msgid "Posts Per Page"
+msgstr "Inlägg Per Sida"
+
+#: widgets/basic.php:420 widgets/widgets.php:581
+msgid "Post Type"
+msgstr "Inläggstyp"
+
+#: widgets/basic.php:386
+msgid "If the template supports it, cut posts and display the more link."
+msgstr "Om mallen stöder det, korta ner inlägg och visa \"mer\" länken."
+
+#: widgets/basic.php:384
+msgid "More Link "
+msgstr "Mer"
+
+#: widgets/basic.php:368
+msgid "Template"
+msgstr "Mall"
+
+#: widgets/basic.php:358
+msgid "Your theme doesn't have any post loops."
+msgstr "Din tema har inga inläggsslingor."
+
+#: widgets/basic.php:159
+msgid "Displays a post loop."
+msgstr "Visar en inläsggsslinga."
+
+#: widgets/basic.php:157
+msgid "Post Loop"
+msgstr "Inläggsloop"
+
+#: widgets/basic.php:137
+msgid "Display Content"
+msgstr "Visa Innehåll"
+
+#: widgets/basic.php:132
+msgid "Featured Image"
+msgstr "Utvald Bild"
+
+#: widgets/basic.php:131 widgets/basic.php:364
+#: widgets/widgets/call-to-action/call-to-action.php:15
+#: widgets/widgets/list/list.php:15 widgets/widgets/price-box/price-box.php:15
+msgid "Title"
+msgstr "Titel"
+
+#: widgets/basic.php:130 widgets/basic.php:436 widgets/widgets.php:595
+#: widgets/widgets.php:770
+msgid "None"
+msgstr "Ingen"
+
+#: widgets/basic.php:84
+msgid "Displays content from the current post."
+msgstr "Visar innehållet från aktuellt inlägg."
+
+#: widgets/basic.php:82
+msgid "Post Content"
+msgstr "Inläggsinnehåll"
+
+#: widgets/basic.php:53
+msgid "Open Builder"
+msgstr "Öppna Buildern"
+
+#: widgets/basic.php:15
+msgid "A complete SiteOrigin Page Builder layout as a widget."
+msgstr "En komplett SiteOrigin Page Builder utseende som en widget"
+
+#. TRANSLATORS: This is the name of a widget
+#: widgets/basic.php:13
+msgid "Layout Builder"
+msgstr "Layout Builder"
+
+#: tpl/options.php:82
+msgid "Inline CSS"
+msgstr "Inline CSS"
+
+#: tpl/options.php:76
+msgid "Cell Side Margins"
+msgstr "Cellens sidomarginaler"
+
+#: tpl/options.php:58
+msgid "Should the layout collapse for mobile devices."
+msgstr "Ska layouten kollapsa för mobila enheter."
+
+#: tpl/options.php:48
+msgid "Display"
+msgstr "Visa"
+
+#: tpl/options.php:40
+msgid "Include the bundled widgets."
+msgstr "Inkludera Widgetsamlingen"
+
+#: tpl/options.php:39
+msgid "Bundled Widgets"
+msgstr "Widgetsamling"
+
+#: tpl/options.php:33
+msgid "Disable animations for improved performance."
+msgstr "Inaktivera animationer för förbättrad prestanda."
+
+#: tpl/options.php:32
+msgid "Animations"
+msgstr "Animationer"
+
+#: tpl/options.php:26
+msgid "Copy content from Page Builder into the standard content editor."
+msgstr "Kopiera innehållet från Page Builder till standard editorn."
+
+#: tpl/js-templates.php:560
+msgid "No Results"
+msgstr "Inga resultat"
+
+#: tpl/js-templates.php:512
+msgid "Close Live Editor"
+msgstr "Stäng Liveeditorn"
+
+#: tpl/js-templates.php:487
+msgid "Restore Version"
+msgstr "Återställ Version"
+
+#: tpl/js-templates.php:473
+msgid "Page Builder Change History"
+msgstr "Page Builder Ändringshistorik"
+
+#: tpl/js-templates.php:452
+msgid "Download Layout"
+msgstr "Ladda ner layout"
+
+#: tpl/js-templates.php:440
+msgid "Select Import File"
+msgstr "Välj fil att importera"
+
+#: tpl/js-templates.php:437
+msgid "Or"
+msgstr "eller"
+
+#: tpl/js-templates.php:436
+msgid "Drop import file here"
+msgstr "Dra och Släpp importfilen här"
+
+#: tpl/js-templates.php:426
+msgid "Next"
+msgstr "Nästa"
+
+#: tpl/js-templates.php:425
+msgid "Previous"
+msgstr "Föregående"
+
+#: tpl/js-templates.php:398
+msgid "Your search didn't return any results"
+msgstr "Din sökning gav inga resultat"
+
+#: tpl/js-templates.php:392
+msgid "Newest Layouts"
+msgstr "De senaste layouterna"
+
+#: tpl/js-templates.php:384
+msgid "Enable"
+msgstr "Aktivera"
+
+#: tpl/js-templates.php:383
+msgid "Do you want to browse the Prebuilt Layouts directory?"
+msgstr "Vill du titta igenom katalogen med förbyggda layouter?"
+
+#: tpl/js-templates.php:365
+msgid "Clone: %s"
+msgstr "Klona: %s"
+
+#: tpl/js-templates.php:359
+msgid "Import/Export"
+msgstr "Import/Export"
+
+#: tpl/js-templates.php:358
+msgid "Layouts Directory"
+msgstr "Katalog för layouter"
+
+#: tpl/js-templates.php:355
+msgid "Theme Defined"
+msgstr "Definierat Tema"
+
+#: tpl/js-templates.php:351
+msgid "Search"
+msgstr "Sök"
+
+#: tpl/js-templates.php:347
+msgid "Prebuilt Layouts"
+msgstr "Förbyggda Layoutförslag"
+
+#: tpl/js-templates.php:329
+msgid "Save"
+msgstr "Spara"
+
+#: tpl/js-templates.php:327
+msgid "Insert"
+msgstr "Infoga"
+
+#: tpl/js-templates.php:308
+msgid "Set"
+msgstr "Återgå till förinställt val"
+
+#: tpl/js-templates.php:302
+msgid "1{Set row layout}: %1$s columns with a ratio of %2$s going from %3$s"
+msgstr "1{Ställ in radlayout}: %1$s kolumner med en ratio av %2$s som går från %3$s "
+
+#: tpl/js-templates.php:291
+msgid "Right to Left"
+msgstr "Höger till Vänster"
+
+#: tpl/js-templates.php:290
+msgid "Left to Right"
+msgstr "Vänster till Höger"
+
+#: tpl/js-templates.php:254
+msgid "Add New Row"
+msgstr "Lägg till ny Rad"
+
+#: tpl/js-templates.php:199
+msgid "Close"
+msgstr "Stäng"
+
+#: tpl/js-templates.php:183
+msgid "Add New Widget %s"
+msgstr "Lägg till en ny Widget %s"
+
+#: tpl/js-templates.php:169 tpl/js-templates.php:234
+msgid "Done"
+msgstr "Färdig"
+
+#: tpl/js-templates.php:115 tpl/js-templates.php:230 tpl/js-templates.php:321
+msgid "Delete"
+msgstr "Radera"
+
+#: tpl/js-templates.php:114 tpl/js-templates.php:231 tpl/js-templates.php:322
+msgid "Duplicate"
+msgstr "Duplicera"
+
+#: tpl/js-templates.php:113
+msgid "Edit"
+msgstr "Editera"
+
+#: tpl/js-templates.php:85
+msgid "Delete Row"
+msgstr "Radera Rad"
+
+#: tpl/js-templates.php:84
+msgid "Duplicate Row"
+msgstr "Duplicera Rad"
+
+#: tpl/js-templates.php:83 tpl/js-templates.php:256
+msgid "Edit Row"
+msgstr "Editera Rad"
+
+#. TRANSLATORS: This message gives suggestions of next steps for the user
+#. x{...} is used to insert links
+#: tpl/js-templates.php:64
+msgid "Add a 1{widget}, 2{row} or 3{prebuilt layout} to get started. Read our 4{documentation} if you need help."
+msgstr "Lägg till en 1{widget}, 2{rad} eller 3{förkompilerad layout} för att komma igång. Läs vår 4{dokumentation} om du behöver hjälp."
+
+#: tpl/js-templates.php:39
+msgid "Switch to Editor"
+msgstr "Ändra till Editor"
+
+#: tpl/js-templates.php:34
+msgid "Live Editor"
+msgstr "Editera Live"
+
+#: tpl/js-templates.php:29
+msgid "History"
+msgstr "Historik"
+
+#: tpl/js-templates.php:22
+msgid "Prebuilt"
+msgstr "Färdiga Mallar"
+
+#: tpl/js-templates.php:12
+msgid "Add Widget"
+msgstr "Lägg till Widget"
+
+#: tpl/help.php:18
+msgid "Read the 1{full documentation} on SiteOrigin. Ask a question on our 2{support forum} if you need help and sign up to 3{our newsletter} to stay up to date with future developments."
+msgstr "Läs 1 {full documentation} på SiteOrigin. Ställ en fråga på våra 2 {support forum} om du behöver hjälp och registrera dig till 3 {our newsletter} för att hålla dig uppdaterad med den framtida utvecklingen."
+
+#: tpl/help.php:3
+msgid "The page layouts are responsive and fully customizable."
+msgstr "Sidolayouterna är responsiva och helt anpassningsbara."
+
+#: tpl/help.php:2
+msgid "You can use SiteOrigin Page Builder to create home and sub pages, filled your own widgets."
+msgstr "Du kan använda SiteOrigin Page Builder för att skapa hem och undersidor, fyllda med dina egna widgets."
+
+#: tpl/admin-home-page.php:50
+msgid "This interface requires Javascript"
+msgstr "Detta gränssnitt kräver Javascript"
+
+#: tpl/admin-home-page.php:46
+msgid "Save Home Page"
+msgstr "Spara Startsidan"
+
+#: tpl/admin-home-page.php:29
+msgid "Home page updated. 1{View page}."
+msgstr "Startsida är uppdaterad.1{View page}."
+
+#: tpl/admin-home-page.php:13
+msgid "Custom Home Page"
+msgstr "Anpassad Startsida"
+
+#: tpl/admin-home-page.php:9
+msgid "Off"
+msgstr "Av"
+
+#: tpl/admin-home-page.php:9
+msgid "On"
+msgstr "På"
+
+#: siteorigin-panels.php:1390
+msgid "Newsletter"
+msgstr "Nyhetsbrev"
+
+#: siteorigin-panels.php:1389
+msgid "Support Forum"
+msgstr "Supportforum"
+
+#: siteorigin-panels.php:1322
+msgid "The widget 1{%1$s} is not available. Please try locate and install the missing plugin. Post on the 2{support forums} if you need help."
+msgstr "Widgeten 1{%1$s} är inte tillgänglig. Försök hitta och installera den saknade pluginen. Gör ett inlägg på något av de 2{supportforumen} om du behöver hjälp."
+
+#: siteorigin-panels.php:1305
+msgid "Save and reload this page to start using the widget after you've installed it."
+msgstr "Spara och ladda om denna sida för att börja använda widgeten när du har installerat den."
+
+#: siteorigin-panels.php:1299
+msgid "You need to install 1{%1$s} to use the widget 2{%2$s}."
+msgstr "Du måste installera 1{%1$s} för att kunna använda widgeten 2{%2$s}."
+
+#: siteorigin-panels.php:1207
+msgid "Edit Home Page"
+msgstr "Editera Startsidan"
+
+#: siteorigin-panels.php:834
+msgid "Read More"
+msgstr "Läs mer"
+
+#: siteorigin-panels.php:442
+msgid "Untitled Widget"
+msgstr "Namnlös Widget"
+
+#: siteorigin-panels.php:395
+msgid "Error uploading or importing file."
+msgstr "Ett fel uppstod vid uppladdning eller import av fil."
+
+#: siteorigin-panels.php:394
+msgid "Page Builder layouts"
+msgstr "Page Builder Layouter"
+
+#: siteorigin-panels.php:386
+msgid "Column"
+msgstr "Kolumn"
+
+#: siteorigin-panels.php:385 tpl/js-templates.php:17
+msgid "Add Row"
+msgstr "Lägg till en Rad"
+
+#: siteorigin-panels.php:383 tpl/js-templates.php:187
+msgid "Search Widgets"
+msgstr "Sök Widgets"
+
+#: siteorigin-panels.php:382
+msgid "Add Widget to Cell"
+msgstr "Lägg till widget i cell"
+
+#: siteorigin-panels.php:381
+msgid "Add Widget Below"
+msgstr "Lägg till widgetar nedan"
+
+#: siteorigin-panels.php:377
+msgid "Search Results For: "
+msgstr "Sökresultat för:"
+
+#. TRANSLATORS: A standard confirmation message
+#: siteorigin-panels.php:376 tpl/js-templates.php:85
+msgid "Are you sure?"
+msgstr "Är du säker?"
+
+#. TRANSLATORS: This is the title for a widget called "Layout Builder"
+#: siteorigin-panels.php:374
+msgid "Layout Builder Widget"
+msgstr "Layouttillverkare Widget"
+
+#: siteorigin-panels.php:372
+msgid "Would you like to clear your Page Builder content and revert to using the standard visual editor?"
+msgstr "Vill du rensa din Page Builders innehåll och återgå till att använda standard visuella redigeraren?"
+
+#: siteorigin-panels.php:371
+msgid "Would you like to copy this editor's existing content to Page Builder?"
+msgstr "Vill du kopiera denna editors befintliga innehåll till Page Builder"
+
+#: siteorigin-panels.php:370
+msgid "Loading prebuilt layout"
+msgstr "Ladda förinställt utseende"
+
+#: siteorigin-panels.php:369
+msgid "Are you sure you want to overwrite your current content? This can be undone in the builder history."
+msgstr "Är du säker på att du vill skriva över ditt nuvarande innehåll? (Detta kan du ångra senare i Byggarens historia)."
+
+#: siteorigin-panels.php:365
+msgid "Prebuilt layout loaded"
+msgstr "Förinställt utseende laddat"
+
+#: siteorigin-panels.php:362
+msgid "Cell resized"
+msgstr "Cell storleksändrad"
+
+#. TRANSLATORS: Message displayed in the history when a row is duplicated
+#: siteorigin-panels.php:359
+msgid "Row duplicated"
+msgstr "Rad duplicerad"
+
+#. TRANSLATORS: Message displayed in the history when a row position is changed
+#: siteorigin-panels.php:357
+msgid "Row moved"
+msgstr "Rad flyttad"
+
+#. TRANSLATORS: Message displayed in the history when a row is edited
+#: siteorigin-panels.php:355
+msgid "Row edited"
+msgstr "Rad editerad"
+
+#. TRANSLATORS: Message displayed in the history when a row is added
+#: siteorigin-panels.php:353
+msgid "Row added"
+msgstr "Rad tillagd"
+
+#. TRANSLATORS: Message displayed in the history when a row is deleted
+#: siteorigin-panels.php:351
+msgid "Row deleted"
+msgstr "Rad borttagen"
+
+#. TRANSLATORS: Message displayed in the history when a widget position is
+#. changed
+#: siteorigin-panels.php:347
+msgid "Widget moved"
+msgstr "Widget flyttad"
+
+#. TRANSLATORS: Message displayed in the history when a widget is duplicated
+#: siteorigin-panels.php:345
+msgid "Widget duplicated"
+msgstr "Widget duplicerad"
+
+#. TRANSLATORS: Message displayed in the history when a widget is edited
+#: siteorigin-panels.php:343
+msgid "Widget edited"
+msgstr "Widget editerad"
+
+#. TRANSLATORS: Message displayed in the history when a widget is added
+#: siteorigin-panels.php:341
+msgid "Widget added"
+msgstr "Widget tillagd"
+
+#. TRANSLATORS: Message displayed in the history when a widget is deleted
+#: siteorigin-panels.php:339
+msgid "Widget deleted"
+msgstr "Widget raderad"
+
+#: siteorigin-panels.php:335
+msgid "Converted to editor"
+msgstr "Konverterat till redigerare"
+
+#: siteorigin-panels.php:334
+msgid "Version restored"
+msgstr "Version återställd"
+
+#: siteorigin-panels.php:333
+msgid "Original"
+msgstr "Orginal"
+
+#: siteorigin-panels.php:332
+msgid "Current"
+msgstr "Nuvarande"
+
+#: siteorigin-panels.php:328
+msgid "Now"
+msgstr "Nu"
+
+#. TRANSLATORS: Time ago - eg. "1 minute before".
+#: siteorigin-panels.php:327
+msgid "%s before"
+msgstr "%s sedan"
+
+#. TRANSLATORS: A single hour since
+#: siteorigin-panels.php:324
+msgid "%d hour"
+msgstr "%d timme"
+
+#. TRANSLATORS: A single minute since
+#: siteorigin-panels.php:322
+msgid "%d minute"
+msgstr "%d minut"
+
+#. TRANSLATORS: A single second since
+#: siteorigin-panels.php:320
+msgid "%d second"
+msgstr "%d sekund"
+
+#. TRANSLATORS: Number of hours since
+#: siteorigin-panels.php:317
+msgid "%d hours"
+msgstr "%d timmar"
+
+#. TRANSLATORS: Number of minutes since
+#: siteorigin-panels.php:315
+msgid "%d minutes"
+msgstr "%d minuter"
+
+#. TRANSLATORS: Number of seconds since
+#: siteorigin-panels.php:313
+msgid "%d seconds"
+msgstr "%d sekunder"
+
+#: siteorigin-panels.php:309
+msgid "Page Builder doesn't know about this widget."
+msgstr "Page Builder vet inte vad detta är för widget."
+
+#: siteorigin-panels.php:308
+msgid "Missing Widget"
+msgstr "Saknade Widgetar"
+
+#: siteorigin-panels.php:284
+msgid "All Widgets"
+msgstr "Alla Widgetar"
+
+#. TRANSLATORS: This is the default name given to a user's home page
+#: siteorigin-panels.php:76 siteorigin-panels.php:136
+msgid "Home Page"
+msgstr "Startsida"
+
+#: siteorigin-panels.php:75
+msgid "Custom Home Page Builder"
+msgstr "Anpassad Hemside Byggare"
+
+#: settings/tpl/settings.php:78 tpl/options.php:93
+msgid "Save Settings"
+msgstr "Spara Inställningarna"
+
+#: settings/tpl/settings.php:29
+msgid "Settings Saved"
+msgstr "Inställningarna Sparade"
+
+#: settings/tpl/settings.php:12
+msgid "Search Settings"
+msgstr "Sökinställningar"
+
+#: settings/tpl/help.php:6
+msgid "Please read the 1{settings guide} of the Page Builder documentation for help."
+msgstr "Vänligen läs 1{inställningsguiden} för Page Builder dokumentationen för hjälp."
+
+#: settings/settings.php:276
+msgid "Copy content from Page Builder to post content."
+msgstr "Kopiera innehåll från Page Builder till inläggsinnehåll."
+
+#: settings/settings.php:275 tpl/options.php:25
+msgid "Copy Content"
+msgstr "Kopiera Innehåll"
+
+#: settings/settings.php:269
+msgid "Content"
+msgstr "Innehåll"
+
+#: settings/settings.php:262
+msgid "The container used for the full width layout."
+msgstr "Behållaren använd för fullbredds layout."
+
+#: settings/settings.php:261
+msgid "Full Width Container"
+msgstr "Fullbredd behållare"
+
+#: settings/settings.php:255
+msgid "Default spacing between columns in each row."
+msgstr "Standardavstånd mellan kolumnerna i varje rad."
+
+#: settings/settings.php:254
+msgid "Row Gutter"
+msgstr "Rad Fästmarginal"
+
+#: settings/settings.php:248
+msgid "Default margin below rows."
+msgstr "Standard marginal under rader."
+
+#: settings/settings.php:247 tpl/options.php:70
+msgid "Row Bottom Margin"
+msgstr "Nedre Radmarginal"
+
+#: settings/settings.php:241
+msgid "Device width, in pixels, to collapse into a mobile view ."
+msgstr "Enhetens bredd, i pixlar, som vi fäller ihop i en mobil vy"
+
+#: settings/settings.php:240 tpl/options.php:64
+msgid "Mobile Width"
+msgstr "Mobil Bredd"
+
+#: settings/settings.php:234
+msgid "Collapse widgets, rows and columns on mobile devices."
+msgstr "Fäll ihop widgets, rader och kolumner på mobila enheter."
+
+#: settings/settings.php:233 tpl/options.php:57
+msgid "Responsive Layout"
+msgstr "Responsive Layout"
+
+#: settings/settings.php:219
+msgid "Display recommend widgets in Page Builder add widget dialog."
+msgstr "Visa rekommenderade widgetar i PAge Builder lägg till widget dialog."
+
+#: settings/settings.php:213
+msgid "Load legacy widgets from Page Builder 1."
+msgstr "Ladda äldre widgetar från Page Builder 1."
+
+#: settings/settings.php:212
+msgid "Legacy Bundled Widgets"
+msgstr "Äldre Bundlade Widgetar"
+
+#: settings/settings.php:207
+msgid "The HTML used for widget titles. {{title}} is replaced with the widget title."
+msgstr "HTML som används för widget titlar. {{title}} ersätts med widgetens titel."
+
+#: settings/settings.php:206
+msgid "Widget Title HTML"
+msgstr "Widget Titel HTML"
+
+#: settings/settings.php:200
+msgid "Widgets"
+msgstr "Widgets"
+
+#: settings/settings.php:194
+msgid "The post types to use Page Builder on."
+msgstr "Inläggstyper att använda PageBuilder på"
+
+#: settings/settings.php:192 tpl/options.php:15
+msgid "Post Types"
+msgstr "Inläggstyper"
+
+#: settings/settings.php:186 tpl/options.php:11
+msgid "General"
+msgstr "Allmänna"
+
+#: settings/settings.php:170
+msgid "Page Builder Settings"
+msgstr "Page Builder Inställningar"
+
+#: settings/settings.php:146 siteorigin-panels.php:110
+#: siteorigin-panels.php:516 tpl/js-templates.php:160
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: settings/settings.php:146 settings/tpl/settings.php:9 tpl/options.php:5
+msgid "SiteOrigin Page Builder"
+msgstr "SiteOrigin Page Builder"
+
+#: inc/widgets.php:168 settings/settings.php:218
+msgid "Recommended Widgets"
+msgstr "Rekomenderade Widgets"
+
+#. TRANSLATORS: The name of WordPress plugin
+#: inc/widgets.php:160
+msgid "BBPress"
+msgstr "BBPress"
+
+#. TRANSLATORS: The name of WordPress plugin
+#: inc/widgets.php:149
+msgid "Jetpack"
+msgstr "JetPack"
+
+#. TRANSLATORS: The name of WordPress plugin
+#: inc/widgets.php:138
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/widgets.php:128
+msgid "WordPress Widgets"
+msgstr "WordPress Widgets"
+
+#: inc/widgets.php:120
+msgid "You can enable the legacy (PB) widgets in the 1{Page Builder settings}."
+msgstr "Du kan göra det möjligt för äldre (PB) widgetar i {Page Builder inställningar}."
+
+#: inc/widgets.php:112
+msgid "Page Builder Widgets"
+msgstr "Page Builder Widgets"
+
+#: inc/widgets.php:107
+msgid "Install the 1{Widgets Bundle} to get extra widgets."
+msgstr "Installera 1{Widgets Bundle} för att få fler widgetar. "
+
+#: inc/widgets.php:99
+msgid "Enable more widgets in the 1{Widgets Bundle settings}."
+msgstr "Aktivera fler widgets i 1{Widgets Bundle settings}."
+
+#: inc/widgets.php:84
+msgid "Widgets Bundle"
+msgstr "Widgets Bundle"
+
+#: inc/widgets-bundle.php:68
+msgid "Display your posts as a carousel."
+msgstr "Visa dina inlägg som en karusell"
+
+#: inc/widgets-bundle.php:67
+msgid "SiteOrigin Post Carousel"
+msgstr "SiteOrigin Inläggskarusell"
+
+#: inc/widgets-bundle.php:56
+msgid "Display site features as a collection of icons."
+msgstr "Visa siteegenskaper som en samling av ikoner."
+
+#: inc/widgets-bundle.php:55
+msgid "SiteOrigin Features"
+msgstr "SiteOrigin Egenskaper"
+
+#: inc/widgets-bundle.php:44
+msgid "A basic slider widget."
+msgstr "En grundläggande sliderwidget."
+
+#: inc/widgets-bundle.php:43
+msgid "SiteOrigin Slider"
+msgstr "SiteOrigin Slider"
+
+#: inc/widgets-bundle.php:32
+msgid "Choose images from your media library."
+msgstr "Välj bild från mediabiblioteket"
+
+#: inc/widgets-bundle.php:31
+msgid "SiteOrigin Image"
+msgstr "SiteOrigin Bild"
+
+#: inc/widgets-bundle.php:20 widgets/widgets/button/button.php:8
+msgid "A simple button"
+msgstr "Enkel Knapp"
+
+#: inc/widgets-bundle.php:19
+msgid "SiteOrigin Button"
+msgstr "SiteOrigin Knapp"
+
+#: inc/widgets-bundle.php:11 inc/widgets-bundle.php:23
+#: inc/widgets-bundle.php:35 inc/widgets-bundle.php:47
+#: inc/widgets-bundle.php:59 inc/widgets-bundle.php:71 inc/widgets.php:106
+msgid "SiteOrigin Widgets Bundle"
+msgstr "SiteOrigin Samling av Widgetar"
+
+#: inc/widgets-bundle.php:8
+msgid "A rich text editor"
+msgstr "Visuell textredigerare"
+
+#: inc/widgets-bundle.php:7
+msgid "SiteOrigin Editor"
+msgstr "SiteOrigin Editor"
+
+#: inc/styles.php:201 settings/settings.php:313
+msgid "Enabled"
+msgstr "Aktivera"
+
+#: inc/styles.php:187
+msgid "Remove"
+msgstr "Radera"
+
+#: inc/styles.php:183
+msgid "Select Image"
+msgstr "Välj Bild"
+
+#: inc/styles.php:64
+msgid "Theme"
+msgstr "Tema"
+
+#: inc/styles.php:54
+msgid "Design"
+msgstr "Design"
+
+#: inc/styles.php:50 settings/settings.php:225
+msgid "Layout"
+msgstr "Utseende"
+
+#: inc/styles.php:46
+msgid "Attributes"
+msgstr "Attribut"
+
+#: inc/styles.php:23
+msgid "Widget Styles"
+msgstr "Widgetstilar"
+
+#: inc/styles.php:19
+msgid "Row Styles"
+msgstr "Radstilar"
+
+#: inc/revisions.php:50
+msgid "Page Builder Content"
+msgstr "Page Builder Innehåll"
+
+#: inc/plugin-activation.php:74
+msgid "Installing %s"
+msgstr "Installerar %s"
+
+#: inc/plugin-activation.php:7 inc/plugin-activation.php:8
+msgid "Install Page Builder Plugin"
+msgstr "Installera Page Builder Plugin"
+
+#: inc/default-styles.php:219
+msgid "Color of text inside this widget."
+msgstr "Färg på texten inuti widgeten"
+
+#: inc/default-styles.php:216
+msgid "Font Color"
+msgstr "Typsnittsfärg"
+
+#: inc/default-styles.php:211
+msgid "Border color of the widget."
+msgstr "Kantfärg på widgeten"
+
+#: inc/default-styles.php:189
+msgid "Background image of the widget."
+msgstr "Widgetens bakgrundsbild"
+
+#: inc/default-styles.php:181
+msgid "Background color of the widget."
+msgstr "Widgetens bakgrundsfärg"
+
+#: inc/default-styles.php:170
+msgid "Padding around the entire widget."
+msgstr "Padding runt hela widgeten."
+
+#: inc/default-styles.php:151
+msgid "Widget Class"
+msgstr "Widgetklass"
+
+#: inc/default-styles.php:142
+msgid "Border color of the row."
+msgstr "Kantfärg på ramen"
+
+#: inc/default-styles.php:139 inc/default-styles.php:208
+msgid "Border Color"
+msgstr "Kantfärg"
+
+#: inc/default-styles.php:134 inc/default-styles.php:203
+msgid "How the background image is displayed."
+msgstr "Hur bakgrundsbilden visas"
+
+#: inc/default-styles.php:132 inc/default-styles.php:201
+msgid "Parallax"
+msgstr "Parallax"
+
+#: inc/default-styles.php:131 inc/default-styles.php:200
+msgid "Centered, with original size"
+msgstr "Centrerad i sin Orginalstorlek"
+
+#: inc/default-styles.php:130 inc/default-styles.php:199
+msgid "Cover"
+msgstr "Omslag"
+
+#: inc/default-styles.php:129 inc/default-styles.php:198
+msgid "Tiled Image"
+msgstr "Liten Bild"
+
+#: inc/default-styles.php:125 inc/default-styles.php:194
+msgid "Background Image Display"
+msgstr "Bakgrundsbild Visning"
+
+#: inc/default-styles.php:120
+msgid "Background image of the row."
+msgstr "Bakgrundsbild på raden"
+
+#: inc/default-styles.php:117 inc/default-styles.php:186
+msgid "Background Image"
+msgstr "Bakgrundsbild"
+
+#: inc/default-styles.php:112
+msgid "Background color of the row."
+msgstr "Bakgrundsfärg på raden"
+
+#: inc/default-styles.php:109 inc/default-styles.php:178
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: inc/default-styles.php:101
+msgid "Full Width Stretched"
+msgstr "Full bredd Utsträckt"
+
+#: inc/default-styles.php:100
+msgid "Full Width"
+msgstr "Full Bredd"
+
+#: inc/default-styles.php:99
+msgid "Standard"
+msgstr "Standard"
+
+#: inc/default-styles.php:95
+msgid "Row Layout"
+msgstr "Rad Utseende"
+
+#: inc/default-styles.php:89
+msgid "Padding around the entire row."
+msgstr "Spaltutfyllnad runt hela raden"
+
+#: inc/default-styles.php:86 inc/default-styles.php:167
+msgid "Padding"
+msgstr "Spaltutfyllnad"
+
+#: inc/default-styles.php:81
+msgid "Amount of space between columns."
+msgstr "Mängden utrymme mellan kolumner."
+
+#: inc/default-styles.php:78
+msgid "Gutter"
+msgstr "Fästmarginal"
+
+#: inc/default-styles.php:73
+msgid "Space below the row."
+msgstr "Utrymme nedanför raden"
+
+#: inc/default-styles.php:70
+msgid "Bottom Margin"
+msgstr "Nedre Marginal"
+
+#: inc/default-styles.php:63 inc/default-styles.php:162
+msgid "CSS Styles, given as one per row."
+msgstr "CSS-stilar, givet som en per rad."
+
+#: inc/default-styles.php:60 inc/default-styles.php:159
+msgid "CSS Styles"
+msgstr "CSS Stilar"
+
+#: inc/default-styles.php:55
+msgid "Class added to all cells in this row."
+msgstr "En Klass som läggs till alla celler i den här raden."
+
+#: inc/default-styles.php:52
+msgid "Cell Class"
+msgstr "Cellklass"
+
+#: inc/default-styles.php:47 inc/default-styles.php:154
+msgid "A CSS class"
+msgstr "En CSS Klass"
+
+#: inc/default-styles.php:44
+msgid "Row Class"
+msgstr "RadKlass"
+
+#. TRANSLATORS: Indicate if there are items to clone. %s will be pages, posts,
+#. etc.
+#: inc/admin-actions.php:129
+msgid "There are no %s with Page Builder content to clone."
+msgstr "Det finns inget %s gjort med Page Builder innehåll du kan klona."
+
+#: inc/admin-actions.php:111
+msgid "Clone"
+msgstr "Klona"
+
+#: inc/admin-actions.php:78
+msgid "You can still clone existing pages though."
+msgstr "Men du kan fortfarande klona befintliga sidor ändå."
+
+#: inc/admin-actions.php:77
+msgid "Your theme doesn't have any prebuilt layouts."
+msgstr "Ditt tema har inga förgjorda layouts."
+
+#: inc/admin-actions.php:68
+msgid "No description"
+msgstr "Ingen beskrivning"

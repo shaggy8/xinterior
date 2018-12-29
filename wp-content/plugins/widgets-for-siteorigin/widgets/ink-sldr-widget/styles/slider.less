@@ -1,0 +1,94 @@
+@icon-color: #fff;
+@icon-size: 25px;
+@icon-bg: #333;
+@icon-border: #333;
+@icon-border-width: 0px;
+@icon-padding: 10px;
+@icon-margin: 0px;
+@icon-shape: 0;
+@dot-color: #333;
+@dot-size: 18px;
+@dot-position: below;
+@caption-position: bottom;
+@caption-theme: dark;
+
+.iw-so-slider {
+	.slick-arrow {
+		font-size: @icon-size;
+		color: @icon-color;
+		background-color: @icon-bg;
+		border-color: @icon-border;
+		border-width: @icon-border-width;
+		border-style: solid;
+		border-radius: @icon-shape;
+		padding: @icon-padding;
+		margin: @icon-margin;
+
+		&:hover {
+			opacity: 1;
+		}
+	}
+
+	&:hover {
+		.slick-arrow {
+			.arrow-show() when ( @icon-hover = 1 ) {
+				visibility: visible;
+			}
+			.arrow-show();
+		}
+	}
+
+	.slick-dots {
+		li {
+			button:before {
+				color: @dot-color;
+				font-size: @dot-size;
+			}
+
+			&.slick-active button:before {
+				color: @dot-color;
+			}
+		}
+
+		.dot-pos() when ( @dot-position = bottom ) {
+			position: relative;
+			bottom: 30px;
+		}
+		.dot-pos();
+	}
+
+	.iw-so-slider-slide {
+
+		.iw-so-slide-caption {
+			.caption-pos() when ( @caption-position = bottom ) {
+				bottom: 20px;
+			}
+			.caption-pos() when ( @caption-position = top ) {
+				top: 20px;
+			}
+			.caption-pos();
+
+			[class^="sow-icon-"] {
+				.caption-icon-clr() when ( @caption-theme = light ) {
+					color: rgba( 255,255,255,0.8 );
+				}
+				.caption-icon-clr() when ( @caption-theme = dark ) {
+					color: rgba( 0,0,0,0.8 );
+				}
+				.caption-icon-clr();
+			}
+
+			.caption {
+				.caption-clr() when ( @caption-theme = light ) {
+					background: rgba( 255,255,255,0.8 );
+					color: rgba( 0,0,0,0.8 );
+				}
+				.caption-clr() when ( @caption-theme = dark ) {
+					background: rgba( 0,0,0,0.8 );
+					color: rgba( 255,255,255,0.8 );
+				}
+				.caption-clr();
+			}
+		}
+	}
+}

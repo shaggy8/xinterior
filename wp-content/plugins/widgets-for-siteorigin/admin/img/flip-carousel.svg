@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>element-flip carousel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-405.000000, -726.000000)">
+            <g id="flip-carousel" transform="translate(405.000000, 726.000000)">
+                <rect id="Rectangle-16" fill="#FFFFFF" x="0" y="0" width="125" height="125"></rect>
+                <g id="post" transform="translate(22.562445, 55.915998) rotate(-15.000000) translate(-22.562445, -55.915998) translate(5.062445, 37.915998)">
+                    <rect id="Rectangle-20" stroke="#3EB0F7" stroke-width="2" x="1" y="1" width="32.7289726" height="34"></rect>
+                    <g id="Group-5" transform="translate(9.423077, 11.213115)" stroke="#DDDDDD" stroke-linecap="square">
+                        <path d="M0.624505067,12.442623 L5.5731925,4.86885246" id="Line"></path>
+                        <path d="M6.98710319,8.1147541 L5.5731925,4.86885246" id="Line-Copy-2"></path>
+                        <path d="M6.98710319,8.1147541 L11.2288353,0.540983607" id="Line-Copy-3"></path>
+                        <path d="M11.2288353,0.540983607 L15.4705674,10.2786885" id="Line-Copy-4"></path>
+                    </g>
+                </g>
+                <g id="post-copy-4" transform="translate(100.500000, 56.000000) rotate(15.000000) translate(-100.500000, -56.000000) translate(83.000000, 38.000000)">
+                    <rect id="Rectangle-20" stroke="#3EB0F7" stroke-width="2" x="1" y="1" width="32.7289726" height="34"></rect>
+                    <g id="Group-5" transform="translate(9.423077, 11.213115)" stroke="#DDDDDD" stroke-linecap="square">
+                        <path d="M0.624505067,12.442623 L5.5731925,4.86885246" id="Line"></path>
+                        <path d="M6.98710319,8.1147541 L5.5731925,4.86885246" id="Line-Copy-2"></path>
+                        <path d="M6.98710319,8.1147541 L11.2288353,0.540983607" id="Line-Copy-3"></path>
+                        <path d="M11.2288353,0.540983607 L15.4705674,10.2786885" id="Line-Copy-4"></path>
+                    </g>
+                </g>
+                <g id="post-copy-6" transform="translate(44.000000, 33.000000)">
+                    <rect id="Rectangle-20" stroke="#3EB0F7" stroke-width="2" x="1" y="1" width="32.7289726" height="34"></rect>
+                    <g id="Group-5" transform="translate(9.423077, 11.213115)" stroke="#DDDDDD" stroke-linecap="square">
+                        <path d="M0.624505067,12.442623 L5.5731925,4.86885246" id="Line"></path>
+                        <path d="M6.98710319,8.1147541 L5.5731925,4.86885246" id="Line-Copy-2"></path>
+                        <path d="M6.98710319,8.1147541 L11.2288353,0.540983607" id="Line-Copy-3"></path>
+                        <path d="M11.2288353,0.540983607 L15.4705674,10.2786885" id="Line-Copy-4"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

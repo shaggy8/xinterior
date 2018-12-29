@@ -1,0 +1,3370 @@
+# Translation of Plugins - All in One SEO Pack - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - All in One SEO Pack - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-25 08:01:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - All in One SEO Pack - Stable (latest release)\n"
+
+#: aioseop_class.php:542
+msgid "Bing Webmaster Tools:"
+msgstr "Bing 網站管理員工具:"
+
+#: aioseop_class.php:537
+msgid "Google Search Console:"
+msgstr "Google Search Console:"
+
+#: aioseop_class.php:108 aioseop_class.php:122 aioseop_class.php:138
+#: aioseop_class.php:183
+msgid "%cf_fieldname% - Custom field name"
+msgstr "%cf_fieldname% - 自訂欄位名稱"
+
+#: modules/aioseop_sitemap.php:202
+msgid "Create RSS Sitemap"
+msgstr "建立 RSS Sitemap"
+
+#: modules/aioseop_sitemap.php:160
+msgid "Create RSS Sitemap as well."
+msgstr "啟用這項設定便會為這個網站建立 RSS Sitemap。"
+
+#: aioseop_class.php:995
+msgid "Content Type Settings"
+msgstr "內容類型設定"
+
+#. translators: Link to sitemap within current site.
+#: modules/aioseop_sitemap.php:872
+msgid "Click here to %1$sview your RSS sitemap%2$s."
+msgstr "點擊這裡以%1$s檢視這個網站的 RSS sitemap%2$s。"
+
+#. translators: Link to documentation.
+#: modules/aioseop_sitemap.php:866
+msgid "view your XML sitemap"
+msgstr "檢視這個網站的 XML Sitemap"
+
+#: modules/aioseop_robots.php:533
+msgid "Modify Rule"
+msgstr "修改規則"
+
+#: modules/aioseop_robots.php:49
+msgid "Disallow"
+msgstr "不允許"
+
+#: inc/aioseop_functions.php:439
+msgid "Please provide absolute URLs (including http or https)."
+msgstr "請提供絕對網址 (亦即網址開頭必須包含 http:// 或 https://)。"
+
+#: modules/aioseop_robots.php:505
+msgid "Wild-card path cannot be overridden: %s"
+msgstr "萬用字元路徑無法進行覆寫: %s"
+
+#: modules/aioseop_robots.php:483
+msgid "Path cannot be overridden: %s"
+msgstr "路徑無法進行覆寫: %s"
+
+#: modules/aioseop_robots.php:476
+msgid "Rule cannot be overridden: %s"
+msgstr "規則無法進行覆寫: %s"
+
+#: modules/aioseop_robots.php:462
+msgid "Identical rule exists: %s"
+msgstr "相同的規則已存在: %s"
+
+#: modules/aioseop_robots.php:443
+msgid "Directory Path cannot be empty"
+msgstr "[目錄路徑] 欄位不能留空"
+
+#: modules/aioseop_robots.php:440
+msgid "User Agent cannot be empty"
+msgstr "[使用者代理程式] 欄位不能留空"
+
+#: modules/aioseop_robots.php:183
+msgid "Unable to delete file"
+msgstr "無法刪除檔案"
+
+#: modules/aioseop_robots.php:178
+msgid "Unable to read file"
+msgstr "無法讀取檔案"
+
+#: modules/aioseop_robots.php:125
+msgid "A physical file exists. This feature cannot be used."
+msgstr "實體檔案已存在，無法使用這個功能。"
+
+#: modules/aioseop_robots.php:123
+msgid "A physical file exists. Do you want to %simport and delete%s it, %sdelete%s it or continue using it?"
+msgstr "Robot.txt 的實體檔案已存在，網站管理員必須決定要為這個檔案進行%s匯入後刪除%s、%s直接刪除%s或繼續使用。"
+
+#: modules/aioseop_robots.php:75
+msgid "Configured Rules"
+msgstr "已設定的規則"
+
+#: modules/aioseop_robots.php:49
+msgid "Allow"
+msgstr "允許"
+
+#: modules/aioseop_robots.php:47
+msgid "Rule"
+msgstr "規則"
+
+#: modules/aioseop_robots.php:34
+msgid "Use the rule builder below to add/delete rules."
+msgstr "請使用下方的規則產生器新增/刪除規則。"
+
+#: modules/aioseop_feature_manager.php:51
+msgid "Edit your .htaccess file to fine-tune your site."
+msgstr "編輯 .htaccess 檔案以便為這個網站進行微調。"
+
+#. translators: Shows which sitemap files were renamed.
+#: modules/aioseop_sitemap.php:1169
+msgid "Renamed %1$s to %2$s."
+msgstr "將 [%1$s] 重新命名為 [%2$s]。"
+
+#: modules/aioseop_sitemap.php:172
+msgid "URL to the page. This field accepts relative URLs or absolute URLs with the protocol specified."
+msgstr "請輸入頁面的網址。這個欄位可輸入相對網址或包含指定通訊協定的絕對網址。"
+
+#: admin/aioseop_module_class.php:1273
+msgid "File %s already exists!\n"
+msgstr "檔案 %s 已存在！\n"
+
+#: admin/aioseop_module_class.php:1265
+msgid "Failed to rename file %s!\n"
+msgstr "無法將檔案 %s 重新命名！\n"
+
+#: admin/aioseop_module_class.php:1243 admin/aioseop_module_class.php:1271
+msgid "File %s doesn't exist!\n"
+msgstr "檔案 %s 不存在！\n"
+
+#: admin/aioseop_module_class.php:1238
+msgid "Failed to delete file %s!\n"
+msgstr "無法刪除檔案 %s。\n"
+
+#: admin/aioseop_module_class.php:1208
+msgid "File %s isn't writable!\n"
+msgstr "檔案 %s 為不可寫入！\n"
+
+#: admin/aioseop_module_class.php:1207
+msgid "Failed to write file %s!\n"
+msgstr "無法對檔案 %s 進行寫入。\n"
+
+#: admin/aioseop_module_class.php:52
+msgid "Method %s doesn't exist"
+msgstr "%s 方法不存在"
+
+#: inc/aioseop_functions.php:481
+msgid "All values are mandatory."
+msgstr "所有設定為必填。"
+
+#: modules/aioseop_sitemap.php:236
+msgid "Exclude Images"
+msgstr "排除圖片"
+
+#: modules/aioseop_sitemap.php:168
+msgid "Exclude Images in your sitemap."
+msgstr "在 Sitemap 中排除圖片。"
+
+#. translators: Links to the current AIOSEOP Sitemap settings.
+#: modules/aioseop_sitemap.php:495
+msgid "%1$s Click here%2$s to make these recommended changes."
+msgstr "%1$s點擊這裡%2$s以便進行建議的變更。"
+
+#: modules/aioseop_sitemap.php:491
+msgid "Notice: To avoid problems with your XML Sitemap, we strongly recommend you enable Sitemap Indexes and set the Maximum Posts per Sitemap Page to 1000."
+msgstr "注意事項: 為避免 XML Sitemap 發生問題，強烈建議核取 [啟用 Sitemap 索引] 並將 [每一 Sitemap 頁面所包含的最大文章數] 設定為 1000。"
+
+#: modules/aioseop_sitemap.php:867
+msgid " Your sitemap has been created with content and images."
+msgstr "這個網站透過站內圖文內容建立了 Sitemap，"
+
+#: inc/commonstrings.php:73
+msgid "Check this if you want to track interactions with the official Facebook and Twitter widgets with Google Analytics."
+msgstr "啟用這項設定後，便能透過 Google Analytics 追蹤與 Facebook 及 Twitter 官方小工具的互動性。"
+
+#: inc/commonstrings.php:72
+msgid "Check this if you want to track how far down a user scrolls a page with Google Analytics."
+msgstr "啟用這項設定後，便能透過 Google Analytics 追蹤使用者捲動頁面的深度。"
+
+#: inc/commonstrings.php:71
+msgid "Check this if you want to ensure consistency in URL paths reported to Google Analytics."
+msgstr "啟用這項設定後，便能確保回報給 Google Analytics 的網址路徑一致性。"
+
+#. Translators: The term 'viewport' refers to the area of the page that is
+#. visible to the user, see https://www.w3schools.com/css/css_rwd_viewport.asp.
+#: inc/commonstrings.php:70
+msgid "Check this if you want to track when elements are visible within the viewport with Google Analytics."
+msgstr "啟用這項設定後，便能透過 Google Analytics 追蹤檢視點範圍中的元素可見度。"
+
+#. Translators: 'This option allows users to track media queries, allowing them
+#. to find out if users are viewing a responsive layout or not and which layout
+#. changes have been applied if the browser window has been resized by the
+#. user, see
+#. https://github.com/googleanalytics/autotrack/blob/master/docs/plugins/media-query-tracker.md.
+#: inc/commonstrings.php:65
+msgid "Check this if you want to track media query matching and queries with Google Analytics."
+msgstr "啟用這項設定後，便能透過 Google Analytics 追蹤媒體查詢相符狀況及查詢狀況。"
+
+#: inc/commonstrings.php:59
+msgid "Check this if you want to track how long pages are in visible state with Google Analytics."
+msgstr "啟用這項設定後，便能透過 Google Analytics 追蹤使用者在頁面可見的狀況下的停留時間。"
+
+#: inc/commonstrings.php:58
+msgid "Check this if you want to track URL changes for single pages with Google Analytics."
+msgstr "啟用這項設定後，便能透過 Google Analytics 追蹤單篇文章/頁面的網址變更。"
+
+#: inc/commonstrings.php:57
+msgid "Check this if you want to track events with Google Analytics."
+msgstr "啟用這項設定後，便能透過 Google Analytics 追蹤事件。"
+
+#: inc/commonstrings.php:56
+msgid "Check this if you want to track outbound forms with Google Analytics."
+msgstr "啟用這項設定後，便能透過 Google Analytics 追蹤出站方式。"
+
+#: inc/commonstrings.php:55
+msgid "Ensure URL Consistency:"
+msgstr "確保網址一致性:"
+
+#: inc/commonstrings.php:54
+msgid "Track Facebook and Twitter:"
+msgstr "追蹤 Facebook 及 Twitter:"
+
+#: inc/commonstrings.php:53
+msgid "Track Page Scrolling:"
+msgstr "追蹤網頁捲動深度:"
+
+#: inc/commonstrings.php:52
+msgid "Track Elements Visibility:"
+msgstr "追蹤元素可見度:"
+
+#: inc/commonstrings.php:51
+msgid "Track Media Query:"
+msgstr "追蹤媒體查詢:"
+
+#: inc/commonstrings.php:50
+msgid "Track Page Visibility:"
+msgstr "追蹤頁面可見度:"
+
+#: inc/commonstrings.php:49
+msgid "Track URL Changes:"
+msgstr "追蹤網址變更:"
+
+#: inc/commonstrings.php:48
+msgid "Track Events:"
+msgstr "追蹤事件:"
+
+#: inc/commonstrings.php:47
+msgid "Track Outbound Forms:"
+msgstr "追蹤出站方式:"
+
+#: modules/aioseop_opengraph.php:110
+msgid "Select the Twitter Card type to use for this Page or Post, overriding the default setting."
+msgstr "這項設定能讓你為這個頁面或文章選取 Twitter 卡片類型，這項設定會覆寫預設設定。"
+
+#. translators: Social Meta refers to Open Graph (OG:) meta tags, which can be
+#. used to control the appearance of a site's posts/pages when shared on social
+#. media networks like Facebook and Twitter.
+#: modules/aioseop_feature_manager.php:41
+msgid "Add Social Meta data to your site to deliver closer integration between your website/blog and social media."
+msgstr "將社交網路中繼資料加入這個網站，以便將這個網站/部落格與社交網路媒體進行更緊密的整合。"
+
+#: inc/commonstrings.php:46
+msgid "Your license has expired. Please %1$s click here %2$s to purchase a new one."
+msgstr "這個網站的授權已過期。請%1$s點擊這裡%2$s訂購新的授權金鑰。"
+
+#: inc/commonstrings.php:45
+msgid "There is a new version of %1$s available. Go to <a href='%2$s'>the plugins page</a> for details."
+msgstr "已有新版的 %1$s 可供更新。請前往<a href='%2$s'>外掛頁面</a>以瞭解更多資訊。"
+
+#: inc/commonstrings.php:44
+msgid "You must <a href=\"%s\">enter a valid License Key</a> for it to work."
+msgstr "必須輸入<a href=\"%s\">有效的授權金鑰</a>才能正常執行。"
+
+#: inc/commonstrings.php:43
+msgid "%s is almost ready."
+msgstr "%s即將準備就緒。"
+
+#: aioseop_class.php:942
+msgid "NOFOLLOW this page/post"
+msgstr "不前往這篇文章/頁面的連結"
+
+#: aioseop_class.php:938
+msgid "NOINDEX this page/post"
+msgstr "不為這篇文章/頁面進行索引"
+
+#: aioseop_class.php:182
+msgid "%post_month% - The month the page/post was published (localized)"
+msgstr "%post_month% - 文章/頁面的發佈月份 (如果支援的話，會以當地語系顯示)"
+
+#: aioseop_class.php:181
+msgid "%post_year% - The year the page/post was published (localized)"
+msgstr "%post_year% - 文章/頁面的發佈年份 (如果支援的話，會以當地語系顯示)"
+
+#: aioseop_class.php:180
+msgid "%post_date% - The date the page/post was published (localized)"
+msgstr "%post_date% - 文章/頁面的發佈日期，包含完整的年月日 (如果支援的話，會以當地語系顯示)"
+
+#: aioseop_class.php:137 aioseop_class.php:3199
+msgid "%post_month% - The month the post was published (localized)"
+msgstr "%post_month% - 文章的發佈月份 (如果支援的話，會以當地語系顯示)"
+
+#: aioseop_class.php:136 aioseop_class.php:3198
+msgid "%post_year% - The year the post was published (localized)"
+msgstr "%post_year% - 文章的發佈年份 (如果支援的話，會以當地語系顯示)"
+
+#: aioseop_class.php:135 aioseop_class.php:3197
+msgid "%post_date% - The date the post was published (localized)"
+msgstr "%post_date% - 文章的發佈日期，包含完整的年月日 (如果支援的話，會以當地語系顯示)"
+
+#: aioseop_class.php:121
+msgid "%post_month% - The month the page was published (localized)"
+msgstr "%post_month% - 頁面的發佈月份 (如果支援的話，會以當地語系顯示)"
+
+#: aioseop_class.php:120
+msgid "%post_year% - The year the page was published (localized)"
+msgstr "%post_year% - 頁面的發佈年份 (如果支援的話，會以當地語系顯示)"
+
+#: aioseop_class.php:119
+msgid "%post_date% - The date the page was published (localized)"
+msgstr "%post_date% - 頁面的發佈日期，包含完整的年月日 (如果支援的話，會以當地語系顯示)"
+
+#: admin/aioseop_module_class.php:2329
+msgid "Upload Image"
+msgstr "上傳圖片"
+
+#: all_in_one_seo_pack.php:299
+msgid "Feature Request/Bug Report"
+msgstr "新功能建議/回報問題"
+
+#: modules/aioseop_opengraph.php:424
+msgid "Enable Facebook Meta for Post Types"
+msgstr "為指定文章類型啟用 Facebook 中繼資料"
+
+#: modules/aioseop_performance.php:267
+msgid "Permalink Setting"
+msgstr "固定網址設定"
+
+#: modules/aioseop_performance.php:266
+msgid "Search Engine Visibility"
+msgstr "搜尋引擎可見度"
+
+#: modules/aioseop_performance.php:265
+msgid "Front Page Displays"
+msgstr "首頁顯示"
+
+#: modules/aioseop_performance.php:264
+msgid "Site Language"
+msgstr "網站語言"
+
+#: modules/aioseop_performance.php:263
+msgid "Site Title"
+msgstr "網站標題"
+
+#: aioseop_class.php:232
+msgid "Check this and your Meta Descriptions for any Post Type will be auto-generated using the Post Excerpt, or the first 160 characters of the post content if there is no Post Excerpt. You can overwrite any auto-generated Meta Description by editing the post or page."
+msgstr "啟用這項設定後，任何文章類型的中繼內容說明均會使用內容摘要自動產生；如果沒有內容摘要，會由文章內容的前 160 個字元產生。作者可以透過編輯文章或頁面，為自動產生的中繼內容說明進行改寫。"
+
+#: aioseop_class.php:176
+msgid "%description% - This outputs the description you write for each page/post or the autogenerated description, if you have that option enabled. Auto-generated descriptions are generated from the Post Excerpt, or the first 160 characters of the post content if there is no Post Excerpt."
+msgstr "%description% - 啟用 [覆寫標題] 後，便會將作者所撰寫的內容說明取代所有文章、頁面或自動產生的內容說明。自動產生的內容說明由內容摘要而來，如果內容摘要為空，則由文章內容的前 160 個字元產生"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://semperplugins.com/all-in-one-seo-pack-pro-version/"
+msgstr "https://semperplugins.com/all-in-one-seo-pack-pro-version/"
+
+#: modules/aioseop_importer_exporter.php:47
+msgid "Post Data"
+msgstr "文章資料"
+
+#: aioseop_class.php:502
+msgid "Nothing found for %request_words%"
+msgstr "找不到與「%request_words%」相關的文章或頁面"
+
+#: admin/display/general-metaboxes.php:182
+msgid "Access to Knowledge Center"
+msgstr "存取知識庫中心"
+
+#: admin/display/general-metaboxes.php:181
+msgid "Access to Premium Support Forums"
+msgstr "存取付費技術支援論壇"
+
+#: admin/display/general-metaboxes.php:180
+msgid "Access to Video Screencasts"
+msgstr "存取影片教學"
+
+#: admin/display/general-metaboxes.php:179
+msgid "SEO for Categories, Tags and Custom Taxonomies"
+msgstr "為分類、標籤及自訂分類法進行 SEO"
+
+#: admin/display/general-metaboxes.php:178
+msgid "Video SEO Module"
+msgstr "影片 SEO 模組"
+
+#: admin/display/general-metaboxes.php:175
+msgid "Advanced support for e-commerce"
+msgstr "對電子商務的進階技術支援"
+
+#: admin/display/general-metaboxes.php:173
+msgid "Advanced support for WooCommerce"
+msgstr "對 WooCommerce 的進階技術支援"
+
+#: admin/display/general-metaboxes.php:123
+msgid "Subscribe"
+msgstr "訂閱"
+
+#: admin/display/general-metaboxes.php:122
+msgid "Email Address"
+msgstr "電子郵件地址"
+
+#: admin/display/general-metaboxes.php:46
+msgid " to upgrade to Pro Version and get:"
+msgstr "以升級至 Pro 版並獲得以下項目:"
+
+#: modules/aioseop_opengraph.php:272
+msgid "Use Content For Autogenerated OG Descriptions"
+msgstr "將內容用於自動產生 OG 內容說明"
+
+#: modules/aioseop_opengraph.php:95
+msgid "This option will auto generate your Open Graph descriptions from your post content instead of your post excerpt. WooCommerce users should read the documentation regarding this setting."
+msgstr "啟用這項設定後，會從文章內容中自動產生開放社交關係圖中繼內容說明，而不再使用內容摘要。WooCommerce 使用者請務必閱讀與這項設定有關的線上說明文件。"
+
+#: modules/aioseop_opengraph.php:87
+msgid "Enter your Facebook Admin ID here. You can enter multiple IDs separated by a comma. You can look up your Facebook ID using this tool http://findmyfbid.com/"
+msgstr "請在這裡輸入 Facebook 管理員編號，這個欄位能以逗號分隔的方式輸入多個管理員編號。網站管理員可以透過下方網站連結查詢擔任管理員的 Facebook 使用者編號。<br /><a href=\"https://findmyfbid.com/\" target=\"_blank\">https://findmyfbid.com/</a>"
+
+#: aioseop_class.php:793
+msgid "Use Content For Autogenerated Descriptions:"
+msgstr "將內容用於自動產生的內容說明:"
+
+#: aioseop_class.php:231
+msgid "This option will auto generate your meta descriptions from your post content instead of your post excerpt. This is useful if you want to use your content for your autogenerated meta descriptions instead of the excerpt. WooCommerce users should read the documentation regarding this setting."
+msgstr "啟用這項設定後，會從文章內容中自動產生中繼內容說明，而不再使用內容摘要。對想從文章內容自動產生中繼內容說明取代內容摘要來說，相當有幫助。WooCommerce 使用者請務必閱讀與這項設定有關的線上說明文件。"
+
+#: admin/display/welcome-content.php:66
+msgid "Access to video tutorials about SEO with the Pro version"
+msgstr "付費版可存取 SEO 相關知識的教學影片"
+
+#: admin/aioseop_module_class.php:2716
+msgid "Reset %s Settings to Defaults"
+msgstr "將 [%s] 重設為預設值"
+
+#: aioseop_class.php:3076
+msgid "Welcome to version %s. Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "歡迎使用 %s 版。感謝採用最新最棒的 All in One SEO Pack Pro！請檢查相關設定，因為我們隨時都在為大家增加新功能！"
+
+#: aioseop_class.php:107 aioseop_class.php:118 aioseop_class.php:134
+#: aioseop_class.php:179 aioseop_class.php:3196
+msgid "%current_date% - The current date (localized)"
+msgstr "%current_date% - 當前日期 (如果支援的話，會以當地語系顯示)"
+
+#: aioseop_class.php:84
+msgid "This option will automatically generate Canonical URLs for your entire WordPress installation.  This will help to prevent duplicate content penalties by Google"
+msgstr "啟用這項設定會為整個 WordPress 網站自動產生標準網址，這將有助於防止 Google 對重複內容的懲罰。"
+
+#: admin/display/general-metaboxes.php:45
+msgid "CLICK HERE"
+msgstr "點擊這裡"
+
+#. translators: Shows which files were removed.
+#: modules/aioseop_sitemap.php:1277
+msgid "Removed empty file %s."
+msgstr "移除空白檔案 %s。"
+
+#: inc/commonstrings.php:40
+msgid "This displays an SEO News widget on the dashboard."
+msgstr "這會在 [控制台] 顯示 [SEO 新聞] 小工具。"
+
+#: inc/commonstrings.php:37
+msgid "Show SEO News"
+msgstr "顯示 [SEO 新聞]"
+
+#: modules/aioseop_sitemap.php:876
+msgid "Changes are automatically submitted to search engines."
+msgstr "且任何變更均會自動傳送至搜尋引擎。"
+
+#. translators: Link to documentation.
+#: modules/aioseop_sitemap.php:866
+msgid "Click here to %s."
+msgstr "點擊這裡以%s。"
+
+#: admin/display/welcome-content.php:77
+msgid "Continue to the General Settings"
+msgstr "進入 [一般設定] 頁面"
+
+#: admin/display/dashboard_widget.php:26
+msgid "SEO News"
+msgstr "SEO 新聞"
+
+#: admin/display/welcome.php:127
+msgid "Credits"
+msgstr "製作群"
+
+#: admin/display/welcome.php:123
+msgid "What&#8217;s New"
+msgstr "新增功能"
+
+#: admin/display/welcome.php:118
+msgid "All in One SEO Pack %s contains new features, bug fixes, increased security, and tons of under the hood performance improvements."
+msgstr "All in One SEO Pack %s 包含新增功能、錯誤修正、提昇安全性，並提升大量背景運作的效能。"
+
+#: admin/display/welcome.php:116
+msgid "Welcome to All in One SEO Pack %s"
+msgstr "歡迎使用 All in One SEO Pack %s"
+
+#: admin/display/welcome.php:55 admin/display/welcome.php:56
+msgid "Welcome to All in One SEO Pack"
+msgstr "歡迎使用 All in One SEO Pack"
+
+#: admin/display/welcome-content.php:70
+msgid "Control SEO on categories, tags and custom taxonomies with the Pro version"
+msgstr "付費版可控管分類、標籤以及自訂分類法的 SEO"
+
+#: admin/display/welcome-content.php:61
+msgid "We have complete documentation on every setting and feature"
+msgstr "我們所有的設定及功能都有完整的線上說明"
+
+#: admin/display/welcome-content.php:57
+msgid "Did You Know?"
+msgstr "你知道嗎？"
+
+#: admin/display/welcome-content.php:51
+msgid "Set up Google Analytics"
+msgstr "設定 Google Analytics"
+
+#: admin/display/welcome-content.php:47
+msgid "Submit an XML Sitemap to Google"
+msgstr "將 XML Sitemap 傳送至 Google"
+
+#: admin/display/welcome-content.php:43
+msgid "Quality guidelines for SEO titles and descriptions"
+msgstr "SEO 標題及內容說明的撰寫方針"
+
+#: admin/display/welcome-content.php:38
+msgid "Tips for good on-page SEO"
+msgstr "做好網站內頁 SEO 的秘訣"
+
+#: admin/display/welcome-content.php:34
+msgid "Beginners Guide for Social Meta module"
+msgstr "社交網路中繼資料模組的初學者指南"
+
+#: admin/display/welcome-content.php:30
+msgid "Beginners Guide for XML Sitemap module"
+msgstr "XML Sitemap 的初學者指南"
+
+#: admin/display/welcome-content.php:25
+msgid "Beginners Guide for All in One SEO Pack"
+msgstr "All in One SEO Pack 的初學者指南"
+
+#: admin/display/welcome-content.php:21
+msgid "Get Started"
+msgstr "開始使用"
+
+#: admin/display/welcome-content.php:17
+msgid "Translate"
+msgstr "本地化"
+
+#: admin/display/welcome-content.php:13
+msgid "Help translate All in One SEO Pack into your language."
+msgstr "協助將 All in One SEO Pack 本地化為你的母語。"
+
+#: admin/display/welcome-content.php:11
+msgid "Upgrade"
+msgstr "升級"
+
+#: admin/display/welcome-content.php:7
+msgid "Upgrade to All in One SEO Pack Pro to access priority support and premium features."
+msgstr "升級至 All in One SEO Pack Pro 以取得優先技術支援及付費功能。"
+
+#: admin/display/welcome-content.php:6
+msgid "There are many ways you can help support All in One SEO Pack."
+msgstr "你可以透過多種方式支持 All in One SEO Pack 的發展。"
+
+#: admin/display/welcome-content.php:5
+msgid "Support All in One SEO Pack"
+msgstr "支持 All in One SEO Pack 發展"
+
+#: admin/display/credits-content.php:103
+msgid "Translation contributors and translation editors"
+msgstr "本地化參與者及本地化編輯"
+
+#: admin/display/credits-content.php:44
+msgid "Want to see your name and picture here as a community developer? %1$sClick here%2$s to open an issue on GitHub to report a bug, request a feature or find an issue and submit code!"
+msgstr "想以社群開發者的身份在這裡顯示你的名字跟照片嗎？%1$s點擊這裡%2$s就可以在 GitHub 上回報外掛有問題之處、提出新功能需求或找出有問題之處並送出修改過的程式碼！"
+
+#: admin/display/credits-content.php:38
+msgid "Recent Rockstar Contributors"
+msgstr "近期最佳參與者"
+
+#: admin/display/credits-content.php:24 admin/display/credits-content.php:29
+#: admin/display/credits-content.php:34
+msgid "Development Team"
+msgstr "開發團隊"
+
+#: admin/display/credits-content.php:19
+msgid "Core Team"
+msgstr "核心團隊"
+
+#: admin/display/credits-content.php:15
+msgid "Project Manager"
+msgstr "專案經理"
+
+#: admin/display/credits-content.php:10
+msgid "Project Lead"
+msgstr "專案負責人"
+
+#: admin/display/credits-content.php:5
+msgid "Project Leaders"
+msgstr "專案負責人"
+
+#: admin/display/credits-content.php:3
+msgid "All in One SEO Pack is created by a worldwide network of friendly folks like these."
+msgstr "All in One SEO Pack 由來自世界各地的熱心人士所建立 (如下所列)。"
+
+#: modules/aioseop_opengraph.php:402
+msgid "Custom Twitter Image"
+msgstr "自訂 Twitter 圖片"
+
+#: modules/aioseop_opengraph.php:114
+msgid "This option lets you upload an image to use as the Twitter image for this Page or Post."
+msgstr "這項設定能讓你為這個頁面或文章上傳一張用於 Twitter 卡片的圖片。"
+
+#: aioseop_class.php:819
+msgid "Redirect Attachments to Post Parent:"
+msgstr "將附件重新導向至上層文章:"
+
+#: aioseop_class.php:238
+msgid "Redirect attachment pages to post parent."
+msgstr "將附件重新導向至上層文章。"
+
+#: modules/aioseop_sitemap.php:171
+msgid "Dynamically creates the XML sitemap instead of using a static file."
+msgstr "不再使用靜態檔案，改以動態建立 XML Sitemap。"
+
+#: modules/aioseop_importer_exporter.php:559
+msgid "<b>Security warning:</b> Your file looks compromised. Please check the file for any script-injection."
+msgstr "<b>安全性警告</b>: 檔案看來已遭入侵，請檢查檔案是否遭到插入惡意指令碼。"
+
+#: admin/display/general-metaboxes.php:93
+msgid "All in One SEO Pack has been translated into %1$s languages, but currently the %3$s translation is only %2$s percent complete. %4$s Click here %5$s to help get it to 100 percent."
+msgstr "All in One SEO Pack 已完成 %1$s 種語言的本地化，但目前%3$s的本地化進度僅完成 %2$s&#37;。%4$s點擊這裡%5$s協助我們將本地化進度推進至 100&#37;。"
+
+#: admin/meta_import.php:82 admin/meta_import.php:88
+msgid "Sorry, you can't do that. Please choose a platform and then click Analyze or Convert."
+msgstr "很抱歉，操作方式有誤。請先選擇要進行匯入的平台，然後點擊 [分析] 或 [轉換]。"
+
+#: aioseop_class.php:3093
+msgid "New in 2.4: Improved support for taxonomies, Woocommerce and massive performance improvements under the hood! Please review your settings on each options page!"
+msgstr "自 2.4 版以來的新功能: 改善了對分類法、Woocommerce 的支援以及大量的底層效能改進。請為所有設定頁面檢查相關設定。"
+
+#: admin/meta_import.php:196
+msgid "Convert"
+msgstr "轉換"
+
+#: admin/meta_import.php:195
+msgid "Analyze"
+msgstr "分析"
+
+#: admin/meta_import.php:184
+msgid "Themes"
+msgstr "佈景主題"
+
+#: admin/meta_import.php:176
+msgid "Plugins"
+msgstr "外掛"
+
+#: admin/meta_import.php:174
+msgid "Choose platform:"
+msgstr "選擇平台:"
+
+#: admin/meta_import.php:172
+msgid "Import SEO data from:"
+msgstr "SEO 資料匯入來源:"
+
+#: admin/meta_import.php:162
+msgid "Before performing an import, we strongly recommend that you make a backup of your site. We use and recommend %1$s BackupBuddy %2$s for backups."
+msgstr "在執行匯入前，強烈建議網站管理員為這個網站進行備份。All in One SEO Pack 推薦採用 %1$sBackupBuddy%2$s 備份網站。"
+
+#: admin/meta_import.php:158
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "點擊 [轉換] 以執行匯入作業。基於以上準則，在匯入作業完成後，將提示網站管理員匯入了多少筆資料記錄，以及忽略了多少筆資料記錄。"
+
+#: admin/meta_import.php:154
+msgid "Some plugins and themes do not share similar data, or they store data in a non-standard way. If we cannot import this data, it will remain unchanged in your database. Any compatible SEO data will be displayed for you to review. If a post or page already has SEO data in All in One SEO Pack, we will not import data from another plugin/theme."
+msgstr "某些外掛及佈景主題無法共用類似的資料、或是以非標準方式儲存的資料。如果無法匯入這項資料，資料庫會保持不變。所有相容的 SEO 資料會列於下方供網站管理員檢視。如果如果某篇文章或某個頁面已包含 All in One SEO Pack 的 SEO 資料，就不會從其他外掛或佈景主題匯入類似資料。"
+
+#: admin/meta_import.php:154
+msgid "Please Note: "
+msgstr "請注意: "
+
+#: admin/meta_import.php:150
+msgid "Click \"Analyze\" for a list of SEO data that can be imported into All in One SEO Pack, along with the number of records that will be imported."
+msgstr "點擊 [分析] 便能列出哪些 SEO 資料能匯入 All in One SEO Pack 中，以及有多少筆資料記錄可供匯入，"
+
+#: admin/meta_import.php:146
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "在下方的下拉式選單中，選擇要從哪一個外掛或佈景主題匯入 SEO 資料。"
+
+#: admin/meta_import.php:143
+msgid "Import SEO Settings"
+msgstr "匯入 SEO 資料設定"
+
+#: admin/meta_import.php:119
+msgid "Conversion Results"
+msgstr "轉換結果"
+
+#: admin/meta_import.php:109
+msgid "Compatible data:"
+msgstr "相容資料:"
+
+#: admin/meta_import.php:106
+msgid "<p>Analyzing records in a %1$s to %2$s conversion&hellip;"
+msgstr "<p>分析從 %1$s 轉換到 %2$s 的資料記錄&hellip;"
+
+#: admin/meta_import.php:101 admin/meta_import.php:123
+msgid "Sorry, something went wrong. Please try again"
+msgstr "抱歉！有地方出錯，請再試一次。"
+
+#: admin/meta_import.php:97
+msgid "Analysis Results"
+msgstr "分析結果"
+
+#: admin/meta_import.php:64
+msgid "SEO Data Import"
+msgstr "匯入 SEO 資料"
+
+#: admin/meta_import.php:64
+msgid "Import SEO Data"
+msgstr "匯入 SEO 資料"
+
+#: admin/meta_import.php:37
+msgid "All in One SEO has been deactivated"
+msgstr "已停用 All in One SEO"
+
+#: admin/meta_import.php:32
+msgid "The plugin All-In-One-SEO has been detected. Do you want to %1$simport its settings%2$s?"
+msgstr "偵測到 All In One SEO 外掛，需要%1$s匯入它的設定%2$s嗎？"
+
+#: admin/meta_import.php:28
+msgid "The plugin Yoast SEO has been detected. Do you want to %1$simport its settings%2$s into All in One SEO Pack?"
+msgstr "偵測到 Yoast SEO 外掛，需要%1$s將它的設定匯入至 All in One SEO Pack%2$s 中嗎？"
+
+#. translators: this refers to a module that is exclusively available in All in
+#. One SEO Pack Pro.
+#: modules/aioseop_feature_manager.php:95
+msgid "Pro Version Only"
+msgstr "僅供 Pro 版使用"
+
+#: aioseop_class.php:3774
+msgid "%1$s Upgrade%2$s to All in One SEO Pack Pro for increased SEO compatibility for your products."
+msgstr "%1$s升級%2$s至 All in One SEO Pack Pro，便能為這個網站的產品增加 SEO 相容性。"
+
+#: aioseop_class.php:3773
+msgid "We've detected you're running WooCommerce."
+msgstr "這個外掛偵測到這個網站使用了 WooCommerce。"
+
+#. Description of the plugin
+msgid "Out-of-the-box SEO for your WordPress blog. Features like XML Sitemaps, SEO for custom post types, SEO for blogs or business sites, SEO for ecommerce sites, and much more. More than 50 million downloads since 2007."
+msgstr "為 WordPress 網站加入立即可用的 SEO 功能，包含產生 XML Sitemap、為自訂文章類型、部落格、商業網站、電子商務網站進行搜尋引擎最佳化等等豐富功能。從 2007 年開始，已有超過 5,000 萬的下載次數。"
+
+#: modules/aioseop_feature_manager.php:87
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "使用這項功能便能建立與管理這個網站的影片 Sitemap，並將影片 Sitemap 傳送至 Google、Bing/Yahoo 以及 Ask.com。"
+
+#. translators: the Image SEO module allows users to optimize their images for
+#. search engines.
+#: modules/aioseop_feature_manager.php:80
+msgid "Image SEO"
+msgstr "圖片 SEO"
+
+#: modules/aioseop_bad_robots.php:36
+msgid "Use Custom Blocklists"
+msgstr "使用自訂封鎖清單"
+
+#: modules/aioseop_bad_robots.php:34
+msgid "Block Referral Spam using HTTP"
+msgstr "封鎖使用 HTTP 的垃圾流量"
+
+#: modules/aioseop_bad_robots.php:33
+msgid "Block Bad Bots using HTTP"
+msgstr "封鎖使用 HTTP 的惡意機器人"
+
+#: modules/aioseop_bad_robots.php:24
+msgid "Block Referral Spam using HTTP."
+msgstr "封鎖使用 HTTP 的垃圾流量。"
+
+#: inc/commonstrings.php:34
+msgid "Manage Licenses"
+msgstr "管理授權"
+
+#: inc/commonstrings.php:33
+msgid "Notice: "
+msgstr "注意事項: "
+
+#. translators: Please mind the space at the beginning of the string.
+#: inc/commonstrings.php:32
+msgid " Need a license key?"
+msgstr "需要授權金鑰嗎？"
+
+#: inc/commonstrings.php:30
+msgid "License Key is not set yet or invalid. "
+msgstr "授權金鑰尚未輸入或金鑰無效。"
+
+#: inc/commonstrings.php:29
+msgid "Purchase one now"
+msgstr "立即購買授權"
+
+#: inc/commonstrings.php:26
+msgid "You do not have access to this page; try logging in as an administrator."
+msgstr "你沒有存取這個頁面的權限，請以網站管理員身份登入後再試一次。"
+
+#: inc/commonstrings.php:25
+msgid "Enable this option to only allow access to your sitemap by site administrators and major search engines."
+msgstr "請用這項設定後，只有這個網站的管理員及主流搜尋引擎能夠存取 Sitemap。"
+
+#: inc/commonstrings.php:24
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "啟用這項設定後，便只有內容中包含影片的文章會收錄至 Sitemap 中。"
+
+#: inc/commonstrings.php:23
+msgid "Restrict Access to Video Sitemap"
+msgstr "限制存取影片 Sitemap"
+
+#: inc/commonstrings.php:22
+msgid "Show Only Posts With Videos"
+msgstr "僅顯示包含影片的文章"
+
+#: admin/display/menu.php:40 all_in_one_seo_pack.php:350
+msgid "Upgrade to Pro"
+msgstr "升級至 Pro 版"
+
+#: all_in_one_seo_pack.php:339
+msgid "Documentation"
+msgstr "文件"
+
+#: all_in_one_seo_pack.php:329
+msgid "SEO Settings"
+msgstr "SEO 設定"
+
+#: aioseop_class.php:4959 aioseop_class.php:4966
+msgid "About"
+msgstr "關於"
+
+#: aioseop_class.php:3921
+msgid "Debug String"
+msgstr "偵錯字串"
+
+#: aioseop_class.php:3085
+msgid "Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "感謝採用最新最棒的 All in One SEO Pack Pro！請檢查相關設定，因為我們隨時都在為大家增加新功能！"
+
+#: aioseop_class.php:3239
+msgid "%taxonomy_description% - The description of the taxonomy"
+msgstr "%taxonomy_description% - 分類法的內容說明"
+
+#: aioseop_class.php:3238
+msgid "%taxonomy_title% - The original title of the taxonomy"
+msgstr "%taxonomy_title% - 分類法的原始標題"
+
+#: aioseop_class.php:3227
+msgid "Taxonomy Title Format:"
+msgstr "分類法標題格式:"
+
+#: aioseop_class.php:906 all_in_one_seo_pack.php:334
+msgid "Support Forum"
+msgstr "技術支援論壇"
+
+#: aioseop_class.php:517
+msgid "SEO on only these taxonomies:"
+msgstr "僅為指定分類法提供 SEO 設定:"
+
+#: aioseop_class.php:349
+msgid "License Key:"
+msgstr "授權金鑰:"
+
+#: aioseop_class.php:194
+msgid "Use these checkboxes to select which Taxonomies you want to use All in One SEO Pack with."
+msgstr "請核取要使用 All in One SEP Pack 功能的分類法。"
+
+#: aioseop_class.php:83
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "完成產品購買後，這便是訂購者會收到的授權金鑰，同時也用於自動升級。"
+
+#: modules/aioseop_opengraph.php:228
+msgid "Facebook App ID"
+msgstr "Facebook 應用程式編號 (App ID)"
+
+#: modules/aioseop_opengraph.php:223
+msgid "Facebook Admin ID"
+msgstr "Facebook 管理員編號 (Admin ID)"
+
+#: modules/aioseop_opengraph.php:88
+msgid "Enter your Facebook App ID here. Information about how to get your Facebook App ID can be found at https://developers.facebook.com/docs/apps/register"
+msgstr "請在這裡輸入 Facebook 應用程式編號。如何取得 Facebook 應用程式編號的相關資訊，可以在 <a href=\"https://developers.facebook.com/docs/apps/register\" target=\"_blank\">https://developers.facebook.com/docs/apps/register</a> 找到。"
+
+#: aioseop_class.php:3750
+msgid "You can %1$s click here%2$s to go to your reading settings and toggle your blog visibility."
+msgstr "請%1$s點擊這裡%2$s前往 [閱讀] 設定，並為 [搜尋引擎可見度] 進行設定。"
+
+#: aioseop_class.php:3749
+msgid "Warning: You're blocking access to search engines."
+msgstr "警告: 這個網站正在阻擋搜尋引擎的存取。"
+
+#. Author of the plugin
+msgid "Michael Torbert"
+msgstr "Michael Torbert"
+
+#. Plugin Name of the plugin
+msgid "All In One SEO Pack"
+msgstr "All In One SEO Pack"
+
+#. translators: Notifies the admin which sitemaps failed to notify with which
+#. search engine(s).
+#: modules/aioseop_sitemap.php:1649
+msgid "Failed to notify %1$s about changes to your sitemap at %2$s, unable to access via wp_remote_get()."
+msgstr "無法通知 %1$s 在 %2$s 上的 Sitemap 已有所變更，原因為無法透過 wp_remote_get() 函式進行存取。"
+
+#. translators: Notifies the admin which sitemaps failed to notify with which
+#. search engine(s), and display the error code.
+#: modules/aioseop_sitemap.php:1645
+msgid "Failed to notify %1$s about changes to your sitemap at %2$s, error code %3$s."
+msgstr "無法通知 %1$s 在 %2$s 上的 Sitemap 已有所變更，錯誤代碼為 %3$s。"
+
+#: modules/aioseop_sitemap.php:1459
+msgid "static"
+msgstr "靜態"
+
+#: modules/aioseop_sitemap.php:1464
+msgid "dynamic"
+msgstr "動態"
+
+#: modules/aioseop_sitemap.php:1461
+msgid "compressed"
+msgstr "壓縮"
+
+#: modules/aioseop_sitemap.php:1317
+msgid "Delete Conflicting Files"
+msgstr "刪除產生衝突的檔案"
+
+#: modules/aioseop_sitemap.php:1316
+msgid "Rename Conflicting Files"
+msgstr "移除產生衝突的檔案"
+
+#. translators: Shows which 'unknown' file is conflicting with the current
+#. sitemap settings.
+#: modules/aioseop_sitemap.php:1271
+msgid "Potential conflict with unknown file %s."
+msgstr "與未知檔案 %s 的潛在衝突。"
+
+#: modules/aioseop_sitemap.php:1261
+msgid "Warning: a static sitemap '%1$s' generated by All in One SEO Pack %2$s on %3$s already exists that may conflict with dynamic sitemap generation."
+msgstr "警告: 目前在 %3$s 上已存在由 All in One SEO Pack %2$s 所產生的靜態 Sitemap %1$s，可能會與動態產生的 Sitemap 發生衝突。"
+
+#. translators: Shows which sitemap files couldn't be found.
+#: modules/aioseop_sitemap.php:1174
+msgid "Couldn't find file %s!"
+msgstr "無法找到檔案 [%s]！"
+
+#. translators: Shows which sitemap files couldn't be renamed.
+#: modules/aioseop_sitemap.php:1164
+msgid "Couldn't rename file %s!"
+msgstr "無法將檔案 [%s] 重新命名！"
+
+#. translators: Shows which sitemap files have been deleted.
+#: modules/aioseop_sitemap.php:1153
+msgid "Deleted %s."
+msgstr "已刪除 [%s]。"
+
+#: modules/aioseop_sitemap.php:1132
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "警告: 動態產生 Sitemap 必須先啟用永久連結。"
+
+#. translators: Link to settings to disable "Discourage search engines from
+#. indexing this site".
+#: modules/aioseop_sitemap.php:895
+msgid "Warning: your privacy settings are configured to ask search engines to not index your site; you can change this under %s for your blog."
+msgstr "警告: 這個網站的隱私設定已要求搜尋引擎不要對這個網站進行索引，這項設定可在 [%s] 中進行變更。"
+
+#: modules/aioseop_sitemap.php:892
+msgid "Privacy Settings"
+msgstr "隱私設定"
+
+#: modules/aioseop_sitemap.php:890
+msgid "Reading Settings"
+msgstr "閱讀設定"
+
+#: modules/aioseop_sitemap.php:884
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "使用了正確的覆寫規則但動態產生 Sitemap 功能並未生效，請停用這個網站上的其他 Sitemap 外掛或功能，並重設這個網站的永久連結。"
+
+#: modules/aioseop_sitemap.php:777
+msgid "Update Sitemap"
+msgstr "儲存 Sitemap"
+
+#: modules/aioseop_sitemap.php:683
+msgid " Taxonomy"
+msgstr " 分類法"
+
+#: modules/aioseop_sitemap.php:682
+msgid " Post Type"
+msgstr " 文章類型"
+
+#: modules/aioseop_sitemap.php:681
+msgid "Manually set the frequency for the "
+msgstr "手動設定檢索頻率 - 針對 "
+
+#: modules/aioseop_sitemap.php:680
+msgid "Manually set the priority for the "
+msgstr "手動設定優先序 - 針對 "
+
+#: modules/aioseop_sitemap.php:675
+msgid "All Taxonomies"
+msgstr "所有分類法"
+
+#: modules/aioseop_sitemap.php:674
+msgid "All Post Types"
+msgstr "所有文章類型"
+
+#: modules/aioseop_sitemap.php:672
+msgid "Media / Attachments"
+msgstr "媒體 / 附件"
+
+#: modules/aioseop_sitemap.php:586
+msgid "Daily scheduled sitemap check has finished."
+msgstr "已完成 Sitemap 的每日定時檢查。"
+
+#: modules/aioseop_sitemap.php:563
+msgid "Once Monthly"
+msgstr "每月一次"
+
+#: modules/aioseop_sitemap.php:559
+msgid "Once Weekly"
+msgstr "每週一次"
+
+#: modules/aioseop_sitemap.php:411
+msgid "Frequencies"
+msgstr "檢索頻率"
+
+#: modules/aioseop_sitemap.php:404
+msgid "Priorities"
+msgstr "優先序"
+
+#: modules/aioseop_sitemap.php:398
+msgid "Excluded Items"
+msgstr "排除的項目"
+
+#: modules/aioseop_sitemap.php:386
+msgid "Excluded Pages"
+msgstr "排除的頁面"
+
+#: modules/aioseop_sitemap.php:381
+msgid "Excluded Categories"
+msgstr "排除的分類"
+
+#: modules/aioseop_sitemap.php:371
+msgid "Add URL"
+msgstr "新增網址"
+
+#: modules/aioseop_sitemap.php:364 modules/aioseop_sitemap.php:392
+msgid "Additional Pages"
+msgstr "附加的頁面"
+
+#: modules/aioseop_sitemap.php:357
+msgid "Last Modified"
+msgstr "最後修改日期"
+
+#: modules/aioseop_sitemap.php:350
+msgid "Page Frequency"
+msgstr "頁面檢索頻率"
+
+#: modules/aioseop_sitemap.php:343
+msgid "Page Priority"
+msgstr "頁面優先序"
+
+#: modules/aioseop_sitemap.php:337
+msgid "Page URL"
+msgstr "頁面網址"
+
+#: modules/aioseop_sitemap.php:331
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "在下方為不受 WordPress 管理的頁面 (例如自行設計上傳的 HTML 頁面) 輸入相關資訊，以便將該頁面連結加入 Sitemap 中。"
+
+#. translators: Help Text string to display information about multiple
+#. different settings.
+#: modules/aioseop_sitemap.php:317
+msgid "Manually set the %1$s of your %2$s."
+msgstr "為 [%2$s] 的%1$s進行手動設定。"
+
+#: modules/aioseop_sitemap.php:304
+msgid "author pages"
+msgstr "作者頁面"
+
+#: modules/aioseop_sitemap.php:303
+msgid "archive pages"
+msgstr "彙整頁面"
+
+#: modules/aioseop_sitemap.php:302
+msgid "taxonomies"
+msgstr "分類法"
+
+#: modules/aioseop_sitemap.php:301
+msgid "posts"
+msgstr "文章"
+
+#: modules/aioseop_sitemap.php:300
+msgid "homepage"
+msgstr "首頁"
+
+#: modules/aioseop_sitemap.php:293
+msgid "frequency"
+msgstr "檢索頻率"
+
+#: modules/aioseop_sitemap.php:292
+msgid "priority"
+msgstr "優先序"
+
+#: modules/aioseop_sitemap.php:279
+msgid "Select Individual"
+msgstr "個別設定"
+
+#: modules/aioseop_sitemap.php:278
+msgid "Do Not Override"
+msgstr "不覆寫"
+
+#: modules/aioseop_sitemap.php:262
+msgid "Sitemap Status"
+msgstr "Sitemap 狀態"
+
+#: modules/aioseop_sitemap.php:246
+msgid "Dynamically Generate Sitemap"
+msgstr "動態產生 Sitemap"
+
+#: modules/aioseop_sitemap.php:242
+msgid "Link From Virtual Robots.txt"
+msgstr "與虛擬 Robots.txt 進行連結"
+
+#: modules/aioseop_sitemap.php:238
+msgid "Create Compressed Sitemap"
+msgstr "建立壓縮的 Sitemap"
+
+#: modules/aioseop_sitemap.php:235
+msgid "Include Author Pages"
+msgstr "納入作者彙整頁面"
+
+#: modules/aioseop_sitemap.php:234
+msgid "Include Date Archive Pages"
+msgstr "納入日期彙整頁面"
+
+#: modules/aioseop_sitemap.php:230
+msgid "Taxonomies"
+msgstr "分類法"
+
+#: modules/aioseop_sitemap.php:225
+msgid "Post Types"
+msgstr "文章類型"
+
+#: modules/aioseop_sitemap.php:216
+msgid "Maximum Posts Per Sitemap Page"
+msgstr "每一 Sitemap 頁面所包含的最大文章數"
+
+#: modules/aioseop_sitemap.php:214
+msgid "Enable Sitemap Indexes"
+msgstr "啟用 Sitemap 索引"
+
+#: modules/aioseop_sitemap.php:210
+msgid "Monthly"
+msgstr "每月"
+
+#: modules/aioseop_sitemap.php:209
+msgid "Weekly"
+msgstr "每週"
+
+#: modules/aioseop_sitemap.php:208
+msgid "Daily"
+msgstr "每日"
+
+#: modules/aioseop_sitemap.php:207
+msgid "No Schedule"
+msgstr "不更新"
+
+#: modules/aioseop_sitemap.php:204
+msgid "Schedule Updates"
+msgstr "排程更新"
+
+#: modules/aioseop_sitemap.php:177
+msgid "Use page slugs or page IDs, seperated by commas, to exclude pages from the sitemap."
+msgstr "以半形逗號分隔輸入頁面代稱或頁面編號後，Sitemap 會排除這些頁面。"
+
+#: modules/aioseop_sitemap.php:176
+msgid "Entries from these categories will be excluded from the sitemap."
+msgstr "Sitemap 會排除在上方核取的分類。"
+
+#: modules/aioseop_sitemap.php:175
+msgid "Last modified date of the page."
+msgstr "輸入頁面的最後修改日期。"
+
+#: modules/aioseop_sitemap.php:174
+msgid "The frequency of the page."
+msgstr "選取頁面的檢索頻率。"
+
+#: modules/aioseop_sitemap.php:173
+msgid "The priority of the page."
+msgstr "選取頁面的優先序。"
+
+#: modules/aioseop_sitemap.php:170
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "在虛擬 Robots.txt 檔案中加入這個網站的 Sitemap 檔案連結。"
+
+#: modules/aioseop_sitemap.php:169
+msgid "Create a compressed sitemap file in .xml.gz format."
+msgstr "建立 .xml.gz 格式的壓縮 Sitemap 檔案。"
+
+#: modules/aioseop_sitemap.php:167
+msgid "Include Author Archives in your sitemap."
+msgstr "將作者彙整頁面納入 Sitemap。"
+
+#: modules/aioseop_sitemap.php:166
+msgid "Include Date Archives in your sitemap."
+msgstr "將日期彙整頁面納入 Sitemap。"
+
+#: modules/aioseop_sitemap.php:165
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "選取要將哪些分類法彙整納入 Sitemap。"
+
+#: modules/aioseop_sitemap.php:164
+msgid "Select which Post Types appear in your sitemap."
+msgstr "選取要將哪些文章類型納入 Sitemap。"
+
+#: modules/aioseop_sitemap.php:163
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "這項設定能讓網站管理員設定 Sitemap 收錄文章及頁面的數量上限 (最高為 50000)。"
+
+#: modules/aioseop_sitemap.php:162
+msgid "Organize sitemap entries into distinct files in your sitemap. Enable this only if your sitemap contains over 50,000 URLs or the file is over 5MB in size."
+msgstr "將 Sitemap 中的項目加以組織並分拆為不同檔案。只有當 Sitemap 內含超過 50,000 條網址、或 Sitemap 檔案超過 5MB 時，才需要啟用這項設定。"
+
+#: modules/aioseop_sitemap.php:161
+msgid "Notify search engines based on the selected schedule, and also update static sitemap daily if in use. (this uses WP-Cron, so make sure this is working properly on your server as well)"
+msgstr "如已啟用 Sitemap，這項設定會根據選取的更新頻率通知搜尋引擎，並每日定時更新靜態 Sitemap。由於這項功能會使用到 WP-Cron，請確認它在這個網站的主機上可以正常運作。"
+
+#: modules/aioseop_sitemap.php:149
+msgid "XML Sitemap"
+msgstr "XML Sitemap"
+
+#: modules/aioseop_robots.php:98
+msgid "Create a Robots.txt File"
+msgstr "建立 Robots.txt 檔案"
+
+#: modules/aioseop_robots.php:62
+msgid "Add Rule"
+msgstr "新增規則"
+
+#: modules/aioseop_robots.php:27 modules/aioseop_robots.php:54
+msgid "Directory Path"
+msgstr "目錄路徑"
+
+#: modules/aioseop_robots.php:26 modules/aioseop_robots.php:41
+msgid "User Agent"
+msgstr "使用者代理程式"
+
+#: modules/aioseop_robots.php:25
+msgid "Rule Type"
+msgstr "規則型別"
+
+#: modules/aioseop_performance.php:353
+msgid "Submit"
+msgstr "送出"
+
+#: modules/aioseop_performance.php:352
+msgid "E-mail debug information"
+msgstr "以電子郵件傳送偵錯資訊"
+
+#: modules/aioseop_performance.php:341
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "錯誤: 請在傳送資料前輸入電子郵件地址。"
+
+#: modules/aioseop_performance.php:338
+msgid "Failed to send to %s."
+msgstr "無法傳送至 %s。"
+
+#: modules/aioseop_performance.php:336
+msgid "Sent to %s."
+msgstr "已傳送至 %s。"
+
+#: modules/aioseop_performance.php:335
+msgid "SFWD Debug Mail From Site %s."
+msgstr "來自網站 %s 的 SFWD 偵錯郵件"
+
+#: modules/aioseop_performance.php:300
+msgid "Form submission error: verification check failed."
+msgstr "表單提交錯誤: 驗證檢查失敗。"
+
+#: modules/aioseop_performance.php:282
+msgid "All in One SEO Pack Pro Debug Info"
+msgstr "All in One SEO Pack Pro 偵錯資訊"
+
+#: modules/aioseop_performance.php:262
+msgid "Active Theme"
+msgstr "目前使用的佈景主題"
+
+#: modules/aioseop_performance.php:261
+msgid "Multisite"
+msgstr "多站網路"
+
+#: modules/aioseop_performance.php:260
+msgid "WordPress DB Version"
+msgstr "WordPress 資料庫版本"
+
+#: modules/aioseop_performance.php:259
+msgid "WordPress Version"
+msgstr "WordPress 版本"
+
+#: modules/aioseop_performance.php:258
+msgid "Home URL"
+msgstr "首頁網址"
+
+#: modules/aioseop_performance.php:257
+msgid "Site URL"
+msgstr "網站網址"
+
+#: modules/aioseop_performance.php:256
+msgid "PHP XML support"
+msgstr "支援 PHP XML"
+
+#: modules/aioseop_performance.php:255
+msgid "PHP IPTC support"
+msgstr "支援 PHP IPTC"
+
+#: modules/aioseop_performance.php:254
+msgid "PHP Exif support"
+msgstr "支援 PHP Exif"
+
+#: modules/aioseop_performance.php:253
+msgid "PHP Max Script Execute Time"
+msgstr "PHP 指令碼執行時間限制"
+
+#: modules/aioseop_performance.php:252
+msgid "PHP Max Post Size"
+msgstr "PHP 文章大小限制"
+
+#: modules/aioseop_performance.php:251
+msgid "PHP Max Upload Size"
+msgstr "PHP 上傳檔案大小限制"
+
+#: modules/aioseop_performance.php:250
+msgid "PHP Memory Limit"
+msgstr "PHP 能存取的記憶體限制"
+
+#: modules/aioseop_performance.php:249
+msgid "PHP Allow URL fopen"
+msgstr "允許 PHP 透過 fopen 函式開啟網址"
+
+#: modules/aioseop_performance.php:248
+msgid "PHP Version"
+msgstr "PHP 版本"
+
+#: modules/aioseop_performance.php:247
+msgid "SQL Mode"
+msgstr "SQL 模式"
+
+#: modules/aioseop_performance.php:246
+msgid "MYSQL Version"
+msgstr "MySQL 版本"
+
+#: modules/aioseop_performance.php:245
+msgid "Memory usage"
+msgstr "記憶體使用率"
+
+#: modules/aioseop_performance.php:244
+msgid "Server"
+msgstr "網頁伺服器"
+
+#: modules/aioseop_performance.php:243
+msgid "Operating System"
+msgstr "作業系統"
+
+#: modules/aioseop_performance.php:205 modules/aioseop_performance.php:210
+#: modules/aioseop_performance.php:215 modules/aioseop_performance.php:224
+msgid "Yes"
+msgstr "是"
+
+#: modules/aioseop_performance.php:200
+msgid " MByte"
+msgstr " MB"
+
+#: modules/aioseop_performance.php:182 modules/aioseop_performance.php:187
+#: modules/aioseop_performance.php:192 modules/aioseop_performance.php:197
+#: modules/aioseop_performance.php:202 modules/aioseop_performance.php:229
+msgid "N/A"
+msgstr "不適用"
+
+#: modules/aioseop_performance.php:177
+msgid "Off"
+msgstr "關閉"
+
+#: modules/aioseop_performance.php:175
+msgid "On"
+msgstr "開啟"
+
+#: modules/aioseop_performance.php:172
+msgid "Not set"
+msgstr "未設定"
+
+#: modules/aioseop_performance.php:87
+msgid "System Status"
+msgstr "系統狀態"
+
+#: modules/aioseop_performance.php:49
+msgid "No limit"
+msgstr "不限制"
+
+#: modules/aioseop_performance.php:40
+msgid "Raise execution time"
+msgstr "提高執行時間"
+
+#: modules/aioseop_performance.php:32 modules/aioseop_performance.php:44
+msgid "Use the system default"
+msgstr "使用系統預設值"
+
+#: modules/aioseop_performance.php:28
+msgid "Raise memory limit"
+msgstr "提高記憶體使用限制"
+
+#: modules/aioseop_performance.php:23
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "使用輸出緩衝以確認標題獲得覆寫。如果遇到由佈景主題或其他外掛設定導致標題標籤產生問題，請啟用這項設定。"
+
+#: modules/aioseop_performance.php:22
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "這項設定可供網站管理員將 PHP 執行時間設定為合理值。"
+
+#: modules/aioseop_performance.php:21
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "這項設定可供網站管理員將 PHP 能存取的記憶體限制值設定為合理值。請注意: WordPress 主程式和其它 WordPress 外掛也會修改記憶體使用限制值。"
+
+#: modules/aioseop_opengraph.php:1567
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "選擇最能描述這項文章類型內容的預設值。"
+
+#: modules/aioseop_opengraph.php:1560
+msgid "Object Type"
+msgstr "物件類型"
+
+#: modules/aioseop_opengraph.php:903
+msgid "Scan your site for duplicate social meta tags."
+msgstr "為網站掃描重複的社交網路中繼資料標籤。"
+
+#: modules/aioseop_opengraph.php:902
+msgid "Scan Now"
+msgstr "立即掃描"
+
+#: modules/aioseop_opengraph.php:755
+msgid "Default "
+msgstr "預設 "
+
+#: modules/aioseop_opengraph.php:616
+msgid "Scan Social Meta"
+msgstr "掃描社交網路中繼資料"
+
+#: modules/aioseop_opengraph.php:606
+msgid "Twitter Settings"
+msgstr "Twitter 設定"
+
+#: modules/aioseop_opengraph.php:591
+msgid "Facebook Settings"
+msgstr "Facebook 設定"
+
+#: modules/aioseop_opengraph.php:581
+msgid "Image Settings"
+msgstr "圖片設定"
+
+#: modules/aioseop_opengraph.php:550
+msgid "Social Settings"
+msgstr "社交網路設定"
+
+#: modules/aioseop_opengraph.php:499
+msgid "Associated Name"
+msgstr "關聯名稱"
+
+#: modules/aioseop_opengraph.php:495
+msgid "Organization"
+msgstr "組織 (Organization)"
+
+#: modules/aioseop_opengraph.php:494
+msgid "Person"
+msgstr "個人 (Person)"
+
+#: modules/aioseop_opengraph.php:491
+msgid "Person or Organization?"
+msgstr "個人或組織？"
+
+#: modules/aioseop_opengraph.php:485 modules/aioseop_opengraph.php:586
+msgid "Social Profile Links"
+msgstr "社交網路資料連結"
+
+#: modules/aioseop_opengraph.php:482
+msgid "Show Facebook Author on Articles"
+msgstr "在文章上顯示 Facebook 作者"
+
+#: modules/aioseop_opengraph.php:477
+msgid "Show Facebook Publisher on Articles"
+msgstr "在文章上顯示 Facebook 發佈者"
+
+#: modules/aioseop_opengraph.php:471
+msgid "Article Tags"
+msgstr "文章標籤"
+
+#: modules/aioseop_opengraph.php:465
+msgid "Article Section"
+msgstr "文章分類"
+
+#: modules/aioseop_opengraph.php:462
+msgid "Debug This Post"
+msgstr "進行內容偵錯"
+
+#: modules/aioseop_opengraph.php:454
+msgid "Facebook Debug"
+msgstr "Facebook 偵錯"
+
+#: modules/aioseop_opengraph.php:419
+msgid "Use Post Tags In Article Tags"
+msgstr "在 Facebook 文章中採用 WordPress 文章標籤"
+
+#: modules/aioseop_opengraph.php:414
+msgid "Use Categories In Article Tags"
+msgstr "在 Facebook 文章中將 WordPress 分類引用為標籤"
+
+#: modules/aioseop_opengraph.php:409
+msgid "Use Keywords In Article Tags"
+msgstr "在 Facebook 文章中將關鍵字引用為標籤"
+
+#: modules/aioseop_opengraph.php:406
+msgid "Automatically Generate Article Tags"
+msgstr "自動產生 Facebook 文章標籤"
+
+#: modules/aioseop_opengraph.php:397
+msgid "Twitter Domain"
+msgstr "Twitter 網域"
+
+#: modules/aioseop_opengraph.php:394
+msgid "Show Twitter Author"
+msgstr "顯示 Twitter 作者"
+
+#: modules/aioseop_opengraph.php:389
+msgid "Twitter Site"
+msgstr "Twitter 網站"
+
+#: modules/aioseop_opengraph.php:376
+msgid "Twitter Card Type"
+msgstr "Twitter 卡片類型"
+
+#: modules/aioseop_opengraph.php:367 modules/aioseop_opengraph.php:379
+msgid "Summary Large Image"
+msgstr "包含大型圖片的摘要"
+
+#: modules/aioseop_opengraph.php:366 modules/aioseop_opengraph.php:380
+msgid "Summary"
+msgstr "摘要"
+
+#: modules/aioseop_opengraph.php:362
+msgid "Default Twitter Card"
+msgstr "預設 Twitter 卡片"
+
+#: modules/aioseop_opengraph.php:350
+msgid "Specify Video Height"
+msgstr "指定影片高度"
+
+#: modules/aioseop_opengraph.php:338
+msgid "Specify Video Width"
+msgstr "指定影片寬度"
+
+#: modules/aioseop_opengraph.php:334
+msgid "Custom Video"
+msgstr "自訂影片"
+
+#: modules/aioseop_opengraph.php:329
+msgid "Specify Image Height"
+msgstr "指定圖片高度"
+
+#: modules/aioseop_opengraph.php:324
+msgid "Specify Image Width"
+msgstr "指定圖片寬度"
+
+#: modules/aioseop_opengraph.php:320
+msgid "Custom Image"
+msgstr "自訂圖片"
+
+#: modules/aioseop_opengraph.php:313
+msgid "Image"
+msgstr "圖片"
+
+#: modules/aioseop_opengraph.php:447
+msgid "Facebook Object Type"
+msgstr "Facebook 物件類型"
+
+#: modules/aioseop_opengraph.php:308
+msgid "Use Custom Field For Image"
+msgstr "為圖片啟用自訂欄位"
+
+#: modules/aioseop_opengraph.php:303
+msgid "Default Image Height"
+msgstr "圖片預設高度"
+
+#: modules/aioseop_opengraph.php:298
+msgid "Default Image Width"
+msgstr "圖片預設寬度"
+
+#: modules/aioseop_opengraph.php:293
+msgid "Default OG:Image"
+msgstr "預設 OG:Image"
+
+#: modules/aioseop_opengraph.php:289
+msgid "Use Default If No Image Found"
+msgstr "找不到圖片時使用預設圖片"
+
+#: modules/aioseop_opengraph.php:285
+msgid "First Available Image"
+msgstr "所有圖片選項中第一張可用的圖片"
+
+#: modules/aioseop_opengraph.php:284
+msgid "Post Author Image"
+msgstr "文章作者頭像"
+
+#: modules/aioseop_opengraph.php:283
+msgid "Image From Custom Field"
+msgstr "自訂欄位中的圖片"
+
+#: modules/aioseop_opengraph.php:282
+msgid "First Image In Content"
+msgstr "內容中的第一張圖片"
+
+#: modules/aioseop_opengraph.php:281
+msgid "First Attached Image"
+msgstr "第一張附件圖片"
+
+#: modules/aioseop_opengraph.php:280
+msgid "Featured Image"
+msgstr "精選圖片"
+
+#: modules/aioseop_opengraph.php:279
+msgid "Default Image"
+msgstr "預設圖片"
+
+#: modules/aioseop_opengraph.php:276
+msgid "Select OG:Image Source"
+msgstr "選取 OG:Image 來源"
+
+#: modules/aioseop_opengraph.php:268
+msgid "Home Image"
+msgstr "首頁圖片"
+
+#: modules/aioseop_opengraph.php:256
+msgid "Home Description"
+msgstr "首頁內容說明"
+
+#: modules/aioseop_opengraph.php:244
+msgid "Home Title"
+msgstr "首頁標題"
+
+#: modules/aioseop_opengraph.php:239
+msgid "Site Name"
+msgstr "網站名稱"
+
+#: modules/aioseop_opengraph.php:236
+msgid "Run Shortcodes In Description"
+msgstr "在內容說明中執行短碼"
+
+#: modules/aioseop_opengraph.php:233
+msgid "Run Shortcodes In Title"
+msgstr "在標題中執行短碼"
+
+#: modules/aioseop_opengraph.php:219
+msgid "Use AIOSEO Title and Description"
+msgstr "使用 AIOSEO 標題與內容說明"
+
+#: modules/aioseop_opengraph.php:214
+msgid "Scan Header"
+msgstr "掃描標頭"
+
+#: modules/aioseop_opengraph.php:210
+msgid " characters. Open Graph allows up to a maximum of %1$s chars for the %2$s."
+msgstr " 個字元。開放社交關係圖的%2$s可接受高達 %1$s 個字元。"
+
+#: modules/aioseop_opengraph.php:130
+msgid "Add the name of the person or organization who owns these profiles."
+msgstr "輸入擁有以上資料的個人或組織名稱。"
+
+#: modules/aioseop_opengraph.php:129
+msgid "Add URLs for your website's social profiles here (Facebook, Twitter, Google+, Instagram, LinkedIn), one per line."
+msgstr "在這裡輸入與網站相關的社交網路資料網址 (例如 Facebook、Twitter、Google+、Instagram 或 LinkedIn)，每行一道網址。"
+
+#: modules/aioseop_opengraph.php:128
+msgid "Are the social profile links for your website for a person or an organization?"
+msgstr "為網站所輸入的社交網路資料連結，其所代表的是個人還是組織？"
+
+#: modules/aioseop_opengraph.php:127
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "讓網站上的作者透過個人的 Facebook 動態時報網址，在他們的文章中將其列為開放社交關係圖中繼資料的內容作者。"
+
+#: modules/aioseop_opengraph.php:126
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "將文章連結到與網站相關的 Facebook 粉絲專頁。"
+
+#: modules/aioseop_opengraph.php:125
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "這項開放社交關係圖中繼能讓你加入最能描述這個頁面內容的標籤清單。請以逗號分隔多個標籤。"
+
+#: modules/aioseop_opengraph.php:124
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "這項開放社交關係圖中繼能讓你加入最能描述這個頁面內容的分類名稱。"
+
+#: modules/aioseop_opengraph.php:123
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "點擊 [進行內容偵錯] 按鈕，讓 Facebook 為這個頁面進行重新擷取及偵錯。"
+
+#: modules/aioseop_opengraph.php:122
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "請選取最能描述這個頁面或文章內容的開放社交關係圖類型。"
+
+#: modules/aioseop_opengraph.php:121
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "這是這個頁面或文章的開放社交關係圖內容說明。"
+
+#: modules/aioseop_opengraph.php:120
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "這是這個頁面或文章的開放社交關係圖標題。"
+
+#: modules/aioseop_opengraph.php:119
+msgid "Select which Post Types you want to use All in One SEO Pack to set Open Graph meta values for."
+msgstr "選取要使用 All in One SEO Pack 設定開放社交關係圖中繼資料值的文章類型。"
+
+#: modules/aioseop_opengraph.php:118
+msgid "Use post tags in generated article tags."
+msgstr "使用 WordPress 文章標籤產生 Facebook 文章標籤。"
+
+#: modules/aioseop_opengraph.php:117
+msgid "Use categories in generated article tags."
+msgstr "使用 WordPress 文章分類產生 Facebook 文章標籤。"
+
+#: modules/aioseop_opengraph.php:116
+msgid "Use keywords in generated article tags."
+msgstr "使用 WordPress 文章關鍵字產生 Facebook 文章標籤。"
+
+#: modules/aioseop_opengraph.php:115
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "未提供文章標籤時，自動為 Facebook 內容類型是 [文章] 的內容產生文章標籤。"
+
+#: modules/aioseop_opengraph.php:113
+msgid "Enter the name of your website here."
+msgstr "在這裡輸入這個網站的網域名稱。"
+
+#: modules/aioseop_opengraph.php:112
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "允許網站作者透過他們的 Twitter 使用者名稱，將其列為相關文章 Twitter 卡片上的內容創作者。"
+
+#: modules/aioseop_opengraph.php:111
+msgid "Enter the Twitter username associated with your website here."
+msgstr "在這裡輸入與這個網站相關的 Twitter 使用者名稱。"
+
+#: modules/aioseop_opengraph.php:109
+msgid "Select the default type of Twitter Card to display."
+msgstr "選取 Twitter 卡片顯示的預設類型。"
+
+#: modules/aioseop_opengraph.php:108
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "輸入以像素為單位的開放社交關係圖影片高度 (例如 600)。"
+
+#: modules/aioseop_opengraph.php:107
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "輸入以像素為單位的開放社交關係圖影片寬度 (例如 600)。"
+
+#: modules/aioseop_opengraph.php:106
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "這項設定能讓你指定用於這個頁面或文章的開放社交關係圖影片連結。"
+
+#: modules/aioseop_opengraph.php:105
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "輸入以像素為單位的開放社交關係圖圖片高度 (例如 600)。"
+
+#: modules/aioseop_opengraph.php:104
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "輸入以像素為單位的開放社交關係圖圖片寬度 (例如 600)。"
+
+#: modules/aioseop_opengraph.php:103
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "這項設定能讓你上傳用於這個頁面或文章的開放社交關係圖圖片。"
+
+#: modules/aioseop_opengraph.php:102
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "這項設定能讓你為這個頁面或文章選取開放社交關係圖圖片，這項設定會覆寫預設設定。"
+
+#: modules/aioseop_opengraph.php:101
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "輸入自訂欄位名稱或以逗號分隔多各自訂欄位名稱，便能為頁面或文章的開放社交圖圖片指定自訂欄位加以使用。"
+
+#: modules/aioseop_opengraph.php:100
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "這項設定能為網站上的圖片指定預設高度。"
+
+#: modules/aioseop_opengraph.php:99
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "這項設定能為網站上的圖片指定預設寬度。"
+
+#: modules/aioseop_opengraph.php:98
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "這項設定提供了可作為開放社交關係圖圖片的預設圖片。網站管理員可以在這裡透過上傳圖片、選取 [媒體庫] 中的圖片、或是貼上圖片的連結進行設定。"
+
+#: modules/aioseop_opengraph.php:97
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "如果上述設定都沒有圖片可供顯示，這項設定能使用預設圖片顯示。"
+
+#: modules/aioseop_opengraph.php:96
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "這項設定讓網站管理員選取預設開放社交關係圖圖片要以哪張圖片顯示，這項預設值可在個別文章/頁面中進行變更。"
+
+#: modules/aioseop_opengraph.php:94
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "[首頁圖片] 就是網站首頁的開放社交關係圖 (Open Graph) 圖片。"
+
+#: modules/aioseop_opengraph.php:93
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "[首頁內容說明] 就是網站首頁的開放社交關係圖 (Open Graph) 內容說明。"
+
+#: modules/aioseop_opengraph.php:92
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "[首頁標題] 就是網站首頁的開放社交關係圖 (Open Graph) 標題。"
+
+#: modules/aioseop_opengraph.php:91
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "[網站名稱] 就是用來辨識這個網站的名稱。"
+
+#: modules/aioseop_opengraph.php:90
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "執行出現在社交網路內容說明中繼標籤中的短碼。"
+
+#: modules/aioseop_opengraph.php:89
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "執行出現在社交網路標題中繼標籤中的短碼。"
+
+#: modules/aioseop_opengraph.php:86
+msgid "Checking this box will use the Home Title and Home Description set in All in One SEO Pack, General Settings as the Open Graph title and description for your home page."
+msgstr "啟用這項設定後，便會使用 All in One SEO Pack [一般設定] 中的 [首頁標題] 及 [首頁內容說明] 作為開放社交關係圖 (Open Graph) 的標題及內容說明。"
+
+#: modules/aioseop_opengraph.php:80
+msgid "Website"
+msgstr "網站 (Website)"
+
+#: modules/aioseop_opengraph.php:79
+msgid "Blog"
+msgstr "部落格 (Blog)"
+
+#: modules/aioseop_opengraph.php:78
+msgid "Article"
+msgstr "文章 (Article)"
+
+#: modules/aioseop_opengraph.php:75
+msgid "Episode"
+msgstr "影集 (Episode)"
+
+#: modules/aioseop_opengraph.php:74
+msgid "TV Show"
+msgstr "電視節目 (TV Show)"
+
+#: modules/aioseop_opengraph.php:73
+msgid "Song"
+msgstr "歌曲 (Song)"
+
+#: modules/aioseop_opengraph.php:72
+msgid "Product"
+msgstr "產品 (Product)"
+
+#: modules/aioseop_opengraph.php:71
+msgid "Movie"
+msgstr "電影 (Moive)"
+
+#: modules/aioseop_opengraph.php:70
+msgid "Game"
+msgstr "遊戲 (Game)"
+
+#: modules/aioseop_opengraph.php:69
+msgid "Food"
+msgstr "食物 (Food)"
+
+#: modules/aioseop_opengraph.php:68
+msgid "Drink"
+msgstr "飲料 (Drink)"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Book"
+msgstr "書籍 (Book)"
+
+#: modules/aioseop_opengraph.php:66
+msgid "Album"
+msgstr "專輯 (Album)"
+
+#: modules/aioseop_opengraph.php:63
+msgid "State Province"
+msgstr "州/省 (State Province)"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Landmark"
+msgstr "地標 (Landmark)"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Country"
+msgstr "國家 (Country)"
+
+#: modules/aioseop_opengraph.php:60
+msgid "City"
+msgstr "城市 (City)"
+
+#: modules/aioseop_opengraph.php:57
+msgid "Public Figure"
+msgstr "公眾人物 (Public Figure)"
+
+#: modules/aioseop_opengraph.php:56
+msgid "Profile"
+msgstr "個人資料 (Profile)"
+
+#: modules/aioseop_opengraph.php:55
+msgid "Politician"
+msgstr "政治人物 (Politician)"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Musician"
+msgstr "音樂家 (Musician)"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Director"
+msgstr "導演 (Director)"
+
+#: modules/aioseop_opengraph.php:52
+msgid "Author"
+msgstr "作者 (Author)"
+
+#: modules/aioseop_opengraph.php:51
+msgid "Athlete"
+msgstr "運動員 (Athlete)"
+
+#: modules/aioseop_opengraph.php:50
+msgid "Actor"
+msgstr "演員 (Actor)"
+
+#: modules/aioseop_opengraph.php:47
+msgid "University"
+msgstr "大專院校 (University)"
+
+#: modules/aioseop_opengraph.php:46
+msgid "School"
+msgstr "學校 (School)"
+
+#: modules/aioseop_opengraph.php:45
+msgid "Non Profit"
+msgstr "非營利單位 (Non Profit)"
+
+#: modules/aioseop_opengraph.php:44
+msgid "Government"
+msgstr "政府機關 (Government)"
+
+#: modules/aioseop_opengraph.php:43
+msgid "Band"
+msgstr "樂團 (Band)"
+
+#: modules/aioseop_opengraph.php:40
+msgid "Sports Team"
+msgstr "運動隊伍 (Sports Team)"
+
+#: modules/aioseop_opengraph.php:39
+msgid "Sports League"
+msgstr "運動聯盟 (Sports League)"
+
+#: modules/aioseop_opengraph.php:38
+msgid "Cause"
+msgstr "公益 (Cause)"
+
+#: modules/aioseop_opengraph.php:35
+msgid "Restaurant"
+msgstr "餐廳 (Restaurant)"
+
+#: modules/aioseop_opengraph.php:34
+msgid "Hotel"
+msgstr "旅館 (Hotel)"
+
+#: modules/aioseop_opengraph.php:33
+msgid "Cafe"
+msgstr "咖啡廳 (Cafe)"
+
+#: modules/aioseop_opengraph.php:32
+msgid "Company"
+msgstr "公司 (Company)"
+
+#: modules/aioseop_opengraph.php:31
+msgid "Bar"
+msgstr "酒吧 (Bar)"
+
+#: modules/aioseop_opengraph.php:28
+msgid "Sport"
+msgstr "運動 (Sport)"
+
+#: modules/aioseop_opengraph.php:27
+msgid "Activity"
+msgstr "活動 (Activity)"
+
+#: admin/aioseop_module_class.php:2711
+msgid "Update Options"
+msgstr "儲存變更"
+
+#: admin/aioseop_module_class.php:2635
+msgid "All in One SEO Options Updated."
+msgstr "All in One SEO 設定已更新。"
+
+#: admin/aioseop_module_class.php:2626
+msgid "Options Reset."
+msgstr "設定已重設。"
+
+#: admin/aioseop_module_class.php:2623 modules/aioseop_sitemap.php:1139
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "安全性檢查 - 如果收到這項錯誤訊息，請先登出再登入 WordPress"
+
+#: admin/aioseop_module_class.php:2395
+msgid "Click for Help!"
+msgstr "點擊以取得說明！"
+
+#: admin/aioseop_module_class.php:2356
+msgid " characters. Most search engines use a maximum of %1$s chars for the %2$s."
+msgstr " 個字元。多數的搜尋引擎可接受高達 %1$s 個字元的%2$s。"
+
+#: admin/aioseop_module_class.php:1691
+msgid "Click here for documentation on this setting"
+msgstr "點擊這裡以取得這項設定的進一步說明"
+
+#: modules/aioseop_performance.php:318
+#: modules/aioseop_importer_exporter.php:518
+msgid "Settings export file for All in One SEO Pack"
+msgstr "All in One SEO Pack 的設定匯出檔"
+
+#: modules/aioseop_importer_exporter.php:464
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b>警告</b>: 找不到《<b>%s</b>》這篇文章"
+
+#: modules/aioseop_importer_exporter.php:415
+msgid "<b>Warning:</b> Line not matched: <b>\"%1$s\"</b>, On Line: <b>%2$s</b>"
+msgstr "<b>警告</b>: <b>%1$s</b> 的內容不相符，行號為 <b>%2$s</b>"
+
+#: modules/aioseop_importer_exporter.php:156
+msgid ""
+"You may change this by activating or deactivating\n"
+"\t\t\t\t\t\tmodules in the Feature Manager."
+msgstr "網站管理員可以在 [功能管理] 中透過啟用或停用功能模組進行變更。"
+
+#: modules/aioseop_importer_exporter.php:149
+msgid "There are no other modules currently loaded!"
+msgstr "目前並未載入其他功能模組！"
+
+#: modules/aioseop_importer_exporter.php:115
+msgid "Export"
+msgstr "匯出"
+
+#: modules/aioseop_importer_exporter.php:64
+msgid ""
+"Note: If General Settings is checked, the\n"
+"\t\t\t\t\t\t\t\tGeneral Settings, the Feature Manager settings,\n"
+"\t\t\t\t\t\t\t\tand the following currently active modules will\n"
+"\t\t\t\t\t\t\t\thave their settings data exported:"
+msgstr "請注意: 核取 [一般設定] 後，[一般設定]、[功能管理] 的啟用功能項目設定，以及對各項啟用功能所進行的設定，均會予以匯出。"
+
+#: modules/aioseop_importer_exporter.php:51
+msgid "Export Post Types:"
+msgstr "匯出文章類型:"
+
+#: modules/aioseop_importer_exporter.php:43
+msgid "Export Settings"
+msgstr "匯出設定"
+
+#: modules/aioseop_importer_exporter.php:37
+#: modules/aioseop_importer_exporter.php:105
+msgid "Import"
+msgstr "匯入"
+
+#: modules/aioseop_importer_exporter.php:29
+msgid "Select which Post Types you want to export your All in One SEO Pack meta data for.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "選取要從哪些文章類型匯出 All in One SEO Pack 的中繼資料。<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>點擊這裡以取得這項設定的進一步說明</a>"
+
+#: modules/aioseop_importer_exporter.php:25
+msgid "You may choose to export settings from active modules, and content from post data.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "這項設定能讓網站管理員從已啟用的功能模組及文章資料中分別匯出設定及內容。<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>點擊這裡以取得這項設定的進一步說明</a>"
+
+#: modules/aioseop_importer_exporter.php:21
+msgid "Select a valid All in One SEO Pack ini file and click 'Import' to import options from a previous state or install of All in One SEO Pack.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "選取有效的 All in One SEO Pack 的 ini 檔案，然後點擊 [匯入]，便能匯入 All in One SEO Pack 之前的設定或安裝結果。<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>點擊這裡以取得這項設定的進一步說明</a>"
+
+#: inc/aioseop_functions.php:868
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/aioseop_functions.php:865
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/aioseop_functions.php:859
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/aioseop_functions.php:616
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "請參閱各項工具的線上說明文件，這些內容能協助網站管理員使用這些工具，以便為網站上的社交網路中繼進行偵錯。"
+
+#: inc/aioseop_functions.php:606
+msgid "You should avoid duplicate social meta tags. You can use these free tools from Facebook and Twitter to validate your social meta and check for errors:"
+msgstr "網站應避免有重複的社交網路中繼標籤。請使用 Facebook 和 Twitter 的免費工具驗證網站上的社交網路中繼並檢查有無錯誤:"
+
+#: inc/aioseop_functions.php:605
+msgid "You may prefer to use the social meta tags that are being output by the other plugin(s) or theme. If so, then you should deactivate this Social Meta feature in All in One SEO Pack Feature Manager."
+msgstr "網站管理員也許偏好使用其他外掛或佈景主題輸出的社交網路中繼標籤。如果真是如此，請在 All in One SEO Pack 的 [功能管理] 中停用 [社交網路中繼] 功能。"
+
+#: inc/aioseop_functions.php:604
+msgid "All in One SEO Pack has detected that a plugin(s) or theme is also outputting social meta tags on your site. You can view this social meta in the source code of your site (check your browser help for instructions on how to view source code)."
+msgstr "All in One SEO Pack 在這個網站上偵測到有外掛或佈景主題也在輸出社交網路中繼標籤。查詢一下瀏覽器說明，會有如何在瀏覽器中檢視頁面原始碼的說明，這樣便能在這個網站的頁面原始碼中檢視社交網路標籤。"
+
+#: inc/aioseop_functions.php:603
+msgid "What Does This Mean?"
+msgstr "這是什麼意思？"
+
+#: inc/aioseop_functions.php:600
+msgid "No duplicate meta tags found."
+msgstr "未發現重複的中繼資料標籤。"
+
+#: inc/aioseop_functions.php:591
+msgid "Duplicate %s Meta"
+msgstr "重複的 %s 中繼資料"
+
+#: inc/aioseop_functions.php:527
+msgid "Row %s not found; no rows were deleted."
+msgstr "找不到 [%s] 資料列，並未刪除任何資料列。"
+
+#: inc/aioseop_functions.php:404
+msgid "Unauthorized access; try reloading the page."
+msgstr "未經授權的存取，請嘗試重新載入這個頁頁。"
+
+#: modules/aioseop_performance.php:207 modules/aioseop_performance.php:212
+#: modules/aioseop_performance.php:217 modules/aioseop_performance.php:226
+#: inc/aioseop_functions.php:379 inc/aioseop_functions.php:761
+msgid "No"
+msgstr "否"
+
+#: inc/aioseop_functions.php:272
+msgid "Insert time"
+msgstr "插入時間"
+
+#: inc/aioseop_functions.php:271
+msgid "Revisions"
+msgstr "內容修訂"
+
+#: inc/aioseop_functions.php:270
+msgid "Slug may not be empty!"
+msgstr "代稱不能為空！"
+
+#: inc/aioseop_functions.php:269
+msgid "Please wait..."
+msgstr "請稍候..."
+
+#: inc/aioseop_functions.php:267
+msgid "Cancel"
+msgstr "取消"
+
+#: inc/aioseop_functions.php:266
+msgid "Save"
+msgstr "儲存"
+
+#: inc/aioseop_functions.php:265
+msgid "Post"
+msgstr "文章"
+
+#: inc/aioseop_functions.php:264 inc/aioseop_functions.php:383
+#: inc/aioseop_functions.php:765
+msgid "Edit"
+msgstr "編輯"
+
+#: inc/aioseop_functions.php:193
+msgid "SEO Keywords"
+msgstr "SEO 關鍵字"
+
+#: inc/aioseop_functions.php:191
+msgid "SEO Description"
+msgstr "SEO 內容說明"
+
+#: inc/aioseop_functions.php:190
+msgid "SEO Title"
+msgstr "SEO 標題"
+
+#: modules/aioseop_file_editor.php:86
+msgid "Update .htaccess"
+msgstr "儲存 .htaccess 檔案"
+
+#: modules/aioseop_file_editor.php:49
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: modules/aioseop_file_editor.php:33 modules/aioseop_file_editor.php:54
+msgid "Edit .htaccess"
+msgstr "編輯 .htaccess 檔案"
+
+#: modules/aioseop_file_editor.php:29
+msgid ".htaccess editor"
+msgstr ".htaccess 編輯器"
+
+#. translators: this button deactivates all active modules of the plugin.
+#: modules/aioseop_feature_manager.php:169
+msgid "Reset Features"
+msgstr "重設功能是否啟用"
+
+#: modules/aioseop_feature_manager.php:166
+msgid "Update Features"
+msgstr "儲存功能變更"
+
+#. translators: the Video Sitemap module allows users to generate a sitemap
+#. with video content in .xml format for their website and submit it to search
+#. engines such as Google, Bing and Yahoo.
+#: modules/aioseop_feature_manager.php:86
+#: modules/aioseop_feature_manager.php:93 inc/commonstrings.php:21
+msgid "Video Sitemap"
+msgstr "影片 Sitemap"
+
+#. translators: this refers to a feature that will be launched in the near
+#. future.
+#: modules/aioseop_feature_manager.php:78
+msgid "Coming Soon..."
+msgstr "即將推出..."
+
+#: modules/aioseop_feature_manager.php:57
+msgid "Exports and imports your All in One SEO Pack plugin settings."
+msgstr "匯入及匯出網站的 All in One SEO Pack 外掛設定。"
+
+#. translators: the Importer & Exporter module allows users to import/export
+#. their All in One SEO Pack settings for backup purposes or when migrating
+#. their site.
+#: modules/aioseop_feature_manager.php:56
+#: modules/aioseop_importer_exporter.php:16
+msgid "Importer & Exporter"
+msgstr "匯入與匯出程式"
+
+#: modules/aioseop_feature_manager.php:69
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "為 SEO 相關的項目進行效能最佳化，並檢查系統狀態。"
+
+#. translators: the Performance module allows users to set certain performance
+#. related settings and check the status of their WordPress installation.
+#: modules/aioseop_feature_manager.php:68 modules/aioseop_performance.php:15
+msgid "Performance"
+msgstr "效能"
+
+#. translators: 'bots' refers to user agents/web robots that misbehave.
+#: modules/aioseop_feature_manager.php:63
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "封鎖能大幅降低網站速度的惡意機器人。"
+
+#. translators: the File Editor module allows users to edit the robots.txt file
+#. or .htaccess file on their site.
+#: modules/aioseop_file_editor.php:19 modules/aioseop_feature_manager.php:50
+msgid "File Editor"
+msgstr "檔案編輯器"
+
+#: modules/aioseop_feature_manager.php:46
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "建立並驗證 Robots.txt 檔案，藉以告知搜尋引擎檢索網站的方式。"
+
+#. translators: the Robots.txt module allows users to provide instructions to
+#. web robots, e.g. search engine crawlers.
+#: modules/aioseop_robots.php:19 modules/aioseop_robots.php:80
+#: modules/aioseop_feature_manager.php:45
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#. translators: the Social Meta module allows users to add Open Graph (OG:)
+#. meta tags to their site's post/pages to control the appearance of them when
+#. shared on social media networks like Facebook and Twitter.
+#: modules/aioseop_feature_manager.php:38 modules/aioseop_opengraph.php:22
+msgid "Social Meta"
+msgstr "社交網路中繼資料"
+
+#: modules/aioseop_feature_manager.php:33
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "使用這項功能便能建立與管理這個網站的 XML Sitemap (XML 網站地圖)，並將 XML Sitemap 傳送至 Google、Bing/Yahoo 以及 Ask.com。"
+
+#. translators: the XML Sitemaps module allows users to generate a sitemap in
+#. .xml format for their website and submit it to search engines such as
+#. Google, Bing and Yahoo.
+#: modules/aioseop_feature_manager.php:32
+msgid "XML Sitemaps"
+msgstr "XML Sitemap"
+
+#. translators: the Feature Manager allows users to (de)activate other modules
+#. of the plugin.
+#: modules/aioseop_feature_manager.php:24
+msgid "Feature Manager"
+msgstr "功能管理"
+
+#: aioseop_class.php:4651
+msgid "Main Settings"
+msgstr "主要設定"
+
+#: admin/aioseop_module_class.php:2101 admin/aioseop_module_class.php:2430
+#: admin/aioseop_module_class.php:2750 aioseop_class.php:5004
+#: aioseop_class.php:5024
+msgid "Help"
+msgstr "線上說明"
+
+#: aioseop_class.php:4966 aioseop_class.php:4973
+msgid "Version"
+msgstr "版本"
+
+#: aioseop_class.php:4973
+msgid "Support"
+msgstr "技術支援"
+
+#: aioseop_class.php:4952
+msgid "Join Our Mailing List"
+msgstr "加入我們的郵寄清單"
+
+#: aioseop_class.php:4865
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: aioseop_class.php:4709
+msgid "Upgrade To Pro"
+msgstr "升級至 Pro 版"
+
+#: aioseop_class.php:4748 aioseop_class.php:4762
+msgid "Edit SEO"
+msgstr "編輯 SEO"
+
+#: aioseop_class.php:4700
+msgid "SEO"
+msgstr "SEO"
+
+#: aioseop_class.php:3892
+msgid "Debug Warning: All in One SEO Pack meta data was included again from %1$s filter. Called %2$s times!"
+msgstr "偵錯警告: [%1$s] 篩選器再次納入 All in One SEO Pack 的中繼資料。已呼叫 %2$s 次！"
+
+#: admin/display/general-metaboxes.php:160
+msgid "Getting started? Read the Beginners Guide"
+msgstr "剛入門嗎？請閱讀初學者指南"
+
+#: admin/display/general-metaboxes.php:156
+msgid "Watch video tutorials"
+msgstr "觀看教學影片"
+
+#: admin/display/general-metaboxes.php:152
+msgid "View the Changelog"
+msgstr "檢視更新日誌"
+
+#: admin/display/general-metaboxes.php:143
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "All in One SEO Pro 外掛更新日誌"
+
+#: admin/display/general-metaboxes.php:140
+msgid "Access our Premium Support Forums"
+msgstr "存取付費技術支援論壇"
+
+#: admin/display/general-metaboxes.php:139
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "All in One SEO Pro 外掛技術支援論壇"
+
+#: admin/display/general-metaboxes.php:135
+msgid "Read the All in One SEO Pack user guide"
+msgstr "閱讀 All in One SEO Pack 使用者手冊"
+
+#: admin/display/general-metaboxes.php:119
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "立刻註冊即可免費獲得價值 39 美元的《5 SEO Tips for WordPress》英文電子書。"
+
+#: admin/display/general-metaboxes.php:117
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "加入我們的郵寄清單以取得更多秘訣、訣竅以及 WordPress 的內幕消息。"
+
+#: aioseop_class.php:900
+msgid "UPGRADE TO PRO VERSION"
+msgstr "升級至 PRO 版"
+
+#: admin/display/general-metaboxes.php:45
+msgid "Pro Version"
+msgstr "Pro 版"
+
+#: admin/display/general-metaboxes.php:38
+msgid "Reset Dismissed Notices"
+msgstr "重設已忽略的通知"
+
+#: aioseop_class.php:3436
+msgid "nofollow"
+msgstr "不前往 (NOFOLLOW)"
+
+#: aioseop_class.php:3435
+msgid "follow"
+msgstr "前往 (FOLLOW)"
+
+#: aioseop_class.php:3434
+msgid "Default - nofollow"
+msgstr "預設 - 不前往 (NOFOLLOW)"
+
+#: aioseop_class.php:3428
+msgid "noindex"
+msgstr "不進行索引 (NOINDEX)"
+
+#: aioseop_class.php:3427
+msgid "index"
+msgstr "進行索引 (INDEX)"
+
+#: aioseop_class.php:3426
+msgid "Default - noindex"
+msgstr "預設 - 不進行索引 (NOINDEX)"
+
+#: aioseop_class.php:3342
+msgid "Reset ALL Settings to Defaults"
+msgstr "將所有設定重設為預設值"
+
+#: aioseop_class.php:3338
+msgid "Reset General Settings to Defaults"
+msgstr "將 [一般設定] 重設為預設值"
+
+#: aioseop_class.php:3111
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! New since 2.2: Control who accesses your site with the new Robots.txt Editor and File Editor modules!  Enable them from the Feature Manager.  Remember to review your settings, we have added some new ones!"
+msgstr "感謝採用最新最棒的 All in One SEO Pack！自 2.2 版以來的新功能: 透過全新的 Robots.txt 編輯器及檔案編輯器，控制網站的存取方式。請從 [功能管理] 中予以啟用。請檢查相關設定，因為我們隨時都在為大家增加新功能！"
+
+#: aioseop_class.php:3075 aioseop_class.php:3092 aioseop_class.php:3110
+msgid "Review Your Settings"
+msgstr "檢查相關設定"
+
+#: aioseop_class.php:3103
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! Please review your settings, as we're always adding new features for you!"
+msgstr "感謝採用最新最棒的 All in One SEO Pack！請檢查相關設定，因為我們隨時都在為大家增加新功能！"
+
+#: aioseop_class.php:3084 aioseop_class.php:3102
+msgid "Welcome to Version %s!"
+msgstr "歡迎使用 %s 版！"
+
+#: aioseop_class.php:3188
+msgid "%%tax_%1$s%% - This post's associated %2$s taxonomy title"
+msgstr "%%tax_%1$s%% - 與這篇文章相關的 [%2$s] 分類法標題"
+
+#: aioseop_class.php:3184
+msgid "%post_title% - The original title of the post."
+msgstr "%post_title% - 這篇文章的原始標題。"
+
+#: aioseop_class.php:3173
+msgid "Title Format:"
+msgstr "標題格式:"
+
+#: aioseop_class.php:3165
+msgid "Everywhere Else"
+msgstr "其他頁面"
+
+#: aioseop_class.php:3165
+msgid "Front Page"
+msgstr "網站首頁"
+
+#: aioseop_class.php:1054 modules/aioseop_opengraph.php:611
+msgid "Advanced Settings"
+msgstr "進階設定"
+
+#: aioseop_class.php:1037
+msgid "Noindex Settings"
+msgstr "不進行索引 (NOINDEX) 設定"
+
+#: aioseop_class.php:1010
+msgid "Google Settings"
+msgstr "Google 設定"
+
+#: aioseop_class.php:1005
+msgid "Webmaster Verification"
+msgstr "網站管理員驗證"
+
+#: aioseop_class.php:1000
+msgid "Display Settings"
+msgstr "顯示設定"
+
+#: aioseop_class.php:975
+msgid "Title Settings"
+msgstr "標題設定"
+
+#: aioseop_class.php:1072
+msgid "Keyword Settings"
+msgstr "關鍵字設定"
+
+#: aioseop_class.php:970 modules/aioseop_opengraph.php:576
+msgid "Home Page Settings"
+msgstr "首頁設定"
+
+#: aioseop_class.php:948
+msgid "Disable Google Analytics"
+msgstr "停用 Google Analytics"
+
+#: aioseop_class.php:946
+msgid "Disable on this page/post"
+msgstr "在這篇文章/頁面停用 SEO"
+
+#: aioseop_class.php:945
+msgid "Exclude From Sitemap"
+msgstr "在 Sitemap 中排除這個頁面"
+
+#: aioseop_class.php:933
+msgid "Custom Canonical URL"
+msgstr "自訂標準網址"
+
+#: aioseop_class.php:929
+msgid "Keywords (comma separated)"
+msgstr "關鍵字 (以半形逗號分隔)"
+
+#: aioseop_class.php:921 modules/aioseop_opengraph.php:438
+msgid "Description"
+msgstr "內容說明"
+
+#: aioseop_class.php:915 modules/aioseop_opengraph.php:430
+msgid "Title"
+msgstr "標題"
+
+#: aioseop_class.php:909
+msgid "Preview Snippet"
+msgstr "預覽摘要"
+
+#: aioseop_class.php:900
+msgid "Upgrade to All in One SEO Pack Pro Version"
+msgstr "升級至 All in One SEO Pack Pro 版"
+
+#: aioseop_class.php:852
+msgid "Log important events:"
+msgstr "記錄重要事件:"
+
+#: aioseop_class.php:846
+msgid "Additional Blog Page Headers:"
+msgstr "附加的網誌頁面標頭:"
+
+#: aioseop_class.php:840
+msgid "Additional Front Page Headers:"
+msgstr "附加的首頁標頭:"
+
+#: aioseop_class.php:834
+msgid "Additional Page Headers:"
+msgstr "附加的頁面標頭:"
+
+#: aioseop_class.php:828
+msgid "Additional Post Headers:"
+msgstr "附加的文章標頭:"
+
+#: aioseop_class.php:823
+msgid "Exclude Pages:"
+msgstr "排除頁面:"
+
+#: aioseop_class.php:815
+msgid "Unprotect Post Meta Fields:"
+msgstr "為文章中繼欄位取消保護:"
+
+#: aioseop_class.php:811
+msgid "Use Schema.org Markup"
+msgstr "使用 Schema.org 標記:"
+
+#: aioseop_class.php:807
+msgid "Never Shorten Long Descriptions:"
+msgstr "永不縮短完整內容說明:"
+
+#: aioseop_class.php:803
+msgid "Remove Descriptions For Paginated Pages:"
+msgstr "為已分頁頁面移除內容說明:"
+
+#: aioseop_class.php:798
+msgid "Run Shortcodes In Autogenerated Descriptions:"
+msgstr "在自動產生的內容說明中執行短碼:"
+
+#: aioseop_class.php:789
+msgid "Autogenerate Descriptions:"
+msgstr "自動產生內容說明:"
+
+#: aioseop_class.php:785
+msgid "Use nofollow for paginated pages/posts:"
+msgstr "不前往已分頁的頁面及文章:"
+
+#: aioseop_class.php:781
+msgid "Use noindex for paginated pages/posts:"
+msgstr "已分頁的頁面及文章不進行索引:"
+
+#: aioseop_class.php:776
+msgid "Use noindex for Taxonomy Archives:"
+msgstr "分類法彙整不進行索引:"
+
+#: aioseop_class.php:772
+msgid "Use noindex for the 404 page:"
+msgstr "404 頁面不進行索引:"
+
+#: aioseop_class.php:768
+msgid "Use noindex for the Search page:"
+msgstr "搜尋頁面不進行索引:"
+
+#: aioseop_class.php:764
+msgid "Use noindex for Tag Archives:"
+msgstr "標籤彙整不進行索引:"
+
+#: aioseop_class.php:760
+msgid "Use noindex for Author Archives:"
+msgstr "作者彙整不進行索引:"
+
+#: aioseop_class.php:756
+msgid "Use noindex for Date Archives:"
+msgstr "日期彙整不進行索引:"
+
+#: aioseop_class.php:752
+msgid "Use noindex for Categories:"
+msgstr "分類不進行索引:"
+
+#: aioseop_class.php:747
+msgid "Dynamically Generate Keywords for Posts Page/Archives:"
+msgstr "為文章頁面/彙整動態產生關鍵字:"
+
+#: aioseop_class.php:742
+msgid "Use Tags for META keywords:"
+msgstr "使用標籤作為中繼關鍵字:"
+
+#: aioseop_class.php:737
+msgid "Use Categories for META keywords:"
+msgstr "使用分類作為中繼關鍵字:"
+
+#: aioseop_class.php:725
+msgid "Enhanced Ecommerce:"
+msgstr "加強型電子商務:"
+
+#: aioseop_class.php:713
+msgid "Enhanced Link Attribution:"
+msgstr "加強型連結屬性:"
+
+#: aioseop_class.php:701
+msgid "Track Outbound Links:"
+msgstr "出站連結追蹤:"
+
+#: aioseop_class.php:689
+msgid "Exclude Users From Tracking:"
+msgstr "排除無須追蹤的使用者:"
+
+#: aioseop_class.php:677
+msgid "Display Advertiser Tracking:"
+msgstr "多媒體廣告追蹤:"
+
+#: aioseop_class.php:665
+msgid "Anonymize IP Addresses:"
+msgstr "匿名 IP 位址處理:"
+
+#: aioseop_class.php:652
+msgid "Additional Domains:"
+msgstr "其他網域:"
+
+#: aioseop_class.php:640
+msgid "Track Multiple Domains:"
+msgstr "跨網域追蹤:"
+
+#: aioseop_class.php:628
+msgid "Tracking Domain:"
+msgstr "網域追蹤:"
+
+#: aioseop_class.php:612
+msgid "Advanced Analytics Options:"
+msgstr "Google Analytics 進階設定:"
+
+#: aioseop_class.php:606
+msgid "Google Analytics ID:"
+msgstr "Google Analytics ID:"
+
+#: aioseop_class.php:600
+msgid "Specify Publisher URL:"
+msgstr "指定發佈者網址:"
+
+#: aioseop_class.php:590
+msgid "Display Publisher Meta on Front Page:"
+msgstr "在首頁顯示發佈者中繼資料:"
+
+#: aioseop_class.php:584
+msgid "Display Google Authorship:"
+msgstr "顯示 Google 原創性資訊:"
+
+#: aioseop_class.php:574
+msgid "Advanced Authorship Options:"
+msgstr "原創性資訊 (Authorship) 進階設定:"
+
+#: aioseop_class.php:568
+msgid "Specify A Preferred Name:"
+msgstr "指定偏好的名稱:"
+
+#: aioseop_class.php:565
+msgid "Set Preferred Site Name:"
+msgstr "設定偏好的網站名稱:"
+
+#: aioseop_class.php:562
+msgid "Display Sitelinks Search Box:"
+msgstr "顯示網站連結搜尋框 (Sitelinks Search Box):"
+
+#: aioseop_class.php:557
+msgid "Disable Google Plus Profile:"
+msgstr "停用 Google+ 個人資料:"
+
+#: aioseop_class.php:552
+msgid "Google Plus Default Profile:"
+msgstr "Google+ 預設個人資料:"
+
+#: aioseop_class.php:547
+msgid "Pinterest Site Verification:"
+msgstr "Pinterest 網站驗證:"
+
+#: inc/commonstrings.php:39
+msgid "Display Menu At The Top:"
+msgstr "在頂端顯示選單:"
+
+#: inc/commonstrings.php:38
+msgid "Display Menu In Admin Bar:"
+msgstr "在管理列上顯示選單:"
+
+#: aioseop_class.php:532
+msgid "Show Column Labels for Custom Post Types:"
+msgstr "為自訂文章類型顯示 SEO 欄位名稱:"
+
+#: aioseop_class.php:527
+msgid "Default to NOFOLLOW:"
+msgstr "預設不前往 (NOFOLLOW) 的項目:"
+
+#: aioseop_class.php:522
+msgid "Default to NOINDEX:"
+msgstr "預設不進行索引 (NOINDEX) 的項目:"
+
+#: aioseop_class.php:512
+msgid "SEO on only these Content Types:"
+msgstr "僅為指定內容類型提供 SEO 設定:"
+
+#: aioseop_class.php:506
+msgid "Paged Format:"
+msgstr "頁次格式:"
+
+#: aioseop_class.php:500
+msgid "404 Title Format:"
+msgstr "404 頁面標題格式:"
+
+#: aioseop_class.php:494
+msgid "Description Format"
+msgstr "內容說明格式:"
+
+#: aioseop_class.php:488
+msgid "Search Title Format:"
+msgstr "搜尋頁面標題格式:"
+
+#: aioseop_class.php:482
+msgid "Tag Title Format:"
+msgstr "標籤標題格式:"
+
+#: aioseop_class.php:476
+msgid "Author Archive Title Format:"
+msgstr "按作者彙整標題格式:"
+
+#: aioseop_class.php:470
+msgid "Date Archive Title Format:"
+msgstr "日期彙整標題格式:"
+
+#: aioseop_class.php:464
+msgid "Archive Title Format:"
+msgstr "彙整標題格式:"
+
+#: aioseop_class.php:458
+msgid "Category Title Format:"
+msgstr "分類標題格式:"
+
+#: aioseop_class.php:452
+msgid "Post Title Format:"
+msgstr "文章標題格式:"
+
+#: aioseop_class.php:446
+msgid "Page Title Format:"
+msgstr "頁面標題格式:"
+
+#: aioseop_class.php:440
+msgid "Home Page Title Format:"
+msgstr "首頁標題格式:"
+
+#: aioseop_class.php:431
+msgid "Use Original Title:"
+msgstr "使用原始標題:"
+
+#: aioseop_class.php:421 modules/aioseop_performance.php:63
+msgid "Force Rewrites:"
+msgstr "強制覆寫:"
+
+#: aioseop_class.php:412
+msgid "Rewrite Titles:"
+msgstr "覆寫標題:"
+
+#: aioseop_class.php:407
+msgid "Enable Custom Canonical URLs:"
+msgstr "啟用自訂標準網址:"
+
+#: aioseop_class.php:402
+msgid "No Pagination for Canonical URLs:"
+msgstr "為標準網址移除分頁代稱:"
+
+#: aioseop_class.php:398
+msgid "Canonical URLs:"
+msgstr "標準網址:"
+
+#: aioseop_class.php:389
+msgid "Use Static Front Page Instead"
+msgstr "使用靜態首頁取代動態首頁"
+
+#: aioseop_class.php:382
+msgid "Home Keywords (comma separated):"
+msgstr "首頁關鍵字 (以半形逗號分隔):"
+
+#: aioseop_class.php:378 aioseop_class.php:394 aioseop_class.php:417
+#: aioseop_class.php:427 aioseop_class.php:436 aioseop_class.php:579
+#: aioseop_class.php:595 aioseop_class.php:617
+#: modules/aioseop_performance.php:68
+msgid "Disabled"
+msgstr "停用"
+
+#: aioseop_class.php:377 aioseop_class.php:393 aioseop_class.php:416
+#: aioseop_class.php:426 aioseop_class.php:435 aioseop_class.php:578
+#: aioseop_class.php:594 aioseop_class.php:616
+#: modules/aioseop_performance.php:67
+msgid "Enabled"
+msgstr "啟用"
+
+#: aioseop_class.php:373
+msgid "Use Keywords:"
+msgstr "使用關鍵字:"
+
+#: aioseop_class.php:363
+msgid "Home Description:"
+msgstr "首頁內容說明:"
+
+#: aioseop_class.php:353
+msgid "Home Title:"
+msgstr "首頁標題:"
+
+#: aioseop_class.php:344
+msgid "Disable Google Analytics on this page."
+msgstr "為這個頁面停用 Google Analytics 功能。"
+
+#: aioseop_class.php:343
+msgid "Disable SEO on this page."
+msgstr "為這個頁面停用 SEO 功能。"
+
+#: aioseop_class.php:342
+msgid "Don't display this page in the sitemap."
+msgstr "啟用這項設定後，便不會將這個頁面收錄至 Sitemap。"
+
+#: aioseop_class.php:341
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "啟用這項設定後，會要求搜尋引擎不要前往來自這個頁面的連結。"
+
+#: aioseop_class.php:340
+msgid "Check this box to ask search engines not to index this page."
+msgstr "啟用這項設定後，會要求搜尋引擎不要對這個頁面進行索引。"
+
+#: aioseop_class.php:339
+msgid "Override the canonical URLs for this post."
+msgstr "為這個頁面變更標準網址。"
+
+#: aioseop_class.php:338
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "請以逗號分隔對這個頁面而言最重要的關鍵字，在這裡出現的關鍵字會列為中繼關鍵字。"
+
+#: aioseop_class.php:337
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "這個頁面的中繼內容說明。在這裡撰寫的內容說明會覆寫自動產生的內容說明。"
+
+#: aioseop_class.php:336
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "這個頁面標題標籤所呈現的自訂標題。"
+
+#: aioseop_class.php:335
+msgid "A preview of what this page might look like in search engine results."
+msgstr "顯示這個頁面在搜尋引擎中的搜尋結果預覽。"
+
+#: aioseop_class.php:243
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "在 [設定] -> [閱讀] 中設定首頁要顯示最新的文章後，在這裡輸入的內容便會全數複製到該首頁的標頭。如果在 [設定] -> [閱讀] 設定了 [文章頁面]，在這裡輸入的內容也會全數複製到已設定的 [文章頁面] 標頭。這裡可以輸入任何需要的附加標頭，甚至引用樣式表。"
+
+#: aioseop_class.php:242
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "在 [設定] -> [閱讀] -> [首頁顯示] 中設定了靜態頁面為首頁後，在這裡輸入的內容便會全數複製到該首頁的標頭。這裡可以輸入任何需要的附加標頭，甚至引用樣式表。如果設定了某一頁面為首頁，卻未在這裡輸入任何內容，則會使用 [附加的頁面標頭] 中的設定。"
+
+#: aioseop_class.php:241
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "在這裡輸入的內容會全數複製到所有頁面的標頭。這裡可以輸入任何需要的附加標頭，甚至引用樣式表。"
+
+#: aioseop_class.php:240
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "在這裡輸入的內容會全數複製到所有文章的標頭。這裡可以輸入任何需要的附加標頭，甚至引用樣式表。"
+
+#: aioseop_class.php:239
+msgid "Enter a comma separated list of pages here to be excluded by All in One SEO Pack.  This is helpful when using plugins which generate their own non-WordPress dynamic pages.  Ex: <em>/forum/, /contact/</em>  For instance, if you want to exclude the virtual pages generated by a forum plugin, all you have to do is add forum or /forum or /forum/ or and any URL with the word \\\"forum\\\" in it, such as http://mysite.com/forum or http://mysite.com/forum/someforumpage here and it will be excluded from All in One SEO Pack."
+msgstr "請在這裡輸入以逗號分隔的頁面清單，讓 All in One SEO Pack 加以排除。當外掛會產生自有的非 WordPress 動態頁面時 (例如 <em>/forum/ 或 /contact/</em>)，這項設定會相當有幫助。舉例來說，想排除由論壇外掛所產生的虛擬頁面時，需要做的就是把 /forum、/forum/ 或任何包含 \"forum\" 字串的網址 (如 http://mysite.com/forum 或 http://mysite.com/forum/someforumpage) 加入這項設定中，這樣 All in One SEO Pack 便會加以排除。"
+
+#: aioseop_class.php:237
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "啟用這項設定後，就會對用於 XMLRPC 的內部 postmeta 欄位取消保護。如果不知道這是什麼意思，請不要核取這個設定。"
+
+#: aioseop_class.php:236
+msgid "Check this to support Schema.org markup, i.e., itemprop on supported metadata."
+msgstr "啟用這項設定便能支援 Schema.org 標記，例如在支援的中繼資料裡使用 itemprop 屬性。"
+
+#: aioseop_class.php:235
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "啟用這項設定後，無論內容說明長度為何，都能避免遭到截斷。"
+
+#: aioseop_class.php:234
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "啟用這項設定後，會從已分頁內容的第 2 頁及其後頁面移除中繼內容說明。"
+
+#: aioseop_class.php:233
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "啟用這項設定後，便能在由文章內容自動產生的內容說明中執行短碼。"
+
+#: aioseop_class.php:230
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "啟用這項設定後，便會要求搜尋引擎不前往來自已分頁的頁面及文章的連結，這能有效避免重複的內容。"
+
+#: aioseop_class.php:229
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "啟用這項設定後，便會要求搜尋引擎不要對已分頁的頁面及文章進行索引，這能有效避免重複的內容。"
+
+#: aioseop_class.php:228
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "啟用這項設定後，便會要求搜尋引擎不要對自訂分類法彙整頁面進行索引，這能有效避免重複的內容。"
+
+#: aioseop_class.php:227
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "啟用這項設定後，便會要求搜尋引擎不要對 404 頁面進行索引。"
+
+#: aioseop_class.php:226
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "啟用這項設定後，便會要求搜尋引擎不要對搜尋頁面進行索引，這能有效避免重複的內容。"
+
+#: aioseop_class.php:225
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "啟用這項設定後，便會要求搜尋引擎不要對標籤彙整進行索引，這能有效避免重複的內容。"
+
+#: aioseop_class.php:224
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "啟用這項設定後，便會要求搜尋引擎不要對作者彙整進行索引，這能有效避免重複的內容。"
+
+#: aioseop_class.php:223
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "啟用這項設定後，便會要求搜尋引擎不要對日期彙整進行索引，這能有效避免重複的內容。"
+
+#: aioseop_class.php:222
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "啟用這項設定後，便會要求搜尋引擎不要對分類彙整進行索引，這能有效避免重複的內容。"
+
+#: aioseop_class.php:220
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "核取的文章類型便會要求搜尋引擎不前往 (NOFOLLOW) 來自於它的連結。"
+
+#: aioseop_class.php:219
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "核取的文章類型便會要求搜尋引擎不進行索引 (NOINDEX)。"
+
+#: aioseop_class.php:218
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "啟用這項設定後，便能在 Google Analytics 中支援加強型電子商務。"
+
+#: aioseop_class.php:217
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "啟用這項設定後，便能在 Google Analytics 中支援加強型連結屬性。"
+
+#: aioseop_class.php:216
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "啟用這項設定後，便能透過 Google Analytics 追蹤出站連結。"
+
+#: aioseop_class.php:215
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "以 [角色] 為單位，從 Google Analytics 中排除無須追蹤的已登入使用者。"
+
+#: aioseop_class.php:214
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "啟用這項設定後，便能在 Google Analytics 中支援 [多媒體廣告] 功能。"
+
+#: aioseop_class.php:213
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "啟用這項設定後，便能支援 Google Analytics 的 IP 匿名處理。"
+
+#: aioseop_class.php:212
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "請在這裡輸入要進行追蹤的額外網域清單。每行輸入一個不包含 http:// 的網域名稱。"
+
+#: aioseop_class.php:211
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "啟用這項設定後，便能追蹤多個網域或額外網域。"
+
+#: aioseop_class.php:210
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "在這裡輸入不含 http:// 的網域名稱，便能設定這個網站要使用 cookie 的網域。"
+
+#: aioseop_class.php:209
+msgid "Check to use advanced Google Analytics options."
+msgstr "啟用這項設定便能使用 Google Analytics 的進階設定。"
+
+#: aioseop_class.php:208
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "在這裡輸入 Google Analytics ID，便能使用 Google Analytics 追蹤訪客行為。"
+
+#: aioseop_class.php:207
+msgid "Press the connect button to connect with Google Analytics; or if already connected, press the disconnect button to disable and remove any stored analytics credentials."
+msgstr "點擊 [連線] 按鈕便能與 Google Analytics 進行連線。如果已完成連線，點擊 [中斷連線] 按鈕便能停用及移除儲存的分析認證。"
+
+#: aioseop_class.php:206
+msgid "Add markup to tell Google the preferred name for your website."
+msgstr "新增標註以便將偏好的網站名稱告知 Google。"
+
+#: aioseop_class.php:205
+msgid "Add markup to display the Google Sitelinks Search Box next to your search results in Google."
+msgstr "新增標註以便在 Google 網站搜尋結果下方顯示 Google 網站連結搜尋框。"
+
+#: aioseop_class.php:204
+msgid "The Google+ profile you enter here will appear on your homepage only as the rel=\\\"publisher\\\" tag. It is recommended that the URL you enter here should be the Google+ profile for your business."
+msgstr "網站管理員在這裡輸入的 Google+ 個人資料，僅會用於首頁的 rel=\"publisher\" 標籤，建議在這裡輸入與這個網站的商務相關的 Google+ 品牌帳戶個人資料網址。"
+
+#: aioseop_class.php:203
+msgid "This option allows you to control whether rel=\\\"publisher\\\" is displayed on the homepage of your site. Google recommends using this if the site is a business website."
+msgstr "這項設定讓網站管理員控制是否在網站首頁顯示 rel=\"publisher\" 這項 Google 原創性資訊，Google 建議商業網站應加上這項資訊。"
+
+#: aioseop_class.php:202
+msgid "This option allows you to control which types of pages you want to display rel=\\\"author\\\" on for Google authorship. The options include the Front Page (the homepage of your site), Posts, Pages, and any Custom Post Types. The Everywhere Else option includes 404, search, categories, tags, custom taxonomies, date archives, author archives and any other page template."
+msgstr "這項設定讓網站管理員控制要為哪些類型的頁面顯示 rel=\"author\" 這項 Google 原創性資訊。可套用的範圍包括網站首頁、文章、頁面以及所有自訂文章類型。[其他頁面] 選項則包含 404 頁面、搜尋結果頁、類別彙整頁面、標籤彙整頁面、自訂分類法彙整頁面、日期彙整頁面、作者彙整頁面以及其他頁面模板所建立的頁面。"
+
+#: aioseop_class.php:201
+msgid "Enable this to display advanced options for controlling Google Plus authorship information on your website."
+msgstr "啟用這項設定後，便可以在這個網站上顯示掌控 Google+ 原創性資訊的進階設定。"
+
+#: aioseop_class.php:200
+msgid "Check this to remove the Google Plus field from the user profile screen."
+msgstr "啟用這項設定後，便能從 [帳號] 的 [個人資訊] 頁面中移除 Google+ 的欄位。"
+
+#: aioseop_class.php:199
+msgid "Enter your Google+ Profile URL here to add the rel=“author” tag to your site for Google authorship. It is recommended that the URL you enter here should be your personal Google+ profile.  Use the Advanced Authorship Options below if you want greater control over the use of authorship."
+msgstr "在這裡輸入你的 Google+ [個人資料] 網址，便能將 rel=\"author\" 標籤加入這個網站以取得 Google 原創性資訊 (Authorship)。建議在這裡輸入你私人的 Google+ 個人資料網址。如果想要更進一步掌控原創性資訊，請啟用下方的 [原創性資訊進階設定]。"
+
+#: aioseop_class.php:198
+msgid "Enter your verification code here to verify your site with Pinterest.<br /><a href='https://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "在這裡輸入驗證碼，以供 Pinterest 驗證這個網站。<br /><a href='https://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>點擊這裡以取得這項設定的進一步說明</a>"
+
+#: aioseop_class.php:197
+msgid "Enter your verification code here to verify your site with Bing Webmaster Tools.<br /><a href='https://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "在這裡輸入驗證碼，以供 Bing 網站管理員工具驗證這個網站。<br /><a href='https://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>點擊這裡以取得這項設定的進一步說明</a>"
+
+#: aioseop_class.php:196
+msgid "Enter your verification code here to verify your site with Google Search Console.<br /><a href='https://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "請在這個欄位輸入 Google Search Console 提供的網站驗證碼。<br /><a href='https://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>點擊這裡以取得這項設定的進一步說明</a>"
+
+#: inc/commonstrings.php:42
+msgid "Check this to move the All in One SEO Pack menu item to the top of your WordPress Dashboard menu."
+msgstr "啟用這項設定後，會將 All in One SEO Pack 的選單項目移至位於頂端的 WordPress 控制台選單中。"
+
+#: inc/commonstrings.php:41
+msgid "Check this to add All in One SEO Pack to the Admin Bar for easy access to your SEO settings."
+msgstr "啟用這項設定後，便能將 All in One SEO Pack 置於管理列，方便網站管理員隨時調整 SEO 設定。"
+
+#: aioseop_class.php:195
+msgid "This lets you select which screens display the SEO Title, SEO Keywords and SEO Description columns."
+msgstr "這項設定讓網站管理員選擇哪些自訂文章類型要顯示 [SEO 標題]、[SEO 關鍵字] 與 [SEO 內容說明] 欄位。"
+
+#: aioseop_class.php:193
+msgid "Use these checkboxes to select which Content Types you want to use All in One SEO Pack with."
+msgstr "請核取要使用 All in One SEP Pack 功能的內容類型。"
+
+#: aioseop_class.php:192
+msgid "%page% - The page number"
+msgstr "%page% - 分頁頁碼"
+
+#: aioseop_class.php:191 aioseop_class.php:3181 aioseop_class.php:3235
+msgid "The following macros are supported:"
+msgstr "這項設定支援以下變數:"
+
+#: aioseop_class.php:190
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "在這裡設定的字串會附加至分頁索引頁面的標題 (例如首頁或彙整頁面)。"
+
+#: aioseop_class.php:189
+msgid "%404_title% - Additional 404 title input"
+msgstr "%404_title% - 附加的 404 頁面標題"
+
+#: aioseop_class.php:188
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - 網址路徑以人類可理解的形式呈現，例如「Url That Does Not Exist」"
+
+#: aioseop_class.php:187
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - 原始網址路徑，例如「/url-that-does-not-exist/」"
+
+#: aioseop_class.php:184
+msgid "This controls the format of the title tag for the 404 page.<br />The following macros are supported:"
+msgstr "這項設定掌控了 404 頁面的標題標籤格式。<br />這項設定支援以下變數:"
+
+#: aioseop_class.php:178
+msgid "%wp_title% - The original WordPress title, e.g. post_title for posts"
+msgstr "%wp_title% - WordPress 所使用的原始標題，例如文章的 post_title"
+
+#: aioseop_class.php:173
+msgid "This controls the format of Meta Descriptions.The following macros are supported:"
+msgstr "這項設定掌控了中繼內容說明的格式。<br />這項設定支援以下變數:"
+
+#: aioseop_class.php:172
+msgid "%search% - What was searched for"
+msgstr "%search% - 用來進行搜尋的詞彙"
+
+#: aioseop_class.php:169
+msgid "This controls the format of the title tag for the Search page.<br />The following macros are supported:"
+msgstr "這項設定掌控了搜尋頁面的標題標籤格式。<br />這項設定支援以下變數:"
+
+#: aioseop_class.php:167
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - 標籤名稱"
+
+#: aioseop_class.php:164
+msgid "This controls the format of the title tag for Tag Archives.<br />The following macros are supported:"
+msgstr "這項設定掌控了標籤彙整的標題標籤格式。<br />這項設定支援以下變數:"
+
+#: aioseop_class.php:162
+msgid "%author% - The original archive title given by wordpress, e.g. \"Steve\" or \"John Smith\""
+msgstr "%author% - 由 WordPress 提供的作者彙整原始標題，例如「小美」或「王小明」"
+
+#: aioseop_class.php:159
+msgid "This controls the format of the title tag for Author Archives.<br />The following macros are supported:"
+msgstr "這項設定掌控了作者彙整的標題標籤格式。<br />這項設定支援以下變數:"
+
+#: aioseop_class.php:157
+msgid "%year% - The original archive year given by wordpress, e.g. \"2007\""
+msgstr "%year% - 由 WordPress 提供的彙整原始年份，例如「2007 年」"
+
+#: aioseop_class.php:156
+msgid "%month% - The original archive month given by wordpress, e.g. \"August\""
+msgstr "%month% - 由 WordPress 提供的彙整原始月份，例如「八月」"
+
+#: aioseop_class.php:155
+msgid "%day% - The original archive day given by wordpress, e.g. \"17\""
+msgstr "%day% - 由 WordPress 提供的彙整原始日期，例如「17 日」"
+
+#: aioseop_class.php:154
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - 由 WordPress 提供的彙整原始標題，例如「2007 年」或「2007 年八月」"
+
+#: aioseop_class.php:151
+msgid "This controls the format of the title tag for Date Archives.<br />The following macros are supported:"
+msgstr "這項設定掌控了日期彙整的標題標籤格式。<br />這項設定支援以下變數:"
+
+#: aioseop_class.php:149
+msgid "%archive_title - The original archive title given by wordpress"
+msgstr "%archive_title% - 由 WordPress 提供的彙整原始標題"
+
+#: aioseop_class.php:146
+msgid "This controls the format of the title tag for Custom Post Archives.<br />The following macros are supported:"
+msgstr "這項設定掌控了自訂文章彙整的標題標籤格式。<br />這項設定支援以下變數:"
+
+#: aioseop_class.php:144
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - 分類的內容說明"
+
+#: aioseop_class.php:143
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - 分類的原始標題"
+
+#: aioseop_class.php:140
+msgid "This controls the format of the title tag for Category Archives.<br />The following macros are supported:"
+msgstr "這項設定掌控了分類彙整的標題標籤格式。<br />這項設定支援以下變數:"
+
+#: aioseop_class.php:133 aioseop_class.php:3195
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - 這篇文章的作者姓氏 (如為拉丁語系字元則每個字的第一個字元大寫)"
+
+#: aioseop_class.php:132 aioseop_class.php:3194
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - 這篇文章的作者名字 (如為拉丁語系字元則每個字的第一個字元大寫)"
+
+#: aioseop_class.php:131 aioseop_class.php:3193
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - 這篇文章的作者暱稱"
+
+#: aioseop_class.php:130 aioseop_class.php:3192
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - 這篇文章的作者登入名稱"
+
+#: aioseop_class.php:129
+msgid "%category% - Alias for %category_title%"
+msgstr "%category% - [%category_title%] 的別名"
+
+#: aioseop_class.php:128
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - 文章的主分類"
+
+#: aioseop_class.php:127 aioseop_class.php:177
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - 文章的原始標題"
+
+#: aioseop_class.php:124
+msgid "This controls the format of the title tag for Posts.<br />The following macros are supported:"
+msgstr "這項設定掌控了文章的標題標籤格式。<br />這項設定支援以下變數:"
+
+#: aioseop_class.php:110
+msgid "This controls the format of the title tag for Pages.<br />The following macros are supported:"
+msgstr "這項設定掌控了頁面的標題標籤格式。<br />這項設定支援以下變數:"
+
+#: aioseop_class.php:106 aioseop_class.php:117
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - 這個頁面的作者姓氏 (如為拉丁語系字元則每個字的第一個字元大寫)"
+
+#: aioseop_class.php:105 aioseop_class.php:116
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - 這個頁面的作者名字 (如為拉丁語系字元則每個字的第一個字元大寫)"
+
+#: aioseop_class.php:104 aioseop_class.php:115
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% - 這個頁面的作者暱稱"
+
+#: aioseop_class.php:103 aioseop_class.php:114
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - 這個頁面的作者登入名稱"
+
+#: aioseop_class.php:102 aioseop_class.php:113
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - 這個頁面的原始標題"
+
+#: aioseop_class.php:101 aioseop_class.php:112 aioseop_class.php:126
+#: aioseop_class.php:142 aioseop_class.php:148 aioseop_class.php:153
+#: aioseop_class.php:161 aioseop_class.php:166 aioseop_class.php:171
+#: aioseop_class.php:175 aioseop_class.php:186 aioseop_class.php:3183
+#: aioseop_class.php:3237
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - 網站內容說明"
+
+#: aioseop_class.php:100 aioseop_class.php:111 aioseop_class.php:125
+#: aioseop_class.php:141 aioseop_class.php:147 aioseop_class.php:152
+#: aioseop_class.php:160 aioseop_class.php:165 aioseop_class.php:170
+#: aioseop_class.php:174 aioseop_class.php:185 aioseop_class.php:3182
+#: aioseop_class.php:3236
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - 網站標題"
+
+#: aioseop_class.php:99
+msgid "This controls the format of the title tag for your Home Page.<br />The following macros are supported:"
+msgstr "這項設定掌控了首頁的標題標籤格式。<br />這項設定支援以下變數:"
+
+#: aioseop_class.php:97
+msgid "Note that this is all about the title tag. This is what you see in your browser's window title bar. This is NOT visible on a page, only in the title bar and in the source code. If enabled, all page, post, category, search and archive page titles get rewritten. You can specify the format for most of them. For example: Using the default post title format below, Rewrite Titles will write all post titles as 'Post Title | Blog Name'. If you have manually defined a title using All in One SEO Pack, this will become the title of your post in the format string."
+msgstr "請注意，這是指標題標籤，也就是使用者在瀏覽器視窗標題列所看到的標題。它與頁面上的標題不同，僅存在於標題列及頁面原始碼中。啟用這項設定後，會覆寫所有頁面、文章、分類、搜尋結果頁和彙整頁面的標題。大部分的標題都可以指定格式，例如使用下方的 [文章標題] 預設格式後，[覆寫標題] 功能會將所有文章標題改寫為「文章原始標題 | 網站標題」。 如果網站管理員在 All in One SEO Pack 中自訂了某個標題，它就會成為文章標題的格式字串。"
+
+#: aioseop_class.php:96
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "啟用這項設定後，就能從顯示文章的頁面汲取關鍵字，為 [文章] (可在 WordPress 管理後台的 [設定]\t[閱讀]\t[首頁顯示] 中進行設定) 及 [彙整] 頁面動態產生關鍵字。如未啟用這項設定，僅會為文章頁面套用設定於 [編輯] 頁面的關鍵字。"
+
+#: aioseop_class.php:95
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "啟用這項設定後，除了作者在 [編輯文章] 頁面所設定的關鍵字之外，還能使用作者為該篇文章設定的標籤作為該篇文章的中繼關鍵字。"
+
+#: aioseop_class.php:94
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "啟用這項設定後，除了作者在 [編輯文章] 頁面所設定的關鍵字之外，還能使用文章所屬分類作為該篇文章的中繼關鍵字。"
+
+#: aioseop_class.php:93
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "這項設定能讓網站管理員決定是否在網站中使用中繼關鍵字。"
+
+#: aioseop_class.php:92
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "啟用這項設定後，便會改用網站管理員在靜態首頁中所設定的標題、內容說明及關鍵字。"
+
+#: aioseop_class.php:91
+msgid "Enter a comma separated list of your most important keywords for your site that will be written as Meta Keywords on your homepage. Do not stuff everything in here."
+msgstr "在這裡將對這個網站而言最重要的關鍵字，以半形逗號分隔輸入。這些關鍵字會成為首頁的中繼關鍵字，請不要把所有想的到的關鍵字都填在這裡。"
+
+#: aioseop_class.php:90
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "這是網站首頁的中繼內容說明，且與其他設定無關。如果不進行設定，預設值會將中繼內容說明留空。"
+
+#: aioseop_class.php:89
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "顧名思義，這就是網站首頁的中繼標題，且與其他設定無關。如果不進行設定，便會使用預設的 [網站標題] (可在 WordPress 後台的 [設定]\t[一般]\t[網站標題] 中進行設定)。"
+
+#: aioseop_class.php:88
+msgid "Check this and All in One SEO Pack will create a log of important events (all-in-one-seo-pack.log) in its plugin directory which might help debugging. Make sure this directory is writable."
+msgstr "啟用這項設定後，All in One SEO Pack 會在外掛安裝目錄中，建立一個名為 all-in-one-seo-pack.log 的檔案，以便記錄所有有助於偵錯的重要事件。請確保該目錄已設定為可寫入的權限。"
+
+#: aioseop_class.php:87
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "這項設定預設停用，啟用的目的在於使用 wp_title 函式以取得佈景主題使用的標題。如果啟用這項設定，請針對各項標題格式進行適當的設定，因為使用中的佈景主題可能會嘗試產生自有的 SEO 標題。"
+
+#: aioseop_class.php:86
+msgid "Checking this option will allow you to customize Canonical URLs for specific posts."
+msgstr "啟用這項設定後，就能為指定的文章自訂標準網址。"
+
+#: aioseop_class.php:85
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "啟用這項設定會將所有已進行分頁的內容的標準網址設定為第一頁，也就是各分頁不會有分頁代稱。"
+
+#: aioseop_class.php:73 aioseop_class.php:965
+#: modules/aioseop_importer_exporter.php:46
+msgid "General Settings"
+msgstr "一般設定"
+
+#: aioseop_class.php:72
+msgid "%s Plugin Options"
+msgstr "%s 外掛設定"
+
+#: modules/aioseop_bad_robots.php:99
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr "經比對後與封鎖清單中的垃圾流量 %2$s 相符，因此封鎖來自 IP %1$s 的機器人。"
+
+#: modules/aioseop_bad_robots.php:93
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr "經比對後與封鎖清單中的使用者代理程式 %2$s 相符，因此封鎖來自 IP %1$s 的機器人。"
+
+#: modules/aioseop_bad_robots.php:58
+msgid "No requests yet."
+msgstr "目前沒有收到要求。"
+
+#: modules/aioseop_bad_robots.php:57
+msgid "Log Of Blocked Bots"
+msgstr "惡意機器人封鎖記錄"
+
+#: modules/aioseop_bad_robots.php:46
+msgid "Referer Blocklist"
+msgstr "垃圾流量封鎖清單"
+
+#: modules/aioseop_bad_robots.php:38
+msgid "User Agent Blocklist"
+msgstr "使用者代理程式封鎖清單"
+
+#: modules/aioseop_bad_robots.php:35
+msgid "Track Blocked Bots"
+msgstr "追蹤遭封鎖的機器人"
+
+#: modules/aioseop_bad_robots.php:29
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "顯示近期遭到封鎖的機器人的要求記錄。請注意: 這個外掛並不會追蹤任何已在網頁伺服器 / .htaccess 層級就遭到封鎖的機器人。"
+
+#: modules/aioseop_bad_robots.php:28
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "列於上方的是可封鎖的惡意機器人垃圾流量禁入清單。"
+
+#: modules/aioseop_bad_robots.php:27
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "列於上方的是可封鎖的惡意機器人使用者代理程式禁入清單。"
+
+#: modules/aioseop_bad_robots.php:26
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "啟用這項設定後，就能編輯可封鎖的惡意機器人使用者代理程式禁入清單。"
+
+#: modules/aioseop_bad_robots.php:25
+msgid "Log and show recent requests from blocked bots."
+msgstr "記錄及顯示最近來自遭到封鎖的機器人要求。"
+
+#: modules/aioseop_bad_robots.php:23
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "阻擋來自已知會惡意造成 503 錯誤的使用者代理程式要求。"
+
+#. translators: the Bad Bot Blocker module allows users to block requests from
+#. user agents that are known to misbehave.
+#: modules/aioseop_feature_manager.php:61 modules/aioseop_bad_robots.php:17
+msgid "Bad Bot Blocker"
+msgstr "惡意機器人封鎖器"

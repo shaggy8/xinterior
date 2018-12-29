@@ -1,0 +1,835 @@
+# Translation of Plugins - Breadcrumb NavXT - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Breadcrumb NavXT - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-30 11:44:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Breadcrumb NavXT - Stable (latest release)\n"
+
+#: class.bcn_widget.php:128
+msgid "Ignore breadcrumb cache"
+msgstr "Παράβλεψη της προσωρινής μνήμης του ίχνους πλοήγησης"
+
+#: class.bcn_admin.php:626
+msgid "%s Hierarchy Referer Influence"
+msgstr "Επιρροή Παραπομπέα Ιεραρχίας %s"
+
+#: class.bcn_admin.php:546 class.bcn_admin.php:626
+msgid "Allow the referring page to influence the taxonomy selected for the hierarchy."
+msgstr "Να επιτρέπεται στη σελίδα παραπομπής να επηρεάζει την ταξινομία που επιλέγεται για την ιεραρχία."
+
+#: class.bcn_admin.php:546
+msgid "Post Hierarchy Referer Influence"
+msgstr "Επιρροή Παραπομπέα Ιεραρχίας Άρθρου"
+
+#: includes/class.mtekk_adminkit.php:351
+msgid "One or more of your plugin settings are invalid."
+msgstr "Οι ρυθμίσεις ενός ή περισσότερων προσθέτων σας δεν είναι έγκυρες."
+
+#: includes/class.mtekk_adminkit.php:334
+msgid "Attempt back migration now."
+msgstr "Προσπάθεια αναίρεσης της μεταφοράς τώρα."
+
+#: includes/class.mtekk_adminkit.php:333
+msgid "Your settings are for a newer version of this plugin."
+msgstr "Οι ρυθμίσεις σας ανήκουν σε μία νεότερη έκδοση αυτού του πρόσθετου."
+
+#: includes/class.mtekk_adminkit.php:323
+msgid "Your settings are for an older version of this plugin and need to be migrated."
+msgstr "Οι ρυθμίσεις σας ανήκουν σε μία παλαιότερη έκδοση αυτού του πρόσθετου και πρέπει να μεταφερθούν."
+
+#: class.bcn_breadcrumb_trail.php:630
+msgctxt "year archive breadcrumb date format"
+msgid "Y"
+msgstr "Y"
+
+#: class.bcn_breadcrumb_trail.php:601
+msgctxt "month archive breadcrumb date format"
+msgid "F"
+msgstr "F"
+
+#: class.bcn_breadcrumb_trail.php:572
+msgctxt "day archive breadcrumb date format"
+msgid "d"
+msgstr "d"
+
+#: class.bcn_breadcrumb_trail.php:127
+msgid "<span property=\"itemListElement\" typeof=\"ListItem\"><span property=\"name\">Articles by: %htitle%</span><meta property=\"position\" content=\"%position%\"></span>"
+msgstr "<span property=\"itemListElement\" typeof=\"ListItem\"><span property=\"name\">Άρθρα του/της: %htitle%</span><meta property=\"position\" content=\"%position%\"></span>"
+
+#: class.bcn_breadcrumb_trail.php:125
+msgid "<span property=\"itemListElement\" typeof=\"ListItem\"><span property=\"name\">Articles by: <a title=\"Go to the first page of posts by %title%.\" href=\"%link%\" class=\"%type%\">%htitle%</a>"
+msgstr "<span property=\"itemListElement\" typeof=\"ListItem\"><span property=\"name\">Άρθρα του/της: <a title=\"Μετάβαση στην πρώτη σελίδα των άρθρων του/της %title%.\" href=\"%link%\" class=\"%type%\">%htitle%</a>"
+
+#: class.bcn_breadcrumb_trail.php:112
+msgid "<span property=\"itemListElement\" typeof=\"ListItem\"><span property=\"name\">Search results for &#39;%htitle%&#39;</span><meta property=\"position\" content=\"%position%\"></span>"
+msgstr "<span property=\"itemListElement\" typeof=\"ListItem\"><span property=\"name\">Αποτελέσματα αναζήτησης για &#39;%htitle%&#39;</span><meta property=\"position\" content=\"%position%\"></span>"
+
+#: class.bcn_breadcrumb_trail.php:110
+msgid "<span property=\"itemListElement\" typeof=\"ListItem\"><span property=\"name\">Search results for &#39;<a property=\"item\" typeof=\"WebPage\" title=\"Go to the first page of search results for %title%.\" href=\"%link%\" class=\"%type%\">%htitle%</a>&#39;</span><meta property=\"position\" content=\"%position%\"></span>"
+msgstr "<span property=\"itemListElement\" typeof=\"ListItem\"><span property=\"name\">Αποτελέσματα αναζήτησης για &#39;<a property=\"item\" typeof=\"WebPage\" title=\"Μετάβαση στην πρώτη σελίδα των αποτελεσμάτων αναζήτησης για %title%.\" href=\"%link%\" class=\"%type%\">%htitle%</a>&#39;</span><meta property=\"position\" content=\"%position%\"></span>"
+
+#: class.bcn_breadcrumb_trail.php:77
+msgid "<span property=\"itemListElement\" typeof=\"ListItem\"><span property=\"name\">Page %htitle%</span><meta property=\"position\" content=\"%position%\"></span>"
+msgstr "<span property=\"itemListElement\" typeof=\"ListItem\"><span property=\"name\">Σελίδα %htitle%</span><meta property=\"position\" content=\"%position%\"></span>"
+
+#: class.bcn_admin.php:507
+msgctxt "Paged as in when on an archive or post that is split into multiple pages"
+msgid "Paged Template"
+msgstr "Πρότυπο Αριθμημένης Σελίδας"
+
+#: class.bcn_admin.php:506
+msgid "Place the page number breadcrumb in the trail."
+msgstr "Τοποθετήστε τον αριθμό σελίδας του ίχνους πλοήγησης στη διαδρομή."
+
+#: class.bcn_admin.php:506
+msgctxt "Paged as in when on an archive or post that is split into multiple pages"
+msgid "Paged Breadcrumb"
+msgstr "Ίχνος πλοήγησης Αριθμημένης Σελίδας"
+
+#: class.bcn_admin.php:332
+msgid "%sTranslate%s: Is your language not available? Visit the Breadcrumb NavXT translation project on WordPress.org to start translating."
+msgstr "%sΜετάφραση%s: Η γλώσσα σας δεν είναι διαθέσιμη; Επισκεφθείτε το έργο της μετάφρασης του Breadcrumb NavXT στο WordPress.org για να ξεκινήσετε τη μετάφραση."
+
+#: class.bcn_breadcrumb_trail.php:132
+msgid "<span property=\"itemListElement\" typeof=\"ListItem\"><a property=\"item\" typeof=\"WebPage\" title=\"Go to the %title% category archives.\" href=\"%link%\" class=\"%type%\"><span property=\"name\">%htitle%</span></a><meta property=\"position\" content=\"%position%\"></span>"
+msgstr "<span property=\"itemListElement\" typeof=\"ListItem\"><a property=\"item\" typeof=\"WebPage\" title=\"Μετάβαση στα αρχεία κατηγορίας %title%.\" href=\"%link%\" class=\"%type%\"><span property=\"name\">%htitle%</span></a><meta property=\"position\" content=\"%position%\"></span>"
+
+#: class.bcn_breadcrumb_trail.php:120 class.bcn_breadcrumb_trail.php:136
+msgid "<span property=\"itemListElement\" typeof=\"ListItem\"><a property=\"item\" typeof=\"WebPage\" title=\"Go to the %title% archives.\" href=\"%link%\" class=\"%type%\"><span property=\"name\">%htitle%</span></a><meta property=\"position\" content=\"%position%\"></span>"
+msgstr "<span property=\"itemListElement\" typeof=\"ListItem\"><a property=\"item\" typeof=\"WebPage\" title=\"Μετάβαση στα αρχεία %title%.\" href=\"%link%\" class=\"%type%\"><span property=\"name\">%htitle%</span></a><meta property=\"position\" content=\"%position%\"></span>"
+
+#: class.bcn_breadcrumb_trail.php:115
+msgid "<span property=\"itemListElement\" typeof=\"ListItem\"><a property=\"item\" typeof=\"WebPage\" title=\"Go to the %title% tag archives.\" href=\"%link%\" class=\"%type%\"><span property=\"name\">%htitle%</span></a><meta property=\"position\" content=\"%position%\"></span>"
+msgstr "<span property=\"itemListElement\" typeof=\"ListItem\"><a property=\"item\" typeof=\"WebPage\" title=\"Μετάβαση στα αρχεία ετικέτας %title%.\" href=\"%link%\" class=\"%type%\"><span property=\"name\">%htitle%</span></a><meta property=\"position\" content=\"%position%\"></span>"
+
+#: class.bcn_breadcrumb.php:91
+msgid "<span property=\"itemListElement\" typeof=\"ListItem\"><a property=\"item\" typeof=\"WebPage\" title=\"Go to %title%.\" href=\"%link%\" class=\"%type%\"><span property=\"name\">%htitle%</span></a><meta property=\"position\" content=\"%position%\"></span>"
+msgstr "<span property=\"itemListElement\" typeof=\"ListItem\"><a property=\"item\" typeof=\"WebPage\" title=\"Μετάβαση στη σελίδα %title%.\" href=\"%link%\" class=\"%type%\"><span property=\"name\">%htitle%</span></a><meta property=\"position\" content=\"%position%\"></span>"
+
+#. Author URI of the plugin/theme
+msgid "http://mtekk.us/"
+msgstr "http://mtekk.us/"
+
+#. Author of the plugin/theme
+msgid "John Havlik"
+msgstr "John Havlik"
+
+#. Description of the plugin/theme
+msgid "Adds a breadcrumb navigation showing the visitor&#39;s path to their current location. For details on how to use this plugin visit <a href=\"http://mtekk.us/code/breadcrumb-navxt/\">Breadcrumb NavXT</a>."
+msgstr "Προσθέτει ένα ίχνος πλοήγησης που εμφανίζει την διαδρομή του επισκέπτη  προς την τρέχουσα τοποθεσία του. Για λεπτομέρειες για το πως θα χρησιμοποιήσετε αυτό το πρόσθετο επισκεφθείτε το <a href=\"http://mtekk.us/code/breadcrumb-navxt/\">Breadcrumb NavXT</a>."
+
+#. Plugin URI of the plugin/theme
+msgid "http://mtekk.us/code/breadcrumb-navxt/"
+msgstr "http://mtekk.us/code/breadcrumb-navxt/"
+
+#. Plugin Name of the plugin/theme
+msgid "Breadcrumb NavXT"
+msgstr "Breadcrumb NavXT"
+
+#: includes/class.mtekk_adminkit.php:874
+msgid "Select a XML settings file to upload and import settings from."
+msgstr "Επιλέξτε ένα αρχείο ρυθμίσεων XML για μεταφόρτωση και εισαγωγή των ρυθμίσεων από αυτό."
+
+#: includes/class.mtekk_adminkit.php:871
+msgid "Settings File"
+msgstr "Αρχείο Ρυθμίσεων"
+
+#: includes/class.mtekk_adminkit.php:868
+msgid "Import settings from a XML file, export the current settings to a XML file, or reset to the default settings."
+msgstr "Εισάγετε ρυθμίσεις από ένα αρχείο XML, εξάγετε τις τρέχουσες ρυθμίσεις σε ένα αρχείο XML, ή επαναφέρετε τις προκαθορισμένες ρυθμίσεις."
+
+#: includes/class.mtekk_adminkit.php:756
+msgid "Default settings successfully installed."
+msgstr "Οι προκαθορισμένες ρυθμίσεις εγκαταστάθηκαν με επιτυχία."
+
+#: includes/class.mtekk_adminkit.php:749
+msgid "Settings successfully migrated."
+msgstr "Οι ρυθμίσεις μεταφέρθηκαν με επιτυχία."
+
+#: includes/class.mtekk_adminkit.php:714
+msgid "Undo the last undo operation."
+msgstr "Αναίρεση της τελευταίας εντολής αναίρεσης."
+
+#: includes/class.mtekk_adminkit.php:713
+msgid "Settings successfully undid the last operation."
+msgstr "Οι ρυθμίσεις αναίρεσαν την τελευταία εντολή με επιτυχία."
+
+#: includes/class.mtekk_adminkit.php:696
+msgid "Undo the options reset."
+msgstr "Αναίρεση της επαναφοράς των επιλογών."
+
+#: includes/class.mtekk_adminkit.php:695
+msgid "Settings successfully reset to the default values."
+msgstr "Έγινε επαναφορά των ρυθμίσεων στις προκαθορισμένες τιμές με επιτυχία."
+
+#: includes/class.mtekk_adminkit.php:676
+msgid "Importing settings from file failed."
+msgstr "Η εισαγωγή των ρυθμίσεων από το αρχείο απέτυχε."
+
+#: includes/class.mtekk_adminkit.php:671
+msgid "Undo the options import."
+msgstr "Αναίρεση της εισαγωγής των επιλογών."
+
+#: includes/class.mtekk_adminkit.php:670
+msgid "Settings successfully imported from the uploaded file."
+msgstr "Έγινε εισαγωγή των ρυθμίσεων από το μεταφορτωμένο αρχείο με επιτυχία."
+
+#: includes/class.mtekk_adminkit.php:571
+msgid "Go to the %s support post for your version."
+msgstr "Μετάβαση στο άρθρο υποστήριξης %s για την έκδοση σας"
+
+#: includes/class.mtekk_adminkit.php:571
+msgid "Please include this message in your %sbug report%s."
+msgstr "Παρακαλούμε. συμπεριλάβετε αυτό το μήνυμα στην %sαναφορά σφαλμάτων%s σας."
+
+#: includes/class.mtekk_adminkit.php:566
+msgid "The following settings were not saved:"
+msgstr "Οι ακόλουθες ρυθμίσεις δεν αποθηκεύτηκαν:"
+
+#: includes/class.mtekk_adminkit.php:564
+msgid "Some settings were not saved."
+msgstr "Μερικές ρυθμίσεις δεν αποθηκεύτηκαν."
+
+#: includes/class.mtekk_adminkit.php:559
+msgid "Settings were not saved."
+msgstr "Οι ρυθμίσεις δεν αποθηκεύτηκαν."
+
+#: includes/class.mtekk_adminkit.php:555
+msgid "Settings did not change, nothing to save."
+msgstr "Οι ρυθμίσεις δεν άλλαξαν, δεν υπάρχει κάτι προς αποθήκευση."
+
+#: includes/class.mtekk_adminkit.php:551 includes/class.mtekk_adminkit.php:565
+#: includes/class.mtekk_adminkit.php:671 includes/class.mtekk_adminkit.php:696
+#: includes/class.mtekk_adminkit.php:714
+msgid "Undo"
+msgstr "Αναίρεση"
+
+#: includes/class.mtekk_adminkit.php:551 includes/class.mtekk_adminkit.php:565
+msgid "Undo the options save."
+msgstr "Αναίρεση της αποθήκευσης των επιλογών."
+
+#: includes/class.mtekk_adminkit.php:550
+msgid "Settings successfully saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν με επιτυχία."
+
+#: includes/class.mtekk_adminkit.php:352
+msgid "Fix now."
+msgstr "Επιδιόρθωση τώρα."
+
+#: includes/class.mtekk_adminkit.php:352
+msgid "Attempt to fix settings now."
+msgstr "Προσπάθεια επιδιόρθωσης των ρυθμίσεων τώρα."
+
+#: includes/class.mtekk_adminkit.php:343
+msgid "Complete now."
+msgstr "Ολοκλήρωση τώρα."
+
+#: includes/class.mtekk_adminkit.php:343
+msgid "Load default settings now."
+msgstr "Φόρτωση των προκαθορισμένων ρυθμίσεων τώρα."
+
+#: includes/class.mtekk_adminkit.php:342
+msgid "Your plugin install is incomplete."
+msgstr "Η εγκατάσταση του πρόσθετου δεν έχει ολοκληρωθεί."
+
+#: includes/class.mtekk_adminkit.php:324
+msgid "Migrate now."
+msgstr "Μεταφορά τώρα."
+
+#: includes/class.mtekk_adminkit.php:324 includes/class.mtekk_adminkit.php:334
+msgid "Migrate the settings now."
+msgstr "Μεταφορά των ρυθμίσεων τώρα."
+
+#: includes/class.mtekk_adminkit.php:247
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: class.bcn_widget.php:126
+msgid "Hide the trail on the front page"
+msgstr "Απόκρυψη της διαδρομής στην αρχική σελίδα"
+
+#: class.bcn_widget.php:124
+msgid "Reverse the order of the trail"
+msgstr "Αντιστροφή της σειράς της διαδρομής"
+
+#: class.bcn_widget.php:122
+msgid "Link the breadcrumbs"
+msgstr "Σύνδεση των ιχνών πλοήγησης"
+
+#: class.bcn_widget.php:116
+msgid "Plain"
+msgstr "Απλό"
+
+#: class.bcn_widget.php:115
+msgid "Google (RDFa) Breadcrumbs"
+msgstr "Google (RDFa) Breadcrumbs"
+
+#: class.bcn_widget.php:114
+msgid "List"
+msgstr "Λίστα"
+
+#: class.bcn_widget.php:112
+msgid "Output trail as:"
+msgstr "Παρουσίαση διαδρομής ως:"
+
+#: class.bcn_widget.php:108
+msgid "Text to show before the trail:"
+msgstr "Κείμενο προς εμφάνιση πριν από τη διαδρομή:"
+
+#: class.bcn_widget.php:104
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: class.bcn_widget.php:35
+msgid "Adds a breadcrumb trail to your sidebar"
+msgstr "Προσθέτει μία διαδρομή ίχνους πλοήγησης στην πλευρική μπάρα σας"
+
+#: class.bcn_network_admin.php:44
+msgid "Breadcrumb NavXT Network Settings"
+msgstr "Ρυθμίσεις Δικτύου Breadcrumb NavXT"
+
+#: class.bcn_network_admin.php:154 class.bcn_network_admin.php:158
+msgid "Warning: Individual site settings may override any settings set in this page."
+msgstr "Προειδοποίηση: Οι μεμονωμένες ρυθμίσεις του ιστότοπου μπορεί να παρακάμψουν οποιαδήποτε ρύθμιση οριστεί σε αυτή τη σελίδα."
+
+#: class.bcn_network_admin.php:146 class.bcn_network_admin.php:164
+msgid "Warning: Individual site settings will override any settings set in this page."
+msgstr "Προειδοποίηση: Οι μεμονωμένες ρυθμίσεις του ιστότοπου θα παρακάμψουν οποιαδήποτε ρύθμιση οριστεί σε αυτή τη σελίδα."
+
+#: class.bcn_breadcrumb_trail.php:484
+msgid "$post global is not of type WP_Post"
+msgstr "Η γενική μεταβλητή $post δεν είναι τύπου WP_Post"
+
+#: class.bcn_breadcrumb_trail.php:107
+msgid "404"
+msgstr "Σελίδα Σφάλματος 404"
+
+#: class.bcn_admin.php:769
+msgid "Save Changes"
+msgstr "Αποθήκευση Αλλαγών"
+
+#: class.bcn_admin.php:757
+msgid "Max Title Length: "
+msgstr "Μέγιστο Μήκος Τίτλου: "
+
+#: class.bcn_admin.php:752
+msgid "Limit the length of the breadcrumb title. (Deprecated, %suse CSS instead%s)"
+msgstr "Περιορίστε το μήκος του τίτλου του ίχνους πλοήγησης. (Καταργήθηκε, %sχρησιμοποιήστε CSS στη θέση του%s)"
+
+#: class.bcn_admin.php:747
+msgid "Title Length"
+msgstr "Μήκος Τίτλου"
+
+#: class.bcn_admin.php:743
+msgid "Deprecated"
+msgstr "Καταργήθηκε"
+
+#: class.bcn_admin.php:740
+msgid "The template for 404 breadcrumbs."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης σελίδας σφάλματος 404."
+
+#: class.bcn_admin.php:740
+msgid "404 Template"
+msgstr "Πρότυπο Σελίδας Σφάλματος 404"
+
+#: class.bcn_admin.php:739
+msgid "404 Title"
+msgstr "Τίτλος Σελίδας Σφάλματος 404"
+
+#: class.bcn_admin.php:738
+msgid "The anchor template for search breadcrumbs, used only when the search results span several pages and the breadcrumb is not linked."
+msgstr "Το πρότυπο άγκυρας για τα ίχνη πλοήγησης αναζήτησης, χρησιμοποιείται μόνο όταν τα αποτελέσματα αναζήτησης καταλαμβάνουν πολλές σελίδες και το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:738
+msgid "Search Template (Unlinked)"
+msgstr "Πρότυπο Αναζήτησης (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:737
+msgid "The anchor template for search breadcrumbs, used only when the search results span several pages."
+msgstr "Το πρότυπο άγκυρας για τα ίχνη πλοήγησης αναζήτησης, χρησιμοποιείται μόνο όταν τα αποτελέσματα αναζήτησης καταλαμβάνουν πολλές σελίδες."
+
+#: class.bcn_admin.php:737
+msgid "Search Template"
+msgstr "Πρότυπο Αναζήτησης"
+
+#: class.bcn_admin.php:736
+msgid "The template for date breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης ημερομηνίας, χρησιμοποιείται μόνο όταν το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:736
+msgid "Date Template (Unlinked)"
+msgstr "Πρότυπο Ημερομηνίας (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:735
+msgid "The template for date breadcrumbs."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης ημερομηνίας."
+
+#: class.bcn_admin.php:735
+msgid "Date Template"
+msgstr "Πρότυπο Ημερομηνίας"
+
+#: class.bcn_admin.php:729
+msgid "display_name uses the name specified in \"Display name publicly as\" under the user profile the others correspond to options in the user profile."
+msgstr "Το display_name χρησιμοποιεί το όνομα που καθορίζεται στο \"Δημόσια εμφάνιση του ονόματος ως\" στο προφίλ του χρήστη ενώ τα άλλα αναφέρονται στις ρυθμίσεις στο προφίλ του χρήστη."
+
+#: class.bcn_admin.php:729
+msgid "Author Display Format"
+msgstr "Μορφή Εμφάνισης Συντάκτη"
+
+#: class.bcn_admin.php:728
+msgid "The template for author breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης συντάκτη, χρησιμοποιείται μόνο όταν το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:728
+msgid "Author Template (Unlinked)"
+msgstr "Πρότυπο Συντάκτη (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:727
+msgid "The template for author breadcrumbs."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης συντάκτη."
+
+#: class.bcn_admin.php:727
+msgid "Author Template"
+msgstr "Πρότυπο Συντάκτη"
+
+#: class.bcn_admin.php:724
+msgid "Author Archives"
+msgstr "Αρχεία Συντάκτη"
+
+#: class.bcn_admin.php:723 class.bcn_admin.php:732
+msgid "Miscellaneous"
+msgstr "Διάφορα"
+
+#: class.bcn_admin.php:723
+msgid "The settings for author and date archives, searches, and 404 pages are located under this tab."
+msgstr "Οι ρυθμίσεις για τα αρχεία συντάκτη και ημερομηνίας, τις αναζητήσεις, και τις σελίδες σφάλματος 404 βρίσκονται κάτω από αυτή την καρτέλα."
+
+#: class.bcn_admin.php:693
+msgid "The template for post_format breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης μορφής άρθρου, χρησιμοποιείται μόνο όταν το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:693
+msgid "Post Format Template (Unlinked)"
+msgstr "Πρότυπο Μορφής Άρθρου (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:692
+msgid "The template for post format breadcrumbs."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης μορφής άρθρου."
+
+#: class.bcn_admin.php:692
+msgid "Post Format Template"
+msgstr "Πρότυπο Μορφής Άρθρου"
+
+#: class.bcn_admin.php:689
+msgid "Post Formats"
+msgstr "Μορφές Άρθρου"
+
+#: class.bcn_admin.php:686
+msgid "The template for tag breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης ετικέτας, χρησιμοποιείται μόνο όταν το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:686
+msgid "Tag Template (Unlinked)"
+msgstr "Πρότυπο Ετικέτας (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:685
+msgid "The template for tag breadcrumbs."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης ετικέτας."
+
+#: class.bcn_admin.php:685
+msgid "Tag Template"
+msgstr "Πρότυπο Ετικέτας"
+
+#: class.bcn_admin.php:679
+msgid "The template for category breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης κατηγορίας, χρησιμοποιείται μόνο όταν το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:679
+msgid "Category Template (Unlinked)"
+msgstr "Πρότυπο Κατηγορίας (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:678
+msgid "The template for category breadcrumbs."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης κατηγορίας."
+
+#: class.bcn_admin.php:678
+msgid "Category Template"
+msgstr "Πρότυπο Κατηγορίας"
+
+#: class.bcn_admin.php:674
+msgid "Taxonomies"
+msgstr "Ταξινομίες"
+
+#: class.bcn_admin.php:674
+msgid "The settings for all taxonomies (including Categories, Tags, and custom taxonomies) are located under this tab."
+msgstr "Οι ρυθμίσεις για όλες τις ταξινομίες (συμπεριλαμβανομένων και των Κατηγοριών, των Ετικετών και των προσαρμοσμένων ταξινομιών) βρίσκονται κάτω από αυτή την καρτέλα."
+
+#: class.bcn_admin.php:656
+msgid "The hierarchy which the breadcrumb trail will show."
+msgstr "Η ιεραρχία που θα εμφανίσει η διαδρομή του ίχνους πλοήγησης."
+
+#: class.bcn_admin.php:630
+msgid "%s Hierarchy"
+msgstr "Ιεραρχία %s"
+
+#: class.bcn_admin.php:625
+msgid "Show the hierarchy (specified below) leading to a %s in the breadcrumb trail."
+msgstr "Εμφανίστε την ιεραρχία (καθορίζεται παρακάτω) που οδηγεί σε ένα %s στη διαδρομή του ίχνους πλοήγησης."
+
+#: class.bcn_admin.php:625
+msgid "%s Hierarchy Display"
+msgstr "Εμφάνιση της Ιεραρχίας %s"
+
+#: class.bcn_admin.php:624
+msgid "Show the breadcrumb for the %s post type archives in the breadcrumb trail."
+msgstr "Εμφανίστε το ίχνος πλοήγησης για τα αρχεία τύπου άρθρου %s στη διαδρομή του ίχνους πλοήγησης."
+
+#: class.bcn_admin.php:624
+msgid "%s Archive Display"
+msgstr "Εμφάνιση του Αρχείου %s"
+
+#: class.bcn_admin.php:620
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Επιλογή &mdash;"
+
+#: class.bcn_admin.php:617
+msgid "%s Root Page"
+msgstr "Ριζική Σελίδα %s"
+
+#: class.bcn_admin.php:612 class.bcn_admin.php:714
+msgid "The template for %s breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης %s, χρησιμοποιείται μόνο όταν το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:612 class.bcn_admin.php:714
+msgid "%s Template (Unlinked)"
+msgstr "Πρότυπο %s (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:611 class.bcn_admin.php:713
+msgid "The template for %s breadcrumbs."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης %s."
+
+#: class.bcn_admin.php:611 class.bcn_admin.php:713
+msgid "%s Template"
+msgstr "Πρότυπο %s"
+
+#: class.bcn_admin.php:591
+msgid "The template for attachment breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης επισύναψης, χρησιμοποιείται μόνο όταν το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:591
+msgid "Attachment Template (Unlinked)"
+msgstr "Πρότυπο Επισύναψης (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:590
+msgid "The template for attachment breadcrumbs."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης επισύναψης."
+
+#: class.bcn_admin.php:590
+msgid "Attachment Template"
+msgstr "Πρότυπο Επισύναψης"
+
+#: class.bcn_admin.php:587
+msgid "Attachments"
+msgstr "Συνημμένα"
+
+#: class.bcn_admin.php:582
+msgid "The template for page breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης σελίδας, χρησιμοποιείται μόνο όταν το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:582
+msgid "Page Template (Unlinked)"
+msgstr "Πρότυπο Σελίδας (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:581
+msgid "The template for page breadcrumbs."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης σελίδας."
+
+#: class.bcn_admin.php:581
+msgid "Page Template"
+msgstr "Πρότυπο Σελίδας"
+
+#: class.bcn_admin.php:578
+msgid "Pages"
+msgstr "Σελίδες"
+
+#: class.bcn_admin.php:574 class.bcn_admin.php:660
+msgid "The hierarchy which the breadcrumb trail will show. Note that the \"Post Parent\" option may require an additional plugin to behave as expected since this is a non-hierarchical post type."
+msgstr "Η ιεραρχία που θα εμφανίσει η διαδρομή του ίχνους πλοήγησης. Σημειώστε ότι η επιλογή \"Γονέας Άρθρου\" μπορεί να απαιτεί ένα επιπρόσθετο πρόσθετο για να λειτουργήσει όπως πρέπει καθώς αυτός είναι ένας μη ιεραρχικός τύπος άρθρου."
+
+#: class.bcn_admin.php:558 class.bcn_admin.php:635
+msgid "Post Parent"
+msgstr "Γονέας Άρθρου"
+
+#: class.bcn_admin.php:556 class.bcn_admin.php:682
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: class.bcn_admin.php:555 class.bcn_admin.php:636
+msgid "Dates"
+msgstr "Ημερομηνίες"
+
+#: class.bcn_admin.php:554 class.bcn_admin.php:675
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: class.bcn_admin.php:550
+msgid "Post Hierarchy"
+msgstr "Ιεραρχία Άρθρου"
+
+#: class.bcn_admin.php:545
+msgid "Show the hierarchy (specified below) leading to a post in the breadcrumb trail."
+msgstr "Εμφανίστε την ιεραρχία (καθορίζεται παρακάτω) που οδηγεί στο άρθρο στη διαδρομή του ίχνους πλοήγησης."
+
+#: class.bcn_admin.php:545
+msgid "Post Hierarchy Display"
+msgstr "Εμφάνιση της Ιεραρχίας Άρθρου"
+
+#: class.bcn_admin.php:544
+msgid "The template for post breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης άρθρου, χρησιμοποιείται μόνο όταν το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:544
+msgid "Post Template (Unlinked)"
+msgstr "Πρότυπο Άρθρου (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:543
+msgid "The template for post breadcrumbs."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης άρθρου."
+
+#: class.bcn_admin.php:543
+msgid "Post Template"
+msgstr "Πρότυπο Άρθρου"
+
+#: class.bcn_admin.php:540
+msgid "Posts"
+msgstr "Άρθρα"
+
+#: class.bcn_admin.php:539
+msgid "Post Types"
+msgstr "Τύποι Άρθρων"
+
+#: class.bcn_admin.php:539
+msgid "The settings for all post types (Posts, Pages, and Custom Post Types) are located under this tab."
+msgstr "Οι ρυθμίσεις για όλους τους τύπους άρθρων (Άρθρα, Σελίδες και Τύποι Προσαρμοσμένου Άρθρου) βρίσκονται κάτω από αυτή την καρτέλα."
+
+#: class.bcn_admin.php:532
+msgid "The template for the main site home breadcrumb, used only in multisite environments and when the breadcrumb is not linked."
+msgstr "Το πρότυπο για το ίχνος πλοήγησης της αρχικής σελίδας του κύριου ιστότοπου, χρησιμοποιείται μόνο σε περιβάλλοντα πολυϊστότοπου και όταν το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:532
+msgid "Main Site Home Template (Unlinked)"
+msgstr "Πρότυπο Αρχικής Σελίδας Κύριου Ιστότοπου (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:531
+msgid "The template for the main site home breadcrumb, used only in multisite environments."
+msgstr "Το πρότυπο για το ίχνος πλοήγησης της αρχικής σελίδας του κύριου ιστότοπου, χρησιμοποιείται μόνο σε περιβάλλοντα πολυϊστότοπου."
+
+#: class.bcn_admin.php:531
+msgid "Main Site Home Template"
+msgstr "Πρότυπο Αρχικής Σελίδας Κύριου Ιστότοπου"
+
+#: class.bcn_admin.php:530
+msgid "Place the main site home breadcrumb in the trail in an multisite setup."
+msgstr "Τοποθετήστε το ίχνος πλοήγησης αρχικής σελίδας του κύριου ιστότοπου στη διαδρομή όταν υπάρχει μία εγκατάσταση πολυϊστότοπου."
+
+#: class.bcn_admin.php:530
+msgid "Main Site Breadcrumb"
+msgstr "Ίχνος πλοήγησης Κύριου Ιστότοπου"
+
+#: class.bcn_admin.php:527
+msgid "Mainsite Breadcrumb"
+msgstr "Ίχνος πλοήγησης Κύριου Ιστότοπου"
+
+#: class.bcn_admin.php:523
+msgid "Place the blog breadcrumb in the trail."
+msgstr "Τοποθετήστε το ίχνος πλοήγησης ιστολογίου στη διαδρομή."
+
+#: class.bcn_admin.php:520 class.bcn_admin.php:523
+msgid "Blog Breadcrumb"
+msgstr "Ίχνος πλοήγησης Ιστολογίου"
+
+#: class.bcn_admin.php:516
+msgid "The template for the home breadcrumb, used when the breadcrumb is not linked."
+msgstr "Το πρότυπο για την αρχική σελίδα του ίχνους πλοήγησης, χρησιμοποιείται όταν το ίχνος πλοήγησης δεν έχει σύνδεσμο."
+
+#: class.bcn_admin.php:516
+msgid "Home Template (Unlinked)"
+msgstr "Πρότυπο Αρχικής Σελίδας (Χωρίς σύνδεσμο)"
+
+#: class.bcn_admin.php:515
+msgid "The template for the home breadcrumb."
+msgstr "Το πρότυπο για το ίχνος πλοήγησης αρχικής σελίδας."
+
+#: class.bcn_admin.php:515
+msgid "Home Template"
+msgstr "Πρότυπο Αρχικής Σελίδας"
+
+#: class.bcn_admin.php:514
+msgid "Place the home breadcrumb in the trail."
+msgstr "Τοποθετήστε το ίχνος πλοήγησης αρχικής σελίδας στη διαδρομή."
+
+#: class.bcn_admin.php:511 class.bcn_admin.php:514
+msgid "Home Breadcrumb"
+msgstr "Ίχνος πλοήγησης Αρχικής Σελίδας"
+
+#: class.bcn_admin.php:507
+msgid "The template for paged breadcrumbs."
+msgstr "Το πρότυπο για τα ίχνη πλοήγησης αριθμημένης σελίδας."
+
+#: class.bcn_admin.php:506
+msgid "Indicates that the user is on a page other than the first of a paginated archive or post."
+msgstr "Δείχνει ότι ο χρήστης βρίσκεται σε μία σελίδα διαφορετική από την πρώτη ενός αριθμημένου αρχείου ή άρθρου."
+
+#: class.bcn_admin.php:505
+msgid "Yes"
+msgstr "Ναι"
+
+#: class.bcn_admin.php:505
+msgid "Link Current Item"
+msgstr "Σύνδεσμος Τρέχοντος Αντικειμένου"
+
+#: class.bcn_admin.php:502
+msgid "Current Item"
+msgstr "Τρέχον Αντικείμενο"
+
+#: class.bcn_admin.php:498
+msgid "Placed in between each breadcrumb."
+msgstr "Τοποθετείται ανάμεσα σε κάθε ίχνος πλοήγησης."
+
+#: class.bcn_admin.php:498
+msgid "Breadcrumb Separator"
+msgstr "Διαχωριστικό του Ίχνους πλοήγησης"
+
+#: class.bcn_admin.php:494
+msgid "A collection of settings most likely to be modified are located under this tab."
+msgstr "Μία συλλογή ρυθμίσεων που κατά πάσα πιθανότητα θα τροποποιηθούν βρίσκονται κάτω από αυτή την καρτέλα."
+
+#: class.bcn_admin.php:65
+msgid "Breadcrumb NavXT Settings"
+msgstr "Ρυθμίσεις Breadcrumb NavXT"
+
+#: class.bcn_admin.php:446 class.bcn_admin.php:752
+msgid "Go to the guide on trimming breadcrumb title lengths with CSS"
+msgstr "Μετάβαση στον οδηγό περικοπής του μήκους του τίτλου του ίχνους πλοήγησης με τη χρήση CSS"
+
+#: class.bcn_admin.php:446
+msgid "Warning: Your are using a deprecated setting \"Title Length\" (see Miscellaneous &gt; Deprecated), please %1$suse CSS instead%2$s."
+msgstr "Προειδοποίηση: Χρησιμοποιείτε την καταργημένη ρύθμιση \"Μήκος Τίτλου\" (δείτε Διάφορα &gt; Καταργημένα), παρακαλούμε, %1$sχρησιμοποιήστε CSS στη θέση του%2$s."
+
+#: class.bcn_admin.php:434 class.bcn_network_admin.php:163
+msgid "Warning: No BCN_SETTINGS_* define statement found, defaulting to BCN_SETTINGS_USE_LOCAL."
+msgstr "Προειδοποίηση: Δεν βρέθηκε καμία δήλωση BCN_SETTINGS_*, επιστροφή στην προκαθορισμένη τιμή BCN_SETTINGS_USE_LOCAL."
+
+#: class.bcn_admin.php:425 class.bcn_admin.php:429
+msgid "Warning: Your network settings may override any settings set in this page."
+msgstr "Προειδοποίηση: Οι ρυθμίσεις δικτύου σας μπορεί να παρακάμψουν οποιαδήποτε ρύθμιση οριστεί σε αυτή τη σελίδα."
+
+#: class.bcn_admin.php:421
+msgid "Warning: Your network settings will override any settings set in this page."
+msgstr "Προειδοποίηση: Οι ρυθμίσεις δικτύου σας θα παρακάμψουν οποιαδήποτε ρύθμιση οριστεί σε αυτή τη σελίδα."
+
+#: class.bcn_admin.php:403 includes/class.mtekk_adminkit.php:878
+msgid "Reset"
+msgstr "Επαναφορά"
+
+#: class.bcn_admin.php:402 includes/class.mtekk_adminkit.php:877
+msgid "Export"
+msgstr "Εξαγωγή"
+
+#: class.bcn_admin.php:401 includes/class.mtekk_adminkit.php:876
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: class.bcn_admin.php:377
+msgid "Import/Export/Reset"
+msgstr "Εισαγωγή/Εξαγωγή/Επαναφορά"
+
+#: class.bcn_admin.php:371
+msgid "Styling"
+msgstr "Στυλ"
+
+#: class.bcn_admin.php:359
+msgid "Using the code from the Quick Start section above, the following CSS can be used as base for styling your breadcrumb trail."
+msgstr "Χρησιμοποιώντας τον κώδικα από την παραπάνω ενότητα της Γρήγορης Έναρξης, το ακόλουθο CSS μπορεί να χρησιμοποιηθεί ως βάση για να δώσετε στυλ στη διαδρομή του ίχνους πλοήγησής σας."
+
+#: class.bcn_admin.php:356
+msgid "Quick Start"
+msgstr "Γρήγορη Έναρξη"
+
+#: class.bcn_admin.php:347
+msgid "Breadcrumb trail in list form"
+msgstr "Ίχνος πλοήγησης με μορφή λίστας"
+
+#: class.bcn_admin.php:341
+msgid "Breadcrumb trail with separators"
+msgstr "Ίχνος πλοήγησης με διαχωριστικά"
+
+#: class.bcn_admin.php:340
+msgid "For the settings on this page to take effect, you must either use the included Breadcrumb NavXT widget, or place either of the code sections below into your theme."
+msgstr "Για να λειτουργήσουν οι ρυθμίσεις αυτής της σελίδας, θα πρέπει είτε να χρησιμοποιήσετε τη συμπεριλαμβανόμενη εφαρμογή του Breadcrumb NavXT, ή να τοποθετήσετε ένα από τα δύο μέρη του παρακάτω κώδικα στο θέμα σας."
+
+#: class.bcn_admin.php:337 class.bcn_admin.php:494 class.bcn_admin.php:495
+msgid "General"
+msgstr "Γενικές"
+
+#: class.bcn_admin.php:332
+msgid "Go to the Breadcrumb NavXT translation project."
+msgstr "Μετάβαση στο έργο της μετάφρασης του Breadcrumb NavXT."
+
+#: class.bcn_admin.php:331
+msgid "Go to PayPal to give a donation to Breadcrumb NavXT."
+msgstr "Μεταβείτε στο PayPal για να κάνετε μία δωρεά στο Breadcrumb NavXT."
+
+#: class.bcn_admin.php:331
+msgid "%sDonate%s: Love Breadcrumb NavXT and want to help development? Consider buying the author a beer."
+msgstr "%sΔωρεά%s: Αγαπάτε το Breadcrumb NavXT και θέλετε να βοηθήσετε την ανάπτυξή του; Σκεφτείτε να αγοράσετε στον δημιουργό μία μπύρα."
+
+#: class.bcn_admin.php:330
+msgid "Giving Back"
+msgstr "Ανταπόδοση"
+
+#: class.bcn_admin.php:329
+msgid "Go to the Breadcrumb NavXT support post for your version."
+msgstr "Μετάβαση στο άρθρο υποστήριξης του Breadcrumb NavXT για την έκδοσή σας."
+
+#: class.bcn_admin.php:329
+msgid "%sReport a Bug%s: If you think you have found a bug, please include your WordPress version and details on how to reproduce the bug."
+msgstr "%sΑναφορά ενός Σφάλματος%s: Αν πιστεύετε ότι έχετε βρει ένα σφάλμα, παρακαλούμε, συμπεριλάβετε την έκδοση του Wordpress σας και πληροφορίες για το πως να αναπαράξουμε το σφάλμα."
+
+#: class.bcn_admin.php:328
+msgid "Go to the Breadcrumb NavXT online documentation"
+msgstr "Μετάβαση στην online τεκμηρίωση του Breadcrumb NavXT"
+
+#: class.bcn_admin.php:328
+msgid "%sOnline Documentation%s: Check out the documentation for more indepth technical information."
+msgstr "%sOnline Τεκμηρίωση%s: Ελέγξτε την τεκμηρίωση για περισσότερες εις βάθος τεχνικές πληροφορίες."
+
+#: class.bcn_admin.php:327
+msgid "Go to the Breadcrumb NavXT tag archive."
+msgstr "Μετάβαση στο αρχείο ετικέτας του Breadcrumb NavXT."
+
+#: class.bcn_admin.php:327
+msgid "%sTutorials and How Tos%s: There are several guides, tutorials, and how tos available on the author's website."
+msgstr "%sΜαθήματα εκμάθησης και Οδηγοί%s: Υπάρχουν πολλοί οδηγοί, μαθήματα εκμάθησης, και οδηγοί διαθέσιμοι στον ιστότοπο του δημιουργού."
+
+#: class.bcn_admin.php:326
+msgid "Resources"
+msgstr "Πόροι"
+
+#: class.bcn_admin.php:325
+msgid "Tips for the settings are located below select options."
+msgstr "Οι συμβουλές για τις ρυθμίσεις βρίσκονται κάτω από τις επιλογές."
+
+#: includes/class.mtekk_adminkit.php:121
+msgid "Insufficient privileges to proceed."
+msgstr "Ανεπαρκή δικαιώματα χρήστη για να επιτραπεί η συνέχιση."
+
+#: breadcrumb-navxt.php:36 class.bcn_admin.php:26
+msgid "Your PHP version is too old, please upgrade to a newer version. Your version is %1$s, Breadcrumb NavXT requires %2$s"
+msgstr "Η έκδοση της PHP σας είναι πολύ παλιά, παρακαλούμε αναβαθμίστε σε μία νεότερη έκδοση. Η έκδοση σας είναι η %1$s, το Breadcrumb NavXT απαιτεί την %2$s"

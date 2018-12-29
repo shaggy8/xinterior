@@ -1,0 +1,3142 @@
+# Translation of Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-06 02:02:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: admin/meta_import.php:198
+msgid "Analyze"
+msgstr "Phân tích"
+
+#: admin/meta_import.php:199
+msgid "Convert"
+msgstr "Chuyển đổi"
+
+#: aioseop_class.php:454
+msgid "Capitalize Tag and Search Titles:"
+msgstr "Viết hoa Tag và Tìm kiếm Tiêu đề"
+
+#: admin/meta_import.php:187
+msgid "Themes"
+msgstr "Chủ đề"
+
+#: admin/meta_import.php:149
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "Sử dụng mục thả xuống bên dưới để chọn tiện ích hoặc chủ đề mà bạn muốn nhập dữ liệu SEO."
+
+#: admin/meta_import.php:153
+msgid "Click \"Analyze\" for a list of SEO data that can be imported into All in One SEO Pack, along with the number of records that will be imported."
+msgstr "Nhấn \"Phân tích\" cho một danh sách dữ liệu SEO có thể được nhập vào gói SEO Tất Cả Trong Một, số lượng bản ghi cũng sẽ được nhập vào."
+
+#: admin/meta_import.php:157
+msgid "Please Note: "
+msgstr "Hãy chú ý:"
+
+#: admin/meta_import.php:157
+msgid "Some plugins and themes do not share similar data, or they store data in a non-standard way. If we cannot import this data, it will remain unchanged in your database. Any compatible SEO data will be displayed for you to review. If a post or page already has SEO data in All in One SEO Pack, we will not import data from another plugin/theme."
+msgstr "Một số tiện ích và chủ đề không chia sẻ dữ liệu giống nhau, hoặc chúng lưu dữ liệu không theo tiêu chuẩn. Nếu chúng tôi không thể nhập dữ liệu này, nó sẽ được lưu giữ trong cơ sở dữ liệu. Bất cứ dữ liệu SEO tương thích nào cũng sẽ được hiển thị cho bạn phê duyệt. Nếu một bài đăng hoặc một trang đã có dữ liệu SEO trong gói SEO Tất Cả Trong Một, chúng tôi sẽ không nhập dữ liệu từ một tiện ích/chủ đề khác."
+
+#: admin/meta_import.php:161
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "Nhấn \"Chuyển đổi\" để thực hiện việc nhập dữ liệu. Sau khi hoàn tất, bạn sẽ được báo cáo số bản ghi được nhập vào, và số bản ghi bị bỏ qua, dựa vào tiêu chí bên trên."
+
+#: admin/meta_import.php:165
+msgid "Before performing an import, we strongly recommend that you make a backup of your site. We use and recommend %s BackupBuddy %s for backups."
+msgstr "Trước khi thực hiện việc nhập dữ liệu, chúng tôi khuyên bạn nên tạo một bản ghi cho trang của bạn. Chúng tôi sử dụng và gợi ý %s BackupBuddy %s cho các bản ghi."
+
+#: admin/meta_import.php:175
+msgid "Import SEO data from:"
+msgstr "Nhập dữ liệu SEO từ:"
+
+#: admin/meta_import.php:177
+msgid "Choose platform:"
+msgstr "Lựa chọn nền hệ thống:"
+
+#: admin/meta_import.php:179
+msgid "Plugins"
+msgstr "Plugins"
+
+#: admin/meta_import.php:94
+msgid "Analysis Results"
+msgstr "Các kết quả Phân tích"
+
+#: admin/meta_import.php:98 admin/meta_import.php:121
+msgid "Sorry, something went wrong. Please try again"
+msgstr "Xin lỗi, đã có lỗi xảy ra. Hãy thử lại"
+
+#: admin/meta_import.php:103
+msgid "<p>Analyzing records in a %s to %s conversion&hellip;"
+msgstr "<p>Phân tích bản ghi dữ liệu trong một %s to %s conversion&hellip;"
+
+#: admin/meta_import.php:107
+msgid "Compatible data:"
+msgstr "Dữ liệu tương thích:"
+
+#: admin/meta_import.php:117
+msgid "Conversion Results"
+msgstr "Các kết quả chuyển đổi"
+
+#: admin/meta_import.php:146
+msgid "Import SEO Settings"
+msgstr "Nhập Cài đặt SEO"
+
+#: admin/meta_import.php:28
+msgid "The plugin Yoast SEO has been detected. Do you want to %simport its settings%s into All in One SEO Pack?"
+msgstr "Tiện ích Yoast SEO đã được tìm thấy. Bạn có muốn %snhập cài đặt s%s vào gói SEO Tất Cả Trong Một không?"
+
+#: admin/meta_import.php:32
+msgid "The plugin All-In-One-SEO has been detected. Do you want to %simport its settings%s?"
+msgstr "Tiện ích SEO Tất Cả Trong Một đã được tìm thấy. Bạn có muốn %snhập cài đặts%s không?"
+
+#: admin/meta_import.php:37
+msgid "All in One SEO has been deactivated"
+msgstr "SEO Tất Cả Trong Một đã được ngưng kích hoạt"
+
+#: admin/meta_import.php:62
+msgid "Import SEO Data"
+msgstr "Nhập Dữ liệu SEO"
+
+#: admin/meta_import.php:62
+msgid "SEO Data Import"
+msgstr "Nhập Dữ liệu SEO "
+
+#: modules/aioseop_feature_manager.php:75
+msgid "Pro Version Only"
+msgstr "Chỉ dành cho Phiên bản Pro"
+
+#: aioseop_class.php:3721
+msgid "We've detected you're running WooCommerce."
+msgstr "Chúng tôi đã phát hiện thấy bạn đang chạy WooCommerce."
+
+#: aioseop_class.php:3722
+msgid "%s Upgrade%s to All in One SEO Pack Pro for increased SEO compatibility for your products."
+msgstr "%s Cập nhật%s lên Gói SEO Pro Tất Cả Trong Một để tăng khả năng tương thích SEO cho các sản phẩm của bạn."
+
+#: modules/aioseop_performance.php:324
+msgid "Check For Updates"
+msgstr "Kiểm tra cập nhật"
+
+#. Description of the plugin/theme
+msgid "Out-of-the-box SEO for your WordPress blog. Features like XML Sitemaps, SEO for custom post types, SEO for blogs or business sites, SEO for ecommerce sites, and much more. Almost 30 million downloads since 2007."
+msgstr "Các gói SEO cho trang WordPress của bạn. Các tính năng như XML Sitemaps, SEO cho các loại bài đăng, SEO cho các trang blog hoặc trang kinh doanh, SEO cho các trang thương mại điện tử, và hơn thế nữa. Gần 30 triệu lượt tải về từ năm 2007."
+
+#: inc/commonstrings.php:39
+msgid "Manage Licenses"
+msgstr "Quản lý Bản quyền"
+
+#: modules/aioseop_bad_robots.php:24
+msgid "Block Referral Spam using HTTP."
+msgstr "Chặn Referral Spam sử dụng HTTP."
+
+#: modules/aioseop_bad_robots.php:34
+msgid "Block Bad Bots using HTTP"
+msgstr "Chặn các Bad Bot sử dụng HTTP"
+
+#: modules/aioseop_bad_robots.php:35
+msgid "Block Referral Spam using HTTP"
+msgstr "Chặn Referral Spam sử dụng HTTP"
+
+#: modules/aioseop_bad_robots.php:37
+msgid "Block Bad Bots using .htaccess"
+msgstr "Chặn các Bad Bot sử dụng .htaccess"
+
+#: modules/aioseop_bad_robots.php:38
+msgid "Use Custom Blocklists"
+msgstr "Sử dụng Tùy chỉnh Danh sách chặn"
+
+#: modules/aioseop_feature_manager.php:63
+msgid "Image SEO"
+msgstr "Hình ảnh SEO"
+
+#: modules/aioseop_feature_manager.php:68
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Tạo và quản lý sơ đồ trang Video của bạn sử dụng tính năng này và gửi sơ đồ trang Video của bạn đến các công cụ tìm kiếm Google, Bing/Yahoo và Ask.com."
+
+#: modules/aioseop_performance.php:300
+msgid "%s has checked for updates."
+msgstr "%s đã kiểm tra cập nhật"
+
+#: inc/commonstrings.php:32
+msgid "Finished scanning posts"
+msgstr "Đã quét xong các bài đăng"
+
+#: inc/commonstrings.php:35
+msgid "Purchase one now"
+msgstr "Mua một mã ngay"
+
+#: inc/commonstrings.php:36
+msgid "License Key is not set yet or invalid. "
+msgstr "Mã Bản quyền vẫn chưa được thiết lập hoặc không hợp lệ."
+
+#: inc/commonstrings.php:37
+msgid " Need a license key?"
+msgstr "Cần một mã bản quyền?"
+
+#: inc/commonstrings.php:38
+msgid "Notice: "
+msgstr "Chú ý:"
+
+#: inc/commonstrings.php:25
+msgid "Press the Scan button to scan your posts for videos! Do this if video content from a post or posts is not showing up in your sitemap."
+msgstr "Hãy nhấn nút Quét để quét video trên các bài đăng của bạn! Làm cách này nếu nội dung video từ một hoặc các bài đăng không hiển thị trong sơ đồ trang của bạn."
+
+#: inc/commonstrings.php:26
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "Nếu đã kiểm tra, chỉ những bài đăng có video sẽ được hiển thị trên sơ đồ của trang."
+
+#: inc/commonstrings.php:27
+msgid "Enable this option to only allow access to your sitemap by site administrators and major search engines."
+msgstr "Kích hoạt lựa chọn này để chỉ cho phép quản trị trang và những công cụ tìm kiếm truy cập đến sơ đồ trang của bạn."
+
+#: inc/commonstrings.php:28
+msgid "You do not have access to this page; try logging in as an administrator."
+msgstr "Bạn không được phép truy cập vào trang này; thử đăng nhập như một quản trị viên."
+
+#: inc/commonstrings.php:29
+msgid "Scan"
+msgstr "Quét"
+
+#: all_in_one_seo_pack.php:280
+msgid "Amazon Wishlist"
+msgstr "Danh mục ưa thích trên Amazon"
+
+#: inc/commonstrings.php:22
+msgid "Show Only Posts With Videos"
+msgstr "Chỉ Hiển Thị Những Bài Đăng Có Video"
+
+#: inc/commonstrings.php:23
+msgid "Scan Posts For Videos"
+msgstr "Quét Video Trên Các Bài Đăng"
+
+#: inc/commonstrings.php:24
+msgid "Restrict Access to Video Sitemap"
+msgstr "Hạn chế Vị trí Truy cập Video"
+
+#: all_in_one_seo_pack.php:332
+msgid "Upgrade to Pro"
+msgstr "Nâng cấp đến chuyên nghiệp"
+
+#: all_in_one_seo_pack.php:321
+msgid "Documentation"
+msgstr "Tài liệu hướng dẫn"
+
+#: all_in_one_seo_pack.php:311
+msgid "SEO Settings"
+msgstr "Thiết lập SEO"
+
+#: aioseop_class.php:3256
+msgid "%taxonomy_title% - The original title of the taxonomy"
+msgstr "%taxonomy_title% - Phân loại tiêu đề ban đầu"
+
+#: aioseop_class.php:3257
+msgid "%taxonomy_description% - The description of the taxonomy"
+msgstr "%taxonomy_description% - Miêu tả phân loại"
+
+#: aioseop_class.php:3092
+msgid "Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Cảm ơn bạn đã sử dụng Gói SEO Pro Tất Cả Trong Một mới và mạnh nhất! Hãy kiểm tra lại các cài đặt của bạn, bởi vì chúng tôi luôn bổ sung những tính năng mới cho bạn!"
+
+#: aioseop_class.php:3785
+msgid "Debug String"
+msgstr "Chuỗi Debug"
+
+#: aioseop_class.php:4980
+msgid "About"
+msgstr "Về chúng tôi"
+
+#: aioseop_class.php:549
+msgid "SEO on only these taxonomies:"
+msgstr "SEO trên những phân loại này"
+
+#: aioseop_class.php:1005 all_in_one_seo_pack.php:316
+msgid "Support Forum"
+msgstr "Diễn đàn Hỗ trợ"
+
+#: aioseop_class.php:3242
+msgid "Taxonomy Title Format:"
+msgstr "Phân loại Định dạng Tiêu đề:"
+
+#: aioseop_class.php:80
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "Sẽ nhận được mã bản quyền khi mua sản phẩm. Được sử dụng để nâng cấp tự động."
+
+#: aioseop_class.php:179
+msgid "Use these checkboxes to select which Taxonomies you want to use All in One SEO Pack with."
+msgstr "Sử dụng những hộp đánh dấu để lựa chọn những Phân loại mà bạn muốn sử dụng cùng với Gói SEO Tất Cả Trong Một."
+
+#: aioseop_class.php:349
+msgid "License Key:"
+msgstr "Mã Bản quyền:"
+
+#: aioseop_class.php:3699
+msgid "Warning: You're blocking access to search engines."
+msgstr "Cảnh báo: Bạn đang chặn đường dẫn đến công cụ tìm kiếm"
+
+#: aioseop_class.php:3700
+msgid "You can %s click here%s to go to your reading settings and toggle your blog visibility."
+msgstr "Bạn có thể %s nhấn vào đây%s để đọc hướng dẫn thiết lập và giúp trang blog của bạn có thể được tìm thấy."
+
+#: modules/aioseop_opengraph.php:85
+msgid "Enter your Facebook Admin ID here. Information about how to get your Facebook Admin ID can be found at https://developers.facebook.com/docs/platforminsights/domains"
+msgstr "Nhập ID quản trị Facebook của bạn vào đây. Thông tin về cách làm cho ID Quản trị Facebook của bạn có thể được tìm thấy tại https://developers.facebook.com/docs/platforminsights/domains"
+
+#: modules/aioseop_opengraph.php:86
+msgid "Enter your Facebook App ID here. Information about how to get your Facebook App ID can be found at https://developers.facebook.com/docs/platforminsights/domains"
+msgstr "Nhập ID Ứng dụng Facebook của bạn vào đây. Thông tin về cách làm cho ID Ứng dụng Facebook của bạn có thể được tìm thấy tại https://developers.facebook.com/docs/platforminsights/domains"
+
+#: modules/aioseop_opengraph.php:197
+msgid "Facebook Admin ID"
+msgstr "ID Quản trị Facebook"
+
+#: modules/aioseop_opengraph.php:202
+msgid "Facebook App ID"
+msgstr "ID Ứng dụng Facebook"
+
+#: modules/aioseop_sitemap.php:55
+msgid "Use rewrites to generate your sitemap on the fly. NOTE: This is required for WordPress Multisite."
+msgstr "Sử dụng ghi đè để tạo sơ đồ trang của bạn bỏ qua các bước trung gian. LƯU Ý: Yêu cầu Nhiều trang WordPress."
+
+#: modules/aioseop_sitemap.php:56
+msgid "URL to the page."
+msgstr "URL đến trang"
+
+#: modules/aioseop_sitemap.php:57
+msgid "The priority of the page."
+msgstr "Ưu tiên của trang"
+
+#: modules/aioseop_sitemap.php:58
+msgid "The frequency of the page."
+msgstr "Tần suất của trang"
+
+#: modules/aioseop_sitemap.php:59
+msgid "Last modified date of the page."
+msgstr "Ngày chỉnh sửa trang lần cuối."
+
+#: modules/aioseop_sitemap.php:60
+msgid "Entries from these categories will be excluded from the sitemap."
+msgstr "Các bài viết từ những chuyên mục này sẽ được loại trừ khỏi sơ đồ trang."
+
+#: modules/aioseop_sitemap.php:61
+msgid "Use page slugs or page IDs, seperated by commas, to exclude pages from the sitemap."
+msgstr "Sử dụng trang slug hoặc trang ID, phân cách bởi dấu phẩy để loại trừ các trang ra khỏi sơ đồ trang."
+
+#: modules/aioseop_sitemap.php:89
+msgid "Filename Prefix"
+msgstr "Tiền tố tên tập tin"
+
+#: modules/aioseop_sitemap.php:94
+msgid "Notify Google"
+msgstr "Thông báo cho Google"
+
+#: modules/aioseop_sitemap.php:95
+msgid "Notify Bing"
+msgstr "Thông báo cho Bing"
+
+#: modules/aioseop_sitemap.php:97
+msgid "Schedule Updates"
+msgstr "Cập nhật lịch trình"
+
+#: modules/aioseop_sitemap.php:100
+msgid "No Schedule"
+msgstr "Không có lịch trình"
+
+#: modules/aioseop_sitemap.php:101
+msgid "Daily"
+msgstr "Hằng ngày"
+
+#: modules/aioseop_sitemap.php:102
+msgid "Weekly"
+msgstr "Hằng tuần"
+
+#: modules/aioseop_sitemap.php:103
+msgid "Monthly"
+msgstr "Hằng tháng"
+
+#: modules/aioseop_sitemap.php:107
+msgid "Enable Sitemap Indexes"
+msgstr "Kích hoạt chỉ mục sơ đồ trang"
+
+#: modules/aioseop_sitemap.php:109
+msgid "Paginate Sitemap Indexes"
+msgstr "Đánh số trang các chỉ mục sơ đồ trang"
+
+#: modules/aioseop_sitemap.php:113
+msgid "Maximum Posts Per Sitemap"
+msgstr "Số bài đăng tối đa trên Sơ đồ trang"
+
+#: modules/aioseop_sitemap.php:119
+msgid "Post Types"
+msgstr "Loại bài đăng"
+
+#: modules/aioseop_sitemap.php:124
+msgid "Taxonomies"
+msgstr "Nguyên tắc phân loại"
+
+#: modules/aioseop_sitemap.php:128
+msgid "Include Date Archive Pages"
+msgstr "Bao gồm ngày lưu trữ trang"
+
+#: modules/aioseop_sitemap.php:129
+msgid "Include Author Pages"
+msgstr "Bao gồm Trang tác giả"
+
+#: modules/aioseop_sitemap.php:131
+msgid "Create Compressed Sitemap"
+msgstr "Tạo sơ đồ trang nén"
+
+#: modules/aioseop_sitemap.php:135
+msgid "Link From Virtual Robots.txt"
+msgstr "Liên kết từ Robots.txt ảo"
+
+#: modules/aioseop_sitemap.php:139
+msgid "Dynamically Generate Sitemap"
+msgstr "Tạo tự động sơ đồ trang"
+
+#: modules/aioseop_sitemap.php:147
+msgid "Debug Log"
+msgstr "Nhật ký gỡ lỗi"
+
+#: modules/aioseop_sitemap.php:161
+msgid "Sitemap Status"
+msgstr "Trạng thái sơ đồ trang"
+
+#: modules/aioseop_sitemap.php:177
+msgid "Do Not Override"
+msgstr "Không ghi đè"
+
+#: modules/aioseop_sitemap.php:178
+msgid "Select Individual"
+msgstr "Chọn riêng lẻ"
+
+#: modules/aioseop_sitemap.php:191
+msgid "priority"
+msgstr "ưu tiên"
+
+#: modules/aioseop_sitemap.php:192
+msgid "frequency"
+msgstr "tần suất"
+
+#: modules/aioseop_sitemap.php:199
+msgid "homepage"
+msgstr "trang chủ"
+
+#: modules/aioseop_sitemap.php:200
+msgid "posts"
+msgstr "các bài đăng"
+
+#: modules/aioseop_sitemap.php:201
+msgid "taxonomies"
+msgstr "các nguyên tắc phân loại"
+
+#: modules/aioseop_sitemap.php:202
+msgid "archive pages"
+msgstr "các trang lưu trữ"
+
+#: modules/aioseop_sitemap.php:203
+msgid "author pages"
+msgstr "trang tác giả"
+
+#: modules/aioseop_sitemap.php:215
+msgid "Manually set the %s of your %s."
+msgstr "Đặt thủ công %s của %s của bạn."
+
+#: modules/aioseop_sitemap.php:229
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "Nhập thông tin bên dưới cho bất kỳ liên kết bổ sung nào cho sơ đồ trang của bạn chưa được quản lý qua WordPress."
+
+#: modules/aioseop_sitemap.php:235
+msgid "Page URL"
+msgstr "URL trang"
+
+#: modules/aioseop_sitemap.php:241
+msgid "Page Priority"
+msgstr "Độ ưu tiên trang"
+
+#: modules/aioseop_sitemap.php:248
+msgid "Page Frequency"
+msgstr "Tần suất trang"
+
+#: modules/aioseop_sitemap.php:255
+msgid "Last Modified"
+msgstr "Chỉnh sửa lần cuối"
+
+#: modules/aioseop_sitemap.php:261 modules/aioseop_sitemap.php:286
+msgid "Additional Pages"
+msgstr "Các trang bổ sung"
+
+#: modules/aioseop_sitemap.php:268
+msgid "Add URL"
+msgstr "Thêm URL"
+
+#: modules/aioseop_sitemap.php:278
+msgid "Excluded Categories"
+msgstr "Các chuyên mục đã loại trừ"
+
+#: modules/aioseop_sitemap.php:282
+msgid "Excluded Pages"
+msgstr "Các trang đã loại trừ"
+
+#: modules/aioseop_sitemap.php:292
+msgid "Excluded Items"
+msgstr "Các mục đã loại trừ"
+
+#: modules/aioseop_sitemap.php:298
+msgid "Priorities"
+msgstr "Các ưu tiên"
+
+#: modules/aioseop_sitemap.php:304
+msgid "Frequencies"
+msgstr "Các tần suất"
+
+#: modules/aioseop_sitemap.php:373
+msgid "Once Weekly"
+msgstr "Một lần Hằng tuần"
+
+#: modules/aioseop_sitemap.php:377
+msgid "Once Monthly"
+msgstr "Một lần hằng tháng"
+
+#: modules/aioseop_sitemap.php:400
+msgid "Daily scheduled sitemap check has finished."
+msgstr "Kiểm tra sơ đồ trang theo lịch trình hằng ngày đã hoàn thành."
+
+#: modules/aioseop_sitemap.php:486
+msgid "Media / Attachments"
+msgstr "Phương tiện / Đính kèm"
+
+#: modules/aioseop_sitemap.php:488
+msgid "All Post Types"
+msgstr "Tất cả các loại bài đăng"
+
+#: modules/aioseop_sitemap.php:489
+msgid "All Taxonomies"
+msgstr "Tất cả nguyên tắc phân loại"
+
+#: modules/aioseop_sitemap.php:493
+msgid "Manually set the priority for the "
+msgstr "Đặt thủ công độ ưu tiên cho"
+
+#: modules/aioseop_sitemap.php:494
+msgid "Manually set the frequency for the "
+msgstr "Đặt thủ công tần suất cho"
+
+#: modules/aioseop_sitemap.php:495
+msgid " Post Type"
+msgstr "Loại bài đăng"
+
+#: modules/aioseop_sitemap.php:496
+msgid " Taxonomy"
+msgstr "Nguyên tắc phân loại"
+
+#: modules/aioseop_sitemap.php:573 modules/aioseop_sitemap.php:635
+msgid "Update Sitemap"
+msgstr "Cập nhật sơ đồ trang"
+
+#: modules/aioseop_sitemap.php:633
+msgid "Please review your settings below and click %s to build your sitemap; then, %s."
+msgstr "Vui lòng xem lại cài đặt của bạn bên dưới và nhấn %s để xây dựng sơ đồ trong của bạn; sau đó %s."
+
+#: modules/aioseop_sitemap.php:636
+msgid "view your sitemap"
+msgstr "xem sơ đồ trang của bạn"
+
+#: modules/aioseop_sitemap.php:639
+msgid "Note: you are using dynamic sitemap generation to keep your sitemap current; this will not generate a static sitemap file."
+msgstr "Lưu ý: bạn đang sử dụng tạo sơ đồ trang động để giữ sơ đồ trang hiện tại; việc này sẽ không tạo tập tin sơ đồ trang tĩnh."
+
+#: modules/aioseop_sitemap.php:643
+msgid "Dynamic sitemap generation appears to be using the correct rewrite rules."
+msgstr "Tạo sơ đồ trang động xuất hiện để sử dụng đúng quy tắc ghi đè."
+
+#: modules/aioseop_sitemap.php:645
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "Tạo sơ đồ trang động không xuất hiện để sử dụng đúng quy tắc ghi đè; vui lòng tắt bất kỳ plugin hoặc chức năng sơ đồ trang nào khác trên trang của bạn và cài đặt lại liên kết tĩnh của bạn."
+
+#: modules/aioseop_sitemap.php:651
+msgid "Reading Settings"
+msgstr "Cài đặt bài đọc"
+
+#: modules/aioseop_sitemap.php:653
+msgid "Privacy Settings"
+msgstr "Cài đặt riêng tư"
+
+#: modules/aioseop_sitemap.php:655
+msgid "Warning: your privacy settings are configured to ask search engines to not index your site; you can change this under %s for your blog."
+msgstr "Cảnh báo: cài đặt riêng tư của bạn được thiết lập để yêu cầu các công cụ tìm kiếm không lập chỉ mục trang của bạn; bạn có thể thay đổi nó trong %s cho blog của bạn."
+
+#: modules/aioseop_sitemap.php:859
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "Cảnh báo: việc tạo sơ đồ trang động phải có liên kết tĩnh được kích hoạt."
+
+#: modules/aioseop_sitemap.php:876
+msgid "Deleted %s."
+msgstr "Đã xoá %s."
+
+#: modules/aioseop_sitemap.php:886
+msgid "Couldn't rename file %s!"
+msgstr "Không thể đổi tên tập tin %s!"
+
+#: modules/aioseop_sitemap.php:890
+msgid "Renamed %s to %s."
+msgstr "Đổi tên %s thành %s."
+
+#: modules/aioseop_sitemap.php:894
+msgid "Couldn't find file %s!"
+msgstr "Không thể tìm thấy tập tin %s!"
+
+#: modules/aioseop_sitemap.php:971
+msgid "Warning: a static sitemap '%s' generated by All in One SEO Pack %s on %s already exists that may conflict with dynamic sitemap generation."
+msgstr "Cảnh báo: một sơ đồ trang tĩnh '%s' đã tạo bởi Gói SEO Tất Cả Trong Một %s trên %s đã thực sự tồn tại, nó có thể xung đột với việc tạo sơ đồn trang động."
+
+#: modules/aioseop_sitemap.php:976
+msgid "Potential conflict with unknown file %s."
+msgstr "Xung đột tiềm tàng với tập tin %s không rõ."
+
+#: modules/aioseop_sitemap.php:1007
+msgid "Rename Conflicting Files"
+msgstr "Đổi tên các tập tin đang xung đột"
+
+#: modules/aioseop_sitemap.php:1008
+msgid "Delete Conflicting Files"
+msgstr "Xoá các tập tin đang xung đột"
+
+#: modules/aioseop_sitemap.php:1143
+msgid "compressed"
+msgstr "đã nén"
+
+#: modules/aioseop_sitemap.php:1146
+msgid "dynamic"
+msgstr "động"
+
+#: modules/aioseop_sitemap.php:1141
+msgid "static"
+msgstr "tĩnh"
+
+#: modules/aioseop_sitemap.php:1297
+msgid "Successfully notified %s about changes to your sitemap at %s."
+msgstr "Đã thông báo thành công cho %s về các thay đổi đến sơ đồ trang của bạn tại %s."
+
+#: modules/aioseop_sitemap.php:1299
+msgid "Failed to notify %s about changes to your sitemap at %s, error code %s."
+msgstr "Thất bại khi thông báo cho %s về các thay đổi đến sơ đồ trang của bạn tại %s, mã lỗi %s."
+
+#: modules/aioseop_sitemap.php:1302
+msgid "Failed to notify %s about changes to your sitemap at %s, unable to access via wp_remote_get()."
+msgstr "Thất bại khi thông báo cho %s về các thay đổi đến sơ đồ trang của bạn tại %s, không thể truy cập wp_remote_get()."
+
+#: modules/aioseop_sitemap.php:1305
+msgid "Did not notify %s about changes to your sitemap."
+msgstr "Không thông báo cho %s về các thay đổi đến sơ đồ trang của bạn."
+
+#: modules/aioseop_sitemap.php:1355
+msgid "Updated sitemap settings."
+msgstr "Đã cập nhật cài đặt sơ đồ trang."
+
+#. Plugin Name of the plugin/theme
+msgid "All In One SEO Pack"
+msgstr "Gói SEO Tất Cả Trong Một"
+
+#. Plugin URI of the plugin/theme
+msgid "http://semperfiwebdesign.com"
+msgstr "http://semperfiwebdesign.com"
+
+#. Author of the plugin/theme
+msgid "Michael Torbert"
+msgstr "Michael Torbert"
+
+#. Author URI of the plugin/theme
+msgid "http://michaeltorbert.com"
+msgstr "http://michaeltorbert.com"
+
+#: aioseop_class.php:1161
+msgid "Noindex Settings"
+msgstr "Cài đặt Không chỉ mục"
+
+#: aioseop_class.php:1182
+msgid "Advanced Settings"
+msgstr "Cài đặt nâng cao"
+
+#: aioseop_class.php:3182
+msgid "Front Page"
+msgstr "Trang Chủ"
+
+#: aioseop_class.php:3182
+msgid "Everywhere Else"
+msgstr "Khắp mọi nơi khác"
+
+#: aioseop_class.php:3190
+msgid "Title Format:"
+msgstr "Định dạng tiêu đề:"
+
+#: aioseop_class.php:3204
+msgid "%post_title% - The original title of the post."
+msgstr "%post_title% - Tiêu đề gốc của bài đăng."
+
+#: aioseop_class.php:3208
+msgid "%%tax_%s%% - This post's associated %s taxonomy title"
+msgstr "%%tax_%s%% - Bài đăng này liên quan đến tiêu đề phân loại %s"
+
+#: aioseop_class.php:3091 aioseop_class.php:3109
+msgid "Welcome to Version %s!"
+msgstr "Chào mừng đến Phiên bản %s!"
+
+#: aioseop_class.php:3110
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Cảm ơn bạn đã chạy Gói SEO Tất Cả Trong Một mới nhất và tuyệt vời nhất từ trước đến nay! Vui lòng xem lại các cài đặt của bạn vì chúng tôi luôn thêm các tính năng mới! "
+
+#: aioseop_class.php:3099 aioseop_class.php:3117
+msgid "Review Your Settings"
+msgstr "Xem lại Cài đặt của bạn"
+
+#: aioseop_class.php:3118
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! New since 2.2: Control who accesses your site with the new Robots.txt Editor and File Editor modules!  Enable them from the Feature Manager.  Remember to review your settings, we have added some new ones!"
+msgstr "Cảm ơn bạn đã chạy Gói SEO Tất Cả Trong Một mới nhất và tuyệt vời nhất từ trước đến nay! Các cập nhật mới từ 2.2: Kiểm soát những ai truy cập trang của bạn với module Trình sửa Robots.txt và Trình sửa tập tin mới! Kích hoạt chúng từ Trình quản lý tính năng. Xin nhớ xem lại các cài đặt của bạn, chúng tôi đã bổ sung thêm một vài tính năng mới! "
+
+#: aioseop_class.php:3295
+msgid "Reset General Settings to Defaults"
+msgstr "Thiết lập lại Cài đặt chung thành Mặc định"
+
+#: aioseop_class.php:3299
+msgid "Reset ALL Settings to Defaults"
+msgstr "Thiết lập lại TẤT CẢ Cài đặt thành Mặc định"
+
+#: aioseop_class.php:3381
+msgid "Default - noindex"
+msgstr "Mặc định - không lập chỉ mục"
+
+#: aioseop_class.php:3382
+msgid "index"
+msgstr "chỉ mục"
+
+#: aioseop_class.php:3383
+msgid "noindex"
+msgstr "không lập chỉ mục"
+
+#: aioseop_class.php:3389
+msgid "Default - nofollow"
+msgstr "Mặc định - không theo dõi"
+
+#: aioseop_class.php:3390
+msgid "follow"
+msgstr "theo dõi"
+
+#: aioseop_class.php:3391
+msgid "nofollow"
+msgstr "không theo dõi"
+
+#: aioseop_class.php:3397
+msgid "Default - noodp"
+msgstr "Mặc định - không odp"
+
+#: aioseop_class.php:3398
+msgid "odp"
+msgstr "odp"
+
+#: aioseop_class.php:3399
+msgid "noodp"
+msgstr "không odp"
+
+#: aioseop_class.php:3405
+msgid "Default - noydir"
+msgstr "Mặc định - không ydir"
+
+#: aioseop_class.php:3406
+msgid "ydir"
+msgstr "ydir"
+
+#: aioseop_class.php:3407
+msgid "noydir"
+msgstr "không ydir"
+
+#: admin/display/general-metaboxes.php:28
+msgid "by %s of %s."
+msgstr "bằng %s của %s."
+
+#: admin/display/general-metaboxes.php:39
+msgid "Reset Dismissed Notices"
+msgstr "Thiết lập lại các thông báo đã bỏ lỡ"
+
+#: admin/display/general-metaboxes.php:44
+msgid "Pro Version"
+msgstr "Phiên bản Pro"
+
+#: admin/display/general-metaboxes.php:44 aioseop_class.php:999
+msgid "UPGRADE TO PRO VERSION"
+msgstr "NÂNG CẤP THÀNH PHIÊN BẢN PRO"
+
+#: admin/display/general-metaboxes.php:70 all_in_one_seo_pack.php:276
+msgid "Donate"
+msgstr "Góp tặng"
+
+#: admin/display/general-metaboxes.php:73
+msgid "Donate with Paypal"
+msgstr "Góp tặng bằng Paypal"
+
+#: admin/display/general-metaboxes.php:77
+msgid "My Amazon Wish List"
+msgstr "Danh sách ưa thích Amazon của tôi"
+
+#: admin/display/general-metaboxes.php:80
+msgid "Follow us on Facebook"
+msgstr "Theo dõi chúng tôi trên Facebook"
+
+#: admin/display/general-metaboxes.php:83
+msgid "Follow us on Twitter"
+msgstr "Theo dõi chúng tôi trên Twitter"
+
+#: admin/display/general-metaboxes.php:120
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "Tham gia danh sách gửi thư của chúng tôi để nhận các mẹo, thủ thuật và bí mật WordPress."
+
+#: admin/display/general-metaboxes.php:122
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "Đăng ký ngay hôm nay và nhận được bản sao ebook 5 Lời khuyên SEO cho WordPress miễn phí (trị giá 39$). "
+
+#: admin/display/general-metaboxes.php:138
+msgid "Read the All in One SEO Pack user guide"
+msgstr "Đọc hướng dẫn sử dụng Gói SEO Tất Cả Trong Một"
+
+#: admin/display/general-metaboxes.php:142
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "Diễn đàn hỗ trợ plugin SEO Tất Cả Trong Một Pro"
+
+#: admin/display/general-metaboxes.php:143
+msgid "Access our Premium Support Forums"
+msgstr "Truy cập Diễn đàn hỗ trợ cao cấp của chúng tôi"
+
+#: admin/display/general-metaboxes.php:146
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "Nhật ký các thay đổi Plugin SEO Tất Cả Trong Một Pro"
+
+#: admin/display/general-metaboxes.php:151
+msgid "View the Changelog"
+msgstr "Xem Nhật ký các thay đổi"
+
+#: admin/display/general-metaboxes.php:155
+msgid "Watch video tutorials"
+msgstr "Xem hướng dẫn video"
+
+#: admin/display/general-metaboxes.php:159
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Mới bắt đầu? Đọc Hướng dẫn cho người mới"
+
+#: aioseop_class.php:3761
+msgid "Debug Warning: All in One SEO Pack meta data was included again from %s filter. Called %s times!"
+msgstr "Cảnh báo gỡ lỗi: Dữ liệu meta Gói SEO Tất Cả Trong Một đã được bao gồm một lần nữa từ bộ lọc %s. Đã gọi %s lần!"
+
+#: inc/deprecated.php:137
+msgid "Disconnect From Google Analytics"
+msgstr "Ngắt kết nối khỏi Google Analytics"
+
+#: inc/deprecated.php:138
+msgid "Remove Stored Credentials"
+msgstr "Loại bỏ các chứng nhận đã lưu trữ"
+
+#: inc/deprecated.php:145
+msgid "Connect With Google Analytics"
+msgstr "Kết nối với Google Analytics"
+
+#: inc/deprecated.php:173 inc/deprecated.php:220 inc/deprecated.php:261
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: aioseop_class.php:4747
+msgid "SEO"
+msgstr "SEO"
+
+#: aioseop_class.php:4771
+msgid "Edit SEO"
+msgstr "Chỉnh sửa SEO"
+
+#: aioseop_class.php:4754
+msgid "Upgrade To Pro"
+msgstr "Nâng cấp thành bản Pro"
+
+#: aioseop_class.php:4878
+msgid "All in One SEO"
+msgstr "SEO Tất Cả Trong Một"
+
+#: aioseop_class.php:4931
+msgid "Thank you!"
+msgstr "Cảm ơn bạn!"
+
+#: aioseop_class.php:4932
+msgid "Thank you for your donation, it helps keep this plugin free and actively developed!"
+msgstr "Cảm ơn bạn đã góp tặng, việc này giúp giữ cho plugin miễn phí và phát triển tích cực!"
+
+#: aioseop_class.php:4975
+msgid "Join Our Mailing List"
+msgstr "Tham gia Danh sách gửi thư của chúng tôi"
+
+#: aioseop_class.php:4990
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: aioseop_class.php:4990
+msgid "Version"
+msgstr "Phiên bản"
+
+#: admin/aioseop_module_class.php:1725 admin/aioseop_module_class.php:1979
+#: admin/aioseop_module_class.php:2256 aioseop_class.php:5020
+#: aioseop_class.php:5038
+msgid "Help"
+msgstr "Giúp đỡ"
+
+#: aioseop_class.php:4711
+msgid "Main Settings"
+msgstr "Cài Đặt Chính"
+
+#: modules/aioseop_feature_manager.php:23
+msgid "Feature Manager"
+msgstr "Trình quản lý tính năng"
+
+#: modules/aioseop_feature_manager.php:29
+msgid "XML Sitemaps"
+msgstr "Sơ đồ trang XML"
+
+#: modules/aioseop_feature_manager.php:30
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Tạo và quản lý Sơ đồ trang XML của bạn sử dụng tính năng này và gửi Sơ đồ trang SML của bạn cho Google, Bing/Yahoo và Ask.com."
+
+#: modules/aioseop_feature_manager.php:33 modules/aioseop_opengraph.php:14
+msgid "Social Meta"
+msgstr "Meta xã hội"
+
+#: modules/aioseop_feature_manager.php:34
+msgid "Activate this feature to add Social Meta data to your site to deliver closer integration between your website/blog and Facebook, Twitter, and Google+."
+msgstr "Kích hoạt tính năng này để thêm dữ liệu Meta Xã hội đến trang của bạn và cung cấp các tích hợp gần hơn giữa trang web/blog của bạn và Facebook, Twitter, Google+."
+
+#: modules/aioseop_feature_manager.php:37 modules/aioseop_robots.php:12
+#: modules/aioseop_robots.php:175
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: modules/aioseop_feature_manager.php:38
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "Tạo và chứng thực tập tin robots.txt của bạn để hướng dẫn các công cj tìm kiếm thông qua trang của bạn."
+
+#: modules/aioseop_feature_manager.php:41 modules/aioseop_file_editor.php:19
+msgid "File Editor"
+msgstr "Trình sửa tập tin"
+
+#: modules/aioseop_feature_manager.php:42
+msgid "Edit your robots.txt file and your .htaccess file to fine-tune your site."
+msgstr "Chỉnh sửa tập tin robots.txt và tập tin .htaccess của bạn để tinh chỉnh trang của bạn."
+
+#: modules/aioseop_feature_manager.php:50
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "Dừng các chương trình xấu làm chậm trang web của bạn."
+
+#: modules/aioseop_feature_manager.php:53 modules/aioseop_performance.php:15
+msgid "Performance"
+msgstr "Hiệu suất"
+
+#: modules/aioseop_feature_manager.php:54
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "Tối ưu hoá hiệu suất liên quan đến SEO và kiểm tra tình trạng hệ thống của bạn."
+
+#: modules/aioseop_feature_manager.php:45
+#: modules/aioseop_importer_exporter.php:16
+msgid "Importer & Exporter"
+msgstr "Trình nhập & Trình xuất"
+
+#: modules/aioseop_feature_manager.php:46
+msgid "Exports and imports your All in One SEO Pack plugin settings."
+msgstr "Xuất và nhập các cài đặt Plugin Gói SEO Tất Cả Trong Một của bạn."
+
+#: modules/aioseop_feature_manager.php:62
+msgid "Coming Soon..."
+msgstr "Sắp xuất hiện..."
+
+#: inc/commonstrings.php:21 modules/aioseop_feature_manager.php:67
+#: modules/aioseop_feature_manager.php:74
+msgid "Video Sitemap"
+msgstr "Video sơ đồ trang"
+
+#: modules/aioseop_feature_manager.php:147
+msgid "Update Features"
+msgstr "Cập nhật các tính năng"
+
+#: modules/aioseop_feature_manager.php:149
+msgid "Reset Features"
+msgstr "Thiết lập lại các tính năng"
+
+#: modules/aioseop_file_editor.php:29 modules/aioseop_robots.php:21
+msgid "Robots.txt editor"
+msgstr "Trình sửa Robots.txt"
+
+#: modules/aioseop_file_editor.php:30
+msgid ".htaccess editor"
+msgstr "Trình sửa .htaccess"
+
+#: modules/aioseop_file_editor.php:34
+msgid "Edit Robots.txt"
+msgstr "Chỉnh sửa Robots.txt"
+
+#: modules/aioseop_file_editor.php:43 modules/aioseop_file_editor.php:70
+msgid "Edit .htaccess"
+msgstr "Chỉnh sửa .htaccess"
+
+#: modules/aioseop_file_editor.php:59
+msgid "robots.txt"
+msgstr "robots.txt"
+
+#: modules/aioseop_file_editor.php:60
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: modules/aioseop_file_editor.php:65
+msgid "Edit robots.txt"
+msgstr "Chỉnh sửa robots.txt"
+
+#: modules/aioseop_file_editor.php:102
+msgid "Update robots.txt"
+msgstr "Cập nhật robots.txt"
+
+#: modules/aioseop_file_editor.php:108
+msgid "Update .htaccess"
+msgstr "Cập nhật .htaccess"
+
+#: inc/aioseop_functions.php:192
+msgid "SEO Title"
+msgstr "Tiêu đề SEO"
+
+#: inc/aioseop_functions.php:193
+msgid "SEO Description"
+msgstr "Miêu tả SEO"
+
+#: inc/aioseop_functions.php:195
+msgid "SEO Keywords"
+msgstr "Từ khoá SEO"
+
+#: inc/aioseop_functions.php:265 inc/aioseop_functions.php:382
+#: inc/aioseop_functions.php:734
+msgid "Edit"
+msgstr "Sửa"
+
+#: inc/aioseop_functions.php:266
+msgid "Post"
+msgstr "Đăng"
+
+#: inc/aioseop_functions.php:267
+msgid "Save"
+msgstr "Lưu"
+
+#: inc/aioseop_functions.php:268
+msgid "Cancel"
+msgstr "Hủy"
+
+#: inc/aioseop_functions.php:270
+msgid "Please wait..."
+msgstr "Vui lòng chờ..."
+
+#: inc/aioseop_functions.php:271
+msgid "Slug may not be empty!"
+msgstr "Slug không thể để trống!"
+
+#: inc/aioseop_functions.php:272
+msgid "Revisions"
+msgstr "Bản sửa đổi"
+
+#: inc/aioseop_functions.php:273
+msgid "Insert time"
+msgstr "Thêm thời gian"
+
+#: inc/aioseop_functions.php:378 inc/aioseop_functions.php:730
+#: modules/aioseop_performance.php:210 modules/aioseop_performance.php:215
+#: modules/aioseop_performance.php:220 modules/aioseop_performance.php:229
+msgid "No"
+msgstr "Không"
+
+#: inc/aioseop_functions.php:401
+msgid "Unauthorized access; try reloading the page."
+msgstr "Truy cập trái phép, thử tải lại trang"
+
+#: inc/aioseop_functions.php:501
+msgid "Row %s not found; no rows were deleted."
+msgstr "Dòng %s không tìm thấy; không có dòng được xoá."
+
+#: inc/aioseop_functions.php:565
+msgid "Duplicate %s Meta"
+msgstr "Sao chép Meta %s"
+
+#: inc/aioseop_functions.php:574
+msgid "No duplicate meta tags found."
+msgstr "Không sao chép thẻ meta đã tìm thấy."
+
+#: inc/aioseop_functions.php:577
+msgid "What Does This Mean?"
+msgstr "Điều này có nghĩa là gì?"
+
+#: inc/aioseop_functions.php:591
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "Vui lòng tham khảo tài liệu hướng dẫn cho mỗi công cụ để sử dụng chúng gỡ lỗi meta xã hội của bạn."
+
+#: inc/aioseop_functions.php:922
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/aioseop_functions.php:928
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/aioseop_functions.php:931
+msgid "Facebook"
+msgstr "Facebook"
+
+#: modules/aioseop_importer_exporter.php:21
+msgid "Select a valid All in One SEO Pack ini file and click 'Import' to import options from a previous state or install of All in One SEO Pack.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Chọn một tập tin ini giá trị trong Gói SEO Tất Cả Trong Một và nhấn 'Nhập' để nhập các tùy chọn từ một trạng thái trước đó hoặc từ cài đặt của Gói SEO Tất Cả Trong Một.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Nhấn vào đây cho tài liệu hướng dẫn trên cài đặt này</a>"
+
+#: modules/aioseop_importer_exporter.php:25
+msgid "You may choose to export settings from active modules, and content from post data.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Bạn có thể chọn để xuất các cài đặt từ module hoạt động và nội dung từ dữ liệu đăng.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Nhấn vào đây cho tài liệu hướng dẫn trên cài đặt này</a>"
+
+#: modules/aioseop_importer_exporter.php:29
+msgid "Select which Post Types you want to export your All in One SEO Pack meta data for.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Chọn Loại bài đăng bạn muốn để xuất dữ liệu meta Gói SEO Tất Cả Trong Một của bạn.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Nhấn vào đây cho tài liệu hướng dẫn trên cài đặt này</a>"
+
+#: modules/aioseop_importer_exporter.php:37
+#: modules/aioseop_importer_exporter.php:105
+msgid "Import"
+msgstr "Nhập"
+
+#: modules/aioseop_importer_exporter.php:43
+msgid "Export Settings"
+msgstr "Cài đặt xuất"
+
+#: modules/aioseop_importer_exporter.php:51
+msgid "Export Post Types:"
+msgstr "Xuất các loại bài đăng:"
+
+#: modules/aioseop_importer_exporter.php:115
+msgid "Export"
+msgstr "Xuất"
+
+#: modules/aioseop_importer_exporter.php:148
+msgid "There are no other modules currently loaded!"
+msgstr "Không có module khác hiện đã được tải!"
+
+#: modules/aioseop_importer_exporter.php:416
+msgid "<b>Warning:</b> Line not matched: <b>\"%s\"</b>, On Line: <b>%s</b>"
+msgstr "<b>Cảnh báo:</b> Dòng không khớp: <b>\"%s\"</b>, Trên dòng: <b>%s</b>"
+
+#: modules/aioseop_importer_exporter.php:465
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b>Cảnh báo:</b> Bài đăng sau không thể tìm thấy: <b>\"%s\"</b>"
+
+#: modules/aioseop_importer_exporter.php:513
+msgid "Settings export file for All in One SEO Pack"
+msgstr "Cài đặt xuất tập tin cho Gói SEO Tất Cả Trong Một"
+
+#: admin/aioseop_module_class.php:1408
+msgid "Click here for documentation on this setting"
+msgstr "Nhấn vào đây cho tài liệu trên cài đặt này"
+
+#: admin/aioseop_module_class.php:1914
+msgid " characters. Most search engines use a maximum of %s chars for the %s."
+msgstr "ký tự. Hầu hết các công cụ tìm kiếm sử dụng tối đa %s ký tự cho %s."
+
+#: admin/aioseop_module_class.php:1947
+msgid "Click for Help!"
+msgstr "Nhấn vào đây để được Giúp đỡ!"
+
+#: admin/aioseop_module_class.php:2143 modules/aioseop_sitemap.php:864
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "Kiểm tra an ninh - Nếu bạn nhận điều này lỗi, đăng xuất và trở lại WordPress"
+
+#: admin/aioseop_module_class.php:2146
+msgid "Options Reset."
+msgstr "Tuỳ Chọn thiết lập lại."
+
+#: admin/aioseop_module_class.php:2155
+msgid "All in One SEO Options Updated."
+msgstr "Tuỳ chọn SEO Tất Cả Trong Một đã cập nhật."
+
+#: admin/aioseop_module_class.php:2220
+msgid "Update Options"
+msgstr "Cập nhật các tuỳ chọn"
+
+#: modules/aioseop_opengraph.php:19
+msgid "Activity"
+msgstr "Hoạt động"
+
+#: modules/aioseop_opengraph.php:20
+msgid "Sport"
+msgstr "Thể thao"
+
+#: modules/aioseop_opengraph.php:23
+msgid "Bar"
+msgstr "Bar"
+
+#: modules/aioseop_opengraph.php:24
+msgid "Company"
+msgstr "Công ty"
+
+#: modules/aioseop_opengraph.php:25
+msgid "Cafe"
+msgstr "Cafe"
+
+#: modules/aioseop_opengraph.php:26
+msgid "Hotel"
+msgstr "Khách sạn"
+
+#: modules/aioseop_opengraph.php:27
+msgid "Restaurant"
+msgstr "Nhà hàng"
+
+#: modules/aioseop_opengraph.php:30
+msgid "Cause"
+msgstr "Nguyên nhân"
+
+#: modules/aioseop_opengraph.php:31
+msgid "Sports League"
+msgstr "Giải đấu thể thao"
+
+#: modules/aioseop_opengraph.php:32
+msgid "Sports Team"
+msgstr "Đội thể thao"
+
+#: modules/aioseop_opengraph.php:35
+msgid "Band"
+msgstr "Ban nhạc"
+
+#: modules/aioseop_opengraph.php:36
+msgid "Government"
+msgstr "Chính phủ"
+
+#: modules/aioseop_opengraph.php:37
+msgid "Non Profit"
+msgstr "Phi lợi nhuận"
+
+#: modules/aioseop_opengraph.php:38
+msgid "School"
+msgstr "Trường học"
+
+#: modules/aioseop_opengraph.php:39
+msgid "University"
+msgstr "Đại học"
+
+#: modules/aioseop_opengraph.php:42
+msgid "Actor"
+msgstr "Diễn viên"
+
+#: modules/aioseop_opengraph.php:43
+msgid "Athlete"
+msgstr "Vận động viên"
+
+#: modules/aioseop_opengraph.php:44
+msgid "Author"
+msgstr "Tác giả"
+
+#: modules/aioseop_opengraph.php:45
+msgid "Director"
+msgstr "Giám đốc"
+
+#: modules/aioseop_opengraph.php:46
+msgid "Musician"
+msgstr "Nhạc sĩ"
+
+#: modules/aioseop_opengraph.php:47
+msgid "Politician"
+msgstr "Chính trị gia"
+
+#: modules/aioseop_opengraph.php:48
+msgid "Profile"
+msgstr "Cá nhân"
+
+#: modules/aioseop_opengraph.php:49
+msgid "Public Figure"
+msgstr "Người nổi tiếng"
+
+#: modules/aioseop_opengraph.php:52
+msgid "City"
+msgstr "Thành phố"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Country"
+msgstr "Quốc gia"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Landmark"
+msgstr "Ranh giới"
+
+#: modules/aioseop_opengraph.php:55
+msgid "State Province"
+msgstr "Tỉnh"
+
+#: modules/aioseop_opengraph.php:58
+msgid "Album"
+msgstr "Album"
+
+#: modules/aioseop_opengraph.php:59
+msgid "Book"
+msgstr "Sách"
+
+#: modules/aioseop_opengraph.php:60
+msgid "Drink"
+msgstr "Nước uống"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Food"
+msgstr "Thức ăn"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Game"
+msgstr "Trò chơi"
+
+#: modules/aioseop_opengraph.php:63
+msgid "Movie"
+msgstr "Phim"
+
+#: modules/aioseop_opengraph.php:64
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: modules/aioseop_opengraph.php:65
+msgid "Song"
+msgstr "Bài hát"
+
+#: modules/aioseop_opengraph.php:66
+msgid "TV Show"
+msgstr "Chương trình TV"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Episode"
+msgstr "Tập"
+
+#: modules/aioseop_opengraph.php:70 modules/aioseop_opengraph.php:80
+msgid "Article"
+msgstr "Bài viết"
+
+#: modules/aioseop_opengraph.php:71 modules/aioseop_opengraph.php:78
+msgid "Blog"
+msgstr "Blog"
+
+#: modules/aioseop_opengraph.php:72 modules/aioseop_opengraph.php:79
+msgid "Website"
+msgstr "Trang web"
+
+#: modules/aioseop_opengraph.php:84
+msgid "Checking this box will use the Home Title and Home Description set in All in One SEO Pack, General Settings as the Open Graph title and description for your home page."
+msgstr "Đánh dấu hộp này sẽ sử dụng Tiêu đề Trang chủ và Miêu tả Trang chủ đặt trong Gói SEO Tất Cả Trong Một, Cài đặt chung như tiêu đề Đồ thị mở và miêu tả cho trang chủ của bạn."
+
+#: modules/aioseop_opengraph.php:87
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "Chạy các mã ngắn xuất hiện trong thẻ meta tiêu đề xã hội."
+
+#: modules/aioseop_opengraph.php:88
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "Chạy các mã ngắn xuất hiện trong thẻ meta miêu tả xã hội."
+
+#: modules/aioseop_opengraph.php:89
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "Tên trang là tên được sử dụng để xác định trang web của bạn."
+
+#: modules/aioseop_opengraph.php:90
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "Tiêu đề trang chủ là tiêu đề Đồ thị mở cho trang chủ của bạn."
+
+#: modules/aioseop_opengraph.php:91
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "Miêu tả trang chủ là miêu tả Đồ thị mở cho trang chủ của bạn."
+
+#: modules/aioseop_opengraph.php:92
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "Hình ảnh trang chủ là hình ảnh Đồ thị mở cho trang chủ của bạn."
+
+#: modules/aioseop_opengraph.php:93
+msgid "The Home Tag allows you to add a list of keywords that best describe your home page content."
+msgstr "Thẻ trang chủ cho phép bạn thêm danh sách từ khoá miêu tả tốt nhất nội dung trang chủ của bạn."
+
+#: modules/aioseop_opengraph.php:94
+msgid "Check this and your Open Graph descriptions will be auto-generated from your content."
+msgstr "Đánh dấu nó, miêu tả Đồ thị Mở của bạn sẽ được tự tạo từ nội dung của bạn."
+
+#: modules/aioseop_opengraph.php:95
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "Tuỳ chọn này cho phép bạn chọn hình ảnh nào sẽ được hiển thị theo mặc định cho hình ảnh Đồ thị mở. Bạn có thể ghi đề nó trên các bài đăng cá nhân."
+
+#: modules/aioseop_opengraph.php:96
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "Tuỳ chọn này cho phép bạn trở lại hình ảnh mặc định nếu không có hình ảnh nào được tìm thấy ở trên."
+
+#: modules/aioseop_opengraph.php:97
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "Tuỳ chọn này đặt một hình ảnh mặc định có thể được dùng cho hình ảnh Đồ thị mở. Bạn có thể tải một hình ảnh, chọn một hình ảnh từ Thư viện phương tiện của bạn hoặc dán URL hình ảnh tại đây."
+
+#: modules/aioseop_opengraph.php:98
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "Tuỳ chọn này cho phép bạn đặt chiều rộng mặc định cho hình ảnh của bạn, nơi không xác định."
+
+#: modules/aioseop_opengraph.php:99
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "Tuỳ chọn này cho phép bạn đặt chiều cao mặc định cho hình ảnh của bạn, nơi không xác định."
+
+#: modules/aioseop_opengraph.php:100
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "Nhập tên của một trường tuỳ chỉnh (hoặc tên nhiều trường được phân cách bởi dấu phẩy) để sử dụng trường này nhằm xác định hình ảnh Đồ thị mở trên các Trang hoặc Bài đăng."
+
+#: modules/aioseop_opengraph.php:101
+msgid "Set the Open Graph type for your website as either a blog or a website."
+msgstr "Thiết lập loại Đồ thị mở cho trang web của bạn cũng như blog hoặc một trang web. "
+
+#: modules/aioseop_opengraph.php:102
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "Tùy chọn này cho phép bạn chọn hình ảnh Đồ thị mở sẽ được sử dụng cho Trang hoặc Bài đăng này, ghi đè lên các thiết lập mặc định. "
+
+#: modules/aioseop_opengraph.php:103
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "Tùy chọn này cho phép bạn tải lên hình ảnh để sử dụng như hình ảnh Đồ thị mở cho Trang hoặc Bài đăng này."
+
+#: modules/aioseop_opengraph.php:104
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "Nhập chiều rộng cho hình ảnh Đồ thị mở của bạn bằng pixel (ví dụ 600)."
+
+#: modules/aioseop_opengraph.php:105
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "Nhập chiều cao cho hình ảnh Đồ thị mở của bạn bằng pixel (ví dụ 600)."
+
+#: modules/aioseop_opengraph.php:106
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "Tùy chọn này cho phép bạn chỉ định một liên kết đến video Đồ thị mở được sử dụng trên Trang hoặc Bài viết này."
+
+#: modules/aioseop_opengraph.php:107
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "Nhập chiều rộng của video Đồ thị mở của bạn bằng pixel (ví dụ 600)."
+
+#: modules/aioseop_opengraph.php:108
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "Nhập chiều cao của video Đồ thị mở của bạn bằng pixel (ví dụ 600)."
+
+#: modules/aioseop_opengraph.php:109 modules/aioseop_opengraph.php:110
+msgid "Select the default type of Twitter card to display."
+msgstr "Chọn loại mặc địch của thẻ Twitter để hiển thị."
+
+#: modules/aioseop_opengraph.php:111
+msgid "Enter the Twitter username associated with your website here."
+msgstr "Nhập tên đăng nhập Twitter liên kết với trang web của bạn tại đây."
+
+#: modules/aioseop_opengraph.php:112
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "Cho phép tác giả của bạn được xác định bởi tên đăng nhập Twitter của họ như là người tạo nội dung trên thẻ Twitter cho bài đăng của họ."
+
+#: modules/aioseop_opengraph.php:113
+msgid "Enter the name of your website here."
+msgstr "Nhập tên trang web của bạn tại đây."
+
+#: modules/aioseop_opengraph.php:115
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "Tạo tự động thẻ bài viết cho loại bài viết Facebook khi không được cung cấp."
+
+#: modules/aioseop_opengraph.php:116
+msgid "Use keywords in generated article tags."
+msgstr "Sử dụng từ khoá trong các thẻ bài viết đã tạo."
+
+#: modules/aioseop_opengraph.php:117
+msgid "Use catergories in generated article tags."
+msgstr "Sử dụng các chuyên mục trong các thẻ bài viết đã tạo."
+
+#: modules/aioseop_opengraph.php:118
+msgid "Use post tags in generated article tags."
+msgstr "Sử dụng các thẻ bài đăng trong các thẻ bài viết đã tạo."
+
+#: modules/aioseop_opengraph.php:119
+msgid "Select which Post Types you want to use All in One SEO Pack to set Open Graph meta values for."
+msgstr "Chọn Loại bài đăng nào bạn muốn sử dụng Gói SEO Tất Cả Trong Một để đặt giá trị thẻ Đồ Thị Mở."
+
+#: modules/aioseop_opengraph.php:120
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "Đây là tiêu đề Đồ Thị Mở của Trang hoặc Bài đăng này."
+
+#: modules/aioseop_opengraph.php:121
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "Đây là miêu tả Đồ Thị Mở của Trang hoặc Bài đăng này."
+
+#: modules/aioseop_opengraph.php:122
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "Chọn loại Đồ Thị mở miêu tả tốt nhất nhất nội dung của Trang hoặc Bài đăng này."
+
+#: modules/aioseop_opengraph.php:123
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "Nhấn nút này để nạp lại Facebook và gỡ lỗi trang này."
+
+#: modules/aioseop_opengraph.php:124
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "Meta Đồ thị mở này cho phép bạn thêm tên phần chung miêu tả tốt nhất nội dung này."
+
+#: modules/aioseop_opengraph.php:125
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "Meta Đồ thị mở này cho phép bạn thêm danh sách từ khoá miêu tả tốt nhất nội dung này."
+
+#: modules/aioseop_opengraph.php:126
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "Liên kết bài viết đến trang Facebook liên kết với trang web của bạn."
+
+#: modules/aioseop_opengraph.php:127
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "Cho phép tác giả của bạn được xác định bởi trang Facebook của họ như tác giả nội dung trên thẻ meta đồ thị mở cho bài viết của họ."
+
+#: modules/aioseop_opengraph.php:128
+msgid "Are the social profile links for your website for a person or an organization?"
+msgstr "Các liên kết hồ sơ xã hội cho trang web của bạn cho người hay tổ chức?"
+
+#: modules/aioseop_opengraph.php:129
+msgid "Add URLs for your website's social profiles here (Facebook, Twitter, Google+, Instagram, LinkedIn), one per line."
+msgstr "Thêm URL cho hồ sơ xã hội của trang web của bạn tại đây (Facebook, Twitter, Google+, Instagram, LinkedIn), mỗi URL một dòng."
+
+#: modules/aioseop_opengraph.php:130
+msgid "Add the name of the person or organization who owns these profiles."
+msgstr "Thêm tên người hoặc tổ chức sở hữu những hồ sơ này."
+
+#: modules/aioseop_opengraph.php:185
+msgid " characters. Open Graph allows up to a maximum of %s chars for the %s."
+msgstr "ký tự, Đồ thị mở cho phép tối đa %s ký tự cho %s."
+
+#: modules/aioseop_opengraph.php:188
+msgid "Scan Header"
+msgstr "Quét tiêu đề"
+
+#: modules/aioseop_opengraph.php:193
+msgid "Use AIOSEO Title and Description"
+msgstr "Sử dụng Tiêu đề và Mô tả AIOSEO "
+
+#: modules/aioseop_opengraph.php:206
+msgid "Run Shortcodes In Title"
+msgstr "Chạy mã ngắn trong Tiêu đề"
+
+#: modules/aioseop_opengraph.php:207
+msgid "Run Shortcodes In Description"
+msgstr "Chạy mã ngắn trong Miêu tả"
+
+#: modules/aioseop_opengraph.php:209
+msgid "Site Name"
+msgstr "Tên trang"
+
+#: modules/aioseop_opengraph.php:214
+msgid "Home Title"
+msgstr "Tiêu đề trang chủ"
+
+#: modules/aioseop_opengraph.php:226
+msgid "Home Description"
+msgstr "Miêu tả trang chủ"
+
+#: modules/aioseop_opengraph.php:238
+msgid "Home Image"
+msgstr "Hình ảnh trang chủ"
+
+#: modules/aioseop_opengraph.php:242
+msgid "Home Article Tags"
+msgstr "Thẻ bài viết trang chủ"
+
+#: modules/aioseop_opengraph.php:248
+msgid "Autogenerate OG Descriptions"
+msgstr "Tự động tạo miêu tả OG"
+
+#: modules/aioseop_opengraph.php:252
+msgid "Select OG:Image Source"
+msgstr "Chọn OG:Nguồn ảnh"
+
+#: modules/aioseop_opengraph.php:255
+msgid "Default Image"
+msgstr "Ảnh mặc định"
+
+#: modules/aioseop_opengraph.php:256
+msgid "Featured Image"
+msgstr "Ảnh chức năng cho bài viết"
+
+#: modules/aioseop_opengraph.php:257
+msgid "First Attached Image"
+msgstr "Hình ảnh được đính kèm đầu tiên"
+
+#: modules/aioseop_opengraph.php:258
+msgid "First Image In Content"
+msgstr "Hình ảnh đầu tiên trong nội dung"
+
+#: modules/aioseop_opengraph.php:259
+msgid "Image From Custom Field"
+msgstr "Hình ảnh từ trường tuỳ chỉnh"
+
+#: modules/aioseop_opengraph.php:260
+msgid "Post Author Image"
+msgstr "Ảnh tác giả bài đăng"
+
+#: modules/aioseop_opengraph.php:261
+msgid "First Available Image"
+msgstr "Ảnh khả dụng đầu tiên"
+
+#: modules/aioseop_opengraph.php:265
+msgid "Use Default If No Image Found"
+msgstr "Sử dụng mặc định nếu không tìm thấy hình ảnh nào"
+
+#: modules/aioseop_opengraph.php:269
+msgid "Default OG:Image"
+msgstr "Mặc định OG:Ảnh"
+
+#: modules/aioseop_opengraph.php:274
+msgid "Default Image Width"
+msgstr "Chiều rộng ảnh mặc định"
+
+#: modules/aioseop_opengraph.php:279
+msgid "Default Image Height"
+msgstr "Chiều cao ảnh mặc định"
+
+#: modules/aioseop_opengraph.php:284
+msgid "Use Custom Field For Image"
+msgstr "Sử dụng trường tuỳ chỉnh cho ảnh"
+
+#: modules/aioseop_opengraph.php:289 modules/aioseop_opengraph.php:415
+msgid "Facebook Object Type"
+msgstr "Loại đối tượng Facebook"
+
+#: modules/aioseop_opengraph.php:295
+msgid "Image"
+msgstr "Ảnh"
+
+#: modules/aioseop_opengraph.php:300
+msgid "Custom Image"
+msgstr "Tuỳ chỉnh ảnh"
+
+#: modules/aioseop_opengraph.php:304
+msgid "Specify Image Width"
+msgstr "Chỉ rõ chiều rộng ảnh"
+
+#: modules/aioseop_opengraph.php:309
+msgid "Specify Image Height"
+msgstr "Chỉ rõ chiều cao ảnh"
+
+#: modules/aioseop_opengraph.php:314
+msgid "Custom Video"
+msgstr "Tuỳ chỉnh video"
+
+#: modules/aioseop_opengraph.php:318
+msgid "Specify Video Width"
+msgstr "Chỉ rõ chiều rộng video"
+
+#: modules/aioseop_opengraph.php:330
+msgid "Specify Video Height"
+msgstr "Chỉ rõ chiều cao video"
+
+#: modules/aioseop_opengraph.php:342
+msgid "Default Twitter Card"
+msgstr "Thẻ Twitter mặc định"
+
+#: modules/aioseop_opengraph.php:345 modules/aioseop_opengraph.php:356
+msgid "Summary"
+msgstr "Tổng kết"
+
+#: modules/aioseop_opengraph.php:346 modules/aioseop_opengraph.php:355
+msgid "Summary Large Image"
+msgstr "Tổng kết ảnh lớn"
+
+#: modules/aioseop_opengraph.php:352
+msgid "Twitter Card Type"
+msgstr "Loại thẻ Twitter"
+
+#: modules/aioseop_opengraph.php:361
+msgid "Twitter Site"
+msgstr "Trang Twitter"
+
+#: modules/aioseop_opengraph.php:365
+msgid "Show Twitter Author"
+msgstr "Hiện tác giả Twitter"
+
+#: modules/aioseop_opengraph.php:367
+msgid "Twitter Domain"
+msgstr "Tên miền Twitter"
+
+#: modules/aioseop_opengraph.php:375
+msgid "Automatically Generate Article Tags"
+msgstr "Tạo tự động thẻ bài viết"
+
+#: modules/aioseop_opengraph.php:377
+msgid "Use Keywords In Article Tags"
+msgstr "Sử dụng từ khoá trong thẻ bài viết"
+
+#: modules/aioseop_opengraph.php:382
+msgid "Use Categories In Article Tags"
+msgstr "Sử dụng chuyên mục trong thẻ bài viết"
+
+#: modules/aioseop_opengraph.php:387
+msgid "Use Post Tags In Article Tags"
+msgstr "Sử dụng thẻ bài đăng trong thẻ bài viết"
+
+#: modules/aioseop_opengraph.php:392
+msgid "Enable Facebook Meta for"
+msgstr "Kích hoạt Meta Facebook cho"
+
+#: modules/aioseop_opengraph.php:422
+msgid "Facebook Debug"
+msgstr "Gỡ lỗi Facebook"
+
+#: modules/aioseop_opengraph.php:437
+msgid "Debug This Post"
+msgstr "Gỡ lỗi bài đăng này"
+
+#: modules/aioseop_opengraph.php:442
+msgid "Article Section"
+msgstr "Phần bài viết"
+
+#: modules/aioseop_opengraph.php:448
+msgid "Article Tags"
+msgstr "Thẻ bài viết"
+
+#: modules/aioseop_opengraph.php:454
+msgid "Show Facebook Publisher on Articles"
+msgstr "Hiển thị Facebook Publisher trên các bài viết"
+
+#: modules/aioseop_opengraph.php:458
+msgid "Show Facebook Author on Articles"
+msgstr "Hiển thị Facebook Author trên các bài viết"
+
+#: modules/aioseop_opengraph.php:460 modules/aioseop_opengraph.php:572
+msgid "Social Profile Links"
+msgstr "Liên kết hồ sơ xã hội"
+
+#: modules/aioseop_opengraph.php:466
+msgid "Person or Organization?"
+msgstr "Cá nhân hay tổ chức?"
+
+#: modules/aioseop_opengraph.php:469
+msgid "Person"
+msgstr "Cá nhân"
+
+#: modules/aioseop_opengraph.php:470
+msgid "Organization"
+msgstr "Tổ chức"
+
+#: modules/aioseop_opengraph.php:474
+msgid "Associated Name"
+msgstr "Tên liên kết"
+
+#: modules/aioseop_opengraph.php:530
+msgid "Social Settings"
+msgstr "Cài đặt xã hội"
+
+#: modules/aioseop_opengraph.php:567
+msgid "Image Settings"
+msgstr "Cài đặt ảnh"
+
+#: modules/aioseop_opengraph.php:577
+msgid "Facebook Settings"
+msgstr "Cài đặt Facebook"
+
+#: modules/aioseop_opengraph.php:593
+msgid "Twitter Settings"
+msgstr "Cài đặt Twitter"
+
+#: modules/aioseop_opengraph.php:598
+msgid "Scan Social Meta"
+msgstr "Quét Meta xã hội"
+
+#: modules/aioseop_opengraph.php:632
+msgid "Static front page detected, suggested Facebook Object Type is 'website'."
+msgstr "Đã phát hiện trang chủ tĩnh, đề nghị Loại đối tượng Facebook là 'trang web'."
+
+#: modules/aioseop_opengraph.php:637
+msgid "Blog on front page detected, suggested Facebook Object Type is 'blog'."
+msgstr "Đã phát hiện blog trên trang đầu, đề nghị Loại đối tượng Facebook là 'blog'"
+
+#: modules/aioseop_opengraph.php:689
+msgid "Default "
+msgstr "Mặc định"
+
+#: modules/aioseop_opengraph.php:756
+msgid "Scan Now"
+msgstr "Quét ngay"
+
+#: modules/aioseop_opengraph.php:757
+msgid "Scan your site for duplicate social meta tags."
+msgstr "Quét những thẻ meta xã hội trùng lắp trên trang của bạn."
+
+#: modules/aioseop_opengraph.php:1275
+msgid "Object Type"
+msgstr "Loại đối tượng"
+
+#: modules/aioseop_opengraph.php:1282
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "Chọn một giá trị mặc định miêu tả tốt nhất nội dung loại bài đăng của bạn."
+
+#: modules/aioseop_performance.php:21
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "Cài đặt này cho phép bạn tăng giới hạn bộ nhớ PHP đến một giá trị hợp lý. Lưu ý: Lõi WordPress và plugin WordPress cũng có thể thay đổi giá trị giới hạn bộ nhớ."
+
+#: modules/aioseop_performance.php:22
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "Cài đặt này cho phép bạn tăng thời gian thi hành PHP của bạn đến một giá trị hợp lý."
+
+#: modules/aioseop_performance.php:23
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "Sử dụng bộ đệm đầu ra để đảm bảo rằng tiêu đề được viết lại. Kích hoạt tuỳ chọn này nếu bạn gặp vấn đề với thẻ tiêu đề được thiết lập bởi chủ đề của bạn hoặc plugin khác."
+
+#: modules/aioseop_performance.php:28
+msgid "Raise memory limit"
+msgstr "Tăng giới hạn bộ nhớ"
+
+#: modules/aioseop_performance.php:32 modules/aioseop_performance.php:44
+msgid "Use the system default"
+msgstr "Sử dụng mặc định hệ thống"
+
+#: modules/aioseop_performance.php:40
+msgid "Raise execution time"
+msgstr "Tăng thời gian thi hành"
+
+#: modules/aioseop_performance.php:49
+msgid "No limit"
+msgstr "Không giới hạn"
+
+#: modules/aioseop_performance.php:86
+msgid "System Status"
+msgstr "Trạng thái hệ thống"
+
+#: modules/aioseop_performance.php:170
+msgid "Not set"
+msgstr "Không thiết lập"
+
+#: modules/aioseop_performance.php:173 modules/aioseop_performance.php:178
+msgid "On"
+msgstr "Bật"
+
+#: modules/aioseop_performance.php:175 modules/aioseop_performance.php:180
+msgid "Off"
+msgstr "Tắt"
+
+#: modules/aioseop_performance.php:185 modules/aioseop_performance.php:190
+#: modules/aioseop_performance.php:195 modules/aioseop_performance.php:200
+#: modules/aioseop_performance.php:205 modules/aioseop_performance.php:233
+msgid "N/A"
+msgstr "N/A"
+
+#: modules/aioseop_performance.php:203
+msgid " MByte"
+msgstr "MByte"
+
+#: modules/aioseop_performance.php:208 modules/aioseop_performance.php:213
+#: modules/aioseop_performance.php:218 modules/aioseop_performance.php:227
+msgid "Yes"
+msgstr "Có"
+
+#: modules/aioseop_performance.php:241
+msgid "Operating System"
+msgstr "Hệ điều hành"
+
+#: modules/aioseop_performance.php:242
+msgid "Server"
+msgstr "Máy chủ"
+
+#: modules/aioseop_performance.php:243
+msgid "Memory usage"
+msgstr "Bộ nhớ sử dụng"
+
+#: modules/aioseop_performance.php:244
+msgid "MYSQL Version"
+msgstr "Phiên bản MYSQL"
+
+#: modules/aioseop_performance.php:245
+msgid "SQL Mode"
+msgstr "Chế độ SQL"
+
+#: modules/aioseop_performance.php:246
+msgid "PHP Version"
+msgstr "Phiên bản PHP"
+
+#: modules/aioseop_performance.php:247
+msgid "PHP Safe Mode"
+msgstr "Chế độ an toàn PHP"
+
+#: modules/aioseop_performance.php:248
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: modules/aioseop_performance.php:249
+msgid "PHP Memory Limit"
+msgstr "Giới hạn bộ nhớ PHP"
+
+#: modules/aioseop_performance.php:250
+msgid "PHP Max Upload Size"
+msgstr "Kích thước tải lên tối đa PHP"
+
+#: modules/aioseop_performance.php:251
+msgid "PHP Max Post Size"
+msgstr "Kích thước bài đăng tối đa PHP"
+
+#: modules/aioseop_performance.php:252
+msgid "PHP Max Script Execute Time"
+msgstr "Thời gian thi hành tập lệnh tối đa PHP"
+
+#: modules/aioseop_performance.php:253
+msgid "PHP Exif support"
+msgstr "Hỗ trợ PHP Exif"
+
+#: modules/aioseop_performance.php:254
+msgid "PHP IPTC support"
+msgstr "Hỗ trợ PHP IPTC"
+
+#: modules/aioseop_performance.php:255
+msgid "PHP XML support"
+msgstr "Hỗ trợ PHP XML"
+
+#: modules/aioseop_performance.php:256
+msgid "Site URL"
+msgstr "URL trang"
+
+#: modules/aioseop_performance.php:257
+msgid "Home URL"
+msgstr "URL trang chủ"
+
+#: modules/aioseop_performance.php:258
+msgid "WordPress Version"
+msgstr "Phiên bản WordPress"
+
+#: modules/aioseop_performance.php:259
+msgid "WordPress DB Version"
+msgstr "Phiên bản WordPress DB"
+
+#: modules/aioseop_performance.php:260
+msgid "Multisite"
+msgstr "Nhiều trang"
+
+#: modules/aioseop_performance.php:261
+msgid "Active Theme"
+msgstr "Chủ đề hoạt động"
+
+#: modules/aioseop_performance.php:276
+msgid "All in One SEO Pack Pro Debug Info"
+msgstr "Thông tin gỡ lỗi Gói SEO Tất Cả Trong Một Pro"
+
+#: modules/aioseop_performance.php:294
+msgid "Form submission error: verification check failed."
+msgstr "Lỗi gửi mẫu: kiểm tra xác thực không thành công."
+
+#: modules/aioseop_performance.php:308
+msgid "SFWD Debug Mail From Site %s."
+msgstr "Gỡ lỗi mail SFWD từ trang %s."
+
+#: modules/aioseop_performance.php:309
+msgid "Sent to %s."
+msgstr "Gửi đến %s."
+
+#: modules/aioseop_performance.php:311
+msgid "Failed to send to %s."
+msgstr "Thất bại khi gửi đến %s."
+
+#: modules/aioseop_performance.php:314
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "Lỗi: vui lòng nhập một địa chỉ email trước khi gửi."
+
+#: modules/aioseop_performance.php:320
+msgid "E-mail debug information"
+msgstr "Thông tin gỡ lỗi email"
+
+#: modules/aioseop_performance.php:321
+msgid "Submit"
+msgstr "Gửi"
+
+#: modules/aioseop_robots.php:18 modules/aioseop_robots.php:32
+msgid "Rule Type"
+msgstr "Loại quy tắc"
+
+#: modules/aioseop_robots.php:19 modules/aioseop_robots.php:38
+msgid "User Agent"
+msgstr "Đại lý người dùng"
+
+#: modules/aioseop_robots.php:20 modules/aioseop_robots.php:43
+msgid "Directory Path"
+msgstr "Đường dẫn thư mục"
+
+#: modules/aioseop_robots.php:28
+msgid "Use the rule builder below to add rules to create a new Robots.txt file.  If you already have a Robots.txt file you should use the File Editor feature in All in One SEO Pack to edit it or you can delete your current Robots.txt file and start a new one with the rule builder below."
+msgstr "Sử dụng công cụ xây dựng quy tắc dưới đây để thêm các quy tắc nhằm tạo ra tập tin Robots.txt mới. Nếu bạn đã có một tập tin Robots.txt, bạn nên sử dụng tính năng Trình sửa Tập tin trong Gói SEO Tất Cả Trong Một để chỉnh sửa hoặc bạn có thể xóa tập tin Robots.txt hiện tại của bạn và bắt đầu một tập tin mới với công cụ xây dựng quy tắc dưới đây."
+
+#: modules/aioseop_robots.php:48
+msgid "Generate Robots.txt"
+msgstr "Tạo Robots.txt"
+
+#: modules/aioseop_robots.php:60
+msgid "Add Rule"
+msgstr "Thêm Quy tắc"
+
+#: modules/aioseop_robots.php:66
+msgid "Save Robots.txt File"
+msgstr "Lưu tập tin Robots.txt"
+
+#: modules/aioseop_robots.php:72
+msgid "Delete Robots.txt File"
+msgstr "Xoá tập tin Robots.txt"
+
+#: modules/aioseop_robots.php:78
+msgid "Click the Optimize button below and All in One SEO Pack will analyze your Robots.txt file to make sure it complies with the standards for Robots.txt files.  The results will be displayed in a table below."
+msgstr "Nhấn nút Tối ưu hoá bên dưới và Gói SEO Tất Cả Trong Một sẽ phân tích tập tin Robots.txt của bạn để đảm bảo nó phù hợp với các tiêu chuẩn cho tập tin Robots.txt. Kết quả sẽ được hiển thị trong bảng dưới đây."
+
+#: modules/aioseop_robots.php:84
+msgid "Update Robots.txt File"
+msgstr "Cập nhật Tập tin Robots.txt"
+
+#: modules/aioseop_robots.php:91
+msgid "Disregard Changes"
+msgstr "Bỏ qua các thay đổi"
+
+#: modules/aioseop_robots.php:97
+msgid "Optimize"
+msgstr "Tối ưu hoá"
+
+#: modules/aioseop_robots.php:130
+msgid "Create a Robots.txt File"
+msgstr "Tạo tập tin Robots.txt"
+
+#: modules/aioseop_robots.php:144
+msgid "Optimize your Robots.txt File"
+msgstr "Tối ưu hoá tập tin Robots.txt của bạn"
+
+#: modules/aioseop_robots.php:154
+msgid "Your Robots.txt file has been optimized.  Here are the results and recommendations.  Click the Update Robots.txt File button below to write these changes to your Robots.txt file.  Click the Disregard Changes button to ignore these recommendations and keep your current Robots.txt file."
+msgstr "Tập tin Robots.txt của bạn đã được tối ưu hoá. Đây là kết quả và khuyến nghị. Nhấn nút Cập nhật tập tin Robots.txxt bên dưới để viết những thay đổi này vào tập tin Robots.txt của bạn. Nhấn nút Bỏ qua các thay đổi để bỏ qua những khuyến nghị này và giữ tập tin Robots.txt hiện tại của bạn."
+
+#: modules/aioseop_robots.php:299 modules/aioseop_robots.php:301
+msgid "Current File"
+msgstr "Tập tin hiện tại"
+
+#: modules/aioseop_robots.php:299
+msgid "Proposed Changes"
+msgstr "Các thay đổi được đề xuất"
+
+#: modules/aioseop_robots.php:358
+msgid "Legend"
+msgstr "Chú giải"
+
+#: modules/aioseop_robots.php:360
+msgid "The yellow indicator means that a non-standard extension was recognized; not all crawlers may recognize it or interpret it the same way. The Allow and Sitemap directives are commonly used by Google and Yahoo."
+msgstr "Chỉ thị màu vàng nghĩa là phần mở rộng không theo chuẩn đã được công nhận; không phải tất cả trình thu thập có thể nhận ra hoặc giải thích nó theo cùng một cách. Chỉ dẫn Cho phép và Sơ đồ trang thường được sử dụng bởi Google và Yahoo."
+
+#: modules/aioseop_robots.php:361
+msgid "The red indicator means that the syntax is invalid for a robots.txt file."
+msgstr "Chỉ thị màu đỏ nghĩa là cú pháp cho một tập tin robots.txt không hợp lệ."
+
+#: modules/aioseop_robots.php:363
+msgid "More Information"
+msgstr "Thêm thông tin"
+
+#: modules/aioseop_sitemap.php:31
+msgid "XML Sitemap"
+msgstr "Sơ đồ trang XML"
+
+#: modules/aioseop_sitemap.php:41
+msgid "Specifies the name of your sitemap file. This will default to 'sitemap'."
+msgstr "Ghi rõ tên tập tin Sơ đồ trang của bạn. Tên sẽ mặc định là 'sơ đồ trang;."
+
+#: modules/aioseop_sitemap.php:42
+msgid "Notify Google when you update your sitemap settings."
+msgstr "Thông báo Google khi bạn cập nhật cài đặt sơ đồ trang của bạn."
+
+#: modules/aioseop_sitemap.php:43
+msgid "Notify Bing when you update your sitemap settings."
+msgstr "Thông báo Bing khi bạn cập nhật cài đặt sơ đồ trang của bạn."
+
+#: modules/aioseop_sitemap.php:45
+msgid "Organize sitemap entries into distinct files in your sitemap. Enable this only if your sitemap contains over 50,000 URLs or the file is over 5MB in size."
+msgstr "Tổ chức các mục sơ đồ trang vào các tập tin riêng biệt trong sơ đồ trang của bạn. Kích hoạt tính năng này chỉ khi sơ đồ trang của bạn chứa hơn 50.000 URL hoặc tập tin vượt quá kích thước 5MB."
+
+#: modules/aioseop_sitemap.php:46
+msgid "Split long sitemaps into separate files."
+msgstr "Chia các sơ đồ trang dài thành các tập tin riêng biệt"
+
+#: modules/aioseop_sitemap.php:47
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Cho phép bạn chỉ định số bài đăng tối đa trong một sơ đồ trang (lên đến 50.000)."
+
+#: modules/aioseop_sitemap.php:48
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Chọn Loại Bài Đăng xuất hiện trong sơ đồ trang của bạn."
+
+#: modules/aioseop_sitemap.php:49
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "Chọn tài liệu lưu trữ phân loại xuất hiện trong sơ đồ trang của bạn"
+
+#: modules/aioseop_sitemap.php:50
+msgid "Include Date Archives in your sitemap."
+msgstr "Bao gồm Ngày Lưu Trữ trong sơ đồ trang của bạn."
+
+#: modules/aioseop_sitemap.php:51
+msgid "Include Author Archives in your sitemap."
+msgstr "Bao gồm Tác Giả Lưu Trữ trong sơ đồ trang của bạn."
+
+#: modules/aioseop_sitemap.php:52
+msgid "Create a compressed sitemap file in .xml.gz format."
+msgstr "Tạo một tập tin sơ đồ trang nén trong định dạng .xml.gz"
+
+#: modules/aioseop_sitemap.php:53
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "Đặt một liên kết đến Sitemap.xml của bạn trong tập tin Robots.txt ảo."
+
+#: aioseop_class.php:170
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - Đường dẫn URL gốc, ví dụ \"/url-that-does-not-exist/\""
+
+#: aioseop_class.php:171
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - Đường dẫn URL trong mẫu có thể đọc được, như \"Url Không Tồn Tại\""
+
+#: aioseop_class.php:172
+msgid "%404_title% - Additional 404 title input\""
+msgstr "%404_title% - Đầu vào tiêu đề 404 bổ sung\""
+
+#: aioseop_class.php:173
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "Chuỗi này được gắn/thêm vào phía trước tiêu đề của trang chỉ mục đánh số (như trang chủ hoặc trang lưu trữ)."
+
+#: aioseop_class.php:174 aioseop_class.php:3201 aioseop_class.php:3253
+msgid "The following macros are supported:"
+msgstr "Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:175
+msgid "%page% - The page number"
+msgstr "%page% - Số trang"
+
+#: aioseop_class.php:176
+msgid "Check this if you want to use All in One SEO Pack with any Custom Post Types on this site."
+msgstr "Đánh dấu nếu bạn muốn sử dụng Gói SEO Tất Cả Trong Một với bất kỳ Loại bài đăng tuỳ chình nào trên trang này."
+
+#: aioseop_class.php:177
+msgid "This will show or hide the advanced options for SEO for Custom Post Types."
+msgstr "Điều này sẽ hiện hoặc ẩn các tuỳ chọn nâng cao cho SEO các loại bài đăng tuỳ chỉnh."
+
+#: aioseop_class.php:178
+msgid "Use these checkboxes to select which Post Types you want to use All in One SEO Pack with."
+msgstr "Sử dụng các hộp đánh dấu này để chọn Loại bài đăng bạn muốn sử dụng Gói SEO Tất Cả Trong Một."
+
+#: aioseop_class.php:180
+msgid "This allows you to set the title tags for each Custom Post Type."
+msgstr "Điều này cho phép bạn thiết lập các thẻ tiêu đề cho mỗi Loại bài đăng tuỳ chỉnh."
+
+#: aioseop_class.php:181
+msgid "This lets you select which screens display the SEO Title, SEO Keywords and SEO Description columns."
+msgstr "Điều này cho phép bạn chọn màn hình hiển thị cột Tiêu đề SEO, Từ khoá SEO và Miêu tả SEO."
+
+#: aioseop_class.php:182
+msgid "Check this to add All in One SEO Pack to the Admin Bar for easy access to your SEO settings."
+msgstr "Đánh dấu để thêm Gói SEO Tất Cả Trong Một vào Thanh quản trị để dễ dàng truy cập cài đặt SEO của bạn."
+
+#: aioseop_class.php:183
+msgid "Check this to move the All in One SEO Pack menu item to the top of your WordPress Dashboard menu."
+msgstr "Đánh dấu để di chuyển mục menu Gói SEO Tất Cả Trong Một đến vị trí trên đầu menu Bảng điều khiển WordPress của bạn."
+
+#: aioseop_class.php:184
+msgid "Enter your verification code here to verify your site with Google Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Nhập mã xác thực của bạn tại đây để xác thực trang của bạn với Công cụ Google Webmaster.<br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Nhấn vào đây cho tài liệu hướng dẫn trên cài đặt này</a>"
+
+#: aioseop_class.php:185
+msgid "Enter your verification code here to verify your site with Bing Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Nhập mã xác thực của bạn tại đây để xác thực trang của bạn với Công cụ Bing Webmaster..<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Nhấn vào đây cho tài liệu hướng dẫn trên cài đặt này</a>"
+
+#: aioseop_class.php:186
+msgid "Enter your verification code here to verify your site with Pinterest.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Nhập mã xác thực của bạn tại đây để xác thực trang của bạn với Pinterest.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Nhấn vào đây cho tài liệu hướng dẫn trên cài đặt này</a>"
+
+#: aioseop_class.php:187
+msgid "Enter your Google+ Profile URL here to add the rel=“author” tag to your site for Google authorship. It is recommended that the URL you enter here should be your personal Google+ profile.  Use the Advanced Authorship Options below if you want greater control over the use of authorship."
+msgstr "Nhập URL Hồ sơ Google+ của bạn tại đây để thêm thẻ rel=“author” vào trang của bạn cho tác quyền Google. Khuyến nghị rằng URL bạn nhập tại đây nên là hồ sơ cá nhân Google+ của bạn. Sử dụng Tuỳ chọn Tác quyền nâng cao dưới dây nếu bạn muốn kiểm soát tốt hơn việc sử dụng tác quyền."
+
+#: aioseop_class.php:188
+msgid "Check this to remove the Google Plus field from the user profile screen."
+msgstr "Đánh dấu để loại bỏ trường Google Plus từ màn hình hồ sơ người dùng."
+
+#: aioseop_class.php:189
+msgid "Enable this to display advanced options for controlling Google Plus authorship information on your website."
+msgstr "Kích hoạt để hiển thị các tuỳ chọ nâng cao cho việc kiểm soát thông tin tác quyền Google Plus trên trang web của bạn."
+
+#: aioseop_class.php:193
+msgid "Add markup to display the Google Sitelinks Search Box next to your search results in Google."
+msgstr "Thêm đoạn trích để hiển thị Hộp Tìm Kiếm Liên kết trang Google bên cạnh kết quả tìm kiếm của bạn trong Google."
+
+#: aioseop_class.php:194
+msgid "Add markup to tell Google the preferred name for your website."
+msgstr "Thêm đoạn trích để báo với Google tên ưa thích cho trang web của bạn."
+
+#: aioseop_class.php:195
+msgid "Press the connect button to connect with Google Analytics; or if already connected, press the disconnect button to disable and remove any stored analytics credentials."
+msgstr "Ấn nút kết nối để kết nối với Google Analytics; hoặc nếu đã kết nối, nhấn nút ngắt kết nối để ngưng hoặc xoá bất kỳ thông tin phân tích đã lưu nào."
+
+#: aioseop_class.php:196
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "Nhập Google Analytics ID của bạn tại đây để theo dõi hành vi khách ghé thăm trên trang của bạn thông qua sử dụng Google Analytics."
+
+#: aioseop_class.php:197
+msgid "Use the new Universal Analytics tracking code for Google Analytics."
+msgstr "Sử dụng mã theo dõi Universal Analytics mới cho Google Analytics."
+
+#: aioseop_class.php:198
+msgid "Check to use advanced Google Analytics options."
+msgstr "Đánh dấu để sử dụng tuỳ chọn Google Analytics nâng cao."
+
+#: aioseop_class.php:199
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "Nhập tên miền của bạn không chứa http:// để đặt tên miền cookie."
+
+#: aioseop_class.php:200
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "Sử dụng tuỳ chọn này để kích hoạt theo dõi nhiều tên miền hoặc tên miền bổ sung."
+
+#: aioseop_class.php:201
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "Thêm danh sách tên miền bổ sung để theo dõi tại đây. Nhập một tên miền mỗi dòng và không chứa http://."
+
+#: aioseop_class.php:202
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "Kích hoạt hỗ trợ cho IP Ẩn danh trong Google Analytics."
+
+#: aioseop_class.php:203
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "Kích hoạt hỗ trợ cho Tính năng nhà quảng cáo hiển thị trong Google Analytics."
+
+#: aioseop_class.php:204
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "Loại trừ người dùng đã đăng nhập khỏi theo dõi Google Analytics bằng quy tắc."
+
+#: aioseop_class.php:205
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "Đánh dấu nếu bạn muốn theo dõi liên kết outbound với Google Analytics."
+
+#: aioseop_class.php:206
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "Kích hoạt hỗ trợ cho Thuộc tính liên kết tăng cường trong Google Analytics"
+
+#: aioseop_class.php:207
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "Kích hoạt hỗ trợ cho Thương mại điện tử tăng cường trong Google Analytics."
+
+#: aioseop_class.php:208
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "Thiết lập cài đặt KHÔNG CHỈ MỤC mặc định cho mọi Loại bài đăng."
+
+#: aioseop_class.php:209
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "Thiết lập cài đặt KHÔNG THEO DÕI mặc định cho mọi Loại bài đăng."
+
+#: aioseop_class.php:211
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "Đánh dấu để yêu cầu các công cụ tìm kiếm không lập chỉ mục Chuyên mục lưu trữ. Hữu ích cho việc tránh các nội dung trùng lặp."
+
+#: aioseop_class.php:212
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "Đánh dấu để yêu cầu các công cụ tìm kiếm không lập chỉ mục Ngày lưu trữ. Hữu ích cho việc tránh các nội dung trùng lặp."
+
+#: aioseop_class.php:213
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "Đánh dấu để yêu cầu các công cụ tìm kiếm không lập chỉ mục Tác giả lưu trữ. Hữu ích cho việc tránh các nội dung trùng lặp."
+
+#: aioseop_class.php:214
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "Đánh dấu để yêu cầu các công cụ tìm kiếm không lập chỉ mục Thẻ lưu trữ. Hữu ích cho việc tránh các nội dung trùng lặp."
+
+#: aioseop_class.php:215
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "Đánh dấu để yêu cầu các công cụ tìm kiếm không lập chỉ mục Trang tìm kiếm. Hữu ích cho việc tránh các nội dung trùng lặp."
+
+#: aioseop_class.php:216
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "Đánh dấu để yêu cầu các công cụ tìm kiếm không lập chỉ mục Trang 404."
+
+#: aioseop_class.php:217
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "Đánh dấu để yêu cầu các công cụ tìm kiếm không lập chỉ mục Phân loại trang lưu trữ tuỳ chỉnh. Hữu ích cho việc tránh các nội dung trùng lặp."
+
+#: aioseop_class.php:218
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Đánh dấu để yêu cầu các công cụ tìm kiếm không lập chỉ mục các trang/bài đăng đã phân trang. Hữu ích cho việc tránh các nội dung trùng lặp."
+
+#: aioseop_class.php:219
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Đánh dấu để yêu cầu các công cụ tìm kiếm không theo dõi các liên kết từ các trang/bài đăng đã phân trang. Hữu ích cho việc tránh các nội dung trùng lặp."
+
+#: aioseop_class.php:220
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for your entire site."
+msgstr "Đánh dấu hộp này để yêu cầu các công cụ tìm kiếm không sử dụng miêu tả từ Dự án Thư mục Mở cho toàn bộ trang của bạn."
+
+#: aioseop_class.php:221
+msgid "Set the default noodp setting for each Post Type."
+msgstr "Đặt cài đặt không odp mặc định cho mọi Loại bài đăng."
+
+#: aioseop_class.php:222
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for your entire site."
+msgstr "Đánh dấu hộp này để yêu cầu Yahoo! không sử dụng miêu tả từ Yahoo! directory cho toàn bộ trang của bạn."
+
+#: aioseop_class.php:223
+msgid "Set the default noydir setting for each Post Type."
+msgstr "Đặt cài đặt mặc định không ydir cho mọi Loại bài đăng."
+
+#: aioseop_class.php:224
+msgid "Check this and your Meta Descriptions won't be generated from the excerpt."
+msgstr "Đánh dấu để Miêu tả Meta của bạn không được tạo từ đoạn trích."
+
+#: aioseop_class.php:225
+msgid "Check this and your Meta Descriptions will be auto-generated from your excerpt or content."
+msgstr "Đánh dấu để Miêu tả Meta của bạn được tự động tạo từ đoạn trích hoặc nội dung của bạn."
+
+#: aioseop_class.php:226
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "Đánh dấu để các mã ngắn được thực hiện cho miêu tả tự tạo từ nội dung."
+
+#: aioseop_class.php:227
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "Đánh dấu để Miêu tả Meta của bạn được loại bỏ từ trang 2 hoặc tiếp sau của nội dung đã phân trang."
+
+#: aioseop_class.php:228
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "Đánh dấu để ngăn chặn Miêu tả của bạn không bị rút ngắn bất kể độ dài."
+
+#: aioseop_class.php:229
+msgid "Check this to support Schema.org markup, i.e., itemprop on supported metadata."
+msgstr "Đánh dấu để hỗ trợ đánh dấu Schema.org, ví dụ: itemprop trên metadata được hỗ trợ."
+
+#: aioseop_class.php:230
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "Đánh dấu để ngưng bảo vệ các trường postmeta nội bộ sử dụng với XMLRPC. Nếu bạn không biết đó là gì, vui lòng không đánh dấu nó."
+
+#: aioseop_class.php:233
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Những gì bạn nhập tại đây sẽ được sao chép nguyên văn đến phần đầu trang của tất cả các bài đăng. Bạn có thể nhập bất cứ phần đầu trang bổ sung nào bạn muốn tại đây, thậm chí tham chiếu bảng mẫu."
+
+#: aioseop_class.php:234
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Những gì bạn nhập tại đây sẽ được sao chép nguyên văn đến phần đầu trang của tất cả các trang. Bạn có thể nhập bất cứ phần đầu trang bổ sung nào bạn muốn tại đây, thậm chí tham chiếu bảng mẫu."
+
+#: aioseop_class.php:235
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "Nếu bạn đặt một trang tĩnh trong phần Cài đặt, Đọc, Hiển thị Trang đầu thì những gì bạn nhập tại đây sẽ được sao chép nguyên văn đến phần đầu trang của trang chủ. Bạn có thể nhập bất cứ phần đầu trang bổ sung nào bạn muốn tại đây, thậm chí tham chiếu bảng mẫu. Nó sẽ sử dụng lại Phần đầu trang bổ sung nếu bạn đã thiết lập và không nhập vào đây điều gì."
+
+#: aioseop_class.php:236
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Nếu trang chủ hiển thị bài đăng mới nhất đã chọn trong phần Cài đặt, Đọc thì những gì bạn nhập tại đây sẽ được sao chép nguyên văn đến phần đầu trang của trang chủ. Nó cũng sẽ được sao chép nguyên văn đến phần đầu trang trên trang bài đăng nếu bạn đã thiết lập trong phần Cài đặt, Đọc. Bạn có thể nhập bất cứ phần đầu trang bổ sung nào bạn muốn tại đây, thậm chí tham chiếu bảng mẫu."
+
+#: aioseop_class.php:331
+msgid "A preview of what this page might look like in search engine results."
+msgstr "Xem trước trang này trong các kết quả bộ máy tìm kiếm."
+
+#: aioseop_class.php:332
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "Tiêu đề tuỳ chỉnh xuất hiện trong thẻ tiêu đề cho trang này."
+
+#: aioseop_class.php:333
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "Miêu tả META cho trang này. Nó sẽ ghi đè bất kỳ miêu tả tự tạo nào."
+
+#: aioseop_class.php:334
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "Danh sách các từ khoá quan trọng nhất cho trang này phân cách nhau bởi dấu phẩy, được viết như từ khoá META."
+
+#: aioseop_class.php:335
+msgid "Override the canonical URLs for this post."
+msgstr "Ghi đè URL hợp quy cho bài đăng này."
+
+#: aioseop_class.php:336
+msgid "Check this box to ask search engines not to index this page."
+msgstr "Đánh dấu hộp này để yêu cầu các công cụ tìm kiếm không lập chỉ mục trang này."
+
+#: aioseop_class.php:337
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "Đánh dấu hộp này để yêu cầu các công cụ tìm kiếm không theo dõi các liên kết từ trang này."
+
+#: aioseop_class.php:338
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for this page."
+msgstr "Đánh dấu hộp này để yêu cầu các công cụ tìm kiếm không sử dụng miêu tả từ Dự án Thư mục Mở cho trang này."
+
+#: aioseop_class.php:339
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for this page."
+msgstr "Đánh dấu hộp này để yêu cầu Yahoo! không sử dụng miêu tả từ Yahoo! directory cho trang này."
+
+#: aioseop_class.php:340
+msgid "Set the title attribute for menu links."
+msgstr "Đặt thuộc tính tiêu đề cho các liên kết menu."
+
+#: aioseop_class.php:341
+msgid "Set the label for this page menu item."
+msgstr "Đặt nhãn cho mục menu trang này."
+
+#: aioseop_class.php:342
+msgid "Don't display this page in the sitemap."
+msgstr "Không hiển thị trang này trong sơ đồ trang."
+
+#: aioseop_class.php:343
+msgid "Disable SEO on this page."
+msgstr "Vô hiệu hoá SEO trên trang này"
+
+#: aioseop_class.php:344
+msgid "Disable Google Analytics on this page."
+msgstr "Vô hiệu hoá Google Analytics trên trang này."
+
+#: aioseop_class.php:353
+msgid "I enjoy this plugin and have made a donation:"
+msgstr "Tôi thích plugin này và sẵn sàng quyên góp:"
+
+#: aioseop_class.php:356
+msgid "Home Title:"
+msgstr "Tiêu đề trang chủ:"
+
+#: aioseop_class.php:366
+msgid "Home Description:"
+msgstr "Miêu tả trang chủ:"
+
+#: aioseop_class.php:376
+msgid "Use Keywords:"
+msgstr "Sử dụng từ khoá:"
+
+#: aioseop_class.php:380 aioseop_class.php:396 aioseop_class.php:430
+#: aioseop_class.php:440 aioseop_class.php:449 aioseop_class.php:538
+#: aioseop_class.php:559 aioseop_class.php:651 aioseop_class.php:667
+#: aioseop_class.php:700 modules/aioseop_performance.php:67
+msgid "Enabled"
+msgstr "Đã kích hoạt"
+
+#: aioseop_class.php:381 aioseop_class.php:397 aioseop_class.php:431
+#: aioseop_class.php:441 aioseop_class.php:450 aioseop_class.php:539
+#: aioseop_class.php:560 aioseop_class.php:652 aioseop_class.php:668
+#: aioseop_class.php:701 modules/aioseop_performance.php:68
+msgid "Disabled"
+msgstr "Đã vô hiệu hoá"
+
+#: aioseop_class.php:385
+msgid "Home Keywords (comma separated):"
+msgstr "Từ khoá trang chủ (phân cách bởi dấu phẩy):"
+
+#: aioseop_class.php:392
+msgid "Use Static Front Page Instead"
+msgstr "Thay bằng sử dụng trang đầu tĩnh"
+
+#: aioseop_class.php:401
+msgid "Canonical URLs:"
+msgstr "URLs hợp quy:"
+
+#: aioseop_class.php:405
+msgid "No Pagination for Canonical URLs:"
+msgstr "Không phân trang cho URL hợp quy:"
+
+#: aioseop_class.php:410
+msgid "Enable Custom Canonical URLs:"
+msgstr "Kích hoạt URL hợp quy tuỳ chỉnh:"
+
+#: aioseop_class.php:415
+msgid "Set Protocol For Canonical URLs:"
+msgstr "Đặt giao thức cho URL hợp quy:"
+
+#: aioseop_class.php:419
+msgid "Auto"
+msgstr "Tự động"
+
+#: aioseop_class.php:420
+msgid "HTTP"
+msgstr "HTTP"
+
+#: aioseop_class.php:421
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: aioseop_class.php:426
+msgid "Rewrite Titles:"
+msgstr "Viết lại tiêu đề:"
+
+#: aioseop_class.php:435 modules/aioseop_performance.php:63
+msgid "Force Rewrites:"
+msgstr "Buộc viết lại:"
+
+#: aioseop_class.php:445
+msgid "Use Original Title:"
+msgstr "Sử dụng tiêu đề gốc:"
+
+#: aioseop_class.php:458
+msgid "Capitalize Category Titles:"
+msgstr "Viết hoa tiêu đề chuyên mục:"
+
+#: aioseop_class.php:462
+msgid "Home Page Title Format:"
+msgstr "Định dạng tiêu đề trang chủ:"
+
+#: aioseop_class.php:468
+msgid "Page Title Format:"
+msgstr "Định dạng tiêu đề trang:"
+
+#: aioseop_class.php:474
+msgid "Post Title Format:"
+msgstr "Định dạng tiêu đề bài đăng:"
+
+#: aioseop_class.php:480
+msgid "Category Title Format:"
+msgstr "Định dạng tiêu đề chuyên mục:"
+
+#: aioseop_class.php:486
+msgid "Archive Title Format:"
+msgstr "Định dạng tiêu đề tài liệu lưu trữ:"
+
+#: aioseop_class.php:492
+msgid "Date Archive Title Format:"
+msgstr "Định dạng tiêu đề ngày lưu trữ:"
+
+#: aioseop_class.php:498
+msgid "Author Archive Title Format:"
+msgstr "Định dạng tiêu đề tác giả lưu trữ:"
+
+#: aioseop_class.php:504
+msgid "Tag Title Format:"
+msgstr "Định dạng tiêu đề thẻ"
+
+#: aioseop_class.php:510
+msgid "Search Title Format:"
+msgstr "Tìm kiếm Định dạng tiêu đề:"
+
+#: aioseop_class.php:516
+msgid "Description Format"
+msgstr "Định dạng miêu tả"
+
+#: aioseop_class.php:522
+msgid "404 Title Format:"
+msgstr "404 Định dạng tiêu đề:"
+
+#: aioseop_class.php:528
+msgid "Paged Format:"
+msgstr "Định dạng trang:"
+
+#: aioseop_class.php:534
+msgid "SEO for Custom Post Types:"
+msgstr "SEO cho các loại bài đăng tuỳ chỉnh:"
+
+#: aioseop_class.php:543
+msgid "SEO on only these post types:"
+msgstr "SEO chỉ trên các loại bài đăng này:"
+
+#: aioseop_class.php:555
+msgid "Enable Advanced Options:"
+msgstr "Kích hoạt tuỳ chọn nâng cao:"
+
+#: aioseop_class.php:566
+msgid "Default to NOINDEX:"
+msgstr "Mặc định thành KHÔNG CHỈ MỤC:"
+
+#: aioseop_class.php:571
+msgid "Default to NOFOLLOW:"
+msgstr "Mặc định thành KHÔNG THEO DÕI:"
+
+#: aioseop_class.php:576
+msgid "Default to NOODP:"
+msgstr "Mặc định thành KHÔNG ODP:"
+
+#: aioseop_class.php:581
+msgid "Default to NOYDIR:"
+msgstr "Mặc định thành KHÔNG YDIR:"
+
+#: aioseop_class.php:586
+msgid "Custom titles:"
+msgstr "Tiêu đề tuỳ chỉnh:"
+
+#: aioseop_class.php:596
+msgid "Show Column Labels for Custom Post Types:"
+msgstr "Hiển thị các nhãn cột cho các loại bài đăng tuỳ chỉnh:"
+
+#: aioseop_class.php:602
+msgid "Display Menu In Admin Bar:"
+msgstr "Hiển thị menu trong thanh quản trị:"
+
+#: aioseop_class.php:606
+msgid "Display Menu At The Top:"
+msgstr "Hiển thị menu ở đầu:"
+
+#: aioseop_class.php:610
+msgid "Google Webmaster Tools:"
+msgstr "Công cụ Google Webmaster:"
+
+#: aioseop_class.php:615
+msgid "Bing Webmaster Center:"
+msgstr "Trung tâm Bing Webmaster:"
+
+#: aioseop_class.php:620
+msgid "Pinterest Site Verification:"
+msgstr "Xác thực trang Pinterest:"
+
+#: aioseop_class.php:625
+msgid "Google Plus Default Profile:"
+msgstr "Hồ sơ mặc định Google Plus:"
+
+#: aioseop_class.php:630
+msgid "Disable Google Plus Profile:"
+msgstr "Vô hiệu hoá Hồ sơ Google Plus:"
+
+#: aioseop_class.php:635
+msgid "Display Sitelinks Search Box:"
+msgstr "Hiển thị Hộp tìm kiếm liên kết trang:"
+
+#: aioseop_class.php:638
+msgid "Set Preferred Site Name:"
+msgstr "Đặt tên trang ưa thích:"
+
+#: aioseop_class.php:641
+msgid "Specify A Preferred Name:"
+msgstr "Chỉ rõ một tên ưa thích:"
+
+#: aioseop_class.php:647
+msgid "Advanced Authorship Options:"
+msgstr "Tuỳ chọn tác quyền nâng cao:"
+
+#: aioseop_class.php:657
+msgid "Display Google Authorship:"
+msgstr "Hiển thị Google Authorship:"
+
+#: aioseop_class.php:663
+msgid "Display Publisher Meta on Front Page:"
+msgstr "Hiển thị Meta Publisher trên trang đầu:"
+
+#: aioseop_class.php:673
+msgid "Specify Publisher URL:"
+msgstr "Chỉ rõ URL Publisher:"
+
+#: aioseop_class.php:679
+msgid "Google Analytics ID:"
+msgstr "Google Analytics ID:"
+
+#: aioseop_class.php:685
+msgid "Use Universal Analytics:"
+msgstr "Sử dụng Universal Analytics:"
+
+#: aioseop_class.php:696
+msgid "Advanced Analytics Options:"
+msgstr "Tuỳ chọn Analytics nâng cao:"
+
+#: aioseop_class.php:712
+msgid "Tracking Domain:"
+msgstr "Theo dõi tên miền:"
+
+#: aioseop_class.php:724
+msgid "Track Multiple Domains:"
+msgstr "Theo dõi nhiều tên miền:"
+
+#: aioseop_class.php:736
+msgid "Additional Domains:"
+msgstr "Tên miền bổ sung:"
+
+#: aioseop_class.php:749
+msgid "Anonymize IP Addresses:"
+msgstr "Địa chỉ IP ẩn danh:"
+
+#: aioseop_class.php:761
+msgid "Display Advertiser Tracking:"
+msgstr "Hiển thị theo dõi nhà quảng cáo:"
+
+#: aioseop_class.php:773
+msgid "Exclude Users From Tracking:"
+msgstr "Loại trừ người dùng khỏi theo dõi:"
+
+#: aioseop_class.php:785
+msgid "Track Outbound Links:"
+msgstr "Theo dõi các liên kết outbound:"
+
+#: aioseop_class.php:797
+msgid "Enhanced Link Attribution:"
+msgstr "Thuộc tính liên kết tăng cường:"
+
+#: aioseop_class.php:809
+msgid "Enhanced Ecommerce:"
+msgstr "Thương mại điện tử tăng cường:"
+
+#: aioseop_class.php:822
+msgid "Use Categories for META keywords:"
+msgstr "Sử dụng các chuyên mục cho từ khoá META:"
+
+#: aioseop_class.php:827
+msgid "Use Tags for META keywords:"
+msgstr "Sử dụng thẻ cho từ khoá META:"
+
+#: aioseop_class.php:832
+msgid "Dynamically Generate Keywords for Posts Page/Archives:"
+msgstr "Tạo tự động các từ khoá cho các trang bài đăng/tài liệu lưu trữ:"
+
+#: aioseop_class.php:837
+msgid "Use noindex for Categories:"
+msgstr "Sử dụng không chỉ mục cho các chuyên mục:"
+
+#: aioseop_class.php:841
+msgid "Use noindex for Date Archives:"
+msgstr "Sử dụng không chỉ mục cho Ngày lưu trữ:"
+
+#: aioseop_class.php:845
+msgid "Use noindex for Author Archives:"
+msgstr "Sử dụng không chỉ mục cho Tác giả lưu trữ:"
+
+#: aioseop_class.php:849
+msgid "Use noindex for Tag Archives:"
+msgstr "Sử dụng không chỉ mục cho Thẻ Bài viết:"
+
+#: aioseop_class.php:853
+msgid "Use noindex for the Search page:"
+msgstr "Sử dụng không chỉ mục cho Trang tìm kiếm:"
+
+#: aioseop_class.php:857
+msgid "Use noindex for the 404 page:"
+msgstr "Sử dụng không chỉ mục cho Trang 404:"
+
+#: aioseop_class.php:861
+msgid "Use noindex for Taxonomy Archives:"
+msgstr "Sử dụng không chỉ mục cho Phân loại bài viết:"
+
+#: aioseop_class.php:867
+msgid "Use noindex for paginated pages/posts:"
+msgstr "Sử dụng không chỉ mục để Đánh số trang/bài đăng:"
+
+#: aioseop_class.php:871
+msgid "Use nofollow for paginated pages/posts:"
+msgstr "Sử dụng không theo dõi cho các trang/bài đăng đã đánh số:"
+
+#: aioseop_class.php:875
+msgid "Exclude site from the Open Directory Project:"
+msgstr "Loại trừ trang từ Dự án Thư mục Mở:"
+
+#: aioseop_class.php:879
+msgid "Exclude site from Yahoo! Directory:"
+msgstr "Loại trừ trang từ Yahoo! Directory"
+
+#: aioseop_class.php:883
+msgid "Avoid Using The Excerpt In Descriptions:"
+msgstr "Tránh sử dụng đoạn trích trong miêu tả:"
+
+#: aioseop_class.php:887
+msgid "Autogenerate Descriptions:"
+msgstr "Tự động tạo miêu tả:"
+
+#: aioseop_class.php:891
+msgid "Run Shortcodes In Autogenerated Descriptions:"
+msgstr "Chạy mã ngắn trong miêu tả tự tạo:"
+
+#: aioseop_class.php:896
+msgid "Remove Descriptions For Paginated Pages:"
+msgstr "Loại bỏ miêu tả cho các trang đã đánh số:"
+
+#: aioseop_class.php:900
+msgid "Never Shorten Long Descriptions:"
+msgstr "Không bao giờ rút ngắn miêu tả dài:"
+
+#: aioseop_class.php:904
+msgid "Use Schema.org Markup"
+msgstr "Sử dụng Đánh dấu Schema.org"
+
+#: aioseop_class.php:908
+msgid "Unprotect Post Meta Fields:"
+msgstr "Trường meta bài đăng không bảo vệ:"
+
+#: aioseop_class.php:916
+msgid "Exclude Pages:"
+msgstr "Ngoại trừ các trang:"
+
+#: aioseop_class.php:921
+msgid "Additional Post Headers:"
+msgstr "Phần đầu bài đăng bổ sung:"
+
+#: aioseop_class.php:927
+msgid "Additional Page Headers:"
+msgstr "Phần đầu trang bổ sung:"
+
+#: aioseop_class.php:933
+msgid "Additional Front Page Headers:"
+msgstr "Phần đầu trang chủ bổ sung:"
+
+#: aioseop_class.php:939
+msgid "Additional Blog Page Headers:"
+msgstr "Phần đầu trang blog bổ sung:"
+
+#: aioseop_class.php:945
+msgid "Log important events:"
+msgstr "Nhật ký các sự kiện quan trọng:"
+
+#: aioseop_class.php:999
+msgid "Upgrade to All in One SEO Pack Pro Version"
+msgstr "Nâng cấp thành Phiên bản Gói SEO Tất Cả Trong Một Pro"
+
+#: aioseop_class.php:1008
+msgid "Preview Snippet"
+msgstr "Xem trước đoạn trích"
+
+#: aioseop_class.php:1025 modules/aioseop_opengraph.php:398
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: aioseop_class.php:1031 modules/aioseop_opengraph.php:406
+msgid "Description"
+msgstr "Miêu tả"
+
+#: aioseop_class.php:1039
+msgid "Keywords (comma separated)"
+msgstr "Từ khoá (phân cách bằng dấu phẩy)"
+
+#: aioseop_class.php:1043
+msgid "Custom Canonical URL"
+msgstr "Tuỳ chỉnh URL hợp quy"
+
+#: aioseop_class.php:1048
+msgid "Robots Meta NOINDEX"
+msgstr "Robots Meta KHÔNG CHỈ MỤC"
+
+#: aioseop_class.php:1052
+msgid "Robots Meta NOFOLLOW"
+msgstr "Robots Meta KHÔNG THEO DÕI"
+
+#: aioseop_class.php:1055
+msgid "Robots Meta NOODP"
+msgstr "Robots Meta KHÔNG ODP"
+
+#: aioseop_class.php:1056
+msgid "Robots Meta NOYDIR"
+msgstr "Robots Meta NOYDIR"
+
+#: aioseop_class.php:1058
+msgid "Title Attribute"
+msgstr "Thuộc tính tiêu đề"
+
+#: aioseop_class.php:1063
+msgid "Menu Label"
+msgstr "Nhãn menu"
+
+#: aioseop_class.php:1067
+msgid "Exclude From Sitemap"
+msgstr "Loại trừ khỏi sơ đồ trang"
+
+#: aioseop_class.php:1068
+msgid "Disable on this page/post"
+msgstr "Vô hiệu hoá trên trang/bài đăng này"
+
+#: aioseop_class.php:1070
+msgid "Disable Google Analytics"
+msgstr "Vô hiệu hoá Google Analytics"
+
+#: aioseop_class.php:1091 modules/aioseop_opengraph.php:562
+msgid "Home Page Settings"
+msgstr "Cài đặt trang chủ"
+
+#: aioseop_class.php:1200
+msgid "Keyword Settings"
+msgstr "Cài đặt từ khoá"
+
+#: aioseop_class.php:1096
+msgid "Title Settings"
+msgstr "Cài đặt tiêu đề"
+
+#: aioseop_class.php:1118
+msgid "Custom Post Type Settings"
+msgstr "Cài đặt loại bài đăng tuỳ chỉnh"
+
+#: aioseop_class.php:1123
+msgid "Display Settings"
+msgstr "Cài đặt hiển thị"
+
+#: aioseop_class.php:1128
+msgid "Webmaster Verification"
+msgstr "Xác thực Webmaster"
+
+#: aioseop_class.php:1133
+msgid "Google Settings"
+msgstr "Cài đặt Google"
+
+#: aioseop_class.php:160
+msgid "%search% - What was searched for"
+msgstr "%search% - Những gì đã được tìm kiếm"
+
+#: aioseop_class.php:161
+msgid "This controls the format of Meta Descriptions.The following macros are supported:"
+msgstr "Điều này kiểm soát định dạng của Miêu tả Meta. Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:164
+msgid "%description% - The original description as determined by the plugin, e.g. the excerpt if one is set or an auto-generated one if that option is set"
+msgstr "%description% - Miêu tả gốc được xác định bởi plugin, ví dụ: đoạn trích nếu được thiết lập hoặc đoạn trích tự tạo nếu tuỳ chọn đó được thiết lập"
+
+#: aioseop_class.php:166
+msgid "%wp_title% - The original wordpress title, e.g. post_title for posts"
+msgstr "%wp_title% - Tiêu đề wordpress gốc, ví dụ post_title cho bài đăng"
+
+#: aioseop_class.php:167
+msgid "This controls the format of the title tag for the 404 page.<br />The following macros are supported:"
+msgstr "Điều này kiểm soát định dạng thẻ tiêu đề cho trang 404.<br />Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:121
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - Chuyên mục (chính) của bài đăng"
+
+#: aioseop_class.php:122
+msgid "%category% - Alias for %category_title%"
+msgstr "%category% - Tên hiệu cho %category_title%"
+
+#: aioseop_class.php:123 aioseop_class.php:3212
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - Tên đăng nhập của tác giả bài đăng này"
+
+#: aioseop_class.php:124 aioseop_class.php:3213
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - Tên tác giả của bài đăng này"
+
+#: aioseop_class.php:125 aioseop_class.php:3214
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - Tên tác giả của bài đăng này (viết hoa)"
+
+#: aioseop_class.php:126 aioseop_class.php:3215
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - Họ tác giả của bài đăng này (viết hoa)"
+
+#: aioseop_class.php:128
+msgid "This controls the format of the title tag for Category Archives.<br />The following macros are supported:"
+msgstr "Điều này kiểm soát định dạng thẻ tiêu đề cho các Chuyên mục lưu trữ.<br />Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:131
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - Tiêu đề gốc của chuyên mục"
+
+#: aioseop_class.php:132
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - Miêu tả của chuyên mục"
+
+#: aioseop_class.php:134
+msgid "This controls the format of the title tag for Custom Post Archives.<br />The following macros are supported:"
+msgstr "Điều này kiểm soát định dạng thẻ tiêu đề cho các Lưu trữ bài đăng tuỳ chỉnh.<br />Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:137
+msgid "%archive_title - The original archive title given by wordpress"
+msgstr "%archive_title - Tiêu đề lưu trữ gốc được cho bởi wordpress"
+
+#: aioseop_class.php:139
+msgid "This controls the format of the title tag for Date Archives.<br />The following macros are supported:"
+msgstr "Điều này kiểm soát định dạng thẻ tiêu đề cho các Ngày lưu trữ.<br />Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:142
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - Tiêu đề lưu trữ gốc được cho bởi wordpress, ví dụ: \"2007\" hoặc \"Tháng tám 2007\""
+
+#: aioseop_class.php:143
+msgid "%day% - The original archive day given by wordpress, e.g. \"17\""
+msgstr "%day% - Ngày lưu trữ gốc được cho bởi wordpress, ví dụ \"17\""
+
+#: aioseop_class.php:144
+msgid "%month% - The original archive month given by wordpress, e.g. \"August\""
+msgstr "%month% - Tháng lưu trữ gốc được cho bởi wordpress, ví dụ  \"Tháng tám\""
+
+#: aioseop_class.php:145
+msgid "%year% - The original archive year given by wordpress, e.g. \"2007\""
+msgstr "%year% - Năm lưu trữ gốc được cho bởi wordpress, ví dụ \"2007\""
+
+#: aioseop_class.php:147
+msgid "This controls the format of the title tag for Author Archives.<br />The following macros are supported:"
+msgstr "Điều này kiểm soát định dạng thẻ tiêu đề cho Tác giả lưu trữ.<br />Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:150
+msgid "%author% - The original archive title given by wordpress, e.g. \"Steve\" or \"John Smith\""
+msgstr "%author% - Tiêu đề lưu trữ gốc được cho bởi wordpress, ví dụ: \"Steve\" hoặc \"John Smith\""
+
+#: aioseop_class.php:152
+msgid "This controls the format of the title tag for Tag Archives.<br />The following macros are supported:"
+msgstr "Điều này kiểm soát định dạng thẻ tiêu đề cho Thẻ lưu trữ.<br />Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:155
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - Tên của thẻ"
+
+#: aioseop_class.php:157
+msgid "This controls the format of the title tag for the Search page.<br />The following macros are supported:"
+msgstr "Điều này kiểm soát định dạng thẻ tiêu đề cho Trang tìm kiếm.<br />Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:101 aioseop_class.php:110 aioseop_class.php:119
+#: aioseop_class.php:130 aioseop_class.php:136 aioseop_class.php:141
+#: aioseop_class.php:149 aioseop_class.php:154 aioseop_class.php:159
+#: aioseop_class.php:163 aioseop_class.php:169 aioseop_class.php:3203
+#: aioseop_class.php:3255
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - Miêu tả blog của bạn"
+
+#: aioseop_class.php:102 aioseop_class.php:111
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - Tiêu đề gốc của trang"
+
+#: aioseop_class.php:103 aioseop_class.php:112
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - Tên đăng nhập của tác giả trang này"
+
+#: aioseop_class.php:104 aioseop_class.php:113
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% - Tên của tác giả trang này"
+
+#: aioseop_class.php:105 aioseop_class.php:114
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - Tên của tác giả trang này (viết hoa)"
+
+#: aioseop_class.php:106 aioseop_class.php:115
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - Họ của tác giả trang này (viết hoa)"
+
+#: aioseop_class.php:108
+msgid "This controls the format of the title tag for Pages.<br />The following macros are supported:"
+msgstr "Điều này kiểm soát định dạng thẻ tiêu đề cho các trang.<br />Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:117
+msgid "This controls the format of the title tag for Posts.<br />The following macros are supported:"
+msgstr "Điều này kiểm soát định dạng thẻ tiêu đề cho các bài đăng.<br />Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:120 aioseop_class.php:165
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - Tiêu đề gốc của bài đăng"
+
+#: aioseop_class.php:83
+msgid "Checking this option will allow you to customize Canonical URLs for specific posts."
+msgstr "Đánh dấu tuỳ chọn này sẽ cho phép bạn tuỳ chỉnh URL hợp quy cho tất cả bài đăng cụ thể."
+
+#: aioseop_class.php:84
+msgid "Set protocol for canonical URLs."
+msgstr "Đặt giao thức cho URL hợp quy."
+
+#: aioseop_class.php:85
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "Sử dụng wp_title để có được tiêu đề được dùng cho chủ đề; mặc định chức năng này là tắt. Nếu bạn sử dụng tuỳ chọn này, hãy đặt định dạng tiêu đề của bạn phù hợp vì chủ đề của bạn có thể cố thực hiện SEO tiêu đề riêng nó."
+
+#: aioseop_class.php:86
+msgid "Check this and All in One SEO Pack will create a log of important events (all-in-one-seo-pack.log) in its plugin directory which might help debugging. Make sure this directory is writable."
+msgstr "Đánh dấu nó và Gói SEO Tất Cả Trong Một sẽ tạo nhật ký các sự kiện quan trọng (all_in_one_seo_pack.log) trong thư mục plugin của nó, giúp cho việc gỡ lỗi. Hãy đảm bảo rằng thư mục này có thể ghi lên."
+
+#: aioseop_class.php:87
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "Giống như tên của nó, đây sẽ là Tiêu đề Meta trang chủ của bạn. Nó độc lập với bất kỳ tuỳ chọn nào khác. Nếu không thiết lập, Tiêu đề Trang mặc định (thấy trong WordPress dưới mục Cài đặt, Chung, Tiêu đề trang) sẽ được sử dụng."
+
+#: aioseop_class.php:88
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "Đây sẽ là Miêu tả Meta cho trang chủ của bạn. Nó độc lập với bất kỳ tuỳ chọn nào khác. Nếu không thiết lập, thiết lập mặc định không có Miêu tả Meta."
+
+#: aioseop_class.php:90
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "Đánh dấu tuỳ chọn này sử dụng tiêu đề, miêu tả và từ khoả thiết lập trên Trang Đầu tĩnh của bạn."
+
+#: aioseop_class.php:91
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Tuỳ chọn này cho phép bạn chuyển đổi sử dụng Từ khoá Meta trong suốt toàn bộ trang."
+
+#: aioseop_class.php:92
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Đánh dấu nếu bạn muốn các chuyên mục của bạn cho một bài đăng được sử dụng như Từ khoá Meta cho bài đăng này (bổ sung thêm bất kỳ từ khoá nào bạn chỉ rõ trên màn hình Chỉnh sửa bài đăng)."
+
+#: aioseop_class.php:93
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Đánh dấu nếu bạn muốn các thẻ của bạn cho một bài đăng được sử dụng như Từ khoá Mtea cho bài đăng này (bổ sung thêm bất kỳ từ khoá nào bạn chỉ rõ trên màn hình Chỉnh sửa bài đăng)."
+
+#: aioseop_class.php:94
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Đánh dấu nếu bạn muốn các từ khoá của bạn trên trang Bài đăng của bạn (thiết lập trong WordPress tại Cài đặt, Đọc, Hiển thị Trang đầu) và các trang lưu trữ của bạn được tạo động từ từ khoá bài viết hiển thị trên trang đó. Nếu bạn không đánh dấu, nó sẽ sử dụng từ khoá được đặt trong màn hình chỉnh sửa trang cho trang bài đăng."
+
+#: aioseop_class.php:95
+msgid "Note that this is all about the title tag. This is what you see in your browser's window title bar. This is NOT visible on a page, only in the title bar and in the source code. If enabled, all page, post, category, search and archive page titles get rewritten. You can specify the format for most of them. For example: Using the default post title format below, Rewrite Titles will write all post titles as 'Post Title | Blog Name'. If you have manually defined a title using All in One SEO Pack, this will become the title of your post in the format string."
+msgstr "Lưu ý đây là tất cả về thẻ tiêu đề, là những gì bạn thấy trong thanh tiêu đề của cửa sổ trình duyệt. Nó KHÔNG thấy được trên một trang, chỉ thấy trên thanh tiêu đề và trong mã nguồn. Nếu được kích hoạt, tất cả các tiêu đề trang, bài đăng, chuyên mục, trang tìm kiếm và lưu trữ đều được viết lại. Bạn có thể chỉ rõ loại định dạng cho hầu hết trong số chúng. Ví dụ: Sử dụng định dạng tiêu đề bài đăng mặc định bên dưới, Tiêu đề Viết lại sẽ viết tất cả các tiêu đề bài đăng là \"Tiêu đề Bài đăng | Tên Blog'. Nếu bạn đã định nghĩa thủ công một tiêu đề sử dụng Gói SEO Tất Cả Trong Một, nó sẽ trở thành tiêu đề bài đăng của bạn trong chuỗi định dạng."
+
+#: aioseop_class.php:96
+msgid "Check this and Search Page Titles and Tag Page Titles will have the first letter of each word capitalized."
+msgstr "Đánh dấu nó và Tiêu đề trang tìm kiếm, Tiêu đề trang thẻ sẽ viết hoa chữ cái đầu tiên của mỗi từ. "
+
+#: aioseop_class.php:97
+msgid "Check this and Category Titles will have the first letter of each word capitalized."
+msgstr "Đánh dấu nó và Tiêu đề chuyên mục sẽ viết hoa chữ cái đầu tiên của mỗi từ."
+
+#: aioseop_class.php:99
+msgid "This controls the format of the title tag for your Home Page.<br />The following macros are supported:"
+msgstr "Điều này kiểm soát định dạng thẻ tiêu đề cho Trang chủ của bạn.<br />Các macro sau được hỗ trợ:"
+
+#: aioseop_class.php:100 aioseop_class.php:109 aioseop_class.php:118
+#: aioseop_class.php:129 aioseop_class.php:135 aioseop_class.php:140
+#: aioseop_class.php:148 aioseop_class.php:153 aioseop_class.php:158
+#: aioseop_class.php:162 aioseop_class.php:168 aioseop_class.php:3202
+#: aioseop_class.php:3254
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - Tiêu đề blog của bạn"
+
+#: aioseop_class.php:79
+msgid "All donations support continued development of this free software."
+msgstr "Tất cả quyên góp hỗ trợ chúng tôi tiếp tục phát triển phần mềm miễn phí này."
+
+#: aioseop_class.php:81
+msgid "This option will automatically generate Canonical URLs for your entire WordPress installation.  This will help to prevent duplicate content penalties by <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a>."
+msgstr "Tuỳ chọn này sẽ tạo tự động URL Hợp quy cho toàn bộ cài đặt WordPress của bạn. Nó sẽ giúp ngăn phạt nội dung trùng lặp bởi <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a>."
+
+#: aioseop_class.php:82
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "Đánh dấu tuỳ chọn này sẽ đặt URL hợp quy cho tất cả nội dung phân trang trên trang đầu."
+
+#: modules/aioseop_bad_robots.php:17 modules/aioseop_feature_manager.php:49
+msgid "Bad Bot Blocker"
+msgstr "Trình chặn chương trình xấu"
+
+#: modules/aioseop_bad_robots.php:23
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "Yêu cầu chặn từ đại lý người dùng do hành động sai."
+
+#: modules/aioseop_bad_robots.php:25
+msgid "Log and show recent requests from blocked bots."
+msgstr "Nhật ký và hiển thị các yêu cầu gần đây từ các chương trình đã chặn."
+
+#: modules/aioseop_bad_robots.php:27
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "Kiểm tra điều này để chỉnh sửa danh sách các đại lý người dùng không được phép để chặn các chương trình xấu."
+
+#: modules/aioseop_bad_robots.php:28
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "Đây là danh sách đại lý người dùng không được phép dùng để chặn các chương trình xấu."
+
+#: modules/aioseop_bad_robots.php:29
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "Đây là danh sách người giới thiệu không được phép dùng để chặn các chương trình xấu."
+
+#: modules/aioseop_bad_robots.php:30
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "Hiển thị nhật ký hầu hết các yêu cầu gần đây từ các chương trình bị chặn. Lưu ý: nó không theo dõi bất kỳ chương trình nào đã được chặn tại máy chủ web cấp độ / .htaccess."
+
+#: modules/aioseop_bad_robots.php:36
+msgid "Track Blocked Bots"
+msgstr "Theo dõi các chương trình đã chặn"
+
+#: modules/aioseop_bad_robots.php:40
+msgid "User Agent Blocklist"
+msgstr "Danh sách chặn đại lý người dùng"
+
+#: modules/aioseop_bad_robots.php:48
+msgid "Referer Blocklist"
+msgstr "Danh sách chặn người giới thiệu"
+
+#: modules/aioseop_bad_robots.php:59
+msgid "Log Of Blocked Bots"
+msgstr "Nhật ký các chương trình đã chặn"
+
+#: modules/aioseop_bad_robots.php:60
+msgid "No requests yet."
+msgstr "Chưa có yêu cầu."
+
+#: modules/aioseop_bad_robots.php:103
+msgid "Blocked bot with IP %s -- matched user agent %s found in blocklist."
+msgstr "Chương trình đã chặn với IP %s -- khớp với đại lý người dùng %s tìm thấy trong danh sách chặn"
+
+#: modules/aioseop_bad_robots.php:109
+msgid "Blocked bot with IP %s -- matched referer %s found in blocklist."
+msgstr "Chương trình đã chặn với IP %s -- khớp với người giới thiệu %s tìm thấy trong danh sách chặn"
+
+#: modules/aioseop_bad_robots.php:157
+msgid "Apache module %s is required!"
+msgstr "Yêu cầu Apache module %s!"
+
+#: modules/aioseop_bad_robots.php:144 modules/aioseop_bad_robots.php:177
+msgid "Updated .htaccess rules."
+msgstr "Quy tắc .htaccess đã cập nhật."
+
+#: modules/aioseop_bad_robots.php:146 modules/aioseop_bad_robots.php:179
+msgid "Failed to update .htaccess rules!"
+msgstr "Cập nhật quy tắc .htaccess đã thất bại!"
+
+#: modules/aioseop_bad_robots.php:182
+msgid "No rules to update!"
+msgstr "Không có quy tắc để cập nhật!"
+
+#: aioseop_class.php:68
+msgid "%s Plugin Options"
+msgstr "%s Tuỳ chọn Plugin"
+
+#: aioseop_class.php:69 aioseop_class.php:1086
+#: modules/aioseop_opengraph.php:557
+msgid "General Settings"
+msgstr "Thiết lập chung"

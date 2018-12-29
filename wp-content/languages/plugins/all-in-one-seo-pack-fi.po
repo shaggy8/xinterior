@@ -1,0 +1,3146 @@
+# Translation of Stable (latest release) in Finnish
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-02 23:21:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: admin/meta_import.php:198
+msgid "Analyze"
+msgstr "Analysoi"
+
+#: admin/meta_import.php:199
+msgid "Convert"
+msgstr "Muunna"
+
+#: aioseop_class.php:454
+msgid "Capitalize Tag and Search Titles:"
+msgstr "Aloita isolla kirjaimella tagit ja hakujen otsikot:"
+
+#: aioseop_class.php:3100
+msgid "New in 2.4: Improved support for taxonomies, Woocommerce and massive performance improvements under the hood! Please review your settings on each options page!"
+msgstr "Uutta versioss 2.4: Parannettu tuki luokitteluille, WooCommerce-lisäosalle ja todella suuria parannuksia suorituskyvyssä. Tarkasta asetukset jokaisella valintojen sivulla, ole hyvä."
+
+#: admin/meta_import.php:187
+msgid "Themes"
+msgstr "Teemat"
+
+#: admin/meta_import.php:149
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "Käytä alla olevaa pudotusvalikkoa kun haluat valita mistä lisäosasta tai teemasta haluat tuoda hakukoneoptimoinnit."
+
+#: admin/meta_import.php:153
+msgid "Click \"Analyze\" for a list of SEO data that can be imported into All in One SEO Pack, along with the number of records that will be imported."
+msgstr "Klikkaa \"Analysoi\" ja saat listan hakukoneoptimoinneista jotka voidaan tuoda All in One SEO Pack -lisäosaan, sisältäen niiden merkintöjen lukumäärän jotka voidaan tuoda."
+
+#: admin/meta_import.php:157
+msgid "Please Note: "
+msgstr "Huomaa, ole hyvä:"
+
+#: admin/meta_import.php:157
+msgid "Some plugins and themes do not share similar data, or they store data in a non-standard way. If we cannot import this data, it will remain unchanged in your database. Any compatible SEO data will be displayed for you to review. If a post or page already has SEO data in All in One SEO Pack, we will not import data from another plugin/theme."
+msgstr "Jotkun lisäosat ja teemat eivät jaa samankaltaista tietoa tai ne tallentavat tiedot poikkeavalla tavalla. Jos emme voi tuoda tietoja, se säilyy muuttumattomana tietokannassa. Kaikki yhteensopiva hakukoneoptimointitieto näytetään ja voit tarkastaa sen. Jos jossakin artikkelissa tai sivulla jo on tietoja asetettu All in One SEO Pack -lisäosan kautta, niin silloin tuontia ei tehdä toisesta lisäosasta/teemasta."
+
+#: admin/meta_import.php:161
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "Klikkaa \"Muunna\" kun haluat aloittaa tuonnin. Kun tuonti on tehty, kerrotaan kuinka monta merkintää tuotiin ja kuinka monta sivuutettiin - perustuen yllä oleviin erotteluperusteisiin."
+
+#: admin/meta_import.php:165
+msgid "Before performing an import, we strongly recommend that you make a backup of your site. We use and recommend %s BackupBuddy %s for backups."
+msgstr "Ennen kuin teet tuonnin, suosittelemme että otat varmuuskopion sivustosta. Käytämme ja suosittelemme %s BackupBuddy %s -lisäosaa varmuuskopiointiin."
+
+#: admin/meta_import.php:175
+msgid "Import SEO data from:"
+msgstr "Tuo hakukoneoptimointitiedot täältä:"
+
+#: admin/meta_import.php:177
+msgid "Choose platform:"
+msgstr "Valitse alusta:"
+
+#: admin/meta_import.php:179
+msgid "Plugins"
+msgstr "Liitännäiset"
+
+#: admin/meta_import.php:94
+msgid "Analysis Results"
+msgstr "Analyysin tulokset"
+
+#: admin/meta_import.php:98 admin/meta_import.php:121
+msgid "Sorry, something went wrong. Please try again"
+msgstr "Pahoittelemme, tapahtui virhe. Yritä uudelleen, ole hyvä"
+
+#: admin/meta_import.php:103
+msgid "<p>Analyzing records in a %s to %s conversion&hellip;"
+msgstr "<p>Analysoidaan merkintöjä %s lähteestä %s muunnokselle&hellip;"
+
+#: admin/meta_import.php:107
+msgid "Compatible data:"
+msgstr "Yhteensopivat tiedot:"
+
+#: admin/meta_import.php:117
+msgid "Conversion Results"
+msgstr "Muunnoksen tulokset"
+
+#: admin/meta_import.php:146
+msgid "Import SEO Settings"
+msgstr "Tuo hakukoneoptimoinnin asetukset"
+
+#: admin/meta_import.php:28
+msgid "The plugin Yoast SEO has been detected. Do you want to %simport its settings%s into All in One SEO Pack?"
+msgstr "Yoast SEO -lisäosa on havaittu. Haluatko tuoda %s sen asetukset %s All in One SEO Pack -lisäosaan?"
+
+#: admin/meta_import.php:32
+msgid "The plugin All-In-One-SEO has been detected. Do you want to %simport its settings%s?"
+msgstr "Lisäosa All-In-One-SEO on löydetty. Haluatko  %simport tuoda sen asetukset%s?"
+
+#: admin/meta_import.php:37
+msgid "All in One SEO has been deactivated"
+msgstr "All in One SEO -lisäosa on poistettu käytöstä"
+
+#: admin/meta_import.php:62
+msgid "Import SEO Data"
+msgstr "Tuo hakukoneoptimointitiedot"
+
+#: admin/meta_import.php:62
+msgid "SEO Data Import"
+msgstr "Hakukoneoptimointitietojen tuonti"
+
+#: modules/aioseop_feature_manager.php:75
+msgid "Pro Version Only"
+msgstr "Vain Pro -versio"
+
+#: aioseop_class.php:3721
+msgid "We've detected you're running WooCommerce."
+msgstr "Havaitsimme, että käytät WooCommerce-lisäosaa."
+
+#: aioseop_class.php:3722
+msgid "%s Upgrade%s to All in One SEO Pack Pro for increased SEO compatibility for your products."
+msgstr "%s Päivitä%s All in One SEO Pack Pro -versioon, niin saat paremman SEO yhteensopivuuden tuotteillesi. "
+
+#: modules/aioseop_performance.php:324
+msgid "Check For Updates"
+msgstr "Tarkasta Päivitykset"
+
+#. Description of the plugin/theme
+msgid "Out-of-the-box SEO for your WordPress blog. Features like XML Sitemaps, SEO for custom post types, SEO for blogs or business sites, SEO for ecommerce sites, and much more. Almost 30 million downloads since 2007."
+msgstr "Out-of-the-box SEO WordPress blogillesi. Toiminnot kuten XML-sivustokartat, hakukoneoptimointi/SEO mukautetuille sisältötyypeille, hakukoneoptimointi/SEO blogeille ja yrityssivustoille, hakukoneoptimointi/SEO verkkokaupoille ja paljon muuta. Lähes 30 miljoonaa latausta vuodesta 2007 lähtien."
+
+#: inc/commonstrings.php:39
+msgid "Manage Licenses"
+msgstr "Hallinnoi lisenssejä"
+
+#: modules/aioseop_bad_robots.php:24
+msgid "Block Referral Spam using HTTP."
+msgstr "Estä Referrer -roskaposti käyttäen HTTP:tä."
+
+#: modules/aioseop_bad_robots.php:34
+msgid "Block Bad Bots using HTTP"
+msgstr "Estä haitalliset botit käyttäen HTTP:tä"
+
+#: modules/aioseop_bad_robots.php:35
+msgid "Block Referral Spam using HTTP"
+msgstr "Estä Referral -roskaposti käyttäen HTTP:tä"
+
+#: modules/aioseop_bad_robots.php:37
+msgid "Block Bad Bots using .htaccess"
+msgstr "Estä haitalliset botit käyttäen .htaccessia"
+
+#: modules/aioseop_bad_robots.php:38
+msgid "Use Custom Blocklists"
+msgstr "Käytä mukautettuja estolistoja"
+
+#: modules/aioseop_feature_manager.php:63
+msgid "Image SEO"
+msgstr "Kuvan hakukoneoptimointi/SEO"
+
+#: modules/aioseop_feature_manager.php:68
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Luo ja hallinnoi videosivustokarttaa käyttämällä tätä ominaisuutta ja lähetä videosivustokartta Googlelle, Bingille / Yahoolle ja Ask.comille."
+
+#: modules/aioseop_performance.php:300
+msgid "%s has checked for updates."
+msgstr "%s on tarkastanut päivitykset."
+
+#: inc/commonstrings.php:32
+msgid "Finished scanning posts"
+msgstr "Artikkelien on skannattu"
+
+#: inc/commonstrings.php:35
+msgid "Purchase one now"
+msgstr "Osta yksi nyt"
+
+#: inc/commonstrings.php:36
+msgid "License Key is not set yet or invalid. "
+msgstr "Lisenssiavain ei ole vielä asetettu tai on kelvoton. "
+
+#: inc/commonstrings.php:37
+msgid " Need a license key?"
+msgstr "Tarvitsetko lisenssiavaimen?"
+
+#: inc/commonstrings.php:38
+msgid "Notice: "
+msgstr "Huomio:"
+
+#: inc/commonstrings.php:25
+msgid "Press the Scan button to scan your posts for videos! Do this if video content from a post or posts is not showing up in your sitemap."
+msgstr "Paina Skannaa -nappia etsiäksesi artikkeleistya videoita! Tee näin, jos videosisältö artikkelista tai artikkeleista ei näy sivustokartassa.  "
+
+#: inc/commonstrings.php:26
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "Jos valittu, vain artikkelit joissa on videoita, tulevat näkymään sivustokartalla."
+
+#: inc/commonstrings.php:27
+msgid "Enable this option to only allow access to your sitemap by site administrators and major search engines."
+msgstr "Ota käyttöön tämä toiminto kun haluat sallia pääsyn sivustokarttaan vain sivuston ylläpitäjille ja suurimmille hakukoneille."
+
+#: inc/commonstrings.php:28
+msgid "You do not have access to this page; try logging in as an administrator."
+msgstr "Sinulle ei ole pääsyä tälle sivulle; yritä kirjautua järjestelmänvalvojana."
+
+#: inc/commonstrings.php:29
+msgid "Scan"
+msgstr "Skannaa"
+
+#: all_in_one_seo_pack.php:280
+msgid "Amazon Wishlist"
+msgstr "Amazon toivelista"
+
+#: inc/commonstrings.php:22
+msgid "Show Only Posts With Videos"
+msgstr "Näytä vbain artikkelit joissa on videoita"
+
+#: inc/commonstrings.php:23
+msgid "Scan Posts For Videos"
+msgstr "Etsi artikkeleista videoita"
+
+#: inc/commonstrings.php:24
+msgid "Restrict Access to Video Sitemap"
+msgstr "Rajoita pääsy videosivustokarttaan"
+
+#: all_in_one_seo_pack.php:332
+msgid "Upgrade to Pro"
+msgstr "Päivitä Pro-versioon"
+
+#: all_in_one_seo_pack.php:321
+msgid "Documentation"
+msgstr "Ohjeistus"
+
+#: all_in_one_seo_pack.php:311
+msgid "SEO Settings"
+msgstr "SEO-asetukset"
+
+#: aioseop_class.php:3256
+msgid "%taxonomy_title% - The original title of the taxonomy"
+msgstr "%taxonomy_title% - Luokittelun alkuperäinen nimi"
+
+#: aioseop_class.php:3257
+msgid "%taxonomy_description% - The description of the taxonomy"
+msgstr "%taxonomy_description% - Luokittelun kuvaus"
+
+#: aioseop_class.php:3092
+msgid "Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Kiitos, että käytät viimeisintä ja mahtavinta All in One SEO Pack Pro:ta! Ole hyvä ja tarkista asetuksesi, sillä lisäämme aina uusia toimintoja!"
+
+#: aioseop_class.php:3785
+msgid "Debug String"
+msgstr "Korjaa merkkijono"
+
+#: aioseop_class.php:4980
+msgid "About"
+msgstr "Lisäosasta"
+
+#: aioseop_class.php:549
+msgid "SEO on only these taxonomies:"
+msgstr "SEO vain näissä luokitteluissa:"
+
+#: aioseop_class.php:1005 all_in_one_seo_pack.php:316
+msgid "Support Forum"
+msgstr "Tuki Foorumi"
+
+#: aioseop_class.php:3242
+msgid "Taxonomy Title Format:"
+msgstr "Luokittelun nimen muoto:"
+
+#: aioseop_class.php:80
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "Tämä tulee olemaan lisenssiavain, joka saadaan kun tuote ostetaan. Tätä käytetään automaattisiin päivityksiin. "
+
+#: aioseop_class.php:179
+msgid "Use these checkboxes to select which Taxonomies you want to use All in One SEO Pack with."
+msgstr "Käytä näitä valintaruutuja valitaksesi, mitä luokitteluja haluat käyttää All in One SEO Packin kanssa."
+
+#: aioseop_class.php:349
+msgid "License Key:"
+msgstr "Lisenssiavain:"
+
+#: aioseop_class.php:3699
+msgid "Warning: You're blocking access to search engines."
+msgstr "Varoitus: Estät pääsyn hakukoneille."
+
+#: aioseop_class.php:3700
+msgid "You can %s click here%s to go to your reading settings and toggle your blog visibility."
+msgstr "Voit %s painaa tästä%s kun haluat siirtyä lukemisen asetuksiin ja vaihtaa blogin näkyvyyttä."
+
+#: modules/aioseop_opengraph.php:85
+msgid "Enter your Facebook Admin ID here. Information about how to get your Facebook Admin ID can be found at https://developers.facebook.com/docs/platforminsights/domains"
+msgstr "Kirjoita Facebook Admin tunnus tähän. Ohje kuinka saat Facebook Admin tunnuksen on tässä  osoitteessa https://developers.facebook.com/docs/platforminsights/domains"
+
+#: modules/aioseop_opengraph.php:86
+msgid "Enter your Facebook App ID here. Information about how to get your Facebook App ID can be found at https://developers.facebook.com/docs/platforminsights/domains"
+msgstr "Kirjoita Facebook App ID tähän. Ohje kuinka saat Facebook App ID tunnuksen on tässä osoitteessa https://developers.facebook.com/docs/platforminsights/domains"
+
+#: modules/aioseop_opengraph.php:197
+msgid "Facebook Admin ID"
+msgstr "Facebook Admin tunnus/ID"
+
+#: modules/aioseop_opengraph.php:202
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: modules/aioseop_sitemap.php:55
+msgid "Use rewrites to generate your sitemap on the fly. NOTE: This is required for WordPress Multisite."
+msgstr "Käytä päällekirjoitusta kun haluat luoda sivustokartan lennossa. HUOMIO: WordPress Multisite edellyttää tätä."
+
+#: modules/aioseop_sitemap.php:56
+msgid "URL to the page."
+msgstr "Sivun verkko-osoite/URL."
+
+#: modules/aioseop_sitemap.php:57
+msgid "The priority of the page."
+msgstr "Sivun tärkeysjärjestys."
+
+#: modules/aioseop_sitemap.php:58
+msgid "The frequency of the page."
+msgstr "Sivun (muutos/tarkastus) tiheys."
+
+#: modules/aioseop_sitemap.php:59
+msgid "Last modified date of the page."
+msgstr "Sivun viimeisin muokkauspäivämäärä."
+
+#: modules/aioseop_sitemap.php:60
+msgid "Entries from these categories will be excluded from the sitemap."
+msgstr "Merkinnät näistä kategorioista jätetään pois sivustokartasta."
+
+#: modules/aioseop_sitemap.php:61
+msgid "Use page slugs or page IDs, seperated by commas, to exclude pages from the sitemap."
+msgstr "Käytä pilkulla erotettuja polkutunnuksia tai sivutunnuksia/ID kun haluat poissulkea sivuja sivustokartalta."
+
+#: modules/aioseop_sitemap.php:89
+msgid "Filename Prefix"
+msgstr "Tiedostonimen etuliite"
+
+#: modules/aioseop_sitemap.php:94
+msgid "Notify Google"
+msgstr "Ilmoita Googlelle"
+
+#: modules/aioseop_sitemap.php:95
+msgid "Notify Bing"
+msgstr "Ilmoita Bingille"
+
+#: modules/aioseop_sitemap.php:97
+msgid "Schedule Updates"
+msgstr "Aikatauluta päivitykset"
+
+#: modules/aioseop_sitemap.php:100
+msgid "No Schedule"
+msgstr "Ei aikataulua"
+
+#: modules/aioseop_sitemap.php:101
+msgid "Daily"
+msgstr "Päivittäin"
+
+#: modules/aioseop_sitemap.php:102
+msgid "Weekly"
+msgstr "Viikoittain"
+
+#: modules/aioseop_sitemap.php:103
+msgid "Monthly"
+msgstr "Kuukausittain"
+
+#: modules/aioseop_sitemap.php:107
+msgid "Enable Sitemap Indexes"
+msgstr "Ota käyttöön sivustokarttahakemistot"
+
+#: modules/aioseop_sitemap.php:109
+msgid "Paginate Sitemap Indexes"
+msgstr "Sivuta sivustokarttahakemistot"
+
+#: modules/aioseop_sitemap.php:113
+msgid "Maximum Posts Per Sitemap"
+msgstr "Maksimimäärä artikkeleita sivustokarttaa kohden"
+
+#: modules/aioseop_sitemap.php:119
+msgid "Post Types"
+msgstr "Sisältötyypit"
+
+#: modules/aioseop_sitemap.php:124
+msgid "Taxonomies"
+msgstr "Luokittelut"
+
+#: modules/aioseop_sitemap.php:128
+msgid "Include Date Archive Pages"
+msgstr "Sisällytä päivämääräarkistosivut"
+
+#: modules/aioseop_sitemap.php:129
+msgid "Include Author Pages"
+msgstr "Sisällytä tekijäsivut"
+
+#: modules/aioseop_sitemap.php:131
+msgid "Create Compressed Sitemap"
+msgstr "Luo tiivistetty sivustokartta"
+
+#: modules/aioseop_sitemap.php:135
+msgid "Link From Virtual Robots.txt"
+msgstr "Linkitä virtuaalisesta robots.txt-tiedostosta"
+
+#: modules/aioseop_sitemap.php:139
+msgid "Dynamically Generate Sitemap"
+msgstr "Luo sivustokartta dynaamisesti"
+
+#: modules/aioseop_sitemap.php:147
+msgid "Debug Log"
+msgstr "Testaustilan loki"
+
+#: modules/aioseop_sitemap.php:161
+msgid "Sitemap Status"
+msgstr "Sivustokartan tila"
+
+#: modules/aioseop_sitemap.php:177
+msgid "Do Not Override"
+msgstr "Älä ohita"
+
+#: modules/aioseop_sitemap.php:178
+msgid "Select Individual"
+msgstr "Valitse yksittäin"
+
+#: modules/aioseop_sitemap.php:191
+msgid "priority"
+msgstr "tärkeysjärjestys"
+
+#: modules/aioseop_sitemap.php:192
+msgid "frequency"
+msgstr "esiintymistiheys"
+
+#: modules/aioseop_sitemap.php:199
+msgid "homepage"
+msgstr "etusivu"
+
+#: modules/aioseop_sitemap.php:200
+msgid "posts"
+msgstr "artikkelit"
+
+#: modules/aioseop_sitemap.php:201
+msgid "taxonomies"
+msgstr "luokittelut"
+
+#: modules/aioseop_sitemap.php:202
+msgid "archive pages"
+msgstr "arkistosivut"
+
+#: modules/aioseop_sitemap.php:203
+msgid "author pages"
+msgstr "tekijäsivut"
+
+#: modules/aioseop_sitemap.php:215
+msgid "Manually set the %s of your %s."
+msgstr "Aseta %s manuaalisesti %s:stasi."
+
+#: modules/aioseop_sitemap.php:229
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "Kirjoita alle tiedot sivustokarttaan lisättävistä linkeistä joita ei ole hallittu WordPressin kautta."
+
+#: modules/aioseop_sitemap.php:235
+msgid "Page URL"
+msgstr "Sivun verkko-osoite/URL"
+
+#: modules/aioseop_sitemap.php:241
+msgid "Page Priority"
+msgstr "Sivun tärkeysjärjestys"
+
+#: modules/aioseop_sitemap.php:248
+msgid "Page Frequency"
+msgstr "Sivujen esiintymistiheys"
+
+#: modules/aioseop_sitemap.php:255
+msgid "Last Modified"
+msgstr "Viimeksi muokattu"
+
+#: modules/aioseop_sitemap.php:261 modules/aioseop_sitemap.php:286
+msgid "Additional Pages"
+msgstr "Lisäsivut"
+
+#: modules/aioseop_sitemap.php:268
+msgid "Add URL"
+msgstr "Lisää verkko-osoite/URL"
+
+#: modules/aioseop_sitemap.php:278
+msgid "Excluded Categories"
+msgstr "Poissuljetut kategoriat"
+
+#: modules/aioseop_sitemap.php:282
+msgid "Excluded Pages"
+msgstr "Poissuljetut sivut"
+
+#: modules/aioseop_sitemap.php:292
+msgid "Excluded Items"
+msgstr "Poissuljetut kohteet"
+
+#: modules/aioseop_sitemap.php:298
+msgid "Priorities"
+msgstr "Tärkeyssjärjestykset"
+
+#: modules/aioseop_sitemap.php:304
+msgid "Frequencies"
+msgstr "Esiintymistiheydet"
+
+#: modules/aioseop_sitemap.php:373
+msgid "Once Weekly"
+msgstr "Kerran viikossa"
+
+#: modules/aioseop_sitemap.php:377
+msgid "Once Monthly"
+msgstr "Kerran kuukaudessa"
+
+#: modules/aioseop_sitemap.php:400
+msgid "Daily scheduled sitemap check has finished."
+msgstr "Päivittäiseksi aikataulutettu sivustokartan tarkastus valmis."
+
+#: modules/aioseop_sitemap.php:486
+msgid "Media / Attachments"
+msgstr "Media / liitteet"
+
+#: modules/aioseop_sitemap.php:488
+msgid "All Post Types"
+msgstr "Kaikki sisältötyypit"
+
+#: modules/aioseop_sitemap.php:489
+msgid "All Taxonomies"
+msgstr "Kaikki luokittelut"
+
+#: modules/aioseop_sitemap.php:493
+msgid "Manually set the priority for the "
+msgstr "Aseta tärkeysjärjestys manuaalisesti seuraavalle:"
+
+#: modules/aioseop_sitemap.php:494
+msgid "Manually set the frequency for the "
+msgstr "Aseta manuaalisesti tiheys seuraavalle:"
+
+#: modules/aioseop_sitemap.php:495
+msgid " Post Type"
+msgstr "Sisältötyyppi"
+
+#: modules/aioseop_sitemap.php:496
+msgid " Taxonomy"
+msgstr "Luokittelu"
+
+#: modules/aioseop_sitemap.php:573 modules/aioseop_sitemap.php:635
+msgid "Update Sitemap"
+msgstr "Päivitä sivustokartta"
+
+#: modules/aioseop_sitemap.php:633
+msgid "Please review your settings below and click %s to build your sitemap; then, %s."
+msgstr "Tarkasta alla olevat asetukset ja paina %s jolloin sivustokartta luodaan uudelleeni; sitten, %s."
+
+#: modules/aioseop_sitemap.php:636
+msgid "view your sitemap"
+msgstr "näytä sivustokartta"
+
+#: modules/aioseop_sitemap.php:639
+msgid "Note: you are using dynamic sitemap generation to keep your sitemap current; this will not generate a static sitemap file."
+msgstr "Huomaa: käytät dynaamista sivustokartan luontia pitääksesi sivustokarttasi ajantasaisena; tämä ei muodosta staattista sivustokarttatiedostoa. "
+
+#: modules/aioseop_sitemap.php:643
+msgid "Dynamic sitemap generation appears to be using the correct rewrite rules."
+msgstr "Dynaaminen sivustokartan luonti näyttäisi käyttävän oikeita uudelleenkirjoitussääntöjä."
+
+#: modules/aioseop_sitemap.php:645
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "Dynaaminen sivustokartan luonti ei näytä käyttävän oikeita uudelleenkirjoitussääntöjä; ole hyvä, poista käytöstä mitkä tahansa muut sivustokarttalisäosat tai -toiminnot sivustolla ja nollaa kestolinkit."
+
+#: modules/aioseop_sitemap.php:651
+msgid "Reading Settings"
+msgstr "Lukemisen asetukset"
+
+#: modules/aioseop_sitemap.php:653
+msgid "Privacy Settings"
+msgstr "Yksityisyysasetukset"
+
+#: modules/aioseop_sitemap.php:655
+msgid "Warning: your privacy settings are configured to ask search engines to not index your site; you can change this under %s for your blog."
+msgstr "Huomio: yksityisyysasetuksesi ovat asetettu pyytämään hakukoneita olemaan indeksöimättä sivustoasi. Voit vaihtaa tämän blogisi kohdasta %s."
+
+#: modules/aioseop_sitemap.php:859
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "Huomio: dynaaminen sivustokartan luonti edellyttää kestolinkkien käyttöä."
+
+#: modules/aioseop_sitemap.php:876
+msgid "Deleted %s."
+msgstr "Poistettu %s."
+
+#: modules/aioseop_sitemap.php:886
+msgid "Couldn't rename file %s!"
+msgstr "%s tiedostoa ei voitu uudelleennimetä!"
+
+#: modules/aioseop_sitemap.php:890
+msgid "Renamed %s to %s."
+msgstr "%s nimetty uudelleen %s:ksi."
+
+#: modules/aioseop_sitemap.php:894
+msgid "Couldn't find file %s!"
+msgstr "%s-tiedostoa ei löydy!"
+
+#: modules/aioseop_sitemap.php:971
+msgid "Warning: a static sitemap '%s' generated by All in One SEO Pack %s on %s already exists that may conflict with dynamic sitemap generation."
+msgstr "Huomio: All in One SEO Packin luoma staattinen sivustokartta \"%s\" %s %s on jo olemassa, mikä voi olla ristiriidassa dynaamisen sivustokartan luomisen kanssa."
+
+#: modules/aioseop_sitemap.php:976
+msgid "Potential conflict with unknown file %s."
+msgstr "Mahdollinen konflikti tuntemattoman %s -tiedoston kanssa."
+
+#: modules/aioseop_sitemap.php:1007
+msgid "Rename Conflicting Files"
+msgstr "Nimeä uudelleen ristiriitaiset tiedostot"
+
+#: modules/aioseop_sitemap.php:1008
+msgid "Delete Conflicting Files"
+msgstr "Poista ristiriitaiset tiedostot"
+
+#: modules/aioseop_sitemap.php:1143
+msgid "compressed"
+msgstr "tiivistetty"
+
+#: modules/aioseop_sitemap.php:1146
+msgid "dynamic"
+msgstr "dynaaminen"
+
+#: modules/aioseop_sitemap.php:1141
+msgid "static"
+msgstr "staattinen"
+
+#: modules/aioseop_sitemap.php:1297
+msgid "Successfully notified %s about changes to your sitemap at %s."
+msgstr "Ilmoitettu %s:lle muutoksista %s-sivuston sivustokartassa."
+
+#: modules/aioseop_sitemap.php:1299
+msgid "Failed to notify %s about changes to your sitemap at %s, error code %s."
+msgstr "Ilmoitus %s:lle koskien %s sivuston sivustokarttaa epäonnistui. Virhekoodi %s. "
+
+#: modules/aioseop_sitemap.php:1302
+msgid "Failed to notify %s about changes to your sitemap at %s, unable to access via wp_remote_get()."
+msgstr "Ilmoitus %s:lle koskien %s sivuston sivustokarttaa epäonnistui. Ei pääsyä käyttäen wp_remote_get()."
+
+#: modules/aioseop_sitemap.php:1305
+msgid "Did not notify %s about changes to your sitemap."
+msgstr "Ei ilmoitettu %s:lle muutoksista sivustokarttaan."
+
+#: modules/aioseop_sitemap.php:1355
+msgid "Updated sitemap settings."
+msgstr "Sivustokartan asetuset päivitetty."
+
+#. Plugin Name of the plugin/theme
+msgid "All In One SEO Pack"
+msgstr "All In One SEO Pack"
+
+#. Plugin URI of the plugin/theme
+msgid "http://semperfiwebdesign.com"
+msgstr "http://semperfiwebdesign.com"
+
+#. Author of the plugin/theme
+msgid "Michael Torbert"
+msgstr "Michael Torbert"
+
+#. Author URI of the plugin/theme
+msgid "http://michaeltorbert.com"
+msgstr "http://michaeltorbert.com"
+
+#: aioseop_class.php:1161
+msgid "Noindex Settings"
+msgstr "Noindex-asetukset"
+
+#: aioseop_class.php:1182
+msgid "Advanced Settings"
+msgstr "Yleiset asetukset"
+
+#: aioseop_class.php:3182
+msgid "Front Page"
+msgstr "Etusivu"
+
+#: aioseop_class.php:3182
+msgid "Everywhere Else"
+msgstr "Kaikkialla muualla"
+
+#: aioseop_class.php:3190
+msgid "Title Format:"
+msgstr "Otsikon muoto:"
+
+#: aioseop_class.php:3204
+msgid "%post_title% - The original title of the post."
+msgstr "%post_title% - Artikkelin alkuperäinen otsikko."
+
+#: aioseop_class.php:3208
+msgid "%%tax_%s%% - This post's associated %s taxonomy title"
+msgstr "%%tax_%s%% - Tähän artikkeliin liittyvä %s luokitteluotsikko"
+
+#: aioseop_class.php:3091 aioseop_class.php:3109
+msgid "Welcome to Version %s!"
+msgstr "Tervetuloa versioon %s!"
+
+#: aioseop_class.php:3110
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Kiitos, että käytät viimeisintä ja mahtavinta All in One SEO Packia! Ole hyvä, tarkista asetuksesi, sillä lisäämme aina uusia toimintoja! "
+
+#: aioseop_class.php:3099 aioseop_class.php:3117
+msgid "Review Your Settings"
+msgstr "Tarkista asetuksesi"
+
+#: aioseop_class.php:3118
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! New since 2.2: Control who accesses your site with the new Robots.txt Editor and File Editor modules!  Enable them from the Feature Manager.  Remember to review your settings, we have added some new ones!"
+msgstr "Kiitos, että käytät viimeisintä ja mahtavinta All in One SEO Packia! Uutta versiossa 2.2: Määritä kenellä on pääsy sivullesi uusilla robots.txt-muokkain ja tiedostomuokkain moduuleilla! Ota ne käyttöön Toimintopaneelista. Ole hyvä, tarkista asetuksesi, sillä lisäämme aina uusia toimintoja!"
+
+#: aioseop_class.php:3295
+msgid "Reset General Settings to Defaults"
+msgstr "Palauta yleiset asetukset perustilaan"
+
+#: aioseop_class.php:3299
+msgid "Reset ALL Settings to Defaults"
+msgstr "Palauta KAIKKI asetukset perustilaan"
+
+#: aioseop_class.php:3381
+msgid "Default - noindex"
+msgstr "Oletus - noindex"
+
+#: aioseop_class.php:3382
+msgid "index"
+msgstr "index"
+
+#: aioseop_class.php:3383
+msgid "noindex"
+msgstr "noindex"
+
+#: aioseop_class.php:3389
+msgid "Default - nofollow"
+msgstr "Oletus - nofollow"
+
+#: aioseop_class.php:3390
+msgid "follow"
+msgstr "follow"
+
+#: aioseop_class.php:3391
+msgid "nofollow"
+msgstr "nofollow (älä seuraa)"
+
+#: aioseop_class.php:3397
+msgid "Default - noodp"
+msgstr "Oletus - noodp"
+
+#: aioseop_class.php:3398
+msgid "odp"
+msgstr "odp"
+
+#: aioseop_class.php:3399
+msgid "noodp"
+msgstr "noodp"
+
+#: aioseop_class.php:3405
+msgid "Default - noydir"
+msgstr "Oletus - noydir"
+
+#: aioseop_class.php:3406
+msgid "ydir"
+msgstr "ydir"
+
+#: aioseop_class.php:3407
+msgid "noydir"
+msgstr "noydir"
+
+#: admin/display/general-metaboxes.php:28
+msgid "by %s of %s."
+msgstr "%s:lla %s:sta."
+
+#: admin/display/general-metaboxes.php:39
+msgid "Reset Dismissed Notices"
+msgstr "Nollaa hylätyt ilmoitukset"
+
+#: admin/display/general-metaboxes.php:44
+msgid "Pro Version"
+msgstr "Pro-versio"
+
+#: admin/display/general-metaboxes.php:44 aioseop_class.php:999
+msgid "UPGRADE TO PRO VERSION"
+msgstr "PÄIVITÄ PRO -VERSIOON"
+
+#: admin/display/general-metaboxes.php:70 all_in_one_seo_pack.php:276
+msgid "Donate"
+msgstr "Lahjoita"
+
+#: admin/display/general-metaboxes.php:73
+msgid "Donate with Paypal"
+msgstr "Lahjoita käyttäen Paypalia"
+
+#: admin/display/general-metaboxes.php:77
+msgid "My Amazon Wish List"
+msgstr "Amazon toivelistani"
+
+#: admin/display/general-metaboxes.php:80
+msgid "Follow us on Facebook"
+msgstr "Seuraa Facebookissa"
+
+#: admin/display/general-metaboxes.php:83
+msgid "Follow us on Twitter"
+msgstr "Seuraa Twitterissa"
+
+#: admin/display/general-metaboxes.php:120
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "Liity postituslistalle saadaksesi vinkkejä, niksejä ja WordPress salaisuuksia. "
+
+#: admin/display/general-metaboxes.php:122
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "Liity tänään saadaksesi ilmaisen kopion e-kirjasta 5 hakukoneoptimointi/SEO vinkkiä WordPressille (arvo 39 $)."
+
+#: admin/display/general-metaboxes.php:138
+msgid "Read the All in One SEO Pack user guide"
+msgstr "Lue All in One SEO Pack käyttöopas"
+
+#: admin/display/general-metaboxes.php:142
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "All in One SEO Pack -lisäosan tukifoorumi"
+
+#: admin/display/general-metaboxes.php:143
+msgid "Access our Premium Support Forums"
+msgstr "Ota käyttöön Premium tukifoorumit"
+
+#: admin/display/general-metaboxes.php:146
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "All in One SEO Pro -lisäosan muutosloki"
+
+#: admin/display/general-metaboxes.php:151
+msgid "View the Changelog"
+msgstr "Katso muutosloki"
+
+#: admin/display/general-metaboxes.php:155
+msgid "Watch video tutorials"
+msgstr "Katso video-oppaat"
+
+#: admin/display/general-metaboxes.php:159
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Vasta aloittelemassa? Lue Aloittelijan Opas"
+
+#: aioseop_class.php:3761
+msgid "Debug Warning: All in One SEO Pack meta data was included again from %s filter. Called %s times!"
+msgstr "Testaustilahuomautus: All in One SEO Pack metatiedot lisättiin uudelleen %s -suodattimesta. Haettu %s kertaa!"
+
+#: inc/deprecated.php:137
+msgid "Disconnect From Google Analytics"
+msgstr "Katkaise yhteys Google Analytics -palveluun"
+
+#: inc/deprecated.php:138
+msgid "Remove Stored Credentials"
+msgstr "Poista tallennetut valtuutukset"
+
+#: inc/deprecated.php:145
+msgid "Connect With Google Analytics"
+msgstr "Yhdistä Google Analytics -palveluun"
+
+#: inc/deprecated.php:173 inc/deprecated.php:220 inc/deprecated.php:261
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: aioseop_class.php:4747
+msgid "SEO"
+msgstr "Hakukoneoptimointi/SEO"
+
+#: aioseop_class.php:4771
+msgid "Edit SEO"
+msgstr "Muokkaa hakukoneoptimointia"
+
+#: aioseop_class.php:4754
+msgid "Upgrade To Pro"
+msgstr "Päivitä Pro -versioon"
+
+#: aioseop_class.php:4878
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: aioseop_class.php:4931
+msgid "Thank you!"
+msgstr "Kiitos!"
+
+#: aioseop_class.php:4932
+msgid "Thank you for your donation, it helps keep this plugin free and actively developed!"
+msgstr "Kiitos lahjoituksestasi, se auttaa pitämään tämän lisäosan maksuttomana ja sitä kehitetään aktiivisesesti!"
+
+#: aioseop_class.php:4975
+msgid "Join Our Mailing List"
+msgstr "Liity postituslistalle"
+
+#: aioseop_class.php:4990
+msgid "Support"
+msgstr "Tuki"
+
+#: aioseop_class.php:4990
+msgid "Version"
+msgstr "Versio"
+
+#: admin/aioseop_module_class.php:1725 admin/aioseop_module_class.php:1979
+#: admin/aioseop_module_class.php:2256 aioseop_class.php:5020
+#: aioseop_class.php:5038
+msgid "Help"
+msgstr "Tuki"
+
+#: aioseop_class.php:4711
+msgid "Main Settings"
+msgstr "Tärkeimmät asetukset"
+
+#: modules/aioseop_feature_manager.php:23
+msgid "Feature Manager"
+msgstr "Toimintojen hallinta"
+
+#: modules/aioseop_feature_manager.php:29
+msgid "XML Sitemaps"
+msgstr "XML-sivustokartat"
+
+#: modules/aioseop_feature_manager.php:30
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Luo ja hallitse XML-sivustokarttoja käyttäen tätä toimintoa ja lähetä XML-sivustokartta Goolelle, Bingille/Yahoolle ja Ask.comille."
+
+#: modules/aioseop_feature_manager.php:33 modules/aioseop_opengraph.php:14
+msgid "Social Meta"
+msgstr "Some-metatiedot"
+
+#: modules/aioseop_feature_manager.php:34
+msgid "Activate this feature to add Social Meta data to your site to deliver closer integration between your website/blog and Facebook, Twitter, and Google+."
+msgstr "Ota tämä ominaisuus käyttöön, kun haluat lisätä Some-metatiedot sivustolle jotta se liittyy  paremmin Facebookin, Twitterin ja Google+ palveluihin."
+
+#: modules/aioseop_feature_manager.php:37 modules/aioseop_robots.php:12
+#: modules/aioseop_robots.php:175
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: modules/aioseop_feature_manager.php:38
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "Luo ja tarkasta robots.txt -tiedosto joka opastaa hakukoneita liikkumaan sivustolla."
+
+#: modules/aioseop_feature_manager.php:41 modules/aioseop_file_editor.php:19
+msgid "File Editor"
+msgstr "Tiedostomuokkain"
+
+#: modules/aioseop_feature_manager.php:42
+msgid "Edit your robots.txt file and your .htaccess file to fine-tune your site."
+msgstr "Muokkaa robots.txt-tiedostoa ja .htaccess-tiedostoa hienosäätääksesi sivustoasi."
+
+#: modules/aioseop_feature_manager.php:50
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "Estä huonosti käyttäytyviä botteja hidastamasta sivustoasi."
+
+#: modules/aioseop_feature_manager.php:53 modules/aioseop_performance.php:15
+msgid "Performance"
+msgstr "Suorituskyky"
+
+#: modules/aioseop_feature_manager.php:54
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "Optimoi hakukoneoptimointiin liittyvä suorituskyky ja tarkista järjestelmäsi tila."
+
+#: modules/aioseop_feature_manager.php:45
+#: modules/aioseop_importer_exporter.php:16
+msgid "Importer & Exporter"
+msgstr "Tuontityökalu ja Vientityökalu"
+
+#: modules/aioseop_feature_manager.php:46
+msgid "Exports and imports your All in One SEO Pack plugin settings."
+msgstr "Tuo ja vie kaikki All in One SEO Pack lisäosan asetukset."
+
+#: modules/aioseop_feature_manager.php:62
+msgid "Coming Soon..."
+msgstr "Tulossa pian..."
+
+#: inc/commonstrings.php:21 modules/aioseop_feature_manager.php:67
+#: modules/aioseop_feature_manager.php:74
+msgid "Video Sitemap"
+msgstr "Video -sivustokartta"
+
+#: modules/aioseop_feature_manager.php:147
+msgid "Update Features"
+msgstr "Päivitä ominaisuudet"
+
+#: modules/aioseop_feature_manager.php:149
+msgid "Reset Features"
+msgstr "Palauta ominaisuudet perustilaan"
+
+#: modules/aioseop_file_editor.php:29 modules/aioseop_robots.php:21
+msgid "Robots.txt editor"
+msgstr "Robots.txt-muokkain"
+
+#: modules/aioseop_file_editor.php:30
+msgid ".htaccess editor"
+msgstr ".htaccess-muokkain"
+
+#: modules/aioseop_file_editor.php:34
+msgid "Edit Robots.txt"
+msgstr "Muokkaa robots.txt-tiedostoa"
+
+#: modules/aioseop_file_editor.php:43 modules/aioseop_file_editor.php:70
+msgid "Edit .htaccess"
+msgstr "Muokkaa .htaccess"
+
+#: modules/aioseop_file_editor.php:59
+msgid "robots.txt"
+msgstr "robots.txt"
+
+#: modules/aioseop_file_editor.php:60
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: modules/aioseop_file_editor.php:65
+msgid "Edit robots.txt"
+msgstr "Muokkaa robots.txt-tiedostoa"
+
+#: modules/aioseop_file_editor.php:102
+msgid "Update robots.txt"
+msgstr "Päivitä robots.txt-tiedosto"
+
+#: modules/aioseop_file_editor.php:108
+msgid "Update .htaccess"
+msgstr "Päivitä .htaccess-tiedosto"
+
+#: inc/aioseop_functions.php:192
+msgid "SEO Title"
+msgstr "Hakukoneoptimointi/SEO otsikko"
+
+#: inc/aioseop_functions.php:193
+msgid "SEO Description"
+msgstr "Hakukoneoptimointi/SEO kuvaus"
+
+#: inc/aioseop_functions.php:195
+msgid "SEO Keywords"
+msgstr "Hakukoneoptimointi/SEO avainsanat"
+
+#: inc/aioseop_functions.php:265 inc/aioseop_functions.php:382
+#: inc/aioseop_functions.php:734
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: inc/aioseop_functions.php:266
+msgid "Post"
+msgstr "Julkaise"
+
+#: inc/aioseop_functions.php:267
+msgid "Save"
+msgstr "Tallenna"
+
+#: inc/aioseop_functions.php:268
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: inc/aioseop_functions.php:270
+msgid "Please wait..."
+msgstr "Odota, ole hyvä..."
+
+#: inc/aioseop_functions.php:271
+msgid "Slug may not be empty!"
+msgstr "Polkutunnus ei voi olla tyhjä!"
+
+#: inc/aioseop_functions.php:272
+msgid "Revisions"
+msgstr "Versiot"
+
+#: inc/aioseop_functions.php:273
+msgid "Insert time"
+msgstr "Lisää aika"
+
+#: inc/aioseop_functions.php:378 inc/aioseop_functions.php:730
+#: modules/aioseop_performance.php:210 modules/aioseop_performance.php:215
+#: modules/aioseop_performance.php:220 modules/aioseop_performance.php:229
+msgid "No"
+msgstr "Ei"
+
+#: inc/aioseop_functions.php:401
+msgid "Unauthorized access; try reloading the page."
+msgstr "Pääsy ei sallittu. Yritä ladata sivu uudelleen."
+
+#: inc/aioseop_functions.php:501
+msgid "Row %s not found; no rows were deleted."
+msgstr "%s-riviä ei löytynyt. Yhtään riviä ei poistettu."
+
+#: inc/aioseop_functions.php:565
+msgid "Duplicate %s Meta"
+msgstr "Monista %s metatiedot"
+
+#: inc/aioseop_functions.php:574
+msgid "No duplicate meta tags found."
+msgstr "Meta-tageista ei löytynyt kaksoiskappaleita."
+
+#: inc/aioseop_functions.php:577
+msgid "What Does This Mean?"
+msgstr "Mitä tämä tarkoittaa?"
+
+#: inc/aioseop_functions.php:591
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "Katso kunkin työkalun ohjetta kun tarvitset apua työkalun käytössä kun etsit virheitä some-metatiedoissa. "
+
+#: inc/aioseop_functions.php:922
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/aioseop_functions.php:928
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/aioseop_functions.php:931
+msgid "Facebook"
+msgstr "Facebook"
+
+#: modules/aioseop_importer_exporter.php:21
+msgid "Select a valid All in One SEO Pack ini file and click 'Import' to import options from a previous state or install of All in One SEO Pack.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Valitse kelvollinen All in One SEO Pack ini-tiedosto  ja klikkaa \"tuo\" kun haluat tuoda valinnat aiemmasta All in One SEO Packin tilasta tai asennuksesta.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Klikkaa tästä ja saat tätä toimintoa koskevat ohjeet</a>"
+
+#: modules/aioseop_importer_exporter.php:25
+msgid "You may choose to export settings from active modules, and content from post data.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Voit halutessasi viedä asetukset käytössä olevista moduuleista ja sisällön artikkelitiedoista.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Klikkaa tästä ja saat tätä toimintoa koskevat ohjeet</a>"
+
+#: modules/aioseop_importer_exporter.php:29
+msgid "Select which Post Types you want to export your All in One SEO Pack meta data for.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Valitse mistä sisältötyypeistä haluat viedä All in One SEO Pack metatiedot<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Klikkaa tästä ja saat tätä toimintoa koskevat ohjeet</a>"
+
+#: modules/aioseop_importer_exporter.php:37
+#: modules/aioseop_importer_exporter.php:105
+msgid "Import"
+msgstr "Tuonti"
+
+#: modules/aioseop_importer_exporter.php:43
+msgid "Export Settings"
+msgstr "Asetusten vienti"
+
+#: modules/aioseop_importer_exporter.php:51
+msgid "Export Post Types:"
+msgstr "Vie sisältötyypit:"
+
+#: modules/aioseop_importer_exporter.php:115
+msgid "Export"
+msgstr "Vienti"
+
+#: modules/aioseop_importer_exporter.php:148
+msgid "There are no other modules currently loaded!"
+msgstr "Muita moduuleja ei ole ladattuna!"
+
+#: modules/aioseop_importer_exporter.php:416
+msgid "<b>Warning:</b> Line not matched: <b>\"%s\"</b>, On Line: <b>%s</b>"
+msgstr "<b>Huomio:</b> Rivi ei täsmää: <b>\"%s\"</b>, Rivillä: <b>%s</b>"
+
+#: modules/aioseop_importer_exporter.php:465
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b>Huomio:</b> Seuraavaa artikkelia ei löytynyt: <b>\"%s\"</b>"
+
+#: modules/aioseop_importer_exporter.php:513
+msgid "Settings export file for All in One SEO Pack"
+msgstr "All in One SEO Packin asetusten vientitiedosto"
+
+#: admin/aioseop_module_class.php:1408
+msgid "Click here for documentation on this setting"
+msgstr "Klikkaa tästä ja saat tätä toimintoa koskevat ohjeet"
+
+#: admin/aioseop_module_class.php:1914
+msgid " characters. Most search engines use a maximum of %s chars for the %s."
+msgstr "merkkiä. Useimmat hakukoneet käyttävät enintään %s merkkiä %s:lle."
+
+#: admin/aioseop_module_class.php:1947
+msgid "Click for Help!"
+msgstr "Klikkaa saadaksesi apua!"
+
+#: admin/aioseop_module_class.php:2143 modules/aioseop_sitemap.php:864
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "Turvallisuustarkistus - Jos tämä on virheilmoitus, kirjaudu ulos ja takaisin sisään WordPressiin"
+
+#: admin/aioseop_module_class.php:2146
+msgid "Options Reset."
+msgstr "Asetusten nollaus."
+
+#: admin/aioseop_module_class.php:2155
+msgid "All in One SEO Options Updated."
+msgstr "All in One SEO -asetukset päivitetty."
+
+#: admin/aioseop_module_class.php:2220
+msgid "Update Options"
+msgstr "Päivitä asetukset"
+
+#: modules/aioseop_opengraph.php:19
+msgid "Activity"
+msgstr "Toiminta"
+
+#: modules/aioseop_opengraph.php:20
+msgid "Sport"
+msgstr "Urheilu"
+
+#: modules/aioseop_opengraph.php:23
+msgid "Bar"
+msgstr "Baari"
+
+#: modules/aioseop_opengraph.php:24
+msgid "Company"
+msgstr "Yritys"
+
+#: modules/aioseop_opengraph.php:25
+msgid "Cafe"
+msgstr "Kahvila"
+
+#: modules/aioseop_opengraph.php:26
+msgid "Hotel"
+msgstr "Hotelli"
+
+#: modules/aioseop_opengraph.php:27
+msgid "Restaurant"
+msgstr "Ravintola"
+
+#: modules/aioseop_opengraph.php:30
+msgid "Cause"
+msgstr "Aate"
+
+#: modules/aioseop_opengraph.php:31
+msgid "Sports League"
+msgstr "Urheiluliiga"
+
+#: modules/aioseop_opengraph.php:32
+msgid "Sports Team"
+msgstr "Urheilujoukkue"
+
+#: modules/aioseop_opengraph.php:35
+msgid "Band"
+msgstr "Bändi"
+
+#: modules/aioseop_opengraph.php:36
+msgid "Government"
+msgstr "Hallitus"
+
+#: modules/aioseop_opengraph.php:37
+msgid "Non Profit"
+msgstr "Voittoa tavoittelematon"
+
+#: modules/aioseop_opengraph.php:38
+msgid "School"
+msgstr "Koulu"
+
+#: modules/aioseop_opengraph.php:39
+msgid "University"
+msgstr "Yliopisto"
+
+#: modules/aioseop_opengraph.php:42
+msgid "Actor"
+msgstr "Näyttelijä"
+
+#: modules/aioseop_opengraph.php:43
+msgid "Athlete"
+msgstr "Urheilija"
+
+#: modules/aioseop_opengraph.php:44
+msgid "Author"
+msgstr "Kirjailija"
+
+#: modules/aioseop_opengraph.php:45
+msgid "Director"
+msgstr "Ohjaaja"
+
+#: modules/aioseop_opengraph.php:46
+msgid "Musician"
+msgstr "Muusikko"
+
+#: modules/aioseop_opengraph.php:47
+msgid "Politician"
+msgstr "Poliitikko"
+
+#: modules/aioseop_opengraph.php:48
+msgid "Profile"
+msgstr "Profiili"
+
+#: modules/aioseop_opengraph.php:49
+msgid "Public Figure"
+msgstr "Julkisuuden henkilö"
+
+#: modules/aioseop_opengraph.php:52
+msgid "City"
+msgstr "Kaupunki/postitoimipaikka"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Country"
+msgstr "Valtio"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Landmark"
+msgstr "Maamerkki"
+
+#: modules/aioseop_opengraph.php:55
+msgid "State Province"
+msgstr "Maakunta"
+
+#: modules/aioseop_opengraph.php:58
+msgid "Album"
+msgstr "Albumi"
+
+#: modules/aioseop_opengraph.php:59
+msgid "Book"
+msgstr "Kirja"
+
+#: modules/aioseop_opengraph.php:60
+msgid "Drink"
+msgstr "Juoma"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Food"
+msgstr "Ruoka"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Game"
+msgstr "Peli"
+
+#: modules/aioseop_opengraph.php:63
+msgid "Movie"
+msgstr "Elokuva"
+
+#: modules/aioseop_opengraph.php:64
+msgid "Product"
+msgstr "Tuote"
+
+#: modules/aioseop_opengraph.php:65
+msgid "Song"
+msgstr "Laulu"
+
+#: modules/aioseop_opengraph.php:66
+msgid "TV Show"
+msgstr "TV-ohjelma"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Episode"
+msgstr "Jakso"
+
+#: modules/aioseop_opengraph.php:70 modules/aioseop_opengraph.php:80
+msgid "Article"
+msgstr "Artikkeli"
+
+#: modules/aioseop_opengraph.php:71 modules/aioseop_opengraph.php:78
+msgid "Blog"
+msgstr "Blogi"
+
+#: modules/aioseop_opengraph.php:72 modules/aioseop_opengraph.php:79
+msgid "Website"
+msgstr "Sivusto"
+
+#: modules/aioseop_opengraph.php:84
+msgid "Checking this box will use the Home Title and Home Description set in All in One SEO Pack, General Settings as the Open Graph title and description for your home page."
+msgstr "Kun tämä ruutu valitaan, All in One SEO Packin yleisasetuksiin laitettuja etusivun otsikkoa ja etusivun kuvausta käytetään etusivun Open Graph -otsikkona ja kuvauksena."
+
+#: modules/aioseop_opengraph.php:87
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "Käytä lyhytkoodeja, jotka ovat some-kuvauksien metatageissä."
+
+#: modules/aioseop_opengraph.php:88
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "Käytä lyhytkoodeja, jotka ovat some -kuvauksien metatageissä."
+
+#: modules/aioseop_opengraph.php:89
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "Sivuston nimi on nimi, jolla sivustosi tunnistetaan."
+
+#: modules/aioseop_opengraph.php:90
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "Etusivun otsikko on etusivun Open Graph -otsikko."
+
+#: modules/aioseop_opengraph.php:91
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "Etusivun kuvaus on Open Graph -kuvaus etusivusta."
+
+#: modules/aioseop_opengraph.php:92
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "Etusivun kuva on etusivun Open Graph -kuva."
+
+#: modules/aioseop_opengraph.php:93
+msgid "The Home Tag allows you to add a list of keywords that best describe your home page content."
+msgstr "Etusivutagi mahdollistaa lisäämään listan parhaiten etusivusi sisältöä kuvaavista avainsanoista. "
+
+#: modules/aioseop_opengraph.php:94
+msgid "Check this and your Open Graph descriptions will be auto-generated from your content."
+msgstr "Valitse tämä jolloin Open Graph -kuvaus luodaan sisällöstä automaattisesti."
+
+#: modules/aioseop_opengraph.php:95
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "Tässä voit valita, mikä kuva tulee näkymään oletuksena Open Graph -kuvana. Voit ohittaa tämän yksittäisissä artikkeleissa."
+
+#: modules/aioseop_opengraph.php:96
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "Tässä voit valita oletuskuvan käytön, jos mitään kuvaa ei löytynyt."
+
+#: modules/aioseop_opengraph.php:97
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "Tässä voit asettaa oletuskuvan, jota voidaan käyttää Open Graph -kuvana. Voit ladata kuvan, valita kuvan Media kirjastosta tai liittää tähän kuvan verkko-osoitteen."
+
+#: modules/aioseop_opengraph.php:98
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "Tässä voit asettaa kuville oletusleveyden, kun sitä ei ole muuten asetettu."
+
+#: modules/aioseop_opengraph.php:99
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "Tässä voit asettaa kuville oletuskorkeuden, kun sitä ei ole muuten asetettu."
+
+#: modules/aioseop_opengraph.php:100
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "Kirjoita mukautetun kentän nimi (tai useampia kenttien nimiä pilkulla erotettuna), jota käytetään Open Graph -kuvien määrittämiseen sivuilla tai artikkeleissa."
+
+#: modules/aioseop_opengraph.php:101
+msgid "Set the Open Graph type for your website as either a blog or a website."
+msgstr "Aseta sivuston Open Graph -lajiksi joko blogi tai sivusto."
+
+#: modules/aioseop_opengraph.php:102
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "Tässä voit valita Open Graph -kuvan, jota käytetään tälle sivulle tai artikkelille. Tämä ohittaa oletusasetukset."
+
+#: modules/aioseop_opengraph.php:103
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "Tässä voit siirtää palvelimelle kuvan, jota käytetään Open Graph -kuvana tälle sivulle tai artikkelille."
+
+#: modules/aioseop_opengraph.php:104
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "Kirjoita Open Graph -kuvan leveys pikseleinä (esim. 600)."
+
+#: modules/aioseop_opengraph.php:105
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "Kirjoita Open Graph -kuvan korkeus pikseleinä (esim. 600)."
+
+#: modules/aioseop_opengraph.php:106
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "Tässä voit määrittää linkin Open Graph -videoon, jota on käytetty tällä sivulla tai artikkelissa."
+
+#: modules/aioseop_opengraph.php:107
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "Kirjoita Open Graph -videon leveys pikseleinä (esim. 600)."
+
+#: modules/aioseop_opengraph.php:108
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "Kirjoita Open Graph -videon korkeus pikseleinä (esim. 600)."
+
+#: modules/aioseop_opengraph.php:109 modules/aioseop_opengraph.php:110
+msgid "Select the default type of Twitter card to display."
+msgstr "Kirjoita oletuslaji näytettävälle Twitter-kortille. "
+
+#: modules/aioseop_opengraph.php:111
+msgid "Enter the Twitter username associated with your website here."
+msgstr "Kirjoita tähän sivustoosi liittyvä Twitter-käyttäjätunnus."
+
+#: modules/aioseop_opengraph.php:112
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "Artikkelien kirjoittajien tunnistaminen sisällöntuottajiksi voi tapahtua Twitter-käyttäjätunnuksista Twitter-korteissa."
+
+#: modules/aioseop_opengraph.php:113
+msgid "Enter the name of your website here."
+msgstr "Kirjoita sivustosi nimi tähän."
+
+#: modules/aioseop_opengraph.php:115
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "Luo automaattisesti artikkelitagit Facebook-lajin artikkeleille, kun ei muuten määritelty."
+
+#: modules/aioseop_opengraph.php:116
+msgid "Use keywords in generated article tags."
+msgstr "Käytä avainsanoja automaattisesti luoduissa artikkelitageissa."
+
+#: modules/aioseop_opengraph.php:117
+msgid "Use catergories in generated article tags."
+msgstr "Käytä kategorioita automaattisesti luoduissa artikkelitageissa."
+
+#: modules/aioseop_opengraph.php:118
+msgid "Use post tags in generated article tags."
+msgstr "Käytä artikkelin tageja automaattisesti luoduissa artikkelitageissa."
+
+#: modules/aioseop_opengraph.php:119
+msgid "Select which Post Types you want to use All in One SEO Pack to set Open Graph meta values for."
+msgstr "Valitse mitä sisältötyyppejä haluat osoittaa All in One SEO Pack -lisäosan käyttöön kun se luo Open Graph -metatietojen arvoja."
+
+#: modules/aioseop_opengraph.php:120
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "Tämä on tämän sivun tai artikkelin Open Graph -otsikko."
+
+#: modules/aioseop_opengraph.php:121
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "Tämä on tämän sivun tai artikkelin Open Graph -kuvaus."
+
+#: modules/aioseop_opengraph.php:122
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "Valitse Open Graph -laji, joka parhaiten kuvaa tämän sivun tai artikkelin sisältöä."
+
+#: modules/aioseop_opengraph.php:123
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "Paina tätä painiketta, jos haluat Facebookin noutavan uudelleen- ja tarkastavan tämän sivun."
+
+#: modules/aioseop_opengraph.php:124
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "Tässä voit lisätä Open Graph -metatietoihin yleisen jakson nimen joka parhaiten kuvaa tätä sisältöä."
+
+#: modules/aioseop_opengraph.php:125
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "Tässä voit lisätä Open Graph -metatietoihin listan avainsanoista jotka parhaiten kuvaavat tätä sisältöä."
+
+#: modules/aioseop_opengraph.php:126
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "Linkitä artikkelit sivustoosi liittyvälle Facebook-sivulle."
+
+#: modules/aioseop_opengraph.php:127
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "Artikkelien kirjoittajat voidaan tunnistaa heidän Facebook sivujen avulla Opengraph metatiedoissa sisällön tekijöinä (kirjoittamilleen artikkeleille)."
+
+#: modules/aioseop_opengraph.php:128
+msgid "Are the social profile links for your website for a person or an organization?"
+msgstr "Ovatko sivustosi some-profiililinkit henkilöä vai organisaatiota varten?"
+
+#: modules/aioseop_opengraph.php:129
+msgid "Add URLs for your website's social profiles here (Facebook, Twitter, Google+, Instagram, LinkedIn), one per line."
+msgstr "Lisää verkko-osoitteet sivustosi some-profiileille  (Facebook, Twitter, Google+, Instagram, LinkedIn), yksi per rivi."
+
+#: modules/aioseop_opengraph.php:130
+msgid "Add the name of the person or organization who owns these profiles."
+msgstr "Lisää profiilit omistavan henkilön tai organisaation nimi."
+
+#: modules/aioseop_opengraph.php:185
+msgid " characters. Open Graph allows up to a maximum of %s chars for the %s."
+msgstr "merkkiä. Open Graph sallii enintään %s merkkiä %s:lle."
+
+#: modules/aioseop_opengraph.php:188
+msgid "Scan Header"
+msgstr "Skannaa otsake"
+
+#: modules/aioseop_opengraph.php:193
+msgid "Use AIOSEO Title and Description"
+msgstr "Käytä AIOSEO -otsikkoa ja kuvausta"
+
+#: modules/aioseop_opengraph.php:206
+msgid "Run Shortcodes In Title"
+msgstr "Käytä lyhytkoodeja otsikossa"
+
+#: modules/aioseop_opengraph.php:207
+msgid "Run Shortcodes In Description"
+msgstr "Käytä lyhytkoodeja kuvauksessa"
+
+#: modules/aioseop_opengraph.php:209
+msgid "Site Name"
+msgstr "Sivuston nimi"
+
+#: modules/aioseop_opengraph.php:214
+msgid "Home Title"
+msgstr "Etusivun otsikko"
+
+#: modules/aioseop_opengraph.php:226
+msgid "Home Description"
+msgstr "Etusivun kuvaus"
+
+#: modules/aioseop_opengraph.php:238
+msgid "Home Image"
+msgstr "Etusivun kuva"
+
+#: modules/aioseop_opengraph.php:242
+msgid "Home Article Tags"
+msgstr "Etusivun artikkelitagit"
+
+#: modules/aioseop_opengraph.php:248
+msgid "Autogenerate OG Descriptions"
+msgstr "Luo automaattiset OG-kuvaukset"
+
+#: modules/aioseop_opengraph.php:252
+msgid "Select OG:Image Source"
+msgstr "Valitse OG:kuvan lähde"
+
+#: modules/aioseop_opengraph.php:255
+msgid "Default Image"
+msgstr "Oletuskuva"
+
+#: modules/aioseop_opengraph.php:256
+msgid "Featured Image"
+msgstr "Artikkelikuva"
+
+#: modules/aioseop_opengraph.php:257
+msgid "First Attached Image"
+msgstr "Ensimmäinen liitetty kuva"
+
+#: modules/aioseop_opengraph.php:258
+msgid "First Image In Content"
+msgstr "Sisällössä oleva ensimmäinen kuva"
+
+#: modules/aioseop_opengraph.php:259
+msgid "Image From Custom Field"
+msgstr "Kuva mukautetusta kentästä"
+
+#: modules/aioseop_opengraph.php:260
+msgid "Post Author Image"
+msgstr "Artikkelin kirjoittajan kuva"
+
+#: modules/aioseop_opengraph.php:261
+msgid "First Available Image"
+msgstr "Ensimmäinen saatavilla oleva kuva"
+
+#: modules/aioseop_opengraph.php:265
+msgid "Use Default If No Image Found"
+msgstr "Käytä oletusta jos kuvaa ei löydy"
+
+#: modules/aioseop_opengraph.php:269
+msgid "Default OG:Image"
+msgstr "Oletus OG:kuva"
+
+#: modules/aioseop_opengraph.php:274
+msgid "Default Image Width"
+msgstr "Kuvan oletusleveys"
+
+#: modules/aioseop_opengraph.php:279
+msgid "Default Image Height"
+msgstr "Kuvan oletuskorkeus"
+
+#: modules/aioseop_opengraph.php:284
+msgid "Use Custom Field For Image"
+msgstr "Käytä mukautettua kenttää kuvana"
+
+#: modules/aioseop_opengraph.php:289 modules/aioseop_opengraph.php:415
+msgid "Facebook Object Type"
+msgstr "Facebook objektilaji"
+
+#: modules/aioseop_opengraph.php:295
+msgid "Image"
+msgstr "Kuva"
+
+#: modules/aioseop_opengraph.php:300
+msgid "Custom Image"
+msgstr "Oma kuvake"
+
+#: modules/aioseop_opengraph.php:304
+msgid "Specify Image Width"
+msgstr "Määritä kuvan leveys"
+
+#: modules/aioseop_opengraph.php:309
+msgid "Specify Image Height"
+msgstr "Määritä kuvan korkeus"
+
+#: modules/aioseop_opengraph.php:314
+msgid "Custom Video"
+msgstr "Mukautettu video"
+
+#: modules/aioseop_opengraph.php:318
+msgid "Specify Video Width"
+msgstr "Määritä videon leveys"
+
+#: modules/aioseop_opengraph.php:330
+msgid "Specify Video Height"
+msgstr "Määritä videon korkeus"
+
+#: modules/aioseop_opengraph.php:342
+msgid "Default Twitter Card"
+msgstr "Oletus Twitter Card"
+
+#: modules/aioseop_opengraph.php:345 modules/aioseop_opengraph.php:356
+msgid "Summary"
+msgstr "Yhteenveto"
+
+#: modules/aioseop_opengraph.php:346 modules/aioseop_opengraph.php:355
+msgid "Summary Large Image"
+msgstr "Yhteenveto iso kuva"
+
+#: modules/aioseop_opengraph.php:352
+msgid "Twitter Card Type"
+msgstr "Twitter Card -laji"
+
+#: modules/aioseop_opengraph.php:361
+msgid "Twitter Site"
+msgstr "Twitter-sivu"
+
+#: modules/aioseop_opengraph.php:365
+msgid "Show Twitter Author"
+msgstr "Näytä Twitter-kirjoittaja"
+
+#: modules/aioseop_opengraph.php:367
+msgid "Twitter Domain"
+msgstr "Twitter verkkotunnus"
+
+#: modules/aioseop_opengraph.php:375
+msgid "Automatically Generate Article Tags"
+msgstr "Luo artikkelien avainsanat automaattisesti"
+
+#: modules/aioseop_opengraph.php:377
+msgid "Use Keywords In Article Tags"
+msgstr "Käytä avainsanoja artikkelin avainsanoissa (tageissa)"
+
+#: modules/aioseop_opengraph.php:382
+msgid "Use Categories In Article Tags"
+msgstr "Käytä kategorioita artikkelien avainsanoissa"
+
+#: modules/aioseop_opengraph.php:387
+msgid "Use Post Tags In Article Tags"
+msgstr "Käytä artikkelien avainsanoja artikkelin avainsanoissa"
+
+#: modules/aioseop_opengraph.php:392
+msgid "Enable Facebook Meta for"
+msgstr "Ota käyttöön Facebook-metatieto tälle:"
+
+#: modules/aioseop_opengraph.php:422
+msgid "Facebook Debug"
+msgstr "Facebook testaustila"
+
+#: modules/aioseop_opengraph.php:437
+msgid "Debug This Post"
+msgstr "Korjaa virheet tästä artikkelista"
+
+#: modules/aioseop_opengraph.php:442
+msgid "Article Section"
+msgstr "Artikkelin jakso"
+
+#: modules/aioseop_opengraph.php:448
+msgid "Article Tags"
+msgstr "Artikkelin avainsanat"
+
+#: modules/aioseop_opengraph.php:454
+msgid "Show Facebook Publisher on Articles"
+msgstr "Näytä Facebook julkaisija artikkeleissa"
+
+#: modules/aioseop_opengraph.php:458
+msgid "Show Facebook Author on Articles"
+msgstr "Näytä Facebook kirjoittaja artikkeleissa"
+
+#: modules/aioseop_opengraph.php:460 modules/aioseop_opengraph.php:572
+msgid "Social Profile Links"
+msgstr "Sosiaalinen profiili linkit"
+
+#: modules/aioseop_opengraph.php:466
+msgid "Person or Organization?"
+msgstr "Henkilö vai organisaatio?"
+
+#: modules/aioseop_opengraph.php:469
+msgid "Person"
+msgstr "Henkilö"
+
+#: modules/aioseop_opengraph.php:470
+msgid "Organization"
+msgstr "Organisaatio"
+
+#: modules/aioseop_opengraph.php:474
+msgid "Associated Name"
+msgstr "Liittyvä Nimi"
+
+#: modules/aioseop_opengraph.php:530
+msgid "Social Settings"
+msgstr "Sosiaaliset asetukset"
+
+#: modules/aioseop_opengraph.php:567
+msgid "Image Settings"
+msgstr "Kuva -asetukset"
+
+#: modules/aioseop_opengraph.php:577
+msgid "Facebook Settings"
+msgstr "Facebook -asetukset"
+
+#: modules/aioseop_opengraph.php:593
+msgid "Twitter Settings"
+msgstr "Twitter -asetukset"
+
+#: modules/aioseop_opengraph.php:598
+msgid "Scan Social Meta"
+msgstr "Skannaa some-metatiedot"
+
+#: modules/aioseop_opengraph.php:632
+msgid "Static front page detected, suggested Facebook Object Type is 'website'."
+msgstr "Havaittu staattinen etusivu, suositeltu Facebook objektilaji on \"sivusto\"."
+
+#: modules/aioseop_opengraph.php:637
+msgid "Blog on front page detected, suggested Facebook Object Type is 'blog'."
+msgstr "Havaittu etusivulla blogi, suositeltu Facebook objektilaji on \"blogi\"."
+
+#: modules/aioseop_opengraph.php:689
+msgid "Default "
+msgstr "Oletus"
+
+#: modules/aioseop_opengraph.php:756
+msgid "Scan Now"
+msgstr "Skannaa nyt"
+
+#: modules/aioseop_opengraph.php:757
+msgid "Scan your site for duplicate social meta tags."
+msgstr "Skannaa sivustosi sosiaalisten meta-tagien kaksoiskappaleiden varalta."
+
+#: modules/aioseop_opengraph.php:1275
+msgid "Object Type"
+msgstr "Objektilaji"
+
+#: modules/aioseop_opengraph.php:1282
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "Valitse oletusarvo, joka parhaiten kuvaa sisältötyypin sisältöä."
+
+#: modules/aioseop_performance.php:21
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "Tässä voit nostaa PHP-muistirajoitusta kohtuulliselle tasolle. Huom: WordPress-ydin ja muut WordPress-lisäosat saattavat myös vaihtaa muistirajoitusta."
+
+#: modules/aioseop_performance.php:22
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "Tässä voit lisätä PHP-suoritusaikaa kohtuulliseen arvoon saakka."
+
+#: modules/aioseop_performance.php:23
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "Käytä puskurointia kun haluat varmistaa, että otsikko kirjoitetaan uudelleen. Valitse tämä, jos ilmenee ongelmia kun teema tai muu lisäosa asettaa otsikkotagin."
+
+#: modules/aioseop_performance.php:28
+msgid "Raise memory limit"
+msgstr "Nosta muistirajoitusta."
+
+#: modules/aioseop_performance.php:32 modules/aioseop_performance.php:44
+msgid "Use the system default"
+msgstr "Käytä järjestelmän oletusta"
+
+#: modules/aioseop_performance.php:40
+msgid "Raise execution time"
+msgstr "Lisää suoritusaikaa"
+
+#: modules/aioseop_performance.php:49
+msgid "No limit"
+msgstr "Ei rajoitusta"
+
+#: modules/aioseop_performance.php:86
+msgid "System Status"
+msgstr "Järjestelmän tila."
+
+#: modules/aioseop_performance.php:170
+msgid "Not set"
+msgstr "Ei asetettu"
+
+#: modules/aioseop_performance.php:173 modules/aioseop_performance.php:178
+msgid "On"
+msgstr "Päällä"
+
+#: modules/aioseop_performance.php:175 modules/aioseop_performance.php:180
+msgid "Off"
+msgstr "Pois käytöstä"
+
+#: modules/aioseop_performance.php:185 modules/aioseop_performance.php:190
+#: modules/aioseop_performance.php:195 modules/aioseop_performance.php:200
+#: modules/aioseop_performance.php:205 modules/aioseop_performance.php:233
+msgid "N/A"
+msgstr "Ei tietoa/-saatavilla"
+
+#: modules/aioseop_performance.php:203
+msgid " MByte"
+msgstr "Mtavu"
+
+#: modules/aioseop_performance.php:208 modules/aioseop_performance.php:213
+#: modules/aioseop_performance.php:218 modules/aioseop_performance.php:227
+msgid "Yes"
+msgstr "Kyllä"
+
+#: modules/aioseop_performance.php:241
+msgid "Operating System"
+msgstr "Käyttöjärjestelmä"
+
+#: modules/aioseop_performance.php:242
+msgid "Server"
+msgstr "Palvelin"
+
+#: modules/aioseop_performance.php:243
+msgid "Memory usage"
+msgstr "Muistin käyttö"
+
+#: modules/aioseop_performance.php:244
+msgid "MYSQL Version"
+msgstr "MYSQL-versio"
+
+#: modules/aioseop_performance.php:245
+msgid "SQL Mode"
+msgstr "SQL-toimintatapa"
+
+#: modules/aioseop_performance.php:246
+msgid "PHP Version"
+msgstr "PHP:n versio"
+
+#: modules/aioseop_performance.php:247
+msgid "PHP Safe Mode"
+msgstr "PHP Safe Mode"
+
+#: modules/aioseop_performance.php:248
+msgid "PHP Allow URL fopen"
+msgstr "PHP salli URL fopen"
+
+#: modules/aioseop_performance.php:249
+msgid "PHP Memory Limit"
+msgstr "PHP-muistirajoitus"
+
+#: modules/aioseop_performance.php:250
+msgid "PHP Max Upload Size"
+msgstr "PHP palvelimelle siirrettävän tiedoston suurin koko"
+
+#: modules/aioseop_performance.php:251
+msgid "PHP Max Post Size"
+msgstr "PHP Post-siirron suurin koko"
+
+#: modules/aioseop_performance.php:252
+msgid "PHP Max Script Execute Time"
+msgstr "PHP komentojonon suurin suoritusaika"
+
+#: modules/aioseop_performance.php:253
+msgid "PHP Exif support"
+msgstr "PHP Exif -tuki"
+
+#: modules/aioseop_performance.php:254
+msgid "PHP IPTC support"
+msgstr "PHP IPTC -tuki"
+
+#: modules/aioseop_performance.php:255
+msgid "PHP XML support"
+msgstr "PHP XML -tuki"
+
+#: modules/aioseop_performance.php:256
+msgid "Site URL"
+msgstr "Sivuston verkko-osoite"
+
+#: modules/aioseop_performance.php:257
+msgid "Home URL"
+msgstr "Etusivun verkko-osoite"
+
+#: modules/aioseop_performance.php:258
+msgid "WordPress Version"
+msgstr "WordPressin versio"
+
+#: modules/aioseop_performance.php:259
+msgid "WordPress DB Version"
+msgstr "WordPress DB -versio"
+
+#: modules/aioseop_performance.php:260
+msgid "Multisite"
+msgstr "Multisite"
+
+#: modules/aioseop_performance.php:261
+msgid "Active Theme"
+msgstr "Aktiivinen teema"
+
+#: modules/aioseop_performance.php:276
+msgid "All in One SEO Pack Pro Debug Info"
+msgstr "All in One SEO Pack Pro testaustiedot"
+
+#: modules/aioseop_performance.php:294
+msgid "Form submission error: verification check failed."
+msgstr "Lomakkeen lähettämisessä virhe: varmistuksen tarkistus epäonnistui."
+
+#: modules/aioseop_performance.php:308
+msgid "SFWD Debug Mail From Site %s."
+msgstr "SFWD testaussähköposti %s sivustolta."
+
+#: modules/aioseop_performance.php:309
+msgid "Sent to %s."
+msgstr "Lähetetty %s:lle."
+
+#: modules/aioseop_performance.php:311
+msgid "Failed to send to %s."
+msgstr "Lähetys %s:lle epäonnistui."
+
+#: modules/aioseop_performance.php:314
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "Virhe: Kirjoita sähköpostiosoite ennen lähettämistä."
+
+#: modules/aioseop_performance.php:320
+msgid "E-mail debug information"
+msgstr "Lähetä sähköpostilla testaustiedot"
+
+#: modules/aioseop_performance.php:321
+msgid "Submit"
+msgstr "Lähetä"
+
+#: modules/aioseop_robots.php:18 modules/aioseop_robots.php:32
+msgid "Rule Type"
+msgstr "Säännön laji"
+
+#: modules/aioseop_robots.php:19 modules/aioseop_robots.php:38
+msgid "User Agent"
+msgstr "Selain"
+
+#: modules/aioseop_robots.php:20 modules/aioseop_robots.php:43
+msgid "Directory Path"
+msgstr "Hakemistopolku"
+
+#: modules/aioseop_robots.php:28
+msgid "Use the rule builder below to add rules to create a new Robots.txt file.  If you already have a Robots.txt file you should use the File Editor feature in All in One SEO Pack to edit it or you can delete your current Robots.txt file and start a new one with the rule builder below."
+msgstr "Käytä alla olevaa sääntöjen rakentajaa kun haluat lisätä uusia sääntöjä robots.txt-tiedostoon. Jos sinulla on jo robots.txt tiedosto, käytä All in One SEO Packin  tiedostomuikkainta kun haluat muokata sitä tai voit poistaa nykyisen robots.txt tiedoston ja luoda uuden alla olevalla sääntöjen rakentajalla.. "
+
+#: modules/aioseop_robots.php:48
+msgid "Generate Robots.txt"
+msgstr "Luo robots.txt"
+
+#: modules/aioseop_robots.php:60
+msgid "Add Rule"
+msgstr "Lisää sääntö"
+
+#: modules/aioseop_robots.php:66
+msgid "Save Robots.txt File"
+msgstr "Tallena robots.txt-tiedosto"
+
+#: modules/aioseop_robots.php:72
+msgid "Delete Robots.txt File"
+msgstr "Poista robots.txt-tiedosto"
+
+#: modules/aioseop_robots.php:78
+msgid "Click the Optimize button below and All in One SEO Pack will analyze your Robots.txt file to make sure it complies with the standards for Robots.txt files.  The results will be displayed in a table below."
+msgstr "Kun klikkaa optimoi -painiketta niin All in One SEO Pack analysoi robots.txt-tiedoston varmistaakseen, että se noudattaa robots.txt-tiedostojen standardeja. Tulokset näytetään taulukossa."
+
+#: modules/aioseop_robots.php:84
+msgid "Update Robots.txt File"
+msgstr "Päivitä robots.txt-tiedosto"
+
+#: modules/aioseop_robots.php:91
+msgid "Disregard Changes"
+msgstr "Hylkää muutokset"
+
+#: modules/aioseop_robots.php:97
+msgid "Optimize"
+msgstr "Optimoi"
+
+#: modules/aioseop_robots.php:130
+msgid "Create a Robots.txt File"
+msgstr "Luo robots.txt-tiedosto"
+
+#: modules/aioseop_robots.php:144
+msgid "Optimize your Robots.txt File"
+msgstr "Optimoi robots.txt-tiedosto"
+
+#: modules/aioseop_robots.php:154
+msgid "Your Robots.txt file has been optimized.  Here are the results and recommendations.  Click the Update Robots.txt File button below to write these changes to your Robots.txt file.  Click the Disregard Changes button to ignore these recommendations and keep your current Robots.txt file."
+msgstr "Robots.txt-tiedostosi on optimoitu. Tässä ovat tulokset ja suositukset. Klikkaa Päivitä robots.txt tiedosto -painiketta alla ja nämä muutokset kirjoitetaan robots.txt-tiedostoon. Klikkaa Hylkää muutokset -painiketta kun haluat ohittaa nämä suositukset ja säilyttää nykyinen robots.txt-tiedosto."
+
+#: modules/aioseop_robots.php:299 modules/aioseop_robots.php:301
+msgid "Current File"
+msgstr "Nykyinen tiedosto"
+
+#: modules/aioseop_robots.php:299
+msgid "Proposed Changes"
+msgstr "Ehdotetut muutokset"
+
+#: modules/aioseop_robots.php:358
+msgid "Legend"
+msgstr "Selite"
+
+#: modules/aioseop_robots.php:360
+msgid "The yellow indicator means that a non-standard extension was recognized; not all crawlers may recognize it or interpret it the same way. The Allow and Sitemap directives are commonly used by Google and Yahoo."
+msgstr "Keltainen ilmaisee, että ei-standardi laajennus tunnistettiin; kaikki ryömijät eivät tunnista sitä tai tulkitse sitä samalla tavalla. Google ja Yahoo käyttävät yleisesti salli ja sivustokartta direktiivejä."
+
+#: modules/aioseop_robots.php:361
+msgid "The red indicator means that the syntax is invalid for a robots.txt file."
+msgstr "Punainen ilmaisee tarkoittaa, että robots.txt -tiedoston lauserakenne ei kelpaa. "
+
+#: modules/aioseop_robots.php:363
+msgid "More Information"
+msgstr "Lisätietoja"
+
+#: modules/aioseop_sitemap.php:31
+msgid "XML Sitemap"
+msgstr "XML-sivustokartta"
+
+#: modules/aioseop_sitemap.php:41
+msgid "Specifies the name of your sitemap file. This will default to 'sitemap'."
+msgstr "Määrittää sivustokarttatiedoston nimen. Oletuksena \"sitemap\"."
+
+#: modules/aioseop_sitemap.php:42
+msgid "Notify Google when you update your sitemap settings."
+msgstr "Ilmoita Googlelle, kun päivität sivustokartta-asetuksia."
+
+#: modules/aioseop_sitemap.php:43
+msgid "Notify Bing when you update your sitemap settings."
+msgstr "Ilmoita Bingille, kun päivität sivustokartta-asetukset."
+
+#: modules/aioseop_sitemap.php:45
+msgid "Organize sitemap entries into distinct files in your sitemap. Enable this only if your sitemap contains over 50,000 URLs or the file is over 5MB in size."
+msgstr "Järjestä sivustokarttamerkinnät erillisiin tiedostoihin sivustokartassa. Ota tämä käyttöön vain, jos sivustokartta sisältää yli 50 000 verkko-osoitetta tai, jos tiedosto on suurempi kuin 5 Mt."
+
+#: modules/aioseop_sitemap.php:46
+msgid "Split long sitemaps into separate files."
+msgstr "Jaa pitkät sivustokartat erillisiin tiedostoihin."
+
+#: modules/aioseop_sitemap.php:47
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Voit asettaa sivustokartan artikkelien suurimman määrän (50 000 asti)."
+
+#: modules/aioseop_sitemap.php:48
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Valitse mitkä sisältötyypit näkyvät sivustokartassa."
+
+#: modules/aioseop_sitemap.php:49
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "Valitse mitkä luokittelu-arkistot näkyvät sivustokartassasi"
+
+#: modules/aioseop_sitemap.php:50
+msgid "Include Date Archives in your sitemap."
+msgstr "Sisällytä päivämääräarkistot sivustokarttaan."
+
+#: modules/aioseop_sitemap.php:51
+msgid "Include Author Archives in your sitemap."
+msgstr "Sisällytä tekijäarkistot sivustokarttaan."
+
+#: modules/aioseop_sitemap.php:52
+msgid "Create a compressed sitemap file in .xml.gz format."
+msgstr "Luo tiivistetty sivustokarttatiedosto .xml.gz -muodossa."
+
+#: modules/aioseop_sitemap.php:53
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "Linkitä Sitemap.xml-tiedosto virtuaaliseen robots.txt-tiedostoon. "
+
+#: aioseop_class.php:170
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - Alkuperäinen verkko-osoitepolku, kuten \"/verkko-osoite-jota-ei-loydy/\""
+
+#: aioseop_class.php:171
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - Verkko-osoitepolku ihmiselle ymmärrettävässä muodossa, kuten \"Verkko-osoite jota ei ole olemassa\""
+
+#: aioseop_class.php:172
+msgid "%404_title% - Additional 404 title input\""
+msgstr "%404_title% - 404 lisäotsikon kirjoittaminen\""
+
+#: aioseop_class.php:173
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "Tämä merkkijono lisätään sivutettujen hakemistosivujen otsikoiden (kuten etusivu tai arkistosivut) alkuun tai loppuun."
+
+#: aioseop_class.php:174 aioseop_class.php:3201 aioseop_class.php:3253
+msgid "The following macros are supported:"
+msgstr "Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:175
+msgid "%page% - The page number"
+msgstr "%page% - Sivunumero"
+
+#: aioseop_class.php:176
+msgid "Check this if you want to use All in One SEO Pack with any Custom Post Types on this site."
+msgstr "Valitse tämä jos haluat käyttää All in One SEO Pack -lisäosaa jonkun sivustolla olevan mukautetun sisältötyypin kanssa."
+
+#: aioseop_class.php:177
+msgid "This will show or hide the advanced options for SEO for Custom Post Types."
+msgstr "Tämä näyttää tai piilottaa edistyneet valinnat mukautettujen sisältötyyppien hakukoneoptimoinnille."
+
+#: aioseop_class.php:178
+msgid "Use these checkboxes to select which Post Types you want to use All in One SEO Pack with."
+msgstr "Käytä näitä valintaruutuja kun haluat valita mitä sisältötyyppejä haluat käyttää All in One SEO Pack -lisäosan kanssa."
+
+#: aioseop_class.php:180
+msgid "This allows you to set the title tags for each Custom Post Type."
+msgstr "Tässä voit asettaa otsikkotagit kullekin mukautetulle sisältötyypille."
+
+#: aioseop_class.php:181
+msgid "This lets you select which screens display the SEO Title, SEO Keywords and SEO Description columns."
+msgstr "Tässä voit valita millä näytöillä näytetään SEO-otsikko, SEO-avainsanat ja SEO-kuvaus sarakkeet."
+
+#: aioseop_class.php:182
+msgid "Check this to add All in One SEO Pack to the Admin Bar for easy access to your SEO settings."
+msgstr "Valitse tämä kun haluat lisätä All in One SEO Pack -lisäosan hallintapaneelin yläpalkkiin. Silloin voit nopeasti siirtyä SEO asetuksiin."
+
+#: aioseop_class.php:183
+msgid "Check this to move the All in One SEO Pack menu item to the top of your WordPress Dashboard menu."
+msgstr "Valitse tämä kun haluat siirtää All in One SEO Pack valikkokohteen WordPress-hallintapaneelin  yläosaan. "
+
+#: aioseop_class.php:184
+msgid "Enter your verification code here to verify your site with Google Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Kirjoita vahvistuskoodi tähän kun haluat vahvistaa sivuston Google Webmaster Tools -palvelulle.<br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Klikkaa tästä ja saat tätä toimintoa koskevat ohjeet</a>"
+
+#: aioseop_class.php:185
+msgid "Enter your verification code here to verify your site with Bing Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Kirjoita vahvistuskoodi tähän kun haluat vahvistaa sivuston Bing Webmaster Tools -palvelulle.<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Klikkaa tästä ja saat tätä toimintoa koskevat ohjeet</a>"
+
+#: aioseop_class.php:186
+msgid "Enter your verification code here to verify your site with Pinterest.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Kirjoita vahvistuskoodi tähän kun haluat vahvistaa sivustosi Pinterest-palvelulle.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Klikkaa tästä ja saat tätä toimintoa koskevat ohjeet</a>"
+
+#: aioseop_class.php:187
+msgid "Enter your Google+ Profile URL here to add the rel=“author” tag to your site for Google authorship. It is recommended that the URL you enter here should be your personal Google+ profile.  Use the Advanced Authorship Options below if you want greater control over the use of authorship."
+msgstr "Kirjoita Google+ profiliilin verkko-osoite/URL tähän kun haluat lisätäkse rel=“author” tagin sivustolle ja osoittaa Googlelle, että olet sivun tekijä. On suositeltua, että verkko-osoite/URL on henkilökohtainen Google+ profiili.  Käytä edistyneitä tekijävalintoja alla, jos haluat hallita niitä enemmän."
+
+#: aioseop_class.php:188
+msgid "Check this to remove the Google Plus field from the user profile screen."
+msgstr "Valitse tämä kun haluat poistaa Google Plus kentän käyttäjäprofiilin sivulta. "
+
+#: aioseop_class.php:189
+msgid "Enable this to display advanced options for controlling Google Plus authorship information on your website."
+msgstr "Ota tämä käyttöön kun jaluat näyttää edistyneet valinnat jotka koskevat Google Plus -tekijätietoja sivustolla."
+
+#: aioseop_class.php:193
+msgid "Add markup to display the Google Sitelinks Search Box next to your search results in Google."
+msgstr "Lisää merkintä jolla voit näyttää Google Sivustolinkki -hakukentän sivuston hakutulosten vieressä Googlessa."
+
+#: aioseop_class.php:194
+msgid "Add markup to tell Google the preferred name for your website."
+msgstr "Lisää merkintä jolla voit kertoa Googlelle sivuston ensisijaisen nimen."
+
+#: aioseop_class.php:195
+msgid "Press the connect button to connect with Google Analytics; or if already connected, press the disconnect button to disable and remove any stored analytics credentials."
+msgstr "Paina yhdistä -painiketta kun haluat yhdistää Google Analytics -palveluun. Tai jos yhteys on jo luotu, paina lopeta yhteys -painiketta kun haluat lopettaa ja poistaa kaikki tallennetut analytiikka valtuutukset. "
+
+#: aioseop_class.php:196
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "Kirjoita Google Analytics tunnus/ID tähän kun haluat seurata Google Analytics -palvelun avulla kävijöiden käyttäytymistä sivustolla."
+
+#: aioseop_class.php:197
+msgid "Use the new Universal Analytics tracking code for Google Analytics."
+msgstr "Käytä Google Analytics -palvelun uutta Universal Analytics -seurantakoodia."
+
+#: aioseop_class.php:198
+msgid "Check to use advanced Google Analytics options."
+msgstr "Valitse kun haluat käyttääi edistyneitä Google Analytics -valintoja."
+
+#: aioseop_class.php:199
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "Kun haluat asettaa evästeen verkkotunnuksen, kirjoita verkkotunnus ilman \"http://\"-osaa."
+
+#: aioseop_class.php:200
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "Tässä voit ottaa käyttöön useiden verkkotunnusten- tai muiden verkkotunnusten seurannan."
+
+#: aioseop_class.php:201
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "Lisää lista muista seurattavista verkko-osoitteista tähän. Kirjoita yksi verkko-osoite per rivi ilman http:// -osaa."
+
+#: aioseop_class.php:202
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "Tämä mahdollistaa tuen anonyymille IP:lle Google Analytics -palvelussa."
+
+#: aioseop_class.php:203
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "Tämä mahdollistaa tuen Display Advertiser Features -ominaisuudelle Google Analytics -palvelussa."
+
+#: aioseop_class.php:204
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "Poista sisäänkirjautuneet käyttäjät Google Analyticsin seurannasta roolin mukaan."
+
+#: aioseop_class.php:205
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "Valitse tämä jos haluat seurata lähteviä linkkejä Google Analytics -palvelussa."
+
+#: aioseop_class.php:206
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "Tämä mahdollistaa tuen parannetulle linkkien nimeämiselle (Enhanced Link Attribution) Google Analytics- palvelussa."
+
+#: aioseop_class.php:207
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "Tämä mahdollistaa tuen parannetulle verkkokaupalle (Enhanced Ecommerce) Google Analytics -palvelussa."
+
+#: aioseop_class.php:208
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "Aseta oletukseksi NOINDEX-asetus kaikille sisältötyypeille."
+
+#: aioseop_class.php:209
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "Aseta oletukseksi NOFOLLOW-asetus kaikille sisältötyypeille."
+
+#: aioseop_class.php:211
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "Valitse tämä ruutu kun haluat pyytää että hakukoneet eivät indeksoi kategoria-arkistoja. Hyödyllistä, kun halutaan estää toistuvaa sisältöä."
+
+#: aioseop_class.php:212
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "Valitse tämä kun haluat pyytää että hakukoneet eivät indeksoi päivämääräarkistoja. Hyödyllistä, kun halutaan välttää toistuvaa sisältöä."
+
+#: aioseop_class.php:213
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "Valitse tämä kun haluat pyytää että hakukoneet eivät indeksoi tekijäarkistoja. Hyödyllistä, kun halutaan välttää toistuvaa sisältöä."
+
+#: aioseop_class.php:214
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "Valitse tämä kun haluat pyytää että hakukoneet eivät indeksoi tagiarkistoja. Hyödyllistä, kun halutaan välttää toistuvaa sisältöä."
+
+#: aioseop_class.php:215
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "Valitse tämä kun haluat pyytää että hakukoneet eivät indeksoi hakusivua. Hyödyllistä, kun halutaan välttää toistuvaa sisältöä."
+
+#: aioseop_class.php:216
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "Valitse tämä kun haluat pyytää että hakukoneet eivät indeksoi 404 (ei löydy) sivua."
+
+#: aioseop_class.php:217
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "Valitse tämä kun haluat pyytää että hakukoneet eivät indeksoi luokitteluarkistosivuja. Hyödyllistä, kun halutaan välttää toistuvaa sisältöä."
+
+#: aioseop_class.php:218
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Valitse tämä kun haluat pyytää että hakukoneet eivät indeksoi sivunumeroituja sivuja/artikkeleita. Hyödyllistä, kun halutaan välttää toistuvaa sisältöä."
+
+#: aioseop_class.php:219
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Valitse tämä kun haluat pyytää että hakukoneet eivät seuraa linkkejä sivunumeroiduista sivuista/artikkeleista. Hyödyllistä, kun halutaan välttää toistuvaa sisältöä."
+
+#: aioseop_class.php:220
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for your entire site."
+msgstr "Valitse tämä kun haluat pyytää että hakukoneet eivät käytä Open Directory Projectin kuvauksia koko sivustolla."
+
+#: aioseop_class.php:221
+msgid "Set the default noodp setting for each Post Type."
+msgstr "Aseta noodp-oletusasetus jokaiselle sisältötyypille."
+
+#: aioseop_class.php:222
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for your entire site."
+msgstr "Valitse tämä ruutu kun haluat pyytää että Yahoo! ei käytä kuvauksia Yahoo! hakemistosta koko sivustolle."
+
+#: aioseop_class.php:223
+msgid "Set the default noydir setting for each Post Type."
+msgstr "Valitse oletuksena käytettävä noydir-asetus jokaiselle sisältötyypille."
+
+#: aioseop_class.php:224
+msgid "Check this and your Meta Descriptions won't be generated from the excerpt."
+msgstr "Valitse tämä niin meta-kuvauksia ei luoda otteesta."
+
+#: aioseop_class.php:225
+msgid "Check this and your Meta Descriptions will be auto-generated from your excerpt or content."
+msgstr "Valitse tämä niin meta-kuvaukset luodaan automaattisesti otteesta tai sisällöstä."
+
+#: aioseop_class.php:226
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "Valitse tämä niin lyhytkoodit suoritetaan sisällöstä automaattisesti luoduille kuvauksille."
+
+#: aioseop_class.php:227
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "Valitse tämä, niin meta-kuvaukset poistetaan sivulta 2 tai sitä seuraavien sivujen sisällöstä."
+
+#: aioseop_class.php:228
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "Valitse tämä kun haluat estää kuvauksen katkaisun, riippumatta sen pituudesta."
+
+#: aioseop_class.php:229
+msgid "Check this to support Schema.org markup, i.e., itemprop on supported metadata."
+msgstr "Valitse tämä kun tuetaan Schema.org-merkintää, toisin sanoen itemprop tuetulle metatiedolle."
+
+#: aioseop_class.php:230
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "Valitse tämä, kun suojaat sisäisiä artikkelimetatietojen kenttiä XMLRPC-käytön yhteydessä. Jos et tiedä mitä tämä tarkoittaa, älä valitse tätä."
+
+#: aioseop_class.php:233
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Tähän kirjoitettu teksti kopioidaan sellaisenaan kaikkien artikkelien headeriin. Voit lisätä mitä tahansa lisäotsakkeita tähän, jopa viitteitä tyylitiedostoihin."
+
+#: aioseop_class.php:234
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Tähän kirjoitettu teksti kopioidaan sellaisenaan kaikkien sivujen otsakkeeseen. Voit kirjoittaa mitä tahansa lisäotsakkeita tähän, jopa viitteitä tyylisivuihin."
+
+#: aioseop_class.php:235
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "Tähän kirjoitettu teksti kopioidaan sellaisenaan etusivun otsakkeeseen, jos olet asettanut staattisen etusivun Asetuksien kohdasta Lukeminen, Etusivulla näytetään. Voit kirjoittaa mitä tahansa lisäotsakkeita tähän, jopa viitteitä tyylisivuihin. Jos tähän ei ole kirjoitettu mitään ja sivujen lisäotsakkeet ovat käytössä, silloin käytetään niitä."
+
+#: aioseop_class.php:236
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Tähän kirjoitettu teksti kopioidaan sellaisenaan etusivun headeriin, jos etusivu on asetettu näyttämään uusimmat artikkelit asetusten kohdasta Lukeminen. Se myös kopioidaan sellaisenaan artikkelien sivun headeriin, jos sellainen on määritelty asetusten kohdassa Lukeminen. Voit kirjoittaa mitä tahansa lisäotsakkeita tähä, jopa viittauksia tyylitiedostoihin."
+
+#: aioseop_class.php:331
+msgid "A preview of what this page might look like in search engine results."
+msgstr "Esikatselu siitä, miltä tämä sivu saattaa näyttää hakukoneiden tuloksissa:"
+
+#: aioseop_class.php:332
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "Mukautettu otsikko, joka näkyy tämän sivun otsikkotagissa. "
+
+#: aioseop_class.php:333
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "Tämän sivun META-kuvaus. Tämä ohittaa kaikki automaattiset kuvaukset. "
+
+#: aioseop_class.php:334
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "Pilkulla erotettu lista tämän sivun tärkeimmistä avainsanoista, jotka kirjoitetaan META-avainsanoiksi."
+
+#: aioseop_class.php:335
+msgid "Override the canonical URLs for this post."
+msgstr "Ohita alkuperän ilmaisevat verkko-osoitteet tälle artikkelille."
+
+#: aioseop_class.php:336
+msgid "Check this box to ask search engines not to index this page."
+msgstr "Valitse tämä ruutu kun haluat pyytää että hakukoneet eivät indeksoi tätä sivua."
+
+#: aioseop_class.php:337
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "Valitse tämä kun haluat pyytää että hakukoneet eivät seuraa linkkejä tältä sivulta."
+
+#: aioseop_class.php:338
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for this page."
+msgstr "Valitse tämä ruutu kun haluat pyytää että hakukoneet eivät käytä Open Directory Projectin kuvauksia tästä sivusta."
+
+#: aioseop_class.php:339
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for this page."
+msgstr "Valitse tämä ruutu kun haluat pyytää että Yahoo! ei käytä Yahoo!:n hakemiston kuvauksia tälle sivulle."
+
+#: aioseop_class.php:340
+msgid "Set the title attribute for menu links."
+msgstr "Aseta otsikko-ominaisuus valikkolinkeille."
+
+#: aioseop_class.php:341
+msgid "Set the label for this page menu item."
+msgstr "Aseta merkintä tämän sivun valikkokohteelle."
+
+#: aioseop_class.php:342
+msgid "Don't display this page in the sitemap."
+msgstr "Älä näytä tätä sivua sivustokartalla."
+
+#: aioseop_class.php:343
+msgid "Disable SEO on this page."
+msgstr "Poista hakukoneoptimointi/SEO käytöstä tällä sivulla."
+
+#: aioseop_class.php:344
+msgid "Disable Google Analytics on this page."
+msgstr "Poista Google Analytics -palvelu käytöstä tällä sivulla."
+
+#: aioseop_class.php:353
+msgid "I enjoy this plugin and have made a donation:"
+msgstr "Nautin tästä lisäosasta ja olen tehnyt lahjoituksen:"
+
+#: aioseop_class.php:356
+msgid "Home Title:"
+msgstr "Etusivun otsikko:"
+
+#: aioseop_class.php:366
+msgid "Home Description:"
+msgstr "Etusivun kuvaus:"
+
+#: aioseop_class.php:376
+msgid "Use Keywords:"
+msgstr "Käytä avainsanoja:"
+
+#: aioseop_class.php:380 aioseop_class.php:396 aioseop_class.php:430
+#: aioseop_class.php:440 aioseop_class.php:449 aioseop_class.php:538
+#: aioseop_class.php:559 aioseop_class.php:651 aioseop_class.php:667
+#: aioseop_class.php:700 modules/aioseop_performance.php:67
+msgid "Enabled"
+msgstr "Käytössä"
+
+#: aioseop_class.php:381 aioseop_class.php:397 aioseop_class.php:431
+#: aioseop_class.php:441 aioseop_class.php:450 aioseop_class.php:539
+#: aioseop_class.php:560 aioseop_class.php:652 aioseop_class.php:668
+#: aioseop_class.php:701 modules/aioseop_performance.php:68
+msgid "Disabled"
+msgstr "Kopioi alkuperäisestä"
+
+#: aioseop_class.php:385
+msgid "Home Keywords (comma separated):"
+msgstr "Etusivun avainsanat (erotettu pilkulla):"
+
+#: aioseop_class.php:392
+msgid "Use Static Front Page Instead"
+msgstr "Käytä staattista etusivua "
+
+#: aioseop_class.php:401
+msgid "Canonical URLs:"
+msgstr "Alkuperän ilmaisevat verkko-osoitteet (canonical-):"
+
+#: aioseop_class.php:405
+msgid "No Pagination for Canonical URLs:"
+msgstr "Ei sivutusta alkuperän ilmaiseville verkko-osoitteille (canonical-):"
+
+#: aioseop_class.php:410
+msgid "Enable Custom Canonical URLs:"
+msgstr "Ota käyttöön mukautetut alkuperän ilmaisevat verkko-osoitteet (canonical):"
+
+#: aioseop_class.php:415
+msgid "Set Protocol For Canonical URLs:"
+msgstr "Aseta protokolla mukautetuille alkuperän ilmaiseville verkko-osoitteille (canonical):"
+
+#: aioseop_class.php:419
+msgid "Auto"
+msgstr "Automaattinen"
+
+#: aioseop_class.php:420
+msgid "HTTP"
+msgstr "HTTP"
+
+#: aioseop_class.php:421
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: aioseop_class.php:426
+msgid "Rewrite Titles:"
+msgstr "Uudelleenkirjoita otsikot:"
+
+#: aioseop_class.php:435 modules/aioseop_performance.php:63
+msgid "Force Rewrites:"
+msgstr "Pakota uudelleenkirjoitukset:"
+
+#: aioseop_class.php:445
+msgid "Use Original Title:"
+msgstr "Käytä alkuperäistä otsikkoa:"
+
+#: aioseop_class.php:458
+msgid "Capitalize Category Titles:"
+msgstr "Muuta kategorioiden otsikot isolla kirjaimella alkaviksi:"
+
+#: aioseop_class.php:462
+msgid "Home Page Title Format:"
+msgstr "Etusivun otsikon muoto:"
+
+#: aioseop_class.php:468
+msgid "Page Title Format:"
+msgstr "Sivun otsikon muoto:"
+
+#: aioseop_class.php:474
+msgid "Post Title Format:"
+msgstr "Artikkelin otsikon muoto:"
+
+#: aioseop_class.php:480
+msgid "Category Title Format:"
+msgstr "Kategoriaotsikon muoto:"
+
+#: aioseop_class.php:486
+msgid "Archive Title Format:"
+msgstr "Arkisto-otsikon muoto:"
+
+#: aioseop_class.php:492
+msgid "Date Archive Title Format:"
+msgstr "Päivämääräarkiston otsikon muoto:"
+
+#: aioseop_class.php:498
+msgid "Author Archive Title Format:"
+msgstr "Tekijäarkiston otsikon muoto:"
+
+#: aioseop_class.php:504
+msgid "Tag Title Format:"
+msgstr "Tagin otsikon muoto:"
+
+#: aioseop_class.php:510
+msgid "Search Title Format:"
+msgstr "Haun otsikon muoto:"
+
+#: aioseop_class.php:516
+msgid "Description Format"
+msgstr "Kuvauksen muoto"
+
+#: aioseop_class.php:522
+msgid "404 Title Format:"
+msgstr "404 otsikon muoto:"
+
+#: aioseop_class.php:528
+msgid "Paged Format:"
+msgstr "Sivutuksen muoto:"
+
+#: aioseop_class.php:534
+msgid "SEO for Custom Post Types:"
+msgstr "Hakukoneoptimointi/SEO mukautetuille sisältötyypeille:"
+
+#: aioseop_class.php:543
+msgid "SEO on only these post types:"
+msgstr "Hakukoneoptimointi/SEO vain näille sisältötyypeille:"
+
+#: aioseop_class.php:555
+msgid "Enable Advanced Options:"
+msgstr "Ota käyttöön edistyneet valinnat:"
+
+#: aioseop_class.php:566
+msgid "Default to NOINDEX:"
+msgstr "NOINDEX oletukseksi:"
+
+#: aioseop_class.php:571
+msgid "Default to NOFOLLOW:"
+msgstr "NOFOLLOW oletukseksi:"
+
+#: aioseop_class.php:576
+msgid "Default to NOODP:"
+msgstr "NOODP oletukseksi:"
+
+#: aioseop_class.php:581
+msgid "Default to NOYDIR:"
+msgstr "Oletuksena NOYDIR:"
+
+#: aioseop_class.php:586
+msgid "Custom titles:"
+msgstr "Mukautetut otsikot:"
+
+#: aioseop_class.php:596
+msgid "Show Column Labels for Custom Post Types:"
+msgstr "Näytä saraketunnisteet mukautetuille sisältötyypeille:"
+
+#: aioseop_class.php:602
+msgid "Display Menu In Admin Bar:"
+msgstr "Näytä valikko hallintapaneelin yläpalkissa:"
+
+#: aioseop_class.php:606
+msgid "Display Menu At The Top:"
+msgstr "Näytä valikko ylhäällä:"
+
+#: aioseop_class.php:610
+msgid "Google Webmaster Tools:"
+msgstr "Googlen verkkovastaavan työkalut:"
+
+#: aioseop_class.php:615
+msgid "Bing Webmaster Center:"
+msgstr "Bing verkkovastaava-keskus:"
+
+#: aioseop_class.php:620
+msgid "Pinterest Site Verification:"
+msgstr "Pinterest sivuston varmistus:"
+
+#: aioseop_class.php:625
+msgid "Google Plus Default Profile:"
+msgstr "Google Plus -oletusprofiili:"
+
+#: aioseop_class.php:630
+msgid "Disable Google Plus Profile:"
+msgstr "Poista Google Plus -profiili käytöstä:"
+
+#: aioseop_class.php:635
+msgid "Display Sitelinks Search Box:"
+msgstr "Näytä sivustolinkkien hakukenttä:"
+
+#: aioseop_class.php:638
+msgid "Set Preferred Site Name:"
+msgstr "Aseta ensisijainen sivuston nimi:"
+
+#: aioseop_class.php:641
+msgid "Specify A Preferred Name:"
+msgstr "Määritä ensisijainen sivuston nimi:"
+
+#: aioseop_class.php:647
+msgid "Advanced Authorship Options:"
+msgstr "Edistyneet tekijävalinnat:"
+
+#: aioseop_class.php:657
+msgid "Display Google Authorship:"
+msgstr "Näytä Google-tekijätiedot:"
+
+#: aioseop_class.php:663
+msgid "Display Publisher Meta on Front Page:"
+msgstr "Näytä julkaisijan metatiedot etusivulla:"
+
+#: aioseop_class.php:673
+msgid "Specify Publisher URL:"
+msgstr "Määritä julkaisijan verkko-osoite/URL:"
+
+#: aioseop_class.php:679
+msgid "Google Analytics ID:"
+msgstr "Google Analytics -palvelun tunnus/ID:"
+
+#: aioseop_class.php:685
+msgid "Use Universal Analytics:"
+msgstr "Käytä Universal Analytics -palvelua:"
+
+#: aioseop_class.php:696
+msgid "Advanced Analytics Options:"
+msgstr "Edistyneet analytiikka-asetukset:"
+
+#: aioseop_class.php:712
+msgid "Tracking Domain:"
+msgstr "Seuranta-verkkotunnus:"
+
+#: aioseop_class.php:724
+msgid "Track Multiple Domains:"
+msgstr "Seuraa useita verkkotunnuksia:"
+
+#: aioseop_class.php:736
+msgid "Additional Domains:"
+msgstr "Lisäverkkotunnukset:"
+
+#: aioseop_class.php:749
+msgid "Anonymize IP Addresses:"
+msgstr "Tee IP-osoitteet anonyymeiksi:"
+
+#: aioseop_class.php:761
+msgid "Display Advertiser Tracking:"
+msgstr "Näytä mainostaja-seuranta:"
+
+#: aioseop_class.php:773
+msgid "Exclude Users From Tracking:"
+msgstr "Poissulje käyttäjät seurannasta:"
+
+#: aioseop_class.php:785
+msgid "Track Outbound Links:"
+msgstr "Seuraa lähteviä linkkejä:"
+
+#: aioseop_class.php:797
+msgid "Enhanced Link Attribution:"
+msgstr "Paranneltu linkkien vaikuttavuus:"
+
+#: aioseop_class.php:809
+msgid "Enhanced Ecommerce:"
+msgstr "Paranneltu verkkokauppa:"
+
+#: aioseop_class.php:822
+msgid "Use Categories for META keywords:"
+msgstr "Käytä kategorioita META-avainsanoille:"
+
+#: aioseop_class.php:827
+msgid "Use Tags for META keywords:"
+msgstr "Käytä tageja META-avainsanoille: "
+
+#: aioseop_class.php:832
+msgid "Dynamically Generate Keywords for Posts Page/Archives:"
+msgstr "Luo avainsanoja dynaamisesti artikkelien sivulle/arkistoille:"
+
+#: aioseop_class.php:837
+msgid "Use noindex for Categories:"
+msgstr "Käytä noindex-attribuuttia kategorioille:"
+
+#: aioseop_class.php:841
+msgid "Use noindex for Date Archives:"
+msgstr "Käytä noindex-attribuuttia päivämääräarkistoille:"
+
+#: aioseop_class.php:845
+msgid "Use noindex for Author Archives:"
+msgstr "Käytä noindex-attribuuttia kirjoittaja-arkistoille:"
+
+#: aioseop_class.php:849
+msgid "Use noindex for Tag Archives:"
+msgstr "Käytä noindex-parametria tagiarkistoille:"
+
+#: aioseop_class.php:853
+msgid "Use noindex for the Search page:"
+msgstr "Käytä noindex-parametria hakusivulla:"
+
+#: aioseop_class.php:857
+msgid "Use noindex for the 404 page:"
+msgstr "Käytä noindex-parametria 404 (ei löydy) sivulle:"
+
+#: aioseop_class.php:861
+msgid "Use noindex for Taxonomy Archives:"
+msgstr "Käytä noindex-parametria luokitteluarkistoille:"
+
+#: aioseop_class.php:867
+msgid "Use noindex for paginated pages/posts:"
+msgstr "Käytä noindex-parametria sivunumeroiduille sivuille/artikkeleille:"
+
+#: aioseop_class.php:871
+msgid "Use nofollow for paginated pages/posts:"
+msgstr "Käytä nofollow-parametria sivunumeroiduille sivuille/artikkeleille:"
+
+#: aioseop_class.php:875
+msgid "Exclude site from the Open Directory Project:"
+msgstr "Älä sisällytä sivustoa Open Directory Projectiin:"
+
+#: aioseop_class.php:879
+msgid "Exclude site from Yahoo! Directory:"
+msgstr "Älä sisällytä sivustoa Yahoo! hakemistoon:"
+
+#: aioseop_class.php:883
+msgid "Avoid Using The Excerpt In Descriptions:"
+msgstr "Vältä otteen käyttöä kuvauksissa:"
+
+#: aioseop_class.php:887
+msgid "Autogenerate Descriptions:"
+msgstr "Luo kuvaukset automaattisesti:"
+
+#: aioseop_class.php:891
+msgid "Run Shortcodes In Autogenerated Descriptions:"
+msgstr "Käytä lyhytkoodeja automaattisesti luoduissa kuvauksissa:"
+
+#: aioseop_class.php:896
+msgid "Remove Descriptions For Paginated Pages:"
+msgstr "Poista kuvaukset sivunumeroiduista sivuista:"
+
+#: aioseop_class.php:900
+msgid "Never Shorten Long Descriptions:"
+msgstr "Älä koskaan lyhennä pitkiä kuvauksia:"
+
+#: aioseop_class.php:904
+msgid "Use Schema.org Markup"
+msgstr "Käytä Schema.org -merkintää"
+
+#: aioseop_class.php:908
+msgid "Unprotect Post Meta Fields:"
+msgstr "Poista suojaus artikkelien metatietokentistä:"
+
+#: aioseop_class.php:916
+msgid "Exclude Pages:"
+msgstr "Poissulje sivut:"
+
+#: aioseop_class.php:921
+msgid "Additional Post Headers:"
+msgstr "Lisää artikkelin ylätunnisteita:"
+
+#: aioseop_class.php:927
+msgid "Additional Page Headers:"
+msgstr "Lisää sivun ylätunnisteita:"
+
+#: aioseop_class.php:933
+msgid "Additional Front Page Headers:"
+msgstr "Lisää etusivun ylätunnisteita:"
+
+#: aioseop_class.php:939
+msgid "Additional Blog Page Headers:"
+msgstr "Lisää blogisivun ylätunnisteita:"
+
+#: aioseop_class.php:945
+msgid "Log important events:"
+msgstr "Kirjaa lokiin tärkeät tapahtumat:"
+
+#: aioseop_class.php:999
+msgid "Upgrade to All in One SEO Pack Pro Version"
+msgstr "Päivitä All in One SEO Pack Pro -versioon"
+
+#: aioseop_class.php:1008
+msgid "Preview Snippet"
+msgstr "Tekstinpätkän esikatselu"
+
+#: aioseop_class.php:1025 modules/aioseop_opengraph.php:398
+msgid "Title"
+msgstr "Otsikko"
+
+#: aioseop_class.php:1031 modules/aioseop_opengraph.php:406
+msgid "Description"
+msgstr "Kuvaus"
+
+#: aioseop_class.php:1039
+msgid "Keywords (comma separated)"
+msgstr "Avainsanat (erotettu pilkulla)"
+
+#: aioseop_class.php:1043
+msgid "Custom Canonical URL"
+msgstr "Mukautettu alkuperän ilmaiseva verkko-osoite (canonical-)"
+
+#: aioseop_class.php:1048
+msgid "Robots Meta NOINDEX"
+msgstr "Robots meta NOINDEX"
+
+#: aioseop_class.php:1052
+msgid "Robots Meta NOFOLLOW"
+msgstr "Robots meta NOFOLLOW"
+
+#: aioseop_class.php:1055
+msgid "Robots Meta NOODP"
+msgstr "Robots meta NOODP"
+
+#: aioseop_class.php:1056
+msgid "Robots Meta NOYDIR"
+msgstr "Robots meta NOYDIR"
+
+#: aioseop_class.php:1058
+msgid "Title Attribute"
+msgstr "Otsikkoattribuutti"
+
+#: aioseop_class.php:1063
+msgid "Menu Label"
+msgstr "Valikkotunnus"
+
+#: aioseop_class.php:1067
+msgid "Exclude From Sitemap"
+msgstr "Älä sisällytä sivustokarttaan"
+
+#: aioseop_class.php:1068
+msgid "Disable on this page/post"
+msgstr "Poista käytöstä tällä sivulla/artikkelissa"
+
+#: aioseop_class.php:1070
+msgid "Disable Google Analytics"
+msgstr "Poista käytöstä Google Analytics"
+
+#: aioseop_class.php:1091 modules/aioseop_opengraph.php:562
+msgid "Home Page Settings"
+msgstr "Etusivun asetukset"
+
+#: aioseop_class.php:1200
+msgid "Keyword Settings"
+msgstr "Avainsana-asetukset"
+
+#: aioseop_class.php:1096
+msgid "Title Settings"
+msgstr "Otsikoiden asetukset"
+
+#: aioseop_class.php:1118
+msgid "Custom Post Type Settings"
+msgstr "Mukautetut sisältötyyppien asetukset"
+
+#: aioseop_class.php:1123
+msgid "Display Settings"
+msgstr "Näyttöasetukset"
+
+#: aioseop_class.php:1128
+msgid "Webmaster Verification"
+msgstr "Verkkovastaavan todentaminen"
+
+#: aioseop_class.php:1133
+msgid "Google Settings"
+msgstr "Google-asetukset"
+
+#: aioseop_class.php:160
+msgid "%search% - What was searched for"
+msgstr "%search% - Mitä haettiin"
+
+#: aioseop_class.php:161
+msgid "This controls the format of Meta Descriptions.The following macros are supported:"
+msgstr "Tässä asetetaan meta-kuvausten otsikkotagin muoto. Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:164
+msgid "%description% - The original description as determined by the plugin, e.g. the excerpt if one is set or an auto-generated one if that option is set"
+msgstr "%description% - Lisäosan määrittämä alkuperäinen kuvaus, kuten mahdollinen ote tai automaattisesti luotu kuvaus, jos sellainen on asetettu"
+
+#: aioseop_class.php:166
+msgid "%wp_title% - The original wordpress title, e.g. post_title for posts"
+msgstr "%wp_title% - Alkuperäinen WordPress -otsikko, esimerkiksi post_title artikkeleille"
+
+#: aioseop_class.php:167
+msgid "This controls the format of the title tag for the 404 page.<br />The following macros are supported:"
+msgstr "Tässä asetetaan 404-sivun otsikkotagin muoto.<br />Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:121
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - Artikkelin (pääasiallinen) kategoria"
+
+#: aioseop_class.php:122
+msgid "%category% - Alias for %category_title%"
+msgstr "%category% - %category_title% toiselta nimeltään"
+
+#: aioseop_class.php:123 aioseop_class.php:3212
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - Tämän artikkelin kirjoittajan käyttäjätunnus"
+
+#: aioseop_class.php:124 aioseop_class.php:3213
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - Tämän artikkelin kirjoittajan lempinimi"
+
+#: aioseop_class.php:125 aioseop_class.php:3214
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - Tämän artikkelin kirjoittajan etunimi (alkaa isolla kirjaimella)"
+
+#: aioseop_class.php:126 aioseop_class.php:3215
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - Tämän artikkelin kirjoittajan sukunimi (alkaa isolla kirjaimella)"
+
+#: aioseop_class.php:128
+msgid "This controls the format of the title tag for Category Archives.<br />The following macros are supported:"
+msgstr "Tässä asetetaan kategoria-arkistojen otsikkotagin muoto.<br />Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:131
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - Kategorian alkuperäinen otsikko"
+
+#: aioseop_class.php:132
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - Kategorian kuvaus"
+
+#: aioseop_class.php:134
+msgid "This controls the format of the title tag for Custom Post Archives.<br />The following macros are supported:"
+msgstr "Tässä asetetaan mukautettu artikkeli arkistojen otsikkotagin muoto.<br />Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:137
+msgid "%archive_title - The original archive title given by wordpress"
+msgstr "%archive_title - WordPressin antama alkuperäinen arkisto-otsikko"
+
+#: aioseop_class.php:139
+msgid "This controls the format of the title tag for Date Archives.<br />The following macros are supported:"
+msgstr "Tässä asetetaan päivämääräarkistojen otsikkotagin muoto.<br />Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:142
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - Wordpressin antama alkuperäinen arkisto-otsikko, esim. \"2007\" or \"2007 August\""
+
+#: aioseop_class.php:143
+msgid "%day% - The original archive day given by wordpress, e.g. \"17\""
+msgstr "%day% - WordPressin antama alkuperäinen arkistopäivä, esim. \"17\""
+
+#: aioseop_class.php:144
+msgid "%month% - The original archive month given by wordpress, e.g. \"August\""
+msgstr "%month% - WordPressin antama alkuperäinen arkistokuukausi, esim. \"elokuu\""
+
+#: aioseop_class.php:145
+msgid "%year% - The original archive year given by wordpress, e.g. \"2007\""
+msgstr "%year% - Wordpressin antama alkuperäinen arkistovuosi, esim. \"2007\""
+
+#: aioseop_class.php:147
+msgid "This controls the format of the title tag for Author Archives.<br />The following macros are supported:"
+msgstr "Tässä asetetaan tekijäarkistojen otsikkotagin muoto.<br />Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:150
+msgid "%author% - The original archive title given by wordpress, e.g. \"Steve\" or \"John Smith\""
+msgstr "%author% - Alkuperäinen WordPressin antama arkisto-otsikko, esimerkiksi \"Steve\" tai \"John Smith\""
+
+#: aioseop_class.php:152
+msgid "This controls the format of the title tag for Tag Archives.<br />The following macros are supported:"
+msgstr "Tässä asetetaan tagiarkistojen otsikkotagin muoto.<br />Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:155
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - Tagin nimi"
+
+#: aioseop_class.php:157
+msgid "This controls the format of the title tag for the Search page.<br />The following macros are supported:"
+msgstr "Tässä asetetaan hakusivun otsikkotagin muoto.<br />Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:101 aioseop_class.php:110 aioseop_class.php:119
+#: aioseop_class.php:130 aioseop_class.php:136 aioseop_class.php:141
+#: aioseop_class.php:149 aioseop_class.php:154 aioseop_class.php:159
+#: aioseop_class.php:163 aioseop_class.php:169 aioseop_class.php:3203
+#: aioseop_class.php:3255
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - Blogin kuvaus"
+
+#: aioseop_class.php:102 aioseop_class.php:111
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - Sivun alkuperäinen otsikko"
+
+#: aioseop_class.php:103 aioseop_class.php:112
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - Tämän sivun kirjoittajan sisäänkirjautuminen"
+
+#: aioseop_class.php:104 aioseop_class.php:113
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% - Tämän sivun kirjoittajan lempinimi"
+
+#: aioseop_class.php:105 aioseop_class.php:114
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - Tämän sivun kirjoittajan etunimi (alkaa isolla kirjaimella)"
+
+#: aioseop_class.php:106 aioseop_class.php:115
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - Tämän sivun kirjoittajan sukunimi (alkaa isolla kirjaimella)"
+
+#: aioseop_class.php:108
+msgid "This controls the format of the title tag for Pages.<br />The following macros are supported:"
+msgstr "Tässä asetetaan sivujen otsikkotagin muoto.<br />Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:117
+msgid "This controls the format of the title tag for Posts.<br />The following macros are supported:"
+msgstr "Tässä asetetaan artikkelien otsikkotagin muoto.<br />Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:120 aioseop_class.php:165
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - Artikkelin alkuperäinen otsikko"
+
+#: aioseop_class.php:83
+msgid "Checking this option will allow you to customize Canonical URLs for specific posts."
+msgstr "Tämä valinta mahdollistaa alkuperän ilmaisevien verkko-osoitteiden mukauttamisen tietyille artikkeleille."
+
+#: aioseop_class.php:84
+msgid "Set protocol for canonical URLs."
+msgstr "Aseta protokolla alkuperän ilmaiseville verkko-osoiteille (canonical).\t"
+
+#: aioseop_class.php:85
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "Käytä wp_title, jos haluat teeman käyttämän otsikon. Tämä on oletuksena poistettu käytöstä. Jos käytät tätä valintaa, aseta otsikon muodot asianmukaisesti, sillä teemasi saattaa myös yrittää tehdä omaa otsikon hakukoneoptimointia."
+
+#: aioseop_class.php:86
+msgid "Check this and All in One SEO Pack will create a log of important events (all-in-one-seo-pack.log) in its plugin directory which might help debugging. Make sure this directory is writable."
+msgstr "Valitse tämä, niin All in One SEO Pack -lisäosa luo lokitiedoston tärkeistä tapahtumista (all-in-one-seo-pack.log) lisäosan omaan hakemistoon, mikä saattaa auttaa virheiden etsinnässä. Varmista, että tähän hakemistoon voi kirjoittaa. "
+
+#: aioseop_class.php:87
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "Kuten nimi viittaa, tämä tulee olemaan etusivun meta-otsikko. Tämä on riippumaton muista valinnoista. Jos ei ole asetettu, oletuksena olevaa Sivuotsikkoa (löytyy WordPressin Yleisasetuksista kohdasta Sivuotsikko) käytetään."
+
+#: aioseop_class.php:88
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "Tämä tulee olemaan etusivun meta-kuvaus. Tämä on riippumaton muista valinnoista. Oletuksena ei ole mitään meta-kuvausta, jos tämä ei ole asetettu. "
+
+#: aioseop_class.php:90
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "Tämä valinta ottaa käyttöön otsikon, kuvauksen ja avainsanat, jotka on asetettu staattisella etusivulla."
+
+#: aioseop_class.php:91
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Tässä voit vaihtaa meta-avainsanojen käytön tilaa koko sivustolla."
+
+#: aioseop_class.php:92
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Valitse tämä, jos haluat, että tietyn artikkelin kategorioita käytetään meta-avainsanoina tälle artikkelille (Muokkaa artikkelia -ruudulla määriteltyjen avainsanojen lisäksi)."
+
+#: aioseop_class.php:93
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Valitse tämä, jos haluat, että tietyn artikkelin tageja käytetään meta-avainsanoina tälle artikkelille (Muokkaa artikkelia -ruudulla määriteltyjen avainsanojen lisäksi)."
+
+#: aioseop_class.php:94
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Valitse tämä, jos haluat että dynaamisesti tehdyt avainsanat tehdään artikkelien sivulla (asetetaan WordPressissa kohdasta Asetukset, Lukeminen, Etusivulla näytetään) ja arkistosivulla olevien kohteiden sisältämistä avainsanoista. Jos ei valittu, käytetään artikkelien sivun muokkaussivulla asetettuja avainsanoja."
+
+#: aioseop_class.php:95
+msgid "Note that this is all about the title tag. This is what you see in your browser's window title bar. This is NOT visible on a page, only in the title bar and in the source code. If enabled, all page, post, category, search and archive page titles get rewritten. You can specify the format for most of them. For example: Using the default post title format below, Rewrite Titles will write all post titles as 'Post Title | Blog Name'. If you have manually defined a title using All in One SEO Pack, this will become the title of your post in the format string."
+msgstr "Ota huomioon, että tämä kaikki koskee otsikkotagia. Tämä on se, mikä näkyy selainikkunan otsikkopalkissa. Tämä EI näy sivulla, vain otsikkopalkissa ja lähdekoodissa. Jos otettu käyttöön, kaikki sivu-, artikkeli-, kategoria-, haku- ja arkistosivujen otsikot korvataan. Voit määrittää useimpien muodon. Esimerkiksi: Käyttäen oletuksena olevaa artikkelin otsikon muotoa, Korvaa otsikot kirjoittaa kaikki artikkelien otsikot muodossa \"Artikkelinotsikko | Blogin nimi\". Jos olet manuaalisesti määritellyt otsikon All in One SEO Pack -lisäosan avulla, tästä tulee artikkelin otsikko, noin muotoiltuna."
+
+#: aioseop_class.php:96
+msgid "Check this and Search Page Titles and Tag Page Titles will have the first letter of each word capitalized."
+msgstr "Valitse tämä, niin hakusivun otsikkojen ja tagisivun otsikkojen jokainen sana alkaa isolla alkukirjaimella."
+
+#: aioseop_class.php:97
+msgid "Check this and Category Titles will have the first letter of each word capitalized."
+msgstr "Valitse tämä, niin kategoriaotsikkojen jokainen sana alkaa isolla alkukirjaimella."
+
+#: aioseop_class.php:99
+msgid "This controls the format of the title tag for your Home Page.<br />The following macros are supported:"
+msgstr "Tässä asetetaan etusivun otsikkotagin muoto.<br />Seuraavat makrot ovat tuettuja:"
+
+#: aioseop_class.php:100 aioseop_class.php:109 aioseop_class.php:118
+#: aioseop_class.php:129 aioseop_class.php:135 aioseop_class.php:140
+#: aioseop_class.php:148 aioseop_class.php:153 aioseop_class.php:158
+#: aioseop_class.php:162 aioseop_class.php:168 aioseop_class.php:3202
+#: aioseop_class.php:3254
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - Blogiotsikko"
+
+#: aioseop_class.php:79
+msgid "All donations support continued development of this free software."
+msgstr "Kaikki lahjoitukset tukevat tämän ilmaisen ohjelmiston jatkuvaa kehitystä. "
+
+#: aioseop_class.php:81
+msgid "This option will automatically generate Canonical URLs for your entire WordPress installation.  This will help to prevent duplicate content penalties by <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a>."
+msgstr "Tämä valinta luo automaattisesti alkuperän ilmaisevat verkko-osoitteet koko WordPress asennukselle. Tämä auttaa estämään toistuvasta sisällöstä <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a>:n antamat rangaistukset."
+
+#: aioseop_class.php:82
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "Tämä valinta asettaa alkuperän ilmaisevat verkko-osoitteet kaiken sivutetun sisällön 1. sivulle. "
+
+#: modules/aioseop_bad_robots.php:17 modules/aioseop_feature_manager.php:49
+msgid "Bad Bot Blocker"
+msgstr "Haitallisten bottien estäminen"
+
+#: modules/aioseop_bad_robots.php:23
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "Estä pyynnöt selaimilta, joiden tiedetään käyttäytyvän huonosti 503-ilmoituksen suhteen."
+
+#: modules/aioseop_bad_robots.php:25
+msgid "Log and show recent requests from blocked bots."
+msgstr "Kirjaa ja näytä uusimmat pyynnöt estetyiltä boteilta."
+
+#: modules/aioseop_bad_robots.php:27
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "Valitse tämä kun haluat muokata niiden selainten listaa, joita käytetään estämään haitallisia botteja."
+
+#: modules/aioseop_bad_robots.php:28
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "Tämä on lista kielletyistä selaimista, jota käytetään haitallisten bottien estämiseen."
+
+#: modules/aioseop_bad_robots.php:29
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "Tämä on lista kielletyistä lähdesivuista, jota käytetään haitallistan bottien estämiseen."
+
+#: modules/aioseop_bad_robots.php:30
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "Näyttää lokin uusimmista estettyjen bottien pyynnöistä. Huom: tämä toiminto ei seuraa botteja, jotka oli estetty jo palvelimella / .htaccess-tasolla."
+
+#: modules/aioseop_bad_robots.php:36
+msgid "Track Blocked Bots"
+msgstr "Seuraa estettyjä botteja"
+
+#: modules/aioseop_bad_robots.php:40
+msgid "User Agent Blocklist"
+msgstr "Selainten estolista"
+
+#: modules/aioseop_bad_robots.php:48
+msgid "Referer Blocklist"
+msgstr "Lähdesivujen estolista"
+
+#: modules/aioseop_bad_robots.php:59
+msgid "Log Of Blocked Bots"
+msgstr "Estettyjen bottien loki"
+
+#: modules/aioseop_bad_robots.php:60
+msgid "No requests yet."
+msgstr "Ei vielä pyyntöjä."
+
+#: modules/aioseop_bad_robots.php:103
+msgid "Blocked bot with IP %s -- matched user agent %s found in blocklist."
+msgstr "Estetty botti, jonka IP %s -- täsmäävä selain %s löytynyt estolistalta."
+
+#: modules/aioseop_bad_robots.php:109
+msgid "Blocked bot with IP %s -- matched referer %s found in blocklist."
+msgstr "Estetty botti, jonka IP %s -- täsmäävä lähdesivu %s löytynyt estolistalta."
+
+#: modules/aioseop_bad_robots.php:157
+msgid "Apache module %s is required!"
+msgstr "Edellyttää Apache %s moduulia!"
+
+#: modules/aioseop_bad_robots.php:144 modules/aioseop_bad_robots.php:177
+msgid "Updated .htaccess rules."
+msgstr "Päivitetty .htaccess-säännöt."
+
+#: modules/aioseop_bad_robots.php:146 modules/aioseop_bad_robots.php:179
+msgid "Failed to update .htaccess rules!"
+msgstr ".htaccess-tiedoston sääntöjen päivitys ei onnistunut!"
+
+#: modules/aioseop_bad_robots.php:182
+msgid "No rules to update!"
+msgstr "Ei päivitettäviä sääntöjä!"
+
+#: aioseop_class.php:68
+msgid "%s Plugin Options"
+msgstr "%s lisäosan valinnat"
+
+#: aioseop_class.php:69 aioseop_class.php:1086
+#: modules/aioseop_opengraph.php:557
+msgid "General Settings"
+msgstr "Yleiset asetukset"

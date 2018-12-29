@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>element-filter accordion</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-94.000000, -416.000000)">
+            <g id="filter-accordion" transform="translate(94.000000, 416.000000)">
+                <rect id="Rectangle-16" fill="#FFFFFF" x="0" y="0" width="125" height="125"></rect>
+                <g id="Group-2" transform="translate(16.000000, 35.000000)">
+                    <text id="+" font-family="VarelaRound-Regular, Varela Round" font-size="10" font-weight="normal" letter-spacing="0.5" fill="#DDDDDD">
+                        <tspan x="82.44" y="11">+</tspan>
+                    </text>
+                    <rect id="Rectangle-Copy" stroke="#3EB0F7" stroke-width="2" x="1" y="1" width="91" height="12.8311688"></rect>
+                    <path d="M6.45145631,7.80519481 L58,7.80519481" id="Line-Copy-10" stroke="#DDDDDD" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+                <g id="Group-2-Copy" transform="translate(16.000000, 75.000000)">
+                    <text id="+" font-family="VarelaRound-Regular, Varela Round" font-size="10" font-weight="normal" letter-spacing="0.5" fill="#DDDDDD">
+                        <tspan x="82.44" y="11">+</tspan>
+                    </text>
+                    <rect id="Rectangle-Copy" stroke="#3EB0F7" stroke-width="2" x="1" y="1" width="91" height="12.8311688"></rect>
+                    <path d="M6.45145631,7.80519481 L58,7.80519481" id="Line-Copy-10" stroke="#DDDDDD" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+                <g id="Group-2-Copy-2" transform="translate(16.000000, 55.000000)">
+                    <text id="+" font-family="VarelaRound-Regular, Varela Round" font-size="10" font-weight="normal" letter-spacing="0.5" fill="#DDDDDD">
+                        <tspan x="82.44" y="11">+</tspan>
+                    </text>
+                    <rect id="Rectangle-Copy" stroke="#3EB0F7" stroke-width="2" x="1" y="1" width="91" height="12.8311688"></rect>
+                    <path d="M6.45145631,7.80519481 L58,7.80519481" id="Line-Copy-10" stroke="#DDDDDD" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+                <path d="M38.5,24.5 L49.5,24.5" id="Line" stroke="#3EB0F7" stroke-linecap="square"></path>
+                <path d="M57.5,24.5 L68.5,24.5" id="Line-Copy-13" stroke="#3EB0F7" stroke-linecap="square"></path>
+                <path d="M76.5,24.5 L87.5,24.5" id="Line-Copy-14" stroke="#3EB0F7" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

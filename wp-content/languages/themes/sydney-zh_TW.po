@@ -1,0 +1,2038 @@
+# Translation of Themes - Sydney in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Sydney package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-14 16:58:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Sydney\n"
+
+#. Description of the theme
+msgid "Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. As well as being fully compatible with Elementor, Sydney brings plenty of customization possibilities like access to all Google Fonts, full color control, layout control, logo upload, full screen slider, header image, sticky navigation and much more. Also, Sydney provides all the construction blocks you need to rapidly create an engaging front page."
+msgstr "Sydney 是個強大的商用佈景主題，為公司或自由職業者提供了快速建置精美線上形象網站的方式。Sydney 提供了許多客製化選項，例如可使用所有 Google Fonts、完整的色彩設定、版配配置設定、標誌上傳、全螢幕投影片輪播，頁首圖片，固定式導覽列等等。此外，Sydney 提供了大量能快速建置令人注目的首頁的網頁元件。"
+
+#. Theme Name of the theme
+#: inc/theme-info.php:129
+msgid "Sydney"
+msgstr "Sydney"
+
+#: inc/customizer.php:305 inc/customizer.php:1919
+msgid "or go to the Customizer"
+msgstr "或前往 [外觀自訂器]"
+
+#: inc/customizer.php:287 inc/customizer.php:1903
+msgid "Click the pencil icon to change this text"
+msgstr "點擊鉛筆圖示以變更這些文字"
+
+#: inc/theme-info.php:56
+msgid "Install: Elementor"
+msgstr "安裝: Elementor"
+
+#. Template Name of the theme
+msgid "No sidebar"
+msgstr "無側邊欄"
+
+#. Template Name of the theme
+msgid "Page builder ready"
+msgstr "相容於各款頁面編輯器"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "啟用 %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "安裝 %2$s"
+
+#: plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "目前沒有需要安裝、更新或啟用的外掛。"
+
+#. translators: 1: install status, 2: update status
+#: plugins/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: plugins/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA %s 版"
+
+#: plugins/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "有一或多個必要或建議的外掛需要安裝、更新或啟用。"
+
+#. translators: %s: plugin name.
+#: plugins/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "更新中的外掛: %s"
+
+#: inc/template-tags.php:81
+msgctxt "post date"
+msgid "Posted %s"
+msgstr "發表於 %s"
+
+#: inc/customizer.php:1359
+msgid "Single post title size"
+msgstr "單篇文章標題字體大小"
+
+#: inc/customizer.php:817 inc/customizer.php:1846
+msgid "Classic (alternative)"
+msgstr "傳統風格二"
+
+#: inc/theme-info.php:241
+msgid "Buy Sydney Pro "
+msgstr "購買 Sydney Pro "
+
+#: inc/theme-info.php:235
+msgid "Priority support"
+msgstr "優先支援"
+
+#: inc/theme-info.php:230
+msgid "5 Extra Page Templates (Contact, Featured Header - Default, Featured Header - Wide, No Header - Default, No Header - Wide)"
+msgstr "5 個額外的頁面模板 (聯絡資訊、預設精選頁首、橫式精選頁首、預設無頁首、橫式無頁首)"
+
+#: inc/theme-info.php:225
+msgid "WooCommerce compatible"
+msgstr "與 WooCommerce 相容"
+
+#: inc/theme-info.php:220
+msgid "Single Post/Page Options"
+msgstr "單篇文章/頁面設定"
+
+#: inc/theme-info.php:215
+msgid "Header support for shortcodes"
+msgstr "頁首支援短代碼"
+
+#: inc/theme-info.php:210
+msgid "Header support for Crelly Slider"
+msgstr "頁首支援 Crelly Slider 外掛"
+
+#: inc/theme-info.php:205
+msgid "Extra Customizer Options (Front Page Section Titles, Single Employees, Single Projects, Header Contact Info, Buttons)"
+msgstr "額外的 [外觀自訂器] 設定 (首頁區段標題、單一員工資訊、單一專案資訊、頁首聯絡資訊、按鈕)"
+
+#: inc/theme-info.php:200
+msgid "Extra widgets (timeline, latest news in carousel, pricing tables, a new employees widget and a new contact widget)"
+msgstr "額外的小工具 (時間軸、循環顯示的最新消息、價目表、新的員工資訊小工具以及新的聯絡資訊小工具)"
+
+#: inc/theme-info.php:195
+msgid "Footer Credits option"
+msgstr "頁尾版權宣告顯示設定"
+
+#: inc/theme-info.php:190
+msgid "Background image support"
+msgstr "背景圖片支援"
+
+#: inc/theme-info.php:185
+msgid "Widgetized footer"
+msgstr "可放置小工具的頁尾"
+
+#: inc/theme-info.php:175
+msgid "Color options"
+msgstr "色彩設定"
+
+#: inc/theme-info.php:170
+msgid "Polylang integration"
+msgstr "整合 Polylang"
+
+#: inc/theme-info.php:165
+msgid "Translation ready"
+msgstr "可進行本地化"
+
+#: inc/theme-info.php:160
+msgid "Front Page Blocks"
+msgstr "首頁區塊"
+
+#: inc/theme-info.php:155
+msgid "Slider, image or video header"
+msgstr "頁首可設定為投影片輪播、圖片或影片"
+
+#: inc/theme-info.php:150
+msgid "Social Icons"
+msgstr "社交服務圖示"
+
+#: inc/theme-info.php:145
+msgid "Parallax backgrounds"
+msgstr "背景視差滾動"
+
+#: inc/theme-info.php:135
+msgid "Access to all Google Fonts"
+msgstr "可使用所有的 Google Fonts"
+
+#: inc/theme-info.php:130
+msgid "Sydney Pro"
+msgstr "Sydney Pro"
+
+#: inc/theme-info.php:128
+msgid "Feature"
+msgstr "功能"
+
+#: inc/theme-info.php:120
+msgid "See the Documentation"
+msgstr "參閱線上說明"
+
+#: inc/theme-info.php:119
+msgid "Our documentation can help you learn how to use the theme and also provides you with premade code snippets and answers to FAQs."
+msgstr "我們的線上說明可以幫助網站管理員了解如何使用這個佈景主題，並提供預製的程式碼片段和常見問題集解答。"
+
+#: inc/theme-info.php:114
+msgid "Visit the forums"
+msgstr "造訪技術支援論壇"
+
+#: inc/theme-info.php:113
+msgid "Need help? Go ahead and visit our support forums and we'll be happy to assist you with any theme related questions you might have"
+msgstr "需要協助嗎？請造訪我們的技術支援論壇，我們非常樂意協助你解決使用我們開發的佈景主題所遇到的問題。"
+
+#: inc/theme-info.php:112
+msgid "Visit our forums"
+msgstr "造訪技術支援論壇"
+
+#: inc/theme-info.php:103
+msgid "Go to the manual importer"
+msgstr "進行手動匯入"
+
+#: inc/theme-info.php:102
+msgid "Download demo content"
+msgstr "下載示範內容"
+
+#: inc/theme-info.php:101
+msgid "Download the following demo content file and then click the button to go to the WordPress default importer."
+msgstr "請先下載示範內容，然後按一下下方按鈕前往 WordPress 預設匯入器頁面。"
+
+#: inc/theme-info.php:100
+msgid "Option 2 - manual"
+msgstr "選項 2 - 手動安裝"
+
+#: inc/theme-info.php:96
+msgid "Go to the automatic importer"
+msgstr "進行自動匯入"
+
+#: inc/theme-info.php:92
+msgid "Go to the importer"
+msgstr "進行手動匯入"
+
+#: inc/theme-info.php:85
+msgid "Install the following plugin and then come back here to access the importer. With it you can import all demo content and change your homepage and blog page to the ones from our demo site, automatically. It will also assign a menu."
+msgstr "安裝並啟用必要的自動匯入外掛後，請回到本頁對匯入器進行操作。使用自動匯入外掛可以匯入所有示範內容，並自動將網站首頁和部落格頁面變更為示範內容網站，示範內容還會為網站指派示範選單。"
+
+#: inc/theme-info.php:84
+msgid "Option 1 - automatic"
+msgstr "選項 1 - 自動安裝"
+
+#: inc/theme-info.php:70
+msgid "It is highly recommend that you install Sydney Toolbox. It will create custom post types like services and employees for you to use on your website."
+msgstr "強烈建議安裝 Sydney Toolbox，它能為這個網站建立如 [服務項目] 及 [員工資訊] 之類的自訂文章類型。"
+
+#: inc/theme-info.php:69
+msgid "Install: Sydney Toolbox"
+msgstr "安裝 Sydney Toolbox"
+
+#: inc/theme-info.php:65 inc/theme-info.php:77 inc/theme-info.php:95
+msgid "Plugin installed and active!"
+msgstr "外掛已安裝並完成啟用！"
+
+#: inc/theme-info.php:62 inc/theme-info.php:74 inc/theme-info.php:91
+msgid "Install and Activate"
+msgstr "安裝並啟用"
+
+#: inc/theme-info.php:57
+msgid "It is highly recommended that you install Elementor. It will enable you to create pages by adding widgets to them using drag and drop."
+msgstr "強烈建議安裝 Elementor，它能以拖放方式將小工具新增至自行建立的頁面。"
+
+#: inc/theme-info.php:52
+msgid "Go to Customizer"
+msgstr "前往 [外觀自訂器]"
+
+#: inc/theme-info.php:51
+msgid "Use the Customizer to make Sydney your own."
+msgstr "使用 [外觀自訂器] 將 Sydney 自訂成符合這個網站的需求。"
+
+#: inc/theme-info.php:50
+msgid "Step 3 - Customize"
+msgstr "步驟 3 - 自訂網站"
+
+#: inc/theme-info.php:47
+msgid "Our documentation (including video tutorials) will have you up and running in no time."
+msgstr "我們的線上說明與教學影片，永遠在線上供大家參考。"
+
+#: inc/theme-info.php:46
+msgid "Step 2 - Read documentation"
+msgstr "步驟 2 - 閱讀線上說明"
+
+#: inc/theme-info.php:44
+msgid "Check recommended actions"
+msgstr "檢查建議的操作"
+
+#: inc/theme-info.php:43
+msgid "We've made a list of steps for you to follow to get the most of Sydney."
+msgstr "我們列出了能讓網站管理員充分利用 Sydney 的步驟。"
+
+#: inc/theme-info.php:42
+msgid "Step 1 - Implement recommended actions"
+msgstr "步驟 1 - 執行建議的操作"
+
+#: inc/theme-info.php:36
+msgid "Free vs Pro"
+msgstr "版本比較"
+
+#: inc/theme-info.php:34
+msgid "Recommended Actions"
+msgstr "建議操作"
+
+#: inc/theme-info.php:33
+msgid "Getting started"
+msgstr "開始使用"
+
+#: inc/theme-info.php:27
+msgid "Sydney is now installed and ready to go. To help you with the next step, we’ve gathered together on this page all the resources you might need. We hope you enjoy using Sydney. "
+msgstr "Sydney 安裝完畢，並已準備就緒。為了協助網站管理員進行下一步，我們在這個頁面上彙整了所有可用的資源。希望你對 Sydney 感到滿意。"
+
+#: inc/theme-info.php:26
+msgid "Welcome to Sydney version %s"
+msgstr "歡迎使用 Sydney %s 版"
+
+#: inc/theme-info.php:25
+msgid "Hello, %s,"
+msgstr "你好，%s，"
+
+#: functions.php:469
+msgid "Get started with Sydney"
+msgstr "開始使用 Sydney"
+
+#: functions.php:468
+msgid "Welcome to Sydney. To get started please make sure to visit our <a href=\"%s\">welcome page</a>."
+msgstr "歡迎使用 Sydney。在開始使用前，請先造訪<a href=\"%s\">歡迎頁面</a>。"
+
+#: inc/customizer.php:211 inc/customizer.php:1861 inc/theme-info.php:140
+msgid "Responsive"
+msgstr "回應式"
+
+#: inc/customizer.php:210 inc/customizer.php:1860
+msgid "Full screen"
+msgstr "全螢幕"
+
+#: inc/customizer.php:206
+msgid "Slider mobile behavior"
+msgstr "行動版投影片輪播行為"
+
+#: widgets/video-widget.php:32
+msgid "Text before the play button (only for lightbox mode):"
+msgstr "在播放按鈕上方的文字 (僅能使用於燈箱模式)"
+
+#: widgets/video-widget.php:29
+msgid "Lightbox"
+msgstr "燈箱"
+
+#: widgets/video-widget.php:28
+msgid "Normal"
+msgstr "一般"
+
+#: widgets/video-widget.php:26
+msgid "Video mode:"
+msgstr "影片播放模式"
+
+#: inc/customizer.php:1569
+msgid "Mobile menu button"
+msgstr "行動版選單按鈕"
+
+#: inc/customizer.php:1510
+msgid "Menu items hover"
+msgstr "選單項目 (游標經過/停駐)"
+
+#: inc/customizer.php:156 inc/customizer.php:179 inc/customizer.php:1790
+msgid "Video"
+msgstr "影片"
+
+#: demo-content/setup.php:15 inc/theme-info.php:80
+msgid "Demo content"
+msgstr "示範內容"
+
+#: inc/page-builder.php:65
+msgid "Add a value in the field to change the top/bottom row padding, otherwise 100px will be applied by default"
+msgstr "設定項目列的上/下邊框間距。不設定的話，會以預設值 100px 進行套用。"
+
+#: widgets/fp-services-type-a.php:46 widgets/fp-services-type-b.php:54
+msgid "Excerpt"
+msgstr "內容摘要"
+
+#: widgets/fp-services-type-a.php:45 widgets/fp-services-type-b.php:53
+msgid "Full content"
+msgstr "完整內容"
+
+#: widgets/fp-services-type-a.php:43 widgets/fp-services-type-b.php:51
+msgid "Content to display:"
+msgstr "內容顯示方式:"
+
+#: inc/upsell/class-customize.php:77
+msgid "Get Sydney Pro"
+msgstr "升級至 Sydney Pro"
+
+#: inc/upsell/class-customize.php:76
+msgid "Ready for more?"
+msgstr "需要更多功能嗎？"
+
+#: inc/page-builder.php:198
+msgid "This applies to all headings in the widget, except the widget title"
+msgstr "除了小工具標題外，這會套用至小工具內容中的所有標題"
+
+#: inc/page-builder.php:194
+msgid "Headings color"
+msgstr "標題色彩"
+
+#: inc/page-builder.php:187
+msgid "Widget title color"
+msgstr "小工具標題色彩"
+
+#: inc/page-builder.php:183
+msgid "This setting depends on the content, it may or may not work"
+msgstr "這項設定是否生效取決於內容本身"
+
+#: inc/page-builder.php:180
+msgid "Right"
+msgstr "靠右"
+
+#: inc/page-builder.php:179
+msgid "Center"
+msgstr "置中"
+
+#: inc/page-builder.php:178
+msgid "Left"
+msgstr "靠左"
+
+#: inc/page-builder.php:174
+msgid "Content alignment"
+msgstr "內容對齊方式"
+
+#: inc/page-builder.php:113
+msgid "Overlay color"
+msgstr "重疊色彩"
+
+#: inc/page-builder.php:107
+msgid "Disable row overlay?"
+msgstr "停用項目列重疊"
+
+#: inc/customizer.php:1750
+msgid "[DEPRECATED] Please use the color option from Edit Row > Design > Overlay color"
+msgstr "[<strong>不建議使用</strong>] 請改用頁面編輯器中的 [編輯項目列] > [設計] > [重疊色彩]。"
+
+#: inc/customizer.php:1376
+msgid "Header"
+msgstr "頁首"
+
+#: inc/customizer.php:1371
+msgid "Colors"
+msgstr "色彩"
+
+#: widgets/fp-portfolio.php:163
+msgid "Show project title?"
+msgstr "顯示專案資訊標題。"
+
+#: widgets/fp-portfolio.php:160
+msgid "\"Show all\" text:"
+msgstr "[全部展示] 文字:"
+
+#: widgets/fp-portfolio.php:159
+msgid "Show navigation filter? (Category slugs must be specified)."
+msgstr "顯示導覽篩選條件 (必須指定分類代稱)。"
+
+#: widgets/fp-portfolio.php:156
+msgid "Enter the slugs (comma separated) for your categories or leave empty to show all projects."
+msgstr "請為分類輸入代稱 (多個代稱請以半形逗號區隔)，或留空以展示所有專案資訊。"
+
+#: widgets/fp-portfolio.php:154
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "專案資訊的展示筆數 (-1 代表展示全部專案):"
+
+#: widgets/fp-portfolio.php:35 widgets/fp-portfolio.php:148
+msgid "Show all"
+msgstr "全部展示"
+
+#: widgets/fp-portfolio.php:13
+msgid "Sydney FP: Portfolio"
+msgstr "Sydney FP: 作品集"
+
+#: widgets/fp-portfolio.php:12
+msgid "Display your projects in a grid."
+msgstr "以格狀方式展示專案資訊。"
+
+#: inc/customizer.php:108
+msgid "Page wrapper - bottom padding"
+msgstr "頁面換行 - 下邊框間距"
+
+#: widgets/fp-clients.php:35
+msgid "Open clients links in a new tab?"
+msgstr "要在新標籤頁開啟客戶資訊連結嗎？"
+
+#: inc/customizer.php:111
+msgid "Bottom padding for the page wrapper (the space between the page content and the footer)"
+msgstr "頁面換行的下邊框間距，意即頁面內容與頁尾間的距離"
+
+#: inc/customizer.php:101
+msgid "100"
+msgstr "100"
+
+#: inc/customizer.php:88
+msgid "Top padding for the page wrapper (the space between the header and the page title)"
+msgstr "頁面換行的上邊框間距，意即頁首與頁面標題間的距離"
+
+#: inc/customizer.php:85
+msgid "Page wrapper - top padding"
+msgstr "頁面換行 - 上邊框間距"
+
+#: inc/customizer.php:78
+msgid "83"
+msgstr "83"
+
+#: inc/theme-info.php:35
+msgid "Support"
+msgstr "技術支援"
+
+#: widgets/fp-testimonials.php:33
+msgid "Autoplay time [ms]"
+msgstr "自動播放時間 (單位為毫秒 ms)"
+
+#: inc/theme-info.php:16
+msgid "Sydney Info"
+msgstr "Sydney 資訊"
+
+#: inc/theme-info.php:48 inc/theme-info.php:118
+msgid "Documentation"
+msgstr "線上說明"
+
+#: plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "沒有選取任何外掛以進行啟用。並未產生任何變更。"
+
+#: plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "沒有選取任何外掛以進行更新。並未產生任何變更。"
+
+#: plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "目前沒有需要更新的外掛。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在更新外掛 %1$s  (總計 %3$d 個步驟，目前為第 %2$d 步驟)"
+
+#: plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "沒有選取任何外掛以進行安裝。並未產生任何變更。"
+
+#: plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "來自外掛開發者的升級訊息:"
+
+#: plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低需求版本:"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "待啟用 <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "已安裝的版本:"
+
+#: plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "可用版本:"
+
+#: plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "安裝版本"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "待安裝 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "可用的更新 <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "無法使用必要的更新"
+
+#: plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "建議更新"
+
+#: plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "須要更新"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部 <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "遠端的外掛封包並未包含正確代稱的資料夾，且經過重新命名也無法正確運作。"
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "下列外掛有可用的更新: %1$s。"
+
+#: plugins/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "更新外掛"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "無須進行任何操作。外掛 %1$s 已完成啟用。"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "外掛尚未啟用。這個佈景主題須要配合較新版本的 %s，請將外掛予以更新。"
+
+#: plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "請聯絡這個網站的網站管理員尋求協助。"
+
+#: plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "為了與目前的佈景主題相容，這個外掛必須進行更新。"
+
+#: plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "必須更新"
+
+#: plugins/class-tgm-plugin-activation.php:934
+#: plugins/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "請聯絡外掛開發者，並要求開發者依照 WordPress 準則為外掛進行正確的封裝。"
+
+#: plugins/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "遠端外掛封裝包含超過一個檔案，但這些檔案並未封裝於同一個資料夾中。"
+
+#: plugins/class-tgm-plugin-activation.php:1121
+#: plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "及"
+
+#: plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "已啟用"
+
+#: plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部來源"
+
+#: plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "外掛 API 出了點小問題。"
+
+#. Template Name of the theme
+msgid "Full width"
+msgstr "全螢幕寬度"
+
+#. Template Name of the theme
+msgid "Front Page"
+msgstr "網站首頁"
+
+#: widgets/video-widget.php:24
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "貼上影片網址 (網址必須來自於支援 oEmbed 的網站，例如 YouTube 或 Vimeo 等網站):"
+
+#: widgets/video-widget.php:7
+msgid "Sydney: Video"
+msgstr "Sydney: 影片"
+
+#: widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr "播放來自 YouTube 或 Vimeo 等網站的影片。"
+
+#: widgets/fp-testimonials.php:108
+msgid "See all our testimonials"
+msgstr "檢視所有證言"
+
+#: widgets/fp-testimonials.php:31
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr "請輸入分類的代稱 (Slug)，或留空以展示所有證言。"
+
+#: widgets/fp-testimonials.php:29
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "按鈕文字 (如果留空，預設文字為 <strong>[檢視所有證言]</strong>)"
+
+#: widgets/fp-testimonials.php:27
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr "按鈕網址 (如需在 [證言] 區塊下方顯示按鈕)"
+
+#: widgets/fp-testimonials.php:25
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "證言的展示筆數 (-1 代表展示全部證言):"
+
+#: widgets/fp-testimonials.php:20
+msgid "In order to display this widget, you must first add some testimonials from your admin area."
+msgstr "如需顯示這個小工具，必須先在管理區新增幾筆證言。"
+
+#: widgets/fp-testimonials.php:7
+msgid "Sydney FP: Testimonials"
+msgstr "Sydney FP: 證言"
+
+#: widgets/fp-testimonials.php:6
+msgid "Display your testimonials in a slider."
+msgstr "以投影片輪播方式展示證言。"
+
+#: widgets/fp-social.php:64
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; 選取 &mdash;"
+
+#: widgets/fp-social.php:62
+msgid "Select your social menu:"
+msgstr "選取社交選單:"
+
+#: widgets/fp-social.php:60
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr "如需在小工具裡顯示社交圖示，請前往 <strong>[外觀] > [選單]</strong>，並建立一個包含你的社交個人檔案連結的選單，然後在這裡指定使用該選單。目前支援的網路社交服務為 Facebook、Twitter、Google Plus、Instagram、Dribble、Vimeo、Linkedin、Youtube、Flickr、Pinterest、Tumblr、Foursquare 以及 Behance。"
+
+#: widgets/fp-social.php:52
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "尚未建立任何選單。<a href=\"%s\">點擊這裡開始建立選單</a>。"
+
+#: widgets/fp-social.php:6
+msgid "Sydney FP: Social Profile"
+msgstr "Sydney FP: 社交個人檔案"
+
+#: widgets/fp-social.php:5
+msgid "Display your social profile on your front page"
+msgstr "在首頁顯示社交個人檔案。"
+
+#: widgets/fp-skills.php:68
+msgid "Fourth skill value"
+msgstr "第四項專業技能內容"
+
+#: widgets/fp-skills.php:63
+msgid "Fourth skill name"
+msgstr "第四項專業技能名稱"
+
+#: widgets/fp-skills.php:57
+msgid "Third skill value"
+msgstr "第三項專業技能內容"
+
+#: widgets/fp-skills.php:52
+msgid "Third skill name"
+msgstr "第三項專業技能名稱"
+
+#: widgets/fp-skills.php:46
+msgid "Second skill value"
+msgstr "第二項專業技能內容"
+
+#: widgets/fp-skills.php:41
+msgid "Second skill name"
+msgstr "第二項專業技能名稱"
+
+#: widgets/fp-skills.php:35
+msgid "First skill value"
+msgstr "第一項專業技能內容"
+
+#: widgets/fp-skills.php:30
+msgid "First skill name"
+msgstr "第一項專業技能名稱"
+
+#: widgets/fp-skills.php:7
+msgid "Sydney FP: Skills"
+msgstr "Sydney FP: 專業技能"
+
+#: widgets/fp-skills.php:6
+msgid "Show your visitors some of your skills."
+msgstr "向訪客展現你的專業技能。"
+
+#: widgets/fp-services-type-b.php:41
+msgid "Number of columns:"
+msgstr "服務項目顯示列數:"
+
+#: widgets/fp-services-type-b.php:12
+msgid "Sydney FP: Services type B"
+msgstr "Sydney FP: 服務類型 B"
+
+#: widgets/fp-services-type-a.php:145 widgets/fp-services-type-b.php:160
+msgid "See all our services"
+msgstr "檢視所有服務項目"
+
+#: widgets/fp-services-type-a.php:42
+msgid "Display services in two columns instead of three?"
+msgstr "以兩列而非三列的方式展示服務項目。"
+
+#: widgets/fp-services-type-a.php:39 widgets/fp-services-type-b.php:38
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr "請輸入分類的代稱 (Slug)，或留空以展示所有服務項目。"
+
+#: widgets/fp-services-type-a.php:37 widgets/fp-services-type-b.php:36
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "按鈕文字 (如果留空，預設文字為 <strong>[檢視所有服務項目]</strong>)"
+
+#: widgets/fp-services-type-a.php:35 widgets/fp-services-type-b.php:34
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr "按鈕網址 (如需在 [服務項目] 區塊下方顯示按鈕)"
+
+#: widgets/fp-services-type-a.php:33 widgets/fp-services-type-b.php:32
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "服務項目的展示筆數 (-1 代表展示全部服務項目):"
+
+#: widgets/fp-services-type-a.php:28 widgets/fp-services-type-b.php:27
+msgid "In order to display this widget, you must first add some services from your admin area."
+msgstr "如需顯示這個小工具，必須先在管理區新增幾項服務項目。"
+
+#: widgets/fp-services-type-a.php:12
+msgid "Sydney FP: Services Type A"
+msgstr "Sydney FP: 服務類型 A"
+
+#: widgets/fp-services-type-a.php:11 widgets/fp-services-type-b.php:11
+msgid "Show what services you are able to provide."
+msgstr "展示你所能提供的服務項目。"
+
+#: widgets/fp-list.php:75
+msgid "Call to action button text:"
+msgstr "行動號召按鈕文字"
+
+#: widgets/fp-list.php:72
+msgid "Call to action button URL:"
+msgstr "行動號召按鈕連結"
+
+#: widgets/fp-list.php:69
+msgid "Add your list items here. One item per row, start each row with <strong>^</strong>. Example: <strong>^ list item </strong>"
+msgstr "請在這裡輸入清單項目。每行一個項目，並使用 <strong>^</strong> 作為起使符號。<br />範例: <strong>^ 清單項目</strong>"
+
+#: widgets/fp-list.php:66
+msgid "Add a bit of text here. It will be displayed."
+msgstr "在這裡輸入的內容都會顯示出來。"
+
+#: widgets/fp-portfolio.php:152 widgets/fp-social.php:57 widgets/fp-list.php:63
+msgid "Title:"
+msgstr "標題:"
+
+#: widgets/fp-list.php:13
+msgid "Sydney FP: List"
+msgstr "Sydney FP: 清單"
+
+#: widgets/fp-list.php:11
+msgid "A simple list widget"
+msgstr "簡易清單小工具。"
+
+#: widgets/fp-latest-news.php:51 widgets/fp-latest-news.php:53
+msgid "See all our news"
+msgstr "檢視所有消息"
+
+#: widgets/fp-latest-news.php:26
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "如需變更預設的 <strong>[檢視所有消息]</strong>，請在這裡新增按鈕文字"
+
+#: widgets/fp-latest-news.php:23
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "請輸入分類的代稱，或留空以展示來自全部分類的文章。"
+
+#: widgets/fp-latest-news.php:7
+msgid "Sydney FP: Latest News"
+msgstr "Sydney FP: 最新消息"
+
+#: widgets/fp-latest-news.php:6
+msgid "Show the latest news from your blog."
+msgstr "展示來自部落格的最新消息。"
+
+#: widgets/fp-facts.php:96
+msgid "Fourth fact icon"
+msgstr "第四項現況圖示"
+
+#: widgets/fp-facts.php:91
+msgid "Fourth fact value"
+msgstr "第四項現況數值"
+
+#: widgets/fp-facts.php:86
+msgid "Fourth fact name"
+msgstr "第四項現況名稱"
+
+#: widgets/fp-facts.php:80
+msgid "Third fact icon"
+msgstr "第三項現況圖示"
+
+#: widgets/fp-facts.php:75
+msgid "Third fact value"
+msgstr "第三項現況數值"
+
+#: widgets/fp-facts.php:70
+msgid "Third fact name"
+msgstr "第三項現況名稱"
+
+#: widgets/fp-facts.php:64
+msgid "Second fact icon"
+msgstr "第二項現況圖示"
+
+#: widgets/fp-facts.php:59
+msgid "Second fact value"
+msgstr "第二項現況數值"
+
+#: widgets/fp-facts.php:54
+msgid "Second fact name"
+msgstr "第二項現況名稱"
+
+#: widgets/fp-facts.php:48
+msgid "First fact icon"
+msgstr "第一項現況圖示"
+
+#: widgets/fp-facts.php:43
+msgid "First fact value"
+msgstr "第一項現況數值"
+
+#: widgets/fp-facts.php:38
+msgid "First fact name"
+msgstr "第一項現況名稱"
+
+#: widgets/fp-facts.php:30
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr "<br />使用範例: <strong>fa-android</strong>"
+
+#: widgets/fp-facts.php:30
+msgid "here."
+msgstr "清單連結"
+
+#: widgets/fp-facts.php:30
+msgid "You can find a list of the available icons "
+msgstr "可用圖示清單: "
+
+#: widgets/fp-facts.php:8
+msgid "Sydney FP: Facts"
+msgstr "Sydney FP: 現況"
+
+#: widgets/fp-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "以數值方式向訪客呈現公司現況。"
+
+#: widgets/fp-employees.php:140
+msgid "See all our employees"
+msgstr "檢視所有員工資訊"
+
+#: widgets/fp-employees.php:35
+msgid "Center the employees? (use only if you have 1 or 2 employees)"
+msgstr "將員工資訊置中 (僅適用於只有 1 到 2 位員工)。"
+
+#: widgets/fp-employees.php:32
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr "請輸入分類的代稱 (Slug)，或留空以展示所有員工資訊。"
+
+#: widgets/fp-employees.php:30
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "按鈕文字 (如果留空，預設文字為 <strong>[檢視所有員工資訊]</strong>)"
+
+#: widgets/fp-employees.php:28
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr "如果想讓這個區段連結至某處，請在這裡輸入網址。"
+
+#: widgets/fp-employees.php:26
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "員工資訊的展示筆數 (-1 代表展示全部員工資訊):"
+
+#: widgets/fp-employees.php:21
+msgid "In order to display this widget, you must first add some employees from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "如需顯示這個小工具，必須先在管理區新增幾筆員工資訊。加入夠多的員工資訊後，這個佈景主題會自動展示全部員工資訊。"
+
+#: widgets/fp-employees.php:7
+msgid "Sydney FP: Employees"
+msgstr "Sydney FP: 員工資訊"
+
+#: widgets/fp-employees.php:6
+msgid "Display your team members in a stylish way."
+msgstr "以個性化的方式呈現團隊成員。"
+
+#: widgets/fp-clients.php:111
+msgid "See all our clients"
+msgstr "檢視所有客戶資訊"
+
+#: widgets/fp-clients.php:32
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr "請輸入分類的代稱 (Slug)，或留空以展示所有客戶資訊。"
+
+#: widgets/fp-clients.php:30
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr "按鈕文字 (如果留空，預設文字為 <strong>[檢視所有客戶資訊]</strong>)"
+
+#: widgets/fp-clients.php:28
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr "按鈕網址 (如需在 [客戶資訊] 區塊下方顯示按鈕)"
+
+#: widgets/fp-clients.php:26
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr "客戶資訊的展示筆數 (-1 代表展示全部客戶資訊):"
+
+#: widgets/fp-clients.php:21
+msgid "In order to display this widget, you must first add some clients from your admin area. Set your client logos as featured images."
+msgstr "如需顯示這個小工具，必須先在管理區新增幾筆客戶資訊。將客戶的商標設定為精選圖片。"
+
+#: widgets/fp-clients.php:7
+msgid "Sydney FP: Clients"
+msgstr "Sydney FP: 客戶資訊"
+
+#: widgets/fp-clients.php:6
+msgid "Display your clients list."
+msgstr "展示客戶清單。"
+
+#: widgets/fp-call-to-action.php:27
+msgid "Display the button inline with the text?"
+msgstr "按鈕與文字內容同行顯示。"
+
+#: widgets/fp-call-to-action.php:24
+msgid "Title for the button"
+msgstr "按鈕文字"
+
+#: widgets/fp-call-to-action.php:22
+msgid "Link for the button"
+msgstr "按鈕連結"
+
+#: widgets/fp-call-to-action.php:20
+msgid "Enter your call to action."
+msgstr "輸入行動號召"
+
+#: widgets/fp-call-to-action.php:7
+msgid "Sydney FP: Call to action"
+msgstr "Sydney FP: 行動號召"
+
+#: widgets/fp-call-to-action.php:6
+msgid "Display a call to action block."
+msgstr "顯示行動號召區塊。"
+
+#: widgets/contact-info.php:30
+msgid "Enter your email address"
+msgstr "輸入聯絡電子郵件地址"
+
+#: widgets/contact-info.php:27
+msgid "Enter your phone number"
+msgstr "輸入聯絡電話"
+
+#: widgets/contact-info.php:24
+msgid "Enter your address"
+msgstr "輸入聯絡地址"
+
+#: widgets/fp-services-type-a.php:30 widgets/fp-latest-news.php:19
+#: widgets/fp-clients.php:23 widgets/fp-facts.php:32
+#: widgets/fp-employees.php:23 widgets/contact-info.php:20
+#: widgets/fp-skills.php:24 widgets/video-widget.php:20
+#: widgets/fp-services-type-b.php:29 widgets/fp-testimonials.php:22
+#: widgets/fp-call-to-action.php:18
+msgid "Title"
+msgstr "標題"
+
+#: widgets/contact-info.php:7
+msgid "Sydney: Contact info"
+msgstr "Sydney: 聯絡資訊"
+
+#: widgets/contact-info.php:6
+msgid "Display your contact info"
+msgstr "顯示你的聯絡資訊。"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "搜尋「%s」的結果"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安裝的外掛為 %1$s (總計 %3$d 個步驟，目前為第 %2$d 步驟)"
+
+#: plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "所有安裝均已完成。"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s 安裝成功。"
+
+#: plugins/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "安裝程序進行中。該程序在某些主機上可能會需要較多的時間，請耐心等候。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安裝並啟用的外掛為 %1$s  (總計 %3$d 個步驟，目前為第 %2$d 步驟)"
+
+#: plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "所有安裝及啟用均已完成。"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "隱藏詳細資料"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "顯示詳細資料"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "已安裝並成功啟用 %1$s。"
+
+#: plugins/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "已開始進行安裝及啟用程序。該程序在某些主機上可能會需要較多的時間，請耐心等候。"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s 安裝失敗。"
+
+#. translators: 1: plugin name, 2: error message.
+#: plugins/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安裝 %1$s 時發生錯誤: <strong>%2$s</strong>。"
+
+#: plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "外掛啟用失敗。"
+
+#: plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "目前沒有需要啟用的外掛。"
+
+#: plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "目前沒有需要安裝的外掛。"
+
+#: plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "啟用"
+
+#: plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "安裝"
+
+#: plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "安裝狀態"
+
+#: plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "安裝類型"
+
+#: plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "安裝來源"
+
+#: plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "外掛名稱"
+
+#: plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "已安裝但尚未啟用"
+
+#: plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "尚未安裝"
+
+#: plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "建議安裝"
+
+#: plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "必要安裝"
+
+#: plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress 存放庫"
+
+#: plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "預先封裝"
+
+#: plugins/class-tgm-plugin-activation.php:386
+#: plugins/class-tgm-plugin-activation.php:827
+#: plugins/class-tgm-plugin-activation.php:2533
+#: plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "返回 [控制台]"
+
+#: plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "關閉這項通知"
+
+#. translators: 1: dashboard link.
+#: plugins/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有外掛均已成功安裝並完成啟用。%1$s"
+
+#: plugins/class-tgm-plugin-activation.php:388
+#: plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "已成功啟用的外掛:"
+
+#: plugins/class-tgm-plugin-activation.php:387
+#: plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "外掛已成功啟用。"
+
+#: plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "返回 [安裝必要的外掛]"
+
+#: plugins/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "啟用外掛"
+
+#: plugins/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "安裝外掛"
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "為確保與這個佈景主題保持最高相容性，下列外掛必須更新至最新版本: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "下列建議安裝的外掛目前尚未啟用: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "下列必要安裝的外掛目前尚未啟用: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "這個佈景主題建議安裝以下外掛: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "這個佈景主題須要安裝以下外掛: %1$s。"
+
+#. translators: %s: plugin name.
+#: plugins/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "安裝中的外掛: %s"
+
+#: plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "安裝外掛 (TGMPA)"
+
+#: plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "安裝必要的外掛"
+
+#: inc/template-tags.php:173
+msgid "Archives"
+msgstr "彙整"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:171
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:167
+msgid "Archives: %s"
+msgstr "彙整: %s"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "交談記錄"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音訊"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "近況簡述"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "連結"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引文"
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "影片"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "圖片"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "藝廊"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "記事"
+
+#: inc/template-tags.php:145
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y 年 n 月 j 日"
+
+#: inc/template-tags.php:145
+msgid "Day: %s"
+msgstr "日期: %s"
+
+#: inc/template-tags.php:143
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y 年 n 月"
+
+#: inc/template-tags.php:143
+msgid "Month: %s"
+msgstr "月份: %s"
+
+#: inc/template-tags.php:141
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y 年"
+
+#: inc/template-tags.php:141
+msgid "Year: %s"
+msgstr "年份: %s"
+
+#: inc/template-tags.php:139
+msgid "Author: %s"
+msgstr "作者: %s"
+
+#: inc/template-tags.php:137
+msgid "Tag: %s"
+msgstr "標籤: %s"
+
+#: inc/template-tags.php:135
+msgid "Category: %s"
+msgstr "分類: %s"
+
+#: inc/template-tags.php:115
+msgid " %1$s"
+msgstr " %1$s"
+
+#: inc/template-tags.php:100
+msgid "Posted in %1$s"
+msgstr "分類為《%1$s》"
+
+#: inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:94
+msgid "% Comments"
+msgstr "% 則留言"
+
+#: inc/template-tags.php:94
+msgid "1 Comment"
+msgstr "1 則留言"
+
+#: inc/template-tags.php:94
+msgid "Leave a comment"
+msgstr "留下留言"
+
+#: inc/template-tags.php:86
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:276
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "發表於 %s"
+
+#: inc/template-tags.php:51
+msgid "Post navigation"
+msgstr "文章導覽列"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "較新的文章"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "較舊的文章"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "文章導覽列"
+
+#: inc/page-builder.php:101
+msgid "45px"
+msgstr "45px"
+
+#: inc/page-builder.php:100
+msgid "30px"
+msgstr "30px"
+
+#: inc/page-builder.php:99
+msgid "15px"
+msgstr "15px"
+
+#: inc/page-builder.php:98
+msgid "0"
+msgstr "0"
+
+#: inc/page-builder.php:97
+msgid "Default"
+msgstr "預設"
+
+#: inc/page-builder.php:95
+msgid "Here you can select a top/bottom row padding for screen sizes < 1024px"
+msgstr "設定在螢幕寬度小於 1024px 時的項目列上/下邊框間距。"
+
+#: inc/page-builder.php:93
+msgid "Mobile padding"
+msgstr "行動版邊框間距"
+
+#: inc/page-builder.php:87
+msgid "Background image of the row."
+msgstr "項目列背景圖片。"
+
+#: inc/page-builder.php:85
+msgid "Background Image"
+msgstr "背景圖片"
+
+#: inc/page-builder.php:80
+msgid "Color of the row."
+msgstr "項目列色彩。"
+
+#: inc/page-builder.php:78
+msgid "Color"
+msgstr "色彩"
+
+#: inc/page-builder.php:72
+msgid "This may or may not work. It depends on the widget styles."
+msgstr "這項設定能否正確作用，取決於小工具樣式。"
+
+#: inc/page-builder.php:70
+msgid "Center align the content?"
+msgstr "將內容置中對齊"
+
+#: inc/page-builder.php:63
+msgid "Top/bottom padding"
+msgstr "上/下邊框間距"
+
+#: inc/page-builder.php:57
+msgid "Bottom Border Color"
+msgstr "下框線色彩"
+
+#: inc/page-builder.php:44
+msgid "Sydney Theme Widgets"
+msgstr "Sydney 佈景主題小工具"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "第 %s 頁"
+
+#: inc/customizer.php:1791
+msgid "Nothing (only menu)"
+msgstr "無，僅有選單"
+
+#: inc/customizer.php:1763
+msgid "2. A full theme demo can be found "
+msgstr "2. 佈景主題的完整示範: "
+
+#: inc/customizer.php:1763
+msgid "1. Documentation for Sydney can be found "
+msgstr "1. Sydney 的線上說明: "
+
+#: inc/customizer.php:1761
+msgid "Theme info"
+msgstr "佈景主題資訊"
+
+#: inc/customizer.php:1748
+msgid "Rows overlay"
+msgstr "項目列重疊"
+
+#: inc/customizer.php:1729
+msgid "Footer color"
+msgstr "頁尾色彩"
+
+#: inc/customizer.php:1709
+msgid "Footer background"
+msgstr "頁尾背景"
+
+#: inc/customizer.php:1689
+msgid "Footer widget area color"
+msgstr "頁尾小工具區域色彩"
+
+#: inc/customizer.php:1669
+msgid "Footer widget area background"
+msgstr "頁尾小工具區域背景"
+
+#: inc/customizer.php:1649
+msgid "Sidebar color"
+msgstr "側邊欄色彩"
+
+#: inc/customizer.php:1629
+msgid "Sidebar background"
+msgstr "側邊欄背景"
+
+#: inc/customizer.php:1609
+msgid "Body text"
+msgstr "內文文字"
+
+#: inc/customizer.php:1589
+msgid "Header slider text"
+msgstr "頁首投影片輪播文字"
+
+#: inc/customizer.php:1550
+msgid "Sub-menu background"
+msgstr "子選單背景"
+
+#: inc/customizer.php:1531
+msgid "Sub-menu items"
+msgstr "子選單項目"
+
+#: inc/customizer.php:1491
+msgid "Top level menu items"
+msgstr "頂級選單項目"
+
+#: inc/customizer.php:1430
+msgid "Menu background"
+msgstr "選單背景"
+
+#: inc/customizer.php:1410
+msgid "Primary color"
+msgstr "主要色彩"
+
+#: inc/customizer.php:1340
+msgid "Body font size"
+msgstr "內文字體大小"
+
+#: inc/customizer.php:1321
+msgid "H6 font size"
+msgstr "H6 字體大小"
+
+#: inc/customizer.php:1302
+msgid "H5 font size"
+msgstr "H5 字體大小"
+
+#: inc/customizer.php:1283
+msgid "H4 font size"
+msgstr "H4 字體大小"
+
+#: inc/customizer.php:1264
+msgid "H3 font size"
+msgstr "H3 字體大小"
+
+#: inc/customizer.php:1245
+msgid "H2 font size"
+msgstr "H2 字體大小"
+
+#: inc/customizer.php:1226
+msgid "H1 font size"
+msgstr "H1 字體大小"
+
+#: inc/customizer.php:1207
+msgid "Menu items"
+msgstr "選單項目"
+
+#: inc/customizer.php:1188 inc/customizer.php:1471
+msgid "Site description"
+msgstr "網站說明"
+
+#: inc/customizer.php:1169 inc/customizer.php:1450
+msgid "Site title"
+msgstr "網站標題"
+
+#: inc/customizer.php:1151
+msgid "Font sizes"
+msgstr "字型大小"
+
+#: inc/customizer.php:1103
+msgid "Headings fonts"
+msgstr "標題字型"
+
+#: inc/customizer.php:1089 inc/customizer.php:1137
+msgid "Font family"
+msgstr "字型家族"
+
+#: inc/customizer.php:1072 inc/customizer.php:1120
+msgid "Font name/style/sets"
+msgstr "字型名稱/字型樣式/字型集"
+
+#: inc/customizer.php:1055
+msgid "Body fonts"
+msgstr "內文字型"
+
+#: inc/customizer.php:1044
+msgid "Google Fonts can be found here: google.com/fonts. See the documentation if you need help in selecting Google Fonts: athemes.com/documentation/sydney"
+msgstr "Google Fonts 的位置在 fonts.google.com。如果對於選取 Google Fonts 需要協助，請參閱 athemes.com/documentation/sydney 的線上說明。"
+
+#: inc/customizer.php:1042
+msgid "Fonts"
+msgstr "字型"
+
+#: inc/customizer.php:1031 inc/customizer.php:1822
+msgid "Four"
+msgstr "四個"
+
+#: inc/customizer.php:1030 inc/customizer.php:1821
+msgid "Three"
+msgstr "三個"
+
+#: inc/customizer.php:1029 inc/customizer.php:1820
+msgid "Two"
+msgstr "兩個"
+
+#: inc/customizer.php:1028 inc/customizer.php:1819
+msgid "One"
+msgstr "一個"
+
+#: inc/customizer.php:1026
+msgid "Select the number of widget areas you want in the footer. After that, go to Appearance > Widgets and add your widgets."
+msgstr "選取要在頁尾顯示多少個小工具區域。設定完畢後，便可至 <strong>[外觀] > [小工具]</strong> 為頁尾新增小工具。"
+
+#: inc/customizer.php:1024
+msgid "Footer widget area"
+msgstr "頁尾小工具區域"
+
+#: inc/customizer.php:1008 inc/customizer.php:1392
+msgid "Footer"
+msgstr "頁尾"
+
+#: inc/customizer.php:995
+msgid "Check this box to hide featured images on single posts"
+msgstr "核取這個選項便能在單篇文章中隱藏精選圖片。"
+
+#: inc/customizer.php:979
+msgid "Check this box to hide featured images on index, archives etc."
+msgstr "核取這個選項便能在首頁及彙整等頁面中隱藏精選圖片。"
+
+#: inc/customizer.php:962
+msgid "Featured images"
+msgstr "精選圖片"
+
+#: inc/customizer.php:949
+msgid "Hide post meta on singles?"
+msgstr "在單篇文章中隱藏文章中繼資料。"
+
+#: inc/customizer.php:932
+msgid "Hide post meta on index, archives?"
+msgstr "在首頁及彙整頁面中隱藏文章中繼資料。"
+
+#: inc/customizer.php:914
+msgid "Meta"
+msgstr "中繼資料"
+
+#: inc/customizer.php:899
+msgid "Choose your excerpt length. Default: 55 words"
+msgstr "設定摘要長度 (預設為 55 個字)。"
+
+#: inc/customizer.php:898
+msgid "Excerpt length"
+msgstr "摘要長度"
+
+#: inc/customizer.php:881
+msgid "Check this box to display the full content of your posts on all archives."
+msgstr "核取這個選項以便在彙整頁面顯示文章的完整內容。"
+
+#: inc/customizer.php:865
+msgid "Check this box to display the full content of your posts on the home page."
+msgstr "核取這個選項以便在首頁顯示文章的完整內容。"
+
+#: inc/customizer.php:847
+msgid "Content/excerpt"
+msgstr "内容/摘要"
+
+#: inc/customizer.php:834
+msgid "Full width single posts?"
+msgstr "單篇文章以全螢幕寬度顯示。"
+
+#: inc/customizer.php:819 inc/customizer.php:1848
+msgid "Masonry (grid style)"
+msgstr "柱狀 (格狀風格)"
+
+#: inc/customizer.php:818 inc/customizer.php:1847
+msgid "Full width (no sidebar)"
+msgstr "全螢幕寬度 (無側邊欄)"
+
+#: inc/customizer.php:816 inc/customizer.php:1845
+msgid "Classic"
+msgstr "傳統風格一"
+
+#: inc/customizer.php:812
+msgid "Blog layout"
+msgstr "部落格版面配置"
+
+#: inc/customizer.php:795
+msgid "Layout"
+msgstr "版面配置"
+
+#: inc/customizer.php:783 inc/theme-info.php:180
+msgid "Blog options"
+msgstr "部落格選項"
+
+#: inc/customizer.php:771
+msgid "Upload your logo"
+msgstr "上傳標誌"
+
+#: inc/customizer.php:753
+msgid "Disable the overlay?"
+msgstr "停用重疊。"
+
+#: inc/customizer.php:735
+msgid "Header height [default: 300px]"
+msgstr "頁首高度 [預設: 300px]"
+
+#: inc/customizer.php:719 inc/customizer.php:1808
+msgid "Contain"
+msgstr "將圖片完整置於區域中"
+
+#: inc/customizer.php:718 inc/customizer.php:1807
+msgid "Cover"
+msgstr "覆蓋全區"
+
+#: inc/customizer.php:715
+msgid "Header background size"
+msgstr "頁首背景尺寸"
+
+#: inc/customizer.php:698 inc/customizer.php:1873
+msgid "Centered (menu and site logo)"
+msgstr "置中 (選單及網站標誌)"
+
+#: inc/customizer.php:697 inc/customizer.php:1872
+msgid "Inline"
+msgstr "置於頁首區域內"
+
+#: inc/customizer.php:677 inc/customizer.php:1834
+msgid "Static"
+msgstr "隨頁面捲動而消失"
+
+#: inc/customizer.php:676 inc/customizer.php:1833
+msgid "Sticky"
+msgstr "固定於頁首"
+
+#: inc/customizer.php:673
+msgid "Sticky menu"
+msgstr "選單位置"
+
+#: inc/customizer.php:655 inc/customizer.php:694
+msgid "Menu style"
+msgstr "選單樣式"
+
+#: inc/customizer.php:645
+msgid "Text for your call to action button"
+msgstr "行動號召按鈕文字"
+
+#: inc/customizer.php:637
+msgid "Click to begin"
+msgstr "點擊以開始"
+
+#: inc/customizer.php:628
+msgid "URL for your call to action button"
+msgstr "行動號召按鈕網址"
+
+#: inc/customizer.php:611
+msgid "Call to action button"
+msgstr "行動號召按鈕"
+
+#: inc/customizer.php:597
+msgid "Subtitle for the fifth slide"
+msgstr "第五張投影片的子標題"
+
+#: inc/customizer.php:579
+msgid "Title for the fifth slide"
+msgstr "第五張投影片的標題"
+
+#: inc/customizer.php:559
+msgid "Upload your fifth image for the slider"
+msgstr "上傳第五張投影片圖片"
+
+#: inc/customizer.php:540
+msgid "Fifth slide"
+msgstr "第五張投影片"
+
+#: inc/customizer.php:526
+msgid "Subtitle for the fourth slide"
+msgstr "第四張投影片的子標題"
+
+#: inc/customizer.php:508
+msgid "Title for the fourth slide"
+msgstr "第四張投影片的標題"
+
+#: inc/customizer.php:488
+msgid "Upload your fourth image for the slider"
+msgstr "上傳第四張投影片圖片"
+
+#: inc/customizer.php:469
+msgid "Fourth slide"
+msgstr "第四張投影片"
+
+#: inc/customizer.php:455
+msgid "Subtitle for the third slide"
+msgstr "第三張投影片的子標題"
+
+#: inc/customizer.php:437
+msgid "Title for the third slide"
+msgstr "第三張投影片的標題"
+
+#: inc/customizer.php:417
+msgid "Upload your third image for the slider"
+msgstr "上傳第三張投影片圖片"
+
+#: inc/customizer.php:398
+msgid "Third slide"
+msgstr "第三張投影片"
+
+#: inc/customizer.php:384
+msgid "Subtitle for the second slide"
+msgstr "第二張投影片的子標題"
+
+#: inc/customizer.php:366
+msgid "Title for the second slide"
+msgstr "第二張投影片的標題"
+
+#: inc/customizer.php:346
+msgid "Upload your second image for the slider"
+msgstr "上傳第二張投影片圖片"
+
+#: inc/customizer.php:327
+msgid "Second slide"
+msgstr "第二張投影片"
+
+#: inc/customizer.php:313
+msgid "Subtitle for the first slide"
+msgstr "第一張投影片的子標題"
+
+#: inc/customizer.php:295
+msgid "Title for the first slide"
+msgstr "第一張投影片的標題"
+
+#: inc/customizer.php:275
+msgid "Upload your first image for the slider"
+msgstr "上傳第一張投影片圖片"
+
+#: inc/customizer.php:256
+msgid "First slide"
+msgstr "第一張投影片"
+
+#: inc/customizer.php:243
+msgid "Stop the text slider?"
+msgstr "停用文字投影片。"
+
+#: inc/customizer.php:229
+msgid "Slider speed in miliseconds. Use 0 to disable [default: 4000]"
+msgstr "投影片輪播速度單位為毫秒 (ms)，設定為 0 代表停用 (預設值為 4000)"
+
+#: inc/customizer.php:226
+msgid "Slider speed"
+msgstr "投影片輪播速度"
+
+#: inc/customizer.php:219
+msgid "4000"
+msgstr "4000"
+
+#: inc/customizer.php:189
+msgid "You can add up to 5 images in the slider. Make sure you select where to display your slider from the Header Type section found above. You can also add a Call to action button (scroll down to find the options)"
+msgstr "這裡可新增多達 5 張圖片進行投影片輪播，請確認已在之前的 [頁首類型] 設定頁中選取投影片輪播的顯示方式。在這裡還可以新增 [行動號召] 按鈕 (向下捲動到底便能找到設定項目)。"
+
+#: inc/customizer.php:188
+msgid "Header Slider"
+msgstr "頁首投影片輪播"
+
+#: inc/customizer.php:175
+msgid "Select the header type for all pages except the front page"
+msgstr "為首頁之外的其他頁面選取頁首類型"
+
+#: inc/customizer.php:173
+msgid "Site header type"
+msgstr "網站頁首類型"
+
+#: inc/customizer.php:157 inc/customizer.php:180
+msgid "No header (only menu)"
+msgstr "無頁首，僅有選單"
+
+#: inc/customizer.php:155 inc/customizer.php:178 inc/customizer.php:1789
+msgid "Image"
+msgstr "圖片"
+
+#: inc/customizer.php:154 inc/customizer.php:177 inc/customizer.php:1788
+msgid "Full screen slider"
+msgstr "全螢幕投影片"
+
+#: inc/customizer.php:152
+msgid "Select the header type for your front page"
+msgstr "為首頁選取頁首類型"
+
+#: inc/customizer.php:150
+msgid "Front page header type"
+msgstr "首頁頁首類型"
+
+#: inc/customizer.php:135
+msgid "You can select your header type from here. After that, continue below to the next two tabs (Header Slider and Header Image) and configure them."
+msgstr "請在這裡選取頁首類型。選取後，請在接下來的兩個設定標籤頁 ([頁首投影片輪播] 及 [頁首媒體]) 中進行設定。"
+
+#: inc/customizer.php:132
+msgid "Header type"
+msgstr "頁首類型"
+
+#: inc/customizer.php:126
+msgid "Header area"
+msgstr "頁首區域"
+
+#: inc/customizer.php:17 inc/customizer.php:70
+msgid "General"
+msgstr "一般"
+
+#: inc/customizer.php:16
+msgid "Site title/tagline/logo"
+msgstr "網站標題/標語/標誌"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "跳至主內容區"
+
+#: functions.php:265
+msgid "Create your menu here"
+msgstr "在這裡建立選單"
+
+#: functions.php:109
+msgid "Footer "
+msgstr "頁尾 "
+
+#: functions.php:96 inc/customizer.php:1384
+msgid "Sidebar"
+msgstr "側邊欄"
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr "主要選單"
+
+#: footer.php:26
+msgid "Theme: %2$s by %1$s."
+msgstr "佈景主題採用由 %1$s 所設計的 %2$s。"
+
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "本站採用 %s 建置"
+
+#: footer.php:24
+msgid "https://wordpress.org/"
+msgstr "https://tw.wordpress.org/"
+
+#: content-page.php:25 inc/template-tags.php:118
+msgid "Edit"
+msgstr "編輯"
+
+#: content-classic-alt.php:34 content.php:34 content-page.php:18
+#: content-search.php:32 content-single.php:36
+msgid "Pages:"
+msgstr "頁次:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "找不到符合所需的內容。請使用搜尋功能，應會有所助益。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，找不到符合所需的內容，請換一個關鍵字再次搜尋。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發表第一篇文章了嗎？<a href=\"%1$s\">由此開始</a>。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "找不到符合的結果"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "留言功能已關閉。"
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "較新的留言 &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; 較舊的留言"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "留言導覽"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "在《%2$s》中有 %1$s 則留言"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "在這裡找不到任何相符內容。請改用以下連結或使用搜尋功能。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "很抱歉，找不到這個頁面。"
+
+#. Author URI of the theme
+msgid "https://athemes.com"
+msgstr "https://athemes.com/"
+
+#. Author of the theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the theme
+msgid "https://athemes.com/theme/sydney"
+msgstr "https://athemes.com/theme/sydney"

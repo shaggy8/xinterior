@@ -1,0 +1,100 @@
+.iw-so-person {
+  position: relative;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto; }
+  .iw-so-person::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .iw-so-person .iw-so-person-img {
+    position: relative;
+    overflow: hidden; }
+    .iw-so-person .iw-so-person-img img:nth-child(2) {
+      position: absolute;
+      top: 0;
+      visibility: hidden;
+      opacity: 0;
+      -webkit-transition: all 0.25s ease-in;
+      -moz-transition: all 0.25s ease-in;
+      transition: all 0.25s ease-in; }
+  .iw-so-person:hover .iw-so-person-img img:nth-child(2) {
+    visibility: visible;
+    opacity: 1; }
+  .iw-so-person.iw-so-person-fit {
+    text-align: center; }
+    .iw-so-person.iw-so-person-fit .iw-so-person-img {
+      display: inline-block; }
+      .iw-so-person.iw-so-person-fit .iw-so-person-img img {
+        width: auto; }
+  .iw-so-person.iw-so-person-left .iw-so-person-img {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 31.76157%; }
+  .iw-so-person.iw-so-person-left .iw-so-person-content {
+    float: left;
+    display: block;
+    width: 65.88078%; }
+    .iw-so-person.iw-so-person-left .iw-so-person-content .iw-so-person-name {
+      margin-top: 0; }
+  .iw-so-person.iw-so-person-right .iw-so-person-img {
+    float: right;
+    display: block;
+    margin-left: 2.35765%;
+    width: 31.76157%; }
+  .iw-so-person.iw-so-person-right .iw-so-person-content {
+    float: right;
+    display: block;
+    width: 65.88078%; }
+    .iw-so-person.iw-so-person-right .iw-so-person-content .iw-so-person-name {
+      margin-top: 0; }
+  @media only screen and (max-width: 640px) {
+    .iw-so-person.iw-so-person-left .iw-so-person-img, .iw-so-person.iw-so-person-right .iw-so-person-img {
+      float: none;
+      margin: 0;
+      width: 100%; }
+    .iw-so-person.iw-so-person-left .iw-so-person-content, .iw-so-person.iw-so-person-right .iw-so-person-content {
+      float: none;
+      margin: 0;
+      width: 100%; } }
+  .iw-so-person .iw-so-person-img {
+    position: relative; }
+    .iw-so-person .iw-so-person-img img {
+      vertical-align: top;
+      width: 100%; }
+    .iw-so-person .iw-so-person-img .iw-so-person-ol {
+      border-radius: inherit;
+      opacity: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      box-sizing: border-box; }
+      .iw-so-person .iw-so-person-img .iw-so-person-ol p {
+        position: absolute;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+        transform: translateY(-50%);
+        width: 100%;
+        padding: 0 15px;
+        opacity: 0;
+        margin: 0 !important;
+        box-sizing: border-box; }
+      .iw-so-person .iw-so-person-img .iw-so-person-ol:hover, .iw-so-person .iw-so-person-img .iw-so-person-ol:focus,
+      .iw-so-person .iw-so-person-img .iw-so-person-ol:hover p,
+      .iw-so-person .iw-so-person-img .iw-so-person-ol:focus p {
+        opacity: 1; }
+  .iw-so-person .iw-so-person-profiles [class^="sow-icon-"] {
+    font-size: 2em; }
+  .iw-so-person .iw-so-person-name {
+    margin-top: 0.7em;
+    margin-bottom: 0 !important; }
+  .iw-so-person .iw-so-person-desig {
+    margin-top: 0;
+    margin-bottom: 0.3em; }
+  .iw-so-person .iw-so-person-about {
+    margin-bottom: 0; }

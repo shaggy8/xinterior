@@ -1,0 +1,3198 @@
+# Translation of Plugins - SiteOrigin Widgets Bundle - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - SiteOrigin Widgets Bundle - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-16 16:35:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - SiteOrigin Widgets Bundle - Stable (latest release)\n"
+
+#: widgets/social-media-buttons/social-media-buttons.php:34
+msgid "This setting controls when the Mobile Align setting will be used. The default value is 780px"
+msgstr "這項設定控制 [行動版對齊方式] 設定的套用時機，預設值為 780px。"
+
+#: widgets/layout-slider/layout-slider.php:324
+msgid "This setting controls when the Layout Slider widget will switch to the responsive height for slides. This breakpoint will only be used if a responsive height is set in the Layout Slider's settings. The default value is 780px."
+msgstr "這項設定控制 [版面配置投影片輪播] 小工具中的投影片切換至回應式高度的螢幕寬度。這項斷點設定僅有在 [版面配置投影片輪播] 小工具中完成 [回應式高度] 設定才會加以套用，預設值為 780px。"
+
+#: widgets/hero/hero.php:232 widgets/headline/headline.php:259
+msgid "The lower the value, the more your headings will be scaled down. Values above 1 are allowed."
+msgstr "設定值越低，標題縮小的越多。請輸入超過 1 的值。"
+
+#: widgets/features/features.php:204
+msgid "Icon container size"
+msgstr "圖示容器尺寸"
+
+#: widgets/features/features.php:197
+msgid "Icon container shape"
+msgstr "圖示容器形狀"
+
+#: widgets/features/features.php:61
+msgid "Icon container position"
+msgstr "圖示容器位置"
+
+#: widgets/features/features.php:55
+msgid "Icon container color"
+msgstr "圖示容器色彩"
+
+#: compat/block-editor/widget-block.php:91
+msgid "Invalid widget class %s. Please make sure the widget has been activated in %sSiteOrigin Widgets%s."
+msgstr "無效的小工具類別 %s。請確認需要的小工具已在 [%sSiteOrigin 小工具%s] 頁面中完成啟用。"
+
+#: base/inc/widgets/base-slider.class.php:104
+msgid "Allow slide background videos to appear on mobile devices that support autoplay."
+msgstr "啟用這項設定後，使用者便能在支援自動播放的行動裝置上顯示投影片背景影片。"
+
+#: base/inc/widgets/base-slider.class.php:103
+msgid "Show slide background videos on mobile"
+msgstr "在行動裝置上顯示投影片背景影片"
+
+#: widgets/social-media-buttons/tpl/default.php:13
+msgid "%s %s"
+msgstr "%s -《%s》"
+
+#: widgets/social-media-buttons/data/networks.php:98
+msgid "AngelList"
+msgstr "AngelList"
+
+#: widgets/social-media-buttons/data/networks.php:35
+msgid "Phone"
+msgstr "電話號碼"
+
+#: compat/block-editor/widget-block.php:68
+msgid "You need to select a widget type before you'll see anything here. :)"
+msgstr "如需在這裡顯示內容，請先選取小工具類型。"
+
+#: widgets/social-media-buttons/data/networks.php:260
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: widgets/cta/cta.php:85
+msgid "Use default background colors"
+msgstr "使用預設背景色彩"
+
+#: widgets/contact/contact.php:421
+msgid "Text Area Height"
+msgstr "文字區域高度"
+
+#: base/inc/widgets/base-slider.class.php:129
+msgid "Currently only for YouTube videos."
+msgstr "這項功能目前僅適用於 YouTube 影片。"
+
+#: base/inc/fields/posts.class.php:38
+msgid "Taxonomies are groups such as categories, tags, posts and products."
+msgstr "分類法由分類、標籤，文章及產品內容所組成。"
+
+#: widgets/image/image.php:55
+msgid "Title alignment"
+msgstr "標題對齊方式"
+
+#: widgets/hero/hero.php:435
+msgid "This setting controls when the Hero widget will switch to the responsive height for slides. This breakpoint will only be used if a responsive height is set in the hero settings. The default value is 780px"
+msgstr "這項設定控制 [宣傳內容] 小工具中的投影片切換至回應式高度的螢幕寬度。這項斷點設定僅有在 [宣傳內容] 小工具中完成 [回應式高度] 設定才會加以套用，預設值為 780px。"
+
+#: widgets/hero/hero.php:168 widgets/layout-slider/layout-slider.php:129
+msgid "Responsive Height"
+msgstr "回應式高度"
+
+#: widgets/contact/contact.php:1207
+msgctxt "The name of who sent this email"
+msgid "From"
+msgstr "寄件者"
+
+#: widgets/contact/contact.php:149
+msgid "Phone Number"
+msgstr "電話號碼"
+
+#: widgets/contact/contact.php:126
+msgid "Log IP addresses."
+msgstr "記錄 IP 位址"
+
+#: base/inc/widgets/base-slider.class.php:199
+msgid "previous slide"
+msgstr "上一張投影片"
+
+#: base/inc/widgets/base-slider.class.php:193
+msgid "next slide"
+msgstr "下一張投影片"
+
+#: base/inc/widgets/base-slider.class.php:188
+msgid "display slide %s"
+msgstr "顯示投影片 %s"
+
+#: base/inc/fields/date-range.class.php:31
+msgctxt "From this date"
+msgid "From"
+msgstr "從"
+
+#: widgets/testimonial/testimonial.php:362 widgets/cta/cta.php:154
+msgid "Get more font customization options with %sSiteOrigin Premium%s"
+msgstr "購買 %sSiteOrigin Premium%s 的約期授權，便能獲得更多字型相關的自訂設定。"
+
+#: widgets/social-media-buttons/social-media-buttons.php:159
+msgid "Mobile Align"
+msgstr "行動版對齊方式"
+
+#: widgets/hero/hero.php:279
+msgid "Link Hover Color"
+msgstr "連結游標暫留色彩"
+
+#: widgets/hero/hero.php:274
+msgid "Link color"
+msgstr "連結色彩"
+
+#: widgets/hero/hero.php:265
+msgid "Text shadow intensity"
+msgstr "文字陰影濃度"
+
+#: widgets/hero/hero.php:260
+msgid "Text font"
+msgstr "文字色彩"
+
+#: widgets/features/features.php:299
+msgid "This setting controls when the features widget will collapse for mobile devices. The default value is 520px"
+msgstr "這項設定控制 [特色說明] 小工具會為行動裝置進行收合的螢幕寬度，預設值為 520px。"
+
+#: widgets/hero/hero.php:433 widgets/layout-slider/layout-slider.php:322
+#: widgets/features/features.php:297
+#: widgets/social-media-buttons/social-media-buttons.php:32
+msgid "Responsive Breakpoint"
+msgstr "回應式設計斷點"
+
+#: widgets/contact/contact.php:145
+msgid "Select Field Type"
+msgstr "選擇欄位類型"
+
+#: widgets/contact/contact.php:102
+msgid "Run this JavaScript when the button is clicked. Ideal for tracking."
+msgstr "點擊按鈕後便會執行這項 Javascript 事件，這對於追蹤相當有幫助。"
+
+#: widgets/contact/contact.php:97
+msgid "An ID attribute allows you to target this button in JavaScript."
+msgstr "設定 ID 屬性可讓你在 Javascript 中指向這個按鈕。"
+
+#: widgets/button/button.php:81
+msgid "Icon Placement"
+msgstr "圖示位置"
+
+#: widgets/tabs/tabs.php:247
+msgid "Get more customization options and the ability to use widgets and layouts as your tabs content with %sSiteOrigin Premium%s"
+msgstr "購買 %sSiteOrigin Premium%s 的約期授權，便能獲得更多自訂設定以及在分頁內容中使用小工具及版面配置的功能。"
+
+#: widgets/tabs/tabs.php:138
+msgid "Border hover width"
+msgstr "框線游標暫留寬度"
+
+#: widgets/tabs/tabs.php:80
+msgid "Tabs container"
+msgstr "分頁容器"
+
+#: widgets/tabs/tabs.php:71
+msgid "The position of the tab to be selected when the page first loads."
+msgstr "頁面載入時預設顯示的分頁。"
+
+#: widgets/tabs/tabs.php:69
+msgid "Initially selected tab"
+msgstr "預設選取的分頁"
+
+#: widgets/tabs/tabs.php:50 widgets/tabs/tabs.php:100
+msgid "Tabs"
+msgstr "分頁"
+
+#: widgets/tabs/tabs.php:16
+msgid "A tabs widget."
+msgstr "分頁小工具。"
+
+#: widgets/tabs/tabs.php:14
+msgid "SiteOrigin Tabs"
+msgstr "SiteOrigin 分頁"
+
+#: widgets/google-map/google-map.php:291
+msgid "Copy and paste predefined styles here from <a href=\"http://snazzymaps.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Snazzy Maps</a>."
+msgstr "請從 <a href=\"https://snazzymaps.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Snazzy Maps</a> 網站服務複製預先定義的地圖樣式，並在上方欄位中貼上。"
+
+#: widgets/contact/contact.php:64
+msgid "Where contact emails will be delivered to. You can send to multiple emails by separating the emails with a comma (,)"
+msgstr "負責接收聯絡表單內容郵件的電子郵件地址。如需設定多個收件者，請以半形逗號區隔電子郵件地址。"
+
+#: base/inc/fields/presets.class.php:48
+msgid "Undo"
+msgstr "復原"
+
+#: base/inc/fields/presets.class.php:18
+msgid "Warning! This will override some or all of the current form values."
+msgstr "警告！這會覆寫目前表單中部分或全部的值。"
+
+#: widgets/video/video.php:116
+msgid "If the external host supports it."
+msgstr "這項功能需要外部託管影片支援。"
+
+#: widgets/video/video.php:115
+msgid "Show related videos."
+msgstr "顯示相關影片"
+
+#: widgets/accordion/accordion.php:226
+msgid "Get more customization options and the ability to use widgets and layouts as your accordion content with %sSiteOrigin Premium%s"
+msgstr "購買 %sSiteOrigin Premium%s 的約期授權，便能獲得更多自訂設定以及在開闔式內容中使用小工具及版面配置的功能。"
+
+#: widgets/accordion/accordion.php:144
+msgid "Bottom margin"
+msgstr "下邊界"
+
+#: widgets/tabs/tabs.php:154 widgets/accordion/accordion.php:132
+msgid "Font color"
+msgstr "字體色彩"
+
+#: widgets/tabs/tabs.php:129 widgets/accordion/accordion.php:112
+msgid "Border hover color"
+msgstr "框線游標暫留色彩"
+
+#: widgets/tabs/tabs.php:119 widgets/accordion/accordion.php:104
+msgid "Title hover color"
+msgstr "標題游標暫留色彩"
+
+#: widgets/tabs/tabs.php:109 widgets/accordion/accordion.php:94
+msgid "Background hover color"
+msgstr "背景游標暫留色彩"
+
+#: widgets/accordion/accordion.php:84
+msgid "Headings"
+msgstr "標題"
+
+#: widgets/accordion/accordion.php:71
+msgid "Closed"
+msgstr "關閉"
+
+#: widgets/accordion/accordion.php:70
+msgid "Open"
+msgstr "開啟"
+
+#: widgets/accordion/accordion.php:68
+msgid "Whether this panel should be open or closed when the page first loads."
+msgstr "這個面板在頁面載入時的預設開啟/關閉狀態。"
+
+#: widgets/accordion/accordion.php:67
+msgid "Initial state"
+msgstr "初始狀態"
+
+#: widgets/tabs/tabs.php:144 widgets/accordion/accordion.php:50
+#: widgets/accordion/accordion.php:122
+msgid "Panels"
+msgstr "面板"
+
+#: widgets/accordion/accordion.php:16
+msgid "An accordion widget."
+msgstr "可以製作開闔式內容的小工具。"
+
+#: widgets/accordion/accordion.php:14
+msgid "SiteOrigin Accordion"
+msgstr "SiteOrigin 開闔式內容"
+
+#: widgets/slider/slider.php:267
+msgid "Add a Lightbox to your image slides with %sSiteOrigin Premium%s"
+msgstr "購買 %sSiteOrigin Premium%s 的約期授權，便能為圖片投影片加入燈箱效果。"
+
+#: widgets/simple-masonry/simple-masonry.php:224
+msgid "Add a Lightbox to your masonry images with %sSiteOrigin Premium%s"
+msgstr "購買 %sSiteOrigin Premium%s 的約期授權，便能為柱狀顯示圖片加入燈箱效果。"
+
+#: widgets/image/image.php:201 widgets/image-grid/image-grid.php:152
+msgid "Add a Lightbox to your images with %sSiteOrigin Premium%s"
+msgstr "購買 %sSiteOrigin Premium%s 的約期授權，便能為圖片加入燈箱效果。"
+
+#: so-widgets-bundle.php:374 so-widgets-bundle.php:397
+#: so-widgets-bundle.php:440
+msgid "Insufficient permissions."
+msgstr "權限不足。"
+
+#: base/inc/actions.php:12 base/inc/actions.php:20 so-widgets-bundle.php:377
+#: so-widgets-bundle.php:520
+msgid "Invalid post."
+msgstr "無效的文章。"
+
+#: base/inc/actions.php:10 base/inc/actions.php:74 base/inc/actions.php:118
+#: base/inc/actions.php:154 base/inc/actions.php:167 base/inc/actions.php:171
+#: base/inc/actions.php:262 base/inc/actions.php:265 so-widgets-bundle.php:370
+#: so-widgets-bundle.php:394 so-widgets-bundle.php:407
+#: so-widgets-bundle.php:437 so-widgets-bundle.php:448
+#: so-widgets-bundle.php:514 so-widgets-bundle.php:525
+msgid "Invalid request."
+msgstr "無效的要求。"
+
+#: widgets/google-map/google-map.php:397
+msgid "This will prevent the map from centering and zooming around the directions. Use this when you have other markers or features on your map."
+msgstr "啟用這項功能便能防止地圖在路線規劃時進行居中及縮放。地圖上有其他標記或特徵時請啟用這項功能。"
+
+#: widgets/google-map/google-map.php:396
+msgid "Preserve viewport"
+msgstr "保留檢視區"
+
+#: widgets/contact/contact.php:70
+msgid "It will appear as if emails are sent from this address. Ideally this should be in the same domain as this server to avoid spam filters."
+msgstr "在這個欄位設定的電子郵件地址會顯示為寄件者的電子郵件地址。最好使用與網站同一網域的電子郵件地址進行郵件傳送，避免遭到垃圾郵件篩選程式阻擋。"
+
+#: widgets/contact/contact.php:69
+msgid "From email address"
+msgstr "寄件者電子郵件地址"
+
+#: widgets/testimonial/testimonial.php:168
+msgid "The resolution to treat as a mobile resolution."
+msgstr "這項設定值會作為識別平板的解析度依據。"
+
+#: widgets/google-map/google-map.php:545
+msgid "There were no results for the place you entered. Please try another."
+msgstr "輸入的地點找不到結果，請輸入其他地點。"
+
+#: widgets/google-map/google-map.php:362
+msgid "Display a route on your map, with waypoints between your starting point and destination. Please ensure you have enabled the <strong>Directions API</strong> in the %sGoogle APIs Dashboard%s."
+msgstr "在地圖上顯示包含起點與目的地及其間停留點的路線規劃。請確認已在 [%sGoogle API 資訊主頁%s] 啟用 <strong>Directions API</strong>。"
+
+#: widgets/google-map/google-map.php:39
+msgid "The name of a place, town, city, or even a country. Can be an exact address too. Please ensure you have enabled the <strong>Geocoding API</strong> in the %sGoogle APIs Dashboard%s."
+msgstr "這個欄位可以輸入地點名稱、城鎮、城市，甚至可以是國家，也可以是確切的地址。請確認已在 [%sGoogle API 資訊主頁%s] 啟用 <strong>Geocoding API</strong>。"
+
+#: admin/tpl/admin.php:112
+msgid "Widget Settings"
+msgstr "小工具設定"
+
+#: widgets/post-carousel/post-carousel.php:105
+msgid "Set Thumbnail"
+msgstr "設定縮圖"
+
+#: widgets/post-carousel/post-carousel.php:104
+msgid "Choose Thumbnail"
+msgstr "選擇縮圖"
+
+#: widgets/post-carousel/post-carousel.php:103
+msgid "Default Thumbnail"
+msgstr "預設縮圖"
+
+#: widgets/price-table/price-table.php:164
+msgid "Equalize row heights"
+msgstr "項目列等高"
+
+#: widgets/hero/hero.php:231 widgets/headline/headline.php:258
+msgid "FitText Compressor Strength"
+msgstr "FitText 壓縮程式強度"
+
+#: widgets/google-map/google-map.php:232
+msgid "Replace the default map marker with your own image for each marker."
+msgstr "以自有的圖片取代所有預設的地圖標記。"
+
+#: widgets/google-map/google-map.php:231
+msgid "Custom Marker icon"
+msgstr "自訂標記圖示"
+
+#: widgets/google-map/google-map.php:173
+msgid "Fallback Image Size"
+msgstr "備用圖片尺寸"
+
+#: widgets/google-map/google-map.php:168
+msgid "This image will be displayed if there are any problems with displaying the specified map."
+msgstr "當指定的地圖因故無法正常顯示時，便會顯示在這裡設定的備用圖片。"
+
+#: widgets/google-map/google-map.php:167
+msgid "Fallback Image"
+msgstr "備用圖片"
+
+#: widgets/features/features.php:216
+msgid "Use icon size for custom icon"
+msgstr "為自訂圖示套用 [圖示尺寸] 設定"
+
+#: widgets/editor/editor.php:52
+msgid "Enable the \"Automatically add paragraphs\" setting by default."
+msgstr "預設啟用 [自動新增段落] 設定"
+
+#: compat/block-editor/widget-block.php:52
+#: compat/visual-composer/visual-composer.php:77
+msgid "Selecting a different widget will revert any changes. Continue?"
+msgstr "選取其他小工具將不會保留任何變更，要繼續進行這項操作嗎？"
+
+#: compat/visual-composer/visual-composer.php:42
+msgid "Allows you to add any active SiteOrigin Widgets Bundle widgets."
+msgstr "能讓你新增任何已啟用的 SiteOrigin Widgets Bundle 小工具。"
+
+#: compat/builders.php:12
+msgid "Visual Composer"
+msgstr "Visual Composer"
+
+#: base/siteorigin-widget.class.php:591
+msgid "Clicking %s will replace the current widget contents. You can revert by refreshing the page before updating."
+msgstr "點擊 [%s] 便會取代小工具目前的內容。在更新之前，可以透過重新整理頁面加以還原。"
+
+#: base/siteorigin-widget.class.php:589
+msgid "Dismiss"
+msgstr "關閉"
+
+#: base/siteorigin-widget.class.php:588 base/siteorigin-widget.class.php:592
+msgid "Restore"
+msgstr "還原"
+
+#: base/siteorigin-widget.class.php:587
+msgid "There is a newer version of this widget's content available."
+msgstr "這個小工具有更新版本的內容。"
+
+#: base/inc/fields/posts.class.php:102
+msgid "Descending"
+msgstr "降冪"
+
+#: base/inc/fields/posts.class.php:101
+msgid "Ascending"
+msgstr "升冪"
+
+#: base/inc/fields/posts.class.php:99
+msgid "Order direction"
+msgstr "排序冪次"
+
+#: base/inc/fields/posts.class.php:58 base/inc/fields/posts.class.php:68
+msgid "Dates"
+msgstr "日期範圍"
+
+#: base/inc/fields/posts.class.php:48
+msgid "Select a range between specific dates or relative to the current date."
+msgstr "選擇一段指定日期範圍或一段相對於當日的日期範圍。"
+
+#: base/inc/fields/posts.class.php:46
+msgid "Relative"
+msgstr "相對日期範圍"
+
+#: base/inc/fields/posts.class.php:45
+msgid "Specific"
+msgstr "指定日期範圍"
+
+#: base/inc/fields/posts.class.php:43
+msgid "Date selection type"
+msgstr "日期選取方式"
+
+#: base/inc/fields/date-range.class.php:72
+msgid "years"
+msgstr "年"
+
+#: base/inc/fields/date-range.class.php:71
+msgid "months"
+msgstr "月"
+
+#: base/inc/fields/date-range.class.php:70
+msgid "weeks"
+msgstr "週"
+
+#: base/inc/fields/date-range.class.php:69
+msgid "days"
+msgstr "天"
+
+#: base/inc/fields/date-range.class.php:64
+msgid "ago"
+msgstr "前"
+
+#: base/inc/fields/date-range.class.php:34
+#: base/inc/fields/date-range.class.php:48
+msgid "to"
+msgstr "到"
+
+#: base/inc/fields/autocomplete.class.php:46
+msgid "Search"
+msgstr "搜尋"
+
+#: widgets/post-carousel/post-carousel.php:111
+msgid "Featured Image size"
+msgstr "精選圖片尺寸"
+
+#: widgets/google-map/google-map.php:440
+msgid "Enter your %sAPI key%s. Your map won't function correctly without one."
+msgstr "請輸入 %sAPI 金鑰%s，未輸入金鑰會造成地圖小工具無法正常運作。"
+
+#: widgets/features/features.php:127
+msgid "Font Design"
+msgstr "字型設計"
+
+#: widgets/features/features.php:65 widgets/button/button.php:86
+msgid "Bottom"
+msgstr "靠下"
+
+#: widgets/features/features.php:63 widgets/button/button.php:84
+msgid "Top"
+msgstr "靠上"
+
+#: widgets/contact/contact.php:439
+msgid " Border style"
+msgstr "框線樣式"
+
+#: widgets/contact/contact.php:118
+msgid "Fields marked with * are required"
+msgstr "標註 * 的欄位為必填欄位"
+
+#: widgets/contact/contact.php:117
+msgid "Required field indicator message"
+msgstr "必填欄位的提示訊息"
+
+#: widgets/contact/contact.php:106
+msgid "Indicate required fields with asterisk (*)"
+msgstr "使用星號 (*) 標註必填欄位"
+
+#: widgets/button/button.php:221
+msgid "Adds a rel attribute to the button link."
+msgstr "將連結關係 (rel) 屬性加入按鈕連結中。"
+
+#: widgets/button/button.php:220
+msgid "Rel attribute"
+msgstr "連結關係屬性"
+
+#: widgets/testimonial/testimonial.php:242
+msgid "Testimonial Radius"
+msgstr "證言內容邊框框線半徑"
+
+#: widgets/layout-slider/layout-slider.php:200
+msgid "This widget requires: "
+msgstr "這個小工具需要 "
+
+#: widgets/headline/headline.php:71 widgets/headline/headline.php:142
+msgid "Hover Color"
+msgstr "游標暫留色彩"
+
+#: widgets/features/features.php:80
+#: widgets/social-media-buttons/social-media-buttons.php:77
+msgid "Icon title"
+msgstr "圖示標題"
+
+#: widgets/cta/cta.php:94
+msgid "Subtitle color"
+msgstr "子標題色彩"
+
+#: widgets/tabs/tabs.php:114 widgets/cta/cta.php:90
+#: widgets/accordion/accordion.php:99
+msgid "Title color"
+msgstr "標題色彩"
+
+#: widgets/contact/contact.php:155
+msgid "Radio"
+msgstr "選項按鈕"
+
+#: compat/builders.php:8
+msgid "Elementor"
+msgstr "Elementor"
+
+#: compat/builders.php:4
+msgid "Beaver Builder"
+msgstr "Beaver Builder"
+
+#: compat/beaver-builder/beaver-builder.php:67
+msgid "Current Color"
+msgstr "目前色彩"
+
+#: compat/beaver-builder/beaver-builder.php:66
+msgid "Select Color"
+msgstr "選取色彩"
+
+#: compat/beaver-builder/beaver-builder.php:64
+msgid "Clear"
+msgstr "清除"
+
+#: widgets/social-media-buttons/data/networks.php:41
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: widgets/google-map/google-map.php:250
+msgid "This setting is ignored when Info Windows are set to always display."
+msgstr "請注意，資訊視窗設定為 [永遠顯示] 時，便會忽略這項設定。"
+
+#: widgets/google-map/google-map.php:248
+msgid "Allow multiple simultaneous Info Windows?"
+msgstr "同時顯示多個標記的資訊視窗"
+
+#: widgets/contact/contact.php:234
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA 秘密金鑰 (Secret Key)"
+
+#: widgets/contact/contact.php:230
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA 網站金鑰 (Site Key)"
+
+#: widgets/contact/contact.php:225
+msgid "Use reCAPTCHA"
+msgstr "使用 reCAPTCHA"
+
+#: widgets/contact/contact.php:221
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: widgets/button/button.php:203
+msgid "Additional CSS classes added to the button link."
+msgstr "將額外的 CSS 類別加入按鈕連結中。"
+
+#: widgets/button/button.php:202
+msgid "Button Classes"
+msgstr "按鈕類別"
+
+#: base/inc/fields/posts.class.php:119
+msgid "Only sticky"
+msgstr "僅顯示置頂文章"
+
+#: widgets/contact/contact.php:671
+msgid "SiteOrigin Premium"
+msgstr "SiteOrigin Premium"
+
+#: widgets/contact/contact.php:670
+msgid "Get more form fields for the Contact Form Widget in %s"
+msgstr "購買 %s 的約期授權，便能獲得更多聯絡表單的表單欄位。"
+
+#: base/inc/fields/media.class.php:194
+msgid "Powered by %s"
+msgstr "採用 %s 所提供的免費圖片"
+
+#: base/inc/fields/icon.class.php:45
+msgid "Search Icons"
+msgstr "搜尋圖示"
+
+#: admin/tpl/admin.php:123
+msgid "Save"
+msgstr "儲存"
+
+#: base/inc/fields/base.class.php:331
+msgid "Required"
+msgstr "必要"
+
+#: widgets/hero/hero.php:218 widgets/headline/headline.php:245
+msgid "Dynamically adjust your heading font size based on screen size."
+msgstr "啟用這項設定後，便能根據螢幕大小動態調整標題字體大小。"
+
+#: widgets/hero/hero.php:217 widgets/headline/headline.php:244
+msgid "Use FitText"
+msgstr "使用 FitText"
+
+#: widgets/headline/headline.php:237
+msgid "Sub Headline"
+msgstr "副標題"
+
+#: widgets/headline/headline.php:233
+msgid "Element Order"
+msgstr "元素順序"
+
+#: widgets/headline/headline.php:220
+msgid "Divider Width"
+msgstr "分隔線寬度"
+
+#: widgets/headline/headline.php:203
+msgid "Thickness"
+msgstr "分隔線粗細"
+
+#: widgets/headline/headline.php:99 widgets/headline/headline.php:170
+#: widgets/headline/headline.php:225
+msgid "Top and Bottom Margin"
+msgstr "上/下邊界"
+
+#: widgets/headline/headline.php:95 widgets/headline/headline.php:166
+msgid "Line Height"
+msgstr "行距"
+
+#: widgets/contact/contact.php:401 widgets/headline/headline.php:80
+#: widgets/headline/headline.php:151
+msgid "Font Size"
+msgstr "字體大小"
+
+#: widgets/headline/headline.php:62 widgets/headline/headline.php:133
+msgid "Paragraph"
+msgstr "段落"
+
+#: widgets/headline/headline.php:53 widgets/headline/headline.php:124
+msgid "HTML Tag"
+msgstr "HTML 標籤"
+
+#: base/inc/fields/media.class.php:228
+msgid "Sponsored"
+msgstr "贊助"
+
+#: base/inc/fields/media.class.php:209
+msgid "Load More"
+msgstr "載入更多"
+
+#: base/inc/fields/media.class.php:206
+msgid "Downloading Image - Please Wait"
+msgstr "正在下載圖片 - 請稍後"
+
+#: base/inc/fields/media.class.php:205
+msgid "Loading Images"
+msgstr "正在載入圖片"
+
+#: base/inc/fields/media.class.php:187
+msgid "Related Searches: "
+msgstr "相關搜尋:"
+
+#: base/inc/fields/media.class.php:172 base/inc/fields/media.class.php:180
+msgid "Search For Images"
+msgstr "搜尋圖片"
+
+#: base/inc/fields/media.class.php:168
+msgid "Would you like to import this image into your media library?"
+msgstr "是否要將這張圖片匯入網站媒體庫？"
+
+#: base/inc/fields/media.class.php:62
+msgid "Image Search"
+msgstr "搜尋圖片"
+
+#: base/inc/actions.php:246
+msgid "Attachment error"
+msgstr "附件錯誤"
+
+#: base/inc/actions.php:220
+msgid "Signature error"
+msgstr "簽章錯誤"
+
+#: base/inc/actions.php:210
+msgid "Nonce error"
+msgstr "一次性雜湊碼錯誤"
+
+#: widgets/social-media-buttons/tpl/default.php:19
+msgid "%s on %s"
+msgstr "《%s》的 %s"
+
+#: widgets/social-media-buttons/data/networks.php:92
+msgid "500px"
+msgstr "500px"
+
+#: widgets/google-map/google-map.php:54
+msgid "Enter your %sAPI key%s. Your map may not function correctly without one."
+msgstr "請輸入 %sAPI 金鑰%s，未輸入金鑰會造成地圖小工具無法正常運作。"
+
+#: widgets/video/video.php:56
+msgid "Sources"
+msgstr "來源"
+
+#: widgets/taxonomy/taxonomy.php:59
+msgid "Hover color"
+msgstr "游標暫留色彩"
+
+#: widgets/taxonomy/taxonomy.php:48
+msgid "Links"
+msgstr "連結"
+
+#: widgets/taxonomy/taxonomy.php:46
+msgid "Display as"
+msgstr "顯示類型"
+
+#: widgets/taxonomy/taxonomy.php:18
+msgid "A taxonomy widget."
+msgstr "分類法小工具。"
+
+#: widgets/taxonomy/taxonomy.php:16
+msgid "SiteOrigin Taxonomy"
+msgstr "SiteOrigin 分類法"
+
+#: widgets/layout-slider/layout-slider.php:266
+msgid "This widget requires Page Builder."
+msgstr "這個小工具需要 SiteOrigin Page Builder。"
+
+#: widgets/layout-slider/layout-slider.php:20
+msgid "A slider that allows you to create responsive columnized content for each slide."
+msgstr "這個小工具可建立回應式欄位化內容投影片進行輪播。"
+
+#: widgets/layout-slider/layout-slider.php:18
+msgid "SiteOrigin Layout Slider"
+msgstr "SiteOrigin 版面配置投影片輪播"
+
+#: widgets/contact/contact.php:1071
+msgid "Contact Form"
+msgstr "聯絡表單"
+
+#: widgets/button/button.php:102
+msgid "Leave blank to let the button resize according to content."
+msgstr "欄位留空便能讓按鈕尺寸依據按鈕內容進行調整。"
+
+#: base/inc/widgets/base-slider.class.php:97
+msgid "Allow users to swipe through frames on mobile devices."
+msgstr "啟用這項設定後，使用者便能在行動裝置上透過撥動手勢切換投影片。"
+
+#: base/inc/widgets/base-slider.class.php:96
+msgid "Swipe Control"
+msgstr "撥動控制"
+
+#: base/inc/fields/image-size.class.php:15
+msgid "Thumbnail (Theme-defined)"
+msgstr "縮圖 (由佈景主題定義)"
+
+#: base/inc/fields/builder.class.php:43
+#: widgets/layout-slider/layout-slider.php:201
+msgid "SiteOrigin Page Builder"
+msgstr "SiteOrigin Page Builder"
+
+#: base/inc/fields/builder.class.php:42
+msgid "This field requires: "
+msgstr "這個欄位需要 "
+
+#: base/inc/fields/builder.class.php:26
+msgid "Open Builder"
+msgstr "開啟編輯器"
+
+#: widgets/icon/icon.php:45 widgets/headline/headline.php:84
+#: widgets/headline/headline.php:155 widgets/headline/headline.php:210
+msgid "Alignment"
+msgstr "對齊方式"
+
+#: widgets/icon/icon.php:18
+msgid "An icon widget."
+msgstr "圖示小工具。"
+
+#: widgets/icon/icon.php:16
+msgid "SiteOrigin Icon"
+msgstr "SiteOrigin 圖示"
+
+#: widgets/hero/hero.php:205 widgets/layout-slider/layout-slider.php:159
+msgid "Heading color"
+msgstr "標題色彩"
+
+#: widgets/features/features.php:98
+msgid "Icon image size"
+msgstr "圖示圖片尺寸"
+
+#: widgets/contact/contact.php:483
+msgid "Italic"
+msgstr "斜體"
+
+#: widgets/contact/contact.php:466
+msgid "Field descriptions"
+msgstr "欄位說明"
+
+#: widgets/contact/contact.php:171
+msgid "This text will appear small beneath the input field."
+msgstr "在這裡輸入的內容會出現在資料輸入欄位下方。"
+
+#: widgets/contact/contact.php:170
+msgid "Description"
+msgstr "說明"
+
+#: widgets/testimonial/testimonial.php:76
+msgid "Link image"
+msgstr "連結套用至圖片"
+
+#: widgets/testimonial/testimonial.php:60
+msgid "Link name"
+msgstr "連結套用至姓名"
+
+#: widgets/price-table/price-table.php:79
+msgid "Image alt text"
+msgstr "圖片替代文字"
+
+#: widgets/image/image.php:72
+msgid "Title position"
+msgstr "標題位置"
+
+#: widgets/image/image.php:77 widgets/contact/contact.php:365
+msgid "Below"
+msgstr "下方"
+
+#: widgets/image/image.php:43
+msgid "Image alignment"
+msgstr "圖片對齊方式"
+
+#: widgets/image/image.php:76 widgets/contact/contact.php:364
+msgid "Above"
+msgstr "上方"
+
+#: widgets/contact/contact.php:623
+msgid "Input focus"
+msgstr "輸入焦點"
+
+#: widgets/contact/contact.php:368
+msgid "Inside"
+msgstr "欄位內部"
+
+#: widgets/contact/contact.php:260
+msgid "Compact"
+msgstr "小巧"
+
+#: widgets/contact/contact.php:342
+msgid "Field labels"
+msgstr "欄位標籤"
+
+#: widgets/contact/contact.php:361
+msgid "Position"
+msgstr "位置"
+
+#: widgets/contact/contact.php:251
+msgid "Audio"
+msgstr "音訊"
+
+#: widgets/contact/contact.php:242
+msgid "Dark"
+msgstr "暗色"
+
+#: widgets/contact/contact.php:247
+msgid "Challenge type"
+msgstr "驗證類型"
+
+#: widgets/contact/contact.php:241
+msgid "Light"
+msgstr "淺色"
+
+#: icons/icons.php:12
+msgid "Ionicons"
+msgstr "Ionicons"
+
+#: widgets/contact/contact.php:238
+msgid "Theme"
+msgstr "主題"
+
+#: base/inc/fields/date-range.class.php:45
+msgid "From"
+msgstr "從"
+
+#: widgets/features/features.php:174
+msgid "More Link"
+msgstr "[閱讀全文] 連結"
+
+#: widgets/contact/contact.php:256 widgets/contact/contact.php:470
+#: widgets/icon/icon.php:40 widgets/features/features.php:142
+#: widgets/features/features.php:163 widgets/features/features.php:184
+msgid "Size"
+msgstr "尺寸大小"
+
+#: widgets/contact/contact.php:501
+msgid "Error border color"
+msgstr "錯誤訊息框線色彩"
+
+#: widgets/video/video.php:17
+msgid "SiteOrigin Video Player"
+msgstr "SiteOrigin 視訊播放器"
+
+#: widgets/testimonial/testimonial.php:266
+msgid "Text below user"
+msgstr "證言內容置於客戶資料下方"
+
+#: widgets/testimonial/testimonial.php:265
+msgid "Text above user"
+msgstr "證言內容置於客戶資料上方"
+
+#: widgets/testimonial/testimonial.php:264
+msgid "Side by side"
+msgstr "並排"
+
+#: widgets/testimonial/testimonial.php:262
+msgid "Testimonial layout"
+msgstr "證言版面配置"
+
+#: widgets/testimonial/testimonial.php:255
+msgid "Middle"
+msgstr "居中"
+
+#: widgets/testimonial/testimonial.php:251
+msgid "User position"
+msgstr "客戶資料位置"
+
+#: widgets/contact/contact.php:405 widgets/testimonial/testimonial.php:225
+msgid "Text Color"
+msgstr "文字色彩"
+
+#: widgets/testimonial/testimonial.php:220
+msgid "Text Background"
+msgstr "文字背景"
+
+#: widgets/testimonial/testimonial.php:216
+msgid "Widget Background"
+msgstr "小工具背景"
+
+#: widgets/testimonial/testimonial.php:212
+msgid "Colors"
+msgstr "色彩"
+
+#: widgets/testimonial/testimonial.php:194
+msgid "Round"
+msgstr "圓形"
+
+#: widgets/testimonial/testimonial.php:193
+msgid "Square"
+msgstr "正方形"
+
+#: widgets/testimonial/testimonial.php:191
+msgid "Testimonial image shape"
+msgstr "證言圖片形狀"
+
+#: widgets/testimonial/testimonial.php:147
+msgid "Mobile Phone"
+msgstr "智慧型手機"
+
+#: widgets/testimonial/testimonial.php:139
+msgid "The resolution to treat as a tablet resolution."
+msgstr "這項設定值會作為識別智慧型手機的解析度依據。"
+
+#: widgets/testimonial/testimonial.php:138
+#: widgets/testimonial/testimonial.php:167
+msgid "Resolution"
+msgstr "螢幕解析度"
+
+#: widgets/testimonial/testimonial.php:118
+msgid "Tablet"
+msgstr "平板"
+
+#: widgets/testimonial/testimonial.php:113
+msgid "Responsive"
+msgstr "回應式設計"
+
+#: widgets/testimonial/testimonial.php:104
+#: widgets/testimonial/testimonial.php:122
+#: widgets/testimonial/testimonial.php:151
+msgid "Testimonials per row"
+msgstr "每列可顯示的證言數量"
+
+#: widgets/testimonial/testimonial.php:92
+msgid "Open In New Window"
+msgstr "在新視窗中開啟"
+
+#: widgets/testimonial/testimonial.php:82
+msgid "What your customer had to say"
+msgstr "客戶所說的證言內容。"
+
+#: widgets/testimonial/testimonial.php:66
+msgid "Their location or company name"
+msgstr "作者的職稱或公司名稱。"
+
+#: widgets/testimonial/testimonial.php:55
+msgid "The author of the testimonial"
+msgstr "證言內容的作者。"
+
+#: widgets/testimonial/testimonial.php:45
+msgid "Testimonial"
+msgstr "證言內容"
+
+#: widgets/testimonial/testimonial.php:44
+msgid "Testimonials"
+msgstr "證言集"
+
+#: widgets/testimonial/testimonial.php:16
+msgid "Share your product/service testimonials in a variety of different ways."
+msgstr "以多種不同的方式分享產品/服務證言。"
+
+#: widgets/testimonial/testimonial.php:14
+msgid "SiteOrigin Testimonials"
+msgstr "SiteOrigin 證言"
+
+#: widgets/simple-masonry/simple-masonry.php:145
+msgid "Mobile Layout"
+msgstr "行動版版面配置"
+
+#: widgets/simple-masonry/simple-masonry.php:119
+#: widgets/simple-masonry/simple-masonry.php:150
+msgid "Break point"
+msgstr "斷點"
+
+#: widgets/simple-masonry/simple-masonry.php:114
+msgid "Tablet Layout"
+msgstr "平板版面配置"
+
+#: widgets/simple-masonry/simple-masonry.php:107
+#: widgets/simple-masonry/simple-masonry.php:138
+#: widgets/simple-masonry/simple-masonry.php:169
+msgid "Space between masonry items."
+msgstr "砌體項目間的空白間距。"
+
+#: widgets/simple-masonry/simple-masonry.php:106
+#: widgets/simple-masonry/simple-masonry.php:137
+#: widgets/simple-masonry/simple-masonry.php:168
+msgid "Gutter"
+msgstr "邊界距離"
+
+#: widgets/simple-masonry/simple-masonry.php:101
+#: widgets/simple-masonry/simple-masonry.php:132
+#: widgets/simple-masonry/simple-masonry.php:163
+msgid "Leave blank to match calculated column width."
+msgstr "欄位留空以符合經過計算的總寬度。"
+
+#: widgets/simple-masonry/simple-masonry.php:100
+#: widgets/simple-masonry/simple-masonry.php:131
+#: widgets/simple-masonry/simple-masonry.php:162
+msgid "Row height"
+msgstr "總高度"
+
+#: widgets/simple-masonry/simple-masonry.php:93
+#: widgets/simple-masonry/simple-masonry.php:124
+#: widgets/simple-masonry/simple-masonry.php:155
+msgid "Number of columns"
+msgstr "總寬度"
+
+#: widgets/simple-masonry/simple-masonry.php:89
+msgid "Desktop Layout"
+msgstr "桌面版版面配置"
+
+#: widgets/simple-masonry/simple-masonry.php:67
+msgid "Number of rows this item should span. (Limited to number of columns selected in Layout section below.)"
+msgstr "設定這個項目的高度比例，總高度可於下方各項版面配置中進行設定。"
+
+#: widgets/simple-masonry/simple-masonry.php:66
+msgid "Row span"
+msgstr "高度比例"
+
+#: widgets/simple-masonry/simple-masonry.php:59
+msgid "Number of columns this item should span. (Limited to number of columns selected in Layout section below.)"
+msgstr "設定這個項目的寬度比例，總寬度可於下方各項版面配置中進行設定。"
+
+#: widgets/simple-masonry/simple-masonry.php:58
+msgid "Column span"
+msgstr "寬度比例"
+
+#: widgets/simple-masonry/simple-masonry.php:16
+msgid "A simple masonry layout widget."
+msgstr "簡易的圖片砌體版面配置設計小工具。"
+
+#: widgets/simple-masonry/simple-masonry.php:14
+msgid "SiteOrigin Simple Masonry"
+msgstr "SiteOrigin 簡易圖片砌體設計"
+
+#: widgets/image-grid/image-grid.php:103
+msgid "Amount of spacing between images."
+msgstr "圖片之間的間距。"
+
+#: widgets/image-grid/image-grid.php:102
+msgid "Spacing"
+msgstr "圖片間距"
+
+#: widgets/image-grid/image-grid.php:97
+msgid "Maximum image width"
+msgstr "圖片寬度最大值"
+
+#: widgets/image-grid/image-grid.php:92
+msgid "Maximum image height"
+msgstr "圖片高度最大值"
+
+#: widgets/image-grid/image-grid.php:83
+msgid "Display"
+msgstr "顯示方式"
+
+#: widgets/price-table/price-table.php:74 widgets/image-grid/image-grid.php:67
+msgid "Image title"
+msgstr "圖片標題"
+
+#: widgets/simple-masonry/simple-masonry.php:47
+#: widgets/image-grid/image-grid.php:53
+msgid "Images"
+msgstr "圖片"
+
+#: widgets/image-grid/image-grid.php:17
+msgid "Display a grid of images."
+msgstr "能以格狀顯示圖片的小工具。"
+
+#: widgets/image-grid/image-grid.php:15
+msgid "SiteOrigin Image Grid"
+msgstr "SiteOrigin 格狀圖片"
+
+#: widgets/hero/hero.php:181 widgets/layout-slider/layout-slider.php:141
+msgid "Additional padding added to the top of the slider"
+msgstr "設定要在投影片播放上方加入的額外邊框間距。"
+
+#: widgets/hero/hero.php:180 widgets/layout-slider/layout-slider.php:140
+msgid "Extra top padding"
+msgstr "額外的上邊框間距"
+
+#: widgets/hero/hero.php:130 widgets/layout-slider/layout-slider.php:92
+msgid "Open URL in a new window"
+msgstr "在新視窗中開啟網址"
+
+#: widgets/headline/headline.php:61 widgets/headline/headline.php:132
+msgid "H6"
+msgstr "H6"
+
+#: widgets/headline/headline.php:60 widgets/headline/headline.php:131
+msgid "H5"
+msgstr "H5"
+
+#: widgets/headline/headline.php:59 widgets/headline/headline.php:130
+msgid "H4"
+msgstr "H4"
+
+#: widgets/headline/headline.php:58 widgets/headline/headline.php:129
+msgid "H3"
+msgstr "H3"
+
+#: widgets/headline/headline.php:57 widgets/headline/headline.php:128
+msgid "H2"
+msgstr "H2"
+
+#: widgets/headline/headline.php:56 widgets/headline/headline.php:127
+msgid "H1"
+msgstr "H1"
+
+#: widgets/contact/contact.php:1199
+msgid "Unfortunately our system identified your message as spam."
+msgstr "不巧的是，目前系統將你的訊息標示為垃圾留言。"
+
+#: widgets/contact/contact.php:1167
+msgid "Error validating your Captcha response."
+msgstr "驗證 Captcha 回應時發生錯誤。"
+
+#: widgets/contact/contact.php:1133
+msgid "Missing subject"
+msgstr "遺漏的主旨"
+
+#: widgets/contact/contact.php:1129
+msgid "The email address is invalid"
+msgstr "無效的電子郵件地址"
+
+#: widgets/contact/contact.php:1127
+msgid "A valid email is required"
+msgstr "需要有效的電子郵件地址"
+
+#: widgets/contact/contact.php:1101
+msgid "Error sending email, please try again later."
+msgstr "傳送電子郵件發生錯誤，請稍後再試。"
+
+#: widgets/contact/contact.php:1022
+msgid "Invalid email address."
+msgstr "無效的電子郵件位址。"
+
+#: widgets/contact/contact.php:724
+msgid "Please write something"
+msgstr "請輸入訊息內容"
+
+#: widgets/contact/contact.php:721
+msgid "Message"
+msgstr "訊息"
+
+#: widgets/contact/contact.php:716
+msgid "Please enter a subject"
+msgstr "請輸入主旨"
+
+#: widgets/contact/contact.php:708
+msgid "Please enter a valid email address"
+msgstr "請輸入有效的電子郵件地址"
+
+#: widgets/contact/contact.php:705
+msgid "Your Email"
+msgstr "你的電子郵件地址"
+
+#: widgets/contact/contact.php:700
+msgid "Please enter your name"
+msgstr "請輸入你的姓名"
+
+#: widgets/contact/contact.php:697
+msgid "Your Name"
+msgstr "你的姓名"
+
+#: widgets/contact/contact.php:613
+msgid "The white highlight at the bottom of the button"
+msgstr "按鈕下方的白色醒目提示。"
+
+#: widgets/contact/contact.php:612
+msgid "Inset highlight"
+msgstr "嵌入式醒目提示"
+
+#: widgets/contact/contact.php:588
+msgid "Bold"
+msgstr "粗體"
+
+#: widgets/contact/contact.php:587
+msgid "Semi-bold"
+msgstr "半粗體"
+
+#: widgets/contact/contact.php:583
+msgid "Font weight"
+msgstr "字體粗細"
+
+#: widgets/contact/contact.php:456 widgets/contact/contact.php:566
+msgid "Border rounding"
+msgstr "框線圓角"
+
+#: widgets/contact/contact.php:540
+msgid "Gradient intensity"
+msgstr "漸層濃度"
+
+#: widgets/contact/contact.php:529
+msgid "Style the button or leave it with default theme styling."
+msgstr "啟用這項設定，便能自訂傳送按鈕的樣式，未啟用則套用佈景主題的預設樣式。"
+
+#: widgets/contact/contact.php:528
+msgid "Style submit button"
+msgstr "自訂傳送按鈕樣式"
+
+#: widgets/contact/contact.php:524
+msgid "Submit button"
+msgstr "傳送按鈕"
+
+#: widgets/contact/contact.php:516
+msgid "Error margin"
+msgstr "錯誤訊息邊界"
+
+#: widgets/contact/contact.php:511
+msgid "Error padding"
+msgstr "錯誤訊息邊框間距"
+
+#: widgets/contact/contact.php:506
+msgid "Error text color"
+msgstr "錯誤訊息內容色彩"
+
+#: widgets/contact/contact.php:496
+msgid "Error background color"
+msgstr "錯誤訊息背景色彩"
+
+#: widgets/contact/contact.php:492
+msgid "Error messages"
+msgstr "錯誤訊息"
+
+#: widgets/image/image.php:75 widgets/contact/contact.php:326
+#: widgets/contact/contact.php:443 widgets/contact/contact.php:639
+msgid "Hidden"
+msgstr "隱藏"
+
+#: widgets/contact/contact.php:322 widgets/contact/contact.php:550
+msgid "Border style"
+msgstr "框線樣式"
+
+#: widgets/contact/contact.php:317 widgets/contact/contact.php:434
+#: widgets/contact/contact.php:561 widgets/tabs/tabs.php:94
+#: widgets/tabs/tabs.php:134 widgets/tabs/tabs.php:162
+#: widgets/accordion/accordion.php:116 widgets/accordion/accordion.php:140
+msgid "Border width"
+msgstr "框線寬度"
+
+#: widgets/contact/contact.php:298
+msgid "Container"
+msgstr "容器"
+
+#: widgets/contact/contact.php:282
+msgid "How to handle submissions that are identified as spam."
+msgstr "設定表單內容辨識為垃圾留言時的處理方式。"
+
+#: widgets/contact/contact.php:280
+msgid "Tag as spam in subject"
+msgstr "於主旨處標註為垃圾留言"
+
+#: widgets/contact/contact.php:279
+msgid "Show error message"
+msgstr "顯示錯誤訊息"
+
+#: widgets/contact/contact.php:277
+msgid "Spam action"
+msgstr "垃圾留言保護"
+
+#: widgets/contact/contact.php:272
+msgid "Use Akismet filtering"
+msgstr "使用 Akismet 進行篩選"
+
+#: widgets/contact/contact.php:268
+msgid "Akismet"
+msgstr "Akismet"
+
+#: widgets/contact/contact.php:215
+msgid "Spam Protection"
+msgstr "垃圾留言保護"
+
+#: widgets/contact/contact.php:200
+msgid "Value"
+msgstr "選項設定值"
+
+#: widgets/contact/contact.php:195
+msgid "Option"
+msgstr "選項設定"
+
+#: widgets/contact/contact.php:194
+msgid "Options"
+msgstr "選項內容"
+
+#: widgets/contact/contact.php:186
+msgid "Error message to display if this field is missing."
+msgstr "未填寫必填欄位時所顯示的錯誤訊息。"
+
+#: widgets/contact/contact.php:185
+msgid "Missing message"
+msgstr "未填寫必填欄位的錯誤訊息"
+
+#: widgets/contact/contact.php:181
+msgid "Is this field required?"
+msgstr "設定欄位是否為必填欄位。"
+
+#: widgets/contact/contact.php:180 widgets/contact/contact.php:1010
+msgid "Required field"
+msgstr "必填欄位"
+
+#: widgets/contact/contact.php:176
+msgid "Required Field"
+msgstr "必填欄位"
+
+#: widgets/taxonomy/taxonomy.php:42 widgets/contact/contact.php:165
+msgid "Label"
+msgstr "標籤"
+
+#: widgets/contact/contact.php:154
+msgid "Checkboxes"
+msgstr "核取方塊"
+
+#: widgets/contact/contact.php:153
+msgid "Dropdown Select"
+msgstr "下拉式清單"
+
+#: widgets/contact/contact.php:152
+msgid "Text Area"
+msgstr "文字區域"
+
+#: widgets/contact/contact.php:150 widgets/contact/contact.php:713
+msgid "Subject"
+msgstr "主旨"
+
+#: widgets/contact/contact.php:147 widgets/testimonial/testimonial.php:54
+msgid "Name"
+msgstr "姓名"
+
+#: widgets/contact/contact.php:144
+msgid "Field Type"
+msgstr "欄位類型"
+
+#: widgets/contact/contact.php:136
+msgid "Field"
+msgstr "欄位項目"
+
+#: widgets/contact/contact.php:135 widgets/contact/contact.php:392
+msgid "Fields"
+msgstr "表單欄位"
+
+#: widgets/contact/contact.php:91
+msgid "Submit button text"
+msgstr "傳送按鈕文字"
+
+#: widgets/contact/contact.php:87
+msgid "Thanks for contacting us. We'll get back to you shortly."
+msgstr "感謝你的建議，我們會盡快與你聯絡。"
+
+#: widgets/contact/contact.php:86
+msgid "Message to display after message successfully sent."
+msgstr "表單傳送成功後顯示的訊息。"
+
+#: widgets/contact/contact.php:85
+msgid "Success message"
+msgstr "表單傳送成功訊息"
+
+#: widgets/contact/contact.php:81
+msgid "Prefix added to all incoming email subjects."
+msgstr "在這個欄位設定的前置詞，會加入所有入站郵件主旨的前方。"
+
+#: widgets/contact/contact.php:80
+msgid "Subject prefix"
+msgstr "主旨前置詞"
+
+#: widgets/contact/contact.php:76
+msgid "Subject to use when there isn't one available."
+msgstr "使用者未填主旨時，便會以預設主旨代替。"
+
+#: widgets/contact/contact.php:75
+msgid "Default subject"
+msgstr "預設主旨"
+
+#: widgets/contact/contact.php:63
+msgid "To email address"
+msgstr "收件者電子郵件地址"
+
+#: widgets/contact/contact.php:53
+msgid "Display title"
+msgstr "顯示標題"
+
+#: widgets/contact/contact.php:48 widgets/contact/contact.php:92
+msgid "Contact Us"
+msgstr "請與我們聯絡"
+
+#: widgets/contact/contact.php:18
+msgid "Create a simple contact form for your users to get hold of you."
+msgstr "建立簡易的聯絡表單以便讓使用者與你進行聯繫。"
+
+#: widgets/contact/contact.php:16
+msgid "SiteOrigin Contact Form"
+msgstr "SiteOrigin 聯絡表單"
+
+#: so-widgets-bundle.php:216
+msgid "A new widget!"
+msgstr "全新的小工具！"
+
+#: so-widgets-bundle.php:200
+msgid "New widgets available in the "
+msgstr "全新的小工具已提供於 "
+
+#: admin/tpl/admin.php:71
+msgid "Deactivate"
+msgstr "停用"
+
+#: admin/tpl/admin.php:70
+msgid "Activate"
+msgstr "啟用"
+
+#: admin/tpl/admin.php:48
+msgid "Active"
+msgstr "已啟用"
+
+#: admin/tpl/admin.php:12
+msgid "Filter Widgets"
+msgstr "搜尋小工具"
+
+#. Author URI of the plugin
+msgid "https://siteorigin.com"
+msgstr "https://siteorigin.com"
+
+#. Author of the plugin
+msgid "SiteOrigin"
+msgstr "SiteOrigin"
+
+#. Description of the plugin
+msgid "A collection of all widgets, neatly bundled into a single plugin. It's also a framework to code your own widgets on top of."
+msgstr "將 SiteOrigin 開發的所有小工具封裝成單一外掛，也可以以它為架構開發自有小工具。"
+
+#. Plugin URI of the plugin
+msgid "https://siteorigin.com/widgets-bundle/"
+msgstr "https://siteorigin.com/widgets-bundle/"
+
+#: widgets/video/video.php:106
+msgid "Always use the embedded video rather than the MediaElement player."
+msgstr "永遠使用內嵌的視訊而不是 MediaElement 播放器。"
+
+#: widgets/video/video.php:105
+msgid "Use oEmbed"
+msgstr "使用 oEmbed"
+
+#: base/inc/widgets/base-slider.class.php:127 widgets/video/video.php:100
+msgid "Autoplay"
+msgstr "自動播放"
+
+#: widgets/video/video.php:95
+msgid "Video Playback"
+msgstr "視訊播放"
+
+#: widgets/video/video.php:73
+msgid "Select cover image"
+msgstr "選取封面圖片"
+
+#: widgets/video/video.php:61
+msgid "Select video"
+msgstr "選取視訊"
+
+#: widgets/video/video.php:52
+msgid "Video File"
+msgstr "視訊檔案"
+
+#: widgets/video/video.php:40
+msgid "Externally hosted"
+msgstr "外部託管"
+
+#: widgets/video/video.php:39
+msgid "Self hosted"
+msgstr "自主託管"
+
+#: widgets/video/video.php:36
+msgid "Video location"
+msgstr "視訊位置"
+
+#: widgets/video/video.php:19
+msgid "A video player widget."
+msgstr "視訊播放器小工具。"
+
+#: compat/visual-composer/visual-composer.php:38
+#: compat/visual-composer/visual-composer.php:54
+#: compat/block-editor/widget-block.js:171
+msgid "SiteOrigin Widget"
+msgstr "SiteOrigin 小工具"
+
+#: widgets/contact/contact.php:409
+#: widgets/social-media-buttons/social-media-buttons.php:170
+msgid "Margin"
+msgstr "邊界"
+
+#: widgets/testimonial/testimonial.php:87
+#: widgets/social-media-buttons/social-media-buttons.php:73
+#: widgets/image-grid/image-grid.php:71
+msgid "URL"
+msgstr "網址"
+
+#: widgets/social-media-buttons/social-media-buttons.php:68
+msgid "Select network"
+msgstr "選取社交網路服務"
+
+#: widgets/social-media-buttons/social-media-buttons.php:58
+msgid "Network"
+msgstr "社交網路服務"
+
+#: widgets/social-media-buttons/social-media-buttons.php:57
+msgid "Networks"
+msgstr "社交網路服務"
+
+#: widgets/social-media-buttons/social-media-buttons.php:20
+msgid "A social media buttons widget."
+msgstr "社交網路服務按鈕小工具。"
+
+#: widgets/social-media-buttons/social-media-buttons.php:18
+msgid "SiteOrigin Social Media Buttons"
+msgstr "SiteOrigin 社交網路服務按鈕"
+
+#: widgets/social-media-buttons/data/networks.php:290
+msgid "YouTube"
+msgstr "YouTube"
+
+#: widgets/social-media-buttons/data/networks.php:284
+msgid "Yelp"
+msgstr "Yelp"
+
+#: widgets/social-media-buttons/data/networks.php:278
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: widgets/social-media-buttons/data/networks.php:272
+msgid "Xing"
+msgstr "Xing"
+
+#: widgets/social-media-buttons/data/networks.php:266
+msgid "WordPress"
+msgstr "WordPress"
+
+#: widgets/social-media-buttons/data/networks.php:254
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: widgets/social-media-buttons/data/networks.php:248
+msgid "Twitch"
+msgstr "Twitch"
+
+#: widgets/social-media-buttons/data/networks.php:242
+msgid "TripAdvisor"
+msgstr "TripAdvisor"
+
+#: widgets/social-media-buttons/data/networks.php:236
+msgid "Trello"
+msgstr "Trello"
+
+#: widgets/social-media-buttons/data/networks.php:230
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: widgets/social-media-buttons/data/networks.php:224
+msgid "Steam"
+msgstr "Steam"
+
+#: widgets/social-media-buttons/data/networks.php:218
+msgid "Stack Overflow"
+msgstr "Stack Overflow"
+
+#: widgets/social-media-buttons/data/networks.php:212
+msgid "Stack Exchange"
+msgstr "Stack Exchange"
+
+#: widgets/social-media-buttons/data/networks.php:206
+msgid "Spotify"
+msgstr "Spotify"
+
+#: widgets/social-media-buttons/data/networks.php:200
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: widgets/social-media-buttons/data/networks.php:194
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: widgets/social-media-buttons/data/networks.php:188
+msgid "Slack"
+msgstr "Slack"
+
+#: widgets/social-media-buttons/data/networks.php:182
+msgid "Reddit"
+msgstr "Reddit"
+
+#: widgets/social-media-buttons/data/networks.php:176
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: widgets/social-media-buttons/data/networks.php:170
+msgid "JSFiddle"
+msgstr "JSFiddle"
+
+#: widgets/social-media-buttons/data/networks.php:164
+msgid "Hacker News"
+msgstr "Hacker News"
+
+#: widgets/social-media-buttons/data/networks.php:158
+msgid "Gratipay"
+msgstr "Gratipay"
+
+#: widgets/social-media-buttons/data/networks.php:152
+msgid "Github"
+msgstr "Github"
+
+#: widgets/social-media-buttons/data/networks.php:146
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: widgets/social-media-buttons/data/networks.php:140
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: widgets/social-media-buttons/data/networks.php:134
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: widgets/social-media-buttons/data/networks.php:128
+msgid "deviantArt"
+msgstr "deviantArt"
+
+#: widgets/social-media-buttons/data/networks.php:122
+msgid "Delicious"
+msgstr "Delicious"
+
+#: widgets/social-media-buttons/data/networks.php:116
+msgid "Codepen"
+msgstr "Codepen"
+
+#: widgets/social-media-buttons/data/networks.php:110
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: widgets/social-media-buttons/data/networks.php:104
+msgid "Behance"
+msgstr "Behance"
+
+#: widgets/social-media-buttons/data/networks.php:83
+msgid "Vine"
+msgstr "Vine"
+
+#: widgets/social-media-buttons/data/networks.php:77
+msgid "Flickr"
+msgstr "Flickr"
+
+#: widgets/social-media-buttons/data/networks.php:71
+msgid "VK"
+msgstr "VK"
+
+#: widgets/social-media-buttons/data/networks.php:65
+msgid "Instagram"
+msgstr "Instagram"
+
+#: widgets/social-media-buttons/data/networks.php:59
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: widgets/social-media-buttons/data/networks.php:53
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: widgets/social-media-buttons/data/networks.php:47
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: widgets/contact/contact.php:148
+#: widgets/social-media-buttons/data/networks.php:29
+msgid "Email"
+msgstr "電子郵件地址"
+
+#: widgets/social-media-buttons/data/networks.php:23
+msgid "RSS"
+msgstr "RSS"
+
+#: widgets/social-media-buttons/data/networks.php:17
+msgid "Google+"
+msgstr "Google+"
+
+#: widgets/social-media-buttons/data/networks.php:11
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/social-media-buttons/data/networks.php:5
+msgid "Facebook"
+msgstr "Facebook"
+
+#: widgets/slider/slider.php:96
+msgid "Controls"
+msgstr "投影片輪播控制項"
+
+#: widgets/slider/slider.php:78
+msgid "Foreground image"
+msgstr "前景圖片"
+
+#: widgets/layout-slider/layout-slider.php:66 widgets/slider/slider.php:70
+msgid "Tile"
+msgstr "並排顯示"
+
+#: widgets/hero/hero.php:104 widgets/layout-slider/layout-slider.php:65
+#: widgets/slider/slider.php:69
+msgid "Cover"
+msgstr "覆蓋全區"
+
+#: widgets/hero/hero.php:102 widgets/layout-slider/layout-slider.php:63
+#: widgets/slider/slider.php:67
+msgid "Background image type"
+msgstr "背景圖片類型"
+
+#: widgets/slider/slider.php:62
+msgid "Background Color"
+msgstr "背景色彩"
+
+#: widgets/layout-slider/layout-slider.php:34 widgets/slider/slider.php:33
+msgid "Slider frames"
+msgstr "投影片輪播框"
+
+#: widgets/slider/slider.php:17
+msgid "A responsive slider widget that supports images and video."
+msgstr "支援圖片及視訊的回應式投影片輪播小工具。"
+
+#: widgets/slider/slider.php:15
+msgid "SiteOrigin Slider"
+msgstr "SiteOrigin 投影片輪播"
+
+#: widgets/price-table/price-table.php:159
+msgid "Open Button URL in a new window"
+msgstr "在新視窗中開啟按鈕網址"
+
+#: widgets/price-table/price-table.php:154
+msgid "Featured button color"
+msgstr "精選商品按鈕色彩"
+
+#: widgets/price-table/price-table.php:144
+msgid "Featured header color"
+msgstr "精選商品標題色彩"
+
+#: widgets/price-table/price-table.php:139
+msgid "Header color"
+msgstr "標題色彩"
+
+#: widgets/price-table/price-table.php:131
+msgid "Price table theme"
+msgstr "價目表主題"
+
+#: widgets/price-table/price-table.php:114
+msgid "Hover text"
+msgstr "游標暫留文字"
+
+#: widgets/price-table/price-table.php:96
+msgid "Button URL"
+msgstr "按鈕網址"
+
+#: widgets/price-table/price-table.php:88
+msgid "Per"
+msgstr "計價單位/收費週期"
+
+#: widgets/price-table/price-table.php:84
+msgid "Price"
+msgstr "商品價格"
+
+#: widgets/simple-masonry/simple-masonry.php:54 widgets/contact/contact.php:250
+#: widgets/testimonial/testimonial.php:71
+#: widgets/testimonial/testimonial.php:187
+#: widgets/price-table/price-table.php:69 widgets/image-grid/image-grid.php:54
+#: widgets/image-grid/image-grid.php:63
+msgid "Image"
+msgstr "圖片"
+
+#: widgets/price-table/price-table.php:56
+msgid "Featured"
+msgstr "精選商品"
+
+#: widgets/price-table/price-table.php:47
+msgid "Column"
+msgstr "商品資料"
+
+#: widgets/price-table/price-table.php:46
+msgid "Columns"
+msgstr "商品項目"
+
+#: widgets/price-table/price-table.php:16
+msgid "A simple Price Table."
+msgstr "簡易價目表小工具。"
+
+#: widgets/price-table/price-table.php:14
+msgid "SiteOrigin Price Table"
+msgstr "SiteOrigin 價目表"
+
+#: widgets/post-carousel/tpl/base.php:17 widgets/post-carousel/tpl/base.php:22
+msgid "Previous"
+msgstr "上一篇"
+
+#: widgets/post-carousel/tpl/base.php:16 widgets/post-carousel/tpl/base.php:24
+msgid "Next"
+msgstr "下一篇"
+
+#: widgets/post-carousel/post-carousel.php:117
+msgid "Posts query"
+msgstr "文章查詢條件"
+
+#: widgets/post-carousel/post-carousel.php:51
+msgid "Display your posts as a carousel."
+msgstr "以輪播方式顯示文章。"
+
+#: widgets/post-carousel/post-carousel.php:49
+msgid "SiteOrigin Post Carousel"
+msgstr "SiteOrigin 文章輪播"
+
+#: widgets/image/image.php:106
+msgid "Resize image to fit its container."
+msgstr "啟用這項設定後，便能調整圖片尺寸配合容器寬度。"
+
+#: widgets/image/image.php:105
+msgid "Full Width"
+msgstr "符合容器寬度"
+
+#: widgets/image/image.php:100
+msgid "Make sure the image doesn't extend beyond its container."
+msgstr "啟用這項設定後，便能確保圖片不會超出容器。"
+
+#: widgets/image/image.php:99
+msgid "Bound"
+msgstr "限制範圍"
+
+#: widgets/image/image.php:93 widgets/image-grid/image-grid.php:76
+#: widgets/slider/slider.php:89
+msgid "Open in new window"
+msgstr "在新視窗中開啟"
+
+#: widgets/image/image.php:83
+msgid "Alt text"
+msgstr "替代文字"
+
+#: base/inc/fields/image-size.class.php:14
+msgid "Full"
+msgstr "完整大小"
+
+#: widgets/hero/hero.php:97 widgets/image/image.php:38
+#: widgets/testimonial/testimonial.php:130
+#: widgets/testimonial/testimonial.php:159
+#: widgets/testimonial/testimonial.php:201 widgets/image-grid/image-grid.php:86
+msgid "Image size"
+msgstr "圖片尺寸"
+
+#: widgets/image/image.php:31
+msgid "Image file"
+msgstr "圖片檔案"
+
+#: widgets/image/image.php:15
+msgid "A simple image widget with massive power."
+msgstr "簡易卻具有強大吸引力的圖片小工具。"
+
+#: widgets/image/image.php:13
+msgid "SiteOrigin Image"
+msgstr "SiteOrigin 圖片"
+
+#: widgets/hero/hero.php:255 widgets/layout-slider/layout-slider.php:179
+msgid "Text size"
+msgstr "文字大小"
+
+#: widgets/hero/hero.php:242 widgets/layout-slider/layout-slider.php:171
+msgid "Heading shadow intensity"
+msgstr "標題文字陰影濃度"
+
+#: widgets/hero/hero.php:211 widgets/layout-slider/layout-slider.php:165
+msgid "Heading size"
+msgstr "標題字體大小"
+
+#: widgets/hero/hero.php:199
+msgid "Heading font"
+msgstr "標題字型"
+
+#: widgets/hero/hero.php:193 widgets/layout-slider/layout-slider.php:153
+msgid "Maximum container width"
+msgstr "容器寬度最大值"
+
+#: widgets/hero/hero.php:187 widgets/layout-slider/layout-slider.php:147
+msgid "Side padding"
+msgstr "兩側邊框間距"
+
+#: widgets/hero/hero.php:174 widgets/layout-slider/layout-slider.php:134
+msgid "Top and bottom padding"
+msgstr "上/下邊框間距"
+
+#: widgets/hero/hero.php:157 widgets/layout-slider/layout-slider.php:119
+msgid "Design and Layout"
+msgstr "設計及版面配置"
+
+#: widgets/hero/hero.php:151 widgets/layout-slider/layout-slider.php:113
+msgid "Slider Controls"
+msgstr "投影片輪播控制項"
+
+#: widgets/hero/hero.php:136 widgets/layout-slider/layout-slider.php:98
+#: widgets/slider/slider.php:44
+msgid "Background videos"
+msgstr "背景影片"
+
+#: widgets/hero/hero.php:135 widgets/layout-slider/layout-slider.php:97
+#: widgets/slider/slider.php:43
+msgid "Video"
+msgstr "視訊"
+
+#: widgets/hero/hero.php:110 widgets/layout-slider/layout-slider.php:72
+msgid "Background image opacity"
+msgstr "背景圖片不透明度"
+
+#: widgets/hero/hero.php:90 widgets/layout-slider/layout-slider.php:56
+#: widgets/slider/slider.php:56
+msgid "Background image"
+msgstr "背景圖片"
+
+#: widgets/hero/hero.php:86 widgets/layout-slider/layout-slider.php:52
+#: widgets/contact/contact.php:425
+msgid "Background"
+msgstr "背景"
+
+#: widgets/hero/hero.php:66
+msgid "Add [buttons] shortcode to the content to insert these buttons."
+msgstr "將 [buttons] 短代碼加入內容中便能插入這些按鈕。"
+
+#: widgets/hero/hero.php:64 widgets/taxonomy/taxonomy.php:49
+msgid "Buttons"
+msgstr "按鈕"
+
+#: widgets/hero/hero.php:59 widgets/layout-slider/layout-slider.php:47
+#: widgets/tabs/tabs.php:63 widgets/accordion/accordion.php:63
+msgid "Content"
+msgstr "內容"
+
+#: widgets/hero/hero.php:48 widgets/layout-slider/layout-slider.php:35
+#: widgets/slider/slider.php:34
+msgid "Frame"
+msgstr "投影片"
+
+#: widgets/hero/hero.php:47
+msgid "Hero frames"
+msgstr "宣傳內容框"
+
+#: widgets/hero/hero.php:20
+msgid "A big hero image with a few settings to make it your own."
+msgstr "建立網站專屬的大型宣傳內容圖片。"
+
+#: widgets/hero/hero.php:18
+msgid "SiteOrigin Hero"
+msgstr "SiteOrigin 宣傳內容"
+
+#: widgets/contact/contact.php:334 widgets/contact/contact.php:451
+#: widgets/contact/contact.php:637 widgets/headline/headline.php:193
+msgid "Outset"
+msgstr "浮出線"
+
+#: widgets/contact/contact.php:333 widgets/contact/contact.php:450
+#: widgets/contact/contact.php:636 widgets/headline/headline.php:192
+msgid "Inset"
+msgstr "嵌入線"
+
+#: widgets/contact/contact.php:332 widgets/contact/contact.php:449
+#: widgets/contact/contact.php:635 widgets/headline/headline.php:191
+msgid "Ridge"
+msgstr "凸線"
+
+#: widgets/contact/contact.php:331 widgets/contact/contact.php:448
+#: widgets/contact/contact.php:634 widgets/headline/headline.php:190
+msgid "Groove"
+msgstr "凹線"
+
+#: widgets/contact/contact.php:330 widgets/contact/contact.php:447
+#: widgets/contact/contact.php:633 widgets/headline/headline.php:189
+msgid "Double"
+msgstr "雙線"
+
+#: widgets/contact/contact.php:328 widgets/contact/contact.php:445
+#: widgets/contact/contact.php:556 widgets/contact/contact.php:631
+#: widgets/headline/headline.php:188
+msgid "Dashed"
+msgstr "虛線"
+
+#: widgets/contact/contact.php:327 widgets/contact/contact.php:444
+#: widgets/contact/contact.php:555 widgets/contact/contact.php:630
+#: widgets/headline/headline.php:187
+msgid "Dotted"
+msgstr "點線"
+
+#: widgets/contact/contact.php:329 widgets/contact/contact.php:446
+#: widgets/contact/contact.php:554 widgets/contact/contact.php:632
+#: widgets/headline/headline.php:186
+msgid "Solid"
+msgstr "實線"
+
+#: widgets/headline/headline.php:177 widgets/headline/headline.php:236
+msgid "Divider"
+msgstr "分隔線"
+
+#: widgets/headline/headline.php:106
+msgid "Sub headline"
+msgstr "副標題"
+
+#: widgets/contact/contact.php:346 widgets/contact/contact.php:396
+#: widgets/headline/headline.php:75 widgets/headline/headline.php:146
+#: widgets/features/features.php:137 widgets/features/features.php:158
+#: widgets/features/features.php:179 widgets/button/button.php:147
+msgid "Font"
+msgstr "字型"
+
+#: widgets/headline/headline.php:35 widgets/headline/headline.php:235
+msgid "Headline"
+msgstr "標題"
+
+#: widgets/headline/headline.php:18
+msgid "A headline widget."
+msgstr "標題小工具。"
+
+#: widgets/headline/headline.php:16
+msgid "SiteOrigin Headline"
+msgstr "SiteOrigin 標題"
+
+#: widgets/google-map/google-map.php:598
+msgid "Custom Map"
+msgstr "自訂地圖"
+
+#: widgets/google-map/google-map.php:46 widgets/google-map/google-map.php:51
+#: widgets/google-map/google-map.php:437
+msgid "API key"
+msgstr "API 金鑰"
+
+#: widgets/google-map/google-map.php:426
+msgid "Allow the Google Maps service to reorder waypoints for the shortest travelling distance."
+msgstr "啟用這項設定後，Google 地圖服務會為停留點重新排序，以取得最短行程距離。"
+
+#: widgets/google-map/google-map.php:424
+msgid "Optimize waypoints"
+msgstr "最佳化途經地點"
+
+#: widgets/google-map/google-map.php:418
+msgid "Whether or not this is a stop on the route or just a route preference."
+msgstr "設定停留點是真正的停留點或只是偏好繞路經過的指定地點，啟用這項設定即代表前者。"
+
+#: widgets/google-map/google-map.php:417
+msgid "Stopover"
+msgstr "停留點"
+
+#: widgets/testimonial/testimonial.php:65 widgets/google-map/google-map.php:412
+msgid "Location"
+msgstr "位置"
+
+#: widgets/google-map/google-map.php:402
+msgid "Waypoint"
+msgstr "途經地點"
+
+#: widgets/google-map/google-map.php:401
+msgid "Waypoints"
+msgstr "途經地點"
+
+#: widgets/google-map/google-map.php:392
+msgid "Avoid tolls"
+msgstr "避開收費道路"
+
+#: widgets/google-map/google-map.php:388
+msgid "Avoid highways"
+msgstr "避開主要高速公路"
+
+#: widgets/google-map/google-map.php:383
+msgid "Transit"
+msgstr "大眾運輸路線"
+
+#: widgets/google-map/google-map.php:382
+msgid "Bicycling"
+msgstr "單車路線"
+
+#: widgets/google-map/google-map.php:381
+msgid "Walking"
+msgstr "步行路線"
+
+#: widgets/google-map/google-map.php:380
+msgid "Driving"
+msgstr "標準開車路線"
+
+#: widgets/google-map/google-map.php:377
+msgid "Travel mode"
+msgstr "旅行模式"
+
+#: widgets/google-map/google-map.php:373
+msgid "Destination"
+msgstr "目的地"
+
+#: widgets/google-map/google-map.php:369
+msgid "Starting point"
+msgstr "起點"
+
+#: widgets/google-map/google-map.php:355
+msgid "Directions"
+msgstr "路線規劃"
+
+#: widgets/taxonomy/taxonomy.php:55 widgets/contact/contact.php:356
+#: widgets/contact/contact.php:475 widgets/contact/contact.php:644
+#: widgets/icon/icon.php:35 widgets/google-map/google-map.php:347
+#: widgets/headline/headline.php:67 widgets/headline/headline.php:138
+#: widgets/headline/headline.php:198 widgets/features/features.php:146
+#: widgets/features/features.php:167 widgets/features/features.php:188
+msgid "Color"
+msgstr "色彩"
+
+#: widgets/google-map/google-map.php:343
+msgid "Visible"
+msgstr "可見"
+
+#: widgets/google-map/google-map.php:336
+msgid "Labels"
+msgstr "標籤"
+
+#: widgets/google-map/google-map.php:335
+msgid "Geometry"
+msgstr "幾何圖形"
+
+#: widgets/google-map/google-map.php:333
+msgid "Select element type to style"
+msgstr "選取要進行樣式化的元素類型"
+
+#: widgets/google-map/google-map.php:328
+msgid "Point of interest - Sports complexes"
+msgstr "搜尋點 - 體育館"
+
+#: widgets/google-map/google-map.php:327
+msgid "Point of interest - Schools"
+msgstr "搜尋點 - 學校"
+
+#: widgets/google-map/google-map.php:326
+msgid "Point of interest - Places of worship"
+msgstr "搜尋點 - 禮拜場所"
+
+#: widgets/google-map/google-map.php:325
+msgid "Point of interest - Parks"
+msgstr "搜尋點 - 公園"
+
+#: widgets/google-map/google-map.php:324
+msgid "Point of interest - Medical"
+msgstr "搜尋點 - 緊急服務設施"
+
+#: widgets/google-map/google-map.php:323
+msgid "Point of interest - Government"
+msgstr "搜尋點 - 政府大樓"
+
+#: widgets/google-map/google-map.php:322
+msgid "Point of interest - Business"
+msgstr "搜尋點 - 商家"
+
+#: widgets/google-map/google-map.php:321
+msgid "Point of interest - Attractions"
+msgstr "搜尋點 - 觀光景點"
+
+#: widgets/google-map/google-map.php:320
+msgid "Natural landscape terrain"
+msgstr "地形特徵"
+
+#: widgets/google-map/google-map.php:319
+msgid "Natural landscape landcover"
+msgstr "土地覆蓋特徵"
+
+#: widgets/google-map/google-map.php:318
+msgid "Man-made landscape"
+msgstr "人造建築物"
+
+#: widgets/google-map/google-map.php:317
+msgid "Transit stations"
+msgstr "大眾運輸車站"
+
+#: widgets/google-map/google-map.php:316
+msgid "Transit lines"
+msgstr "大眾運輸路線"
+
+#: widgets/google-map/google-map.php:315
+msgid "Local roads"
+msgstr "當地道路"
+
+#: widgets/google-map/google-map.php:314
+msgid "Arterial roads"
+msgstr "主幹道"
+
+#: widgets/google-map/google-map.php:313
+msgid "Highways"
+msgstr "高速公路"
+
+#: widgets/google-map/google-map.php:312
+msgid "Water"
+msgstr "水域"
+
+#: widgets/google-map/google-map.php:310
+msgid "Select map feature to style"
+msgstr "選取要進行樣式化的地圖特徵"
+
+#: widgets/contact/contact.php:480 widgets/contact/contact.php:627
+#: widgets/google-map/google-map.php:300 widgets/headline/headline.php:182
+msgid "Style"
+msgstr "樣式"
+
+#: widgets/google-map/google-map.php:299
+msgid "Custom map styles"
+msgstr "自訂地圖樣式"
+
+#: widgets/google-map/google-map.php:290
+msgid "Raw JSON styles"
+msgstr "原始 JSON 樣式"
+
+#: widgets/google-map/google-map.php:280
+msgid "Styled map name"
+msgstr "樣式化地圖的名稱"
+
+#: widgets/google-map/google-map.php:271
+msgid "Predefined Styles"
+msgstr "預先定義的樣式"
+
+#: widgets/google-map/google-map.php:270
+msgid "Custom"
+msgstr "自訂"
+
+#: widgets/google-map/google-map.php:263
+msgid "Map styles"
+msgstr "地圖樣式"
+
+#: widgets/google-map/google-map.php:258
+msgid "Apply custom colors to map features, or hide them completely."
+msgstr "套用自訂色彩至地圖特徵，或完全隱藏地圖特徵。"
+
+#: widgets/google-map/google-map.php:256
+msgid "Styles"
+msgstr "樣式"
+
+#: widgets/google-map/google-map.php:243
+msgid "Always"
+msgstr "永遠顯示"
+
+#: widgets/google-map/google-map.php:242
+msgid "Mouse over"
+msgstr "游標暫留"
+
+#: widgets/google-map/google-map.php:241
+msgid "Click"
+msgstr "點擊"
+
+#: widgets/google-map/google-map.php:238
+msgid "When should Info Windows be displayed?"
+msgstr "資訊視窗顯示時機"
+
+#: widgets/google-map/google-map.php:226
+msgid "Info Window max width"
+msgstr "資訊視窗寬度最大值"
+
+#: widgets/google-map/google-map.php:222
+msgid "Info Window Content"
+msgstr "資訊視窗內容"
+
+#: widgets/google-map/google-map.php:217
+msgid "Place"
+msgstr "地點"
+
+#: widgets/google-map/google-map.php:207
+msgid "Marker"
+msgstr "標記"
+
+#: widgets/google-map/google-map.php:206
+msgid "Please be aware that adding more than 10 markers may cause a slight delay before they appear, due to Google Geocoding API rate limits."
+msgstr "請注意，由於 Google Geocoding API 的速率限制，加入超過 10 個標記便會導致在標記出現前產生些微延遲。"
+
+#: widgets/google-map/google-map.php:205
+msgid "Marker positions"
+msgstr "標記位置"
+
+#: widgets/google-map/google-map.php:201
+msgid "Draggable markers"
+msgstr "可拖曳標記"
+
+#: widgets/google-map/google-map.php:192
+msgid "Replaces the default map marker with your own image."
+msgstr "以自有的圖片取代預設的地圖標記。"
+
+#: widgets/google-map/google-map.php:191
+msgid "Marker icon"
+msgstr "標記圖示"
+
+#: widgets/google-map/google-map.php:186
+msgid "Show marker at map center"
+msgstr "在地圖中央顯示標記"
+
+#: widgets/google-map/google-map.php:181
+msgid "Use markers to identify points of interest on the map."
+msgstr "使用標記以辨別地圖上的搜尋點。"
+
+#: widgets/google-map/google-map.php:179
+msgid "Markers"
+msgstr "標記"
+
+#: widgets/google-map/google-map.php:163
+msgid "Keeps the map centered when it's container is resized."
+msgstr "啟用這項設定後，地圖容器即使調整尺寸，地圖仍會保持居中顯示。"
+
+#: widgets/google-map/google-map.php:162
+msgid "Keep map centered"
+msgstr "保持地圖居中"
+
+#: widgets/google-map/google-map.php:153
+msgid "Hides the default Google Maps controls."
+msgstr "啟用這項設定後，隱藏 Google 地圖的預設控制項。"
+
+#: widgets/google-map/google-map.php:152
+msgid "Disable default UI"
+msgstr "停用預設使用者介面"
+
+#: widgets/google-map/google-map.php:143
+msgid "Allow dragging the map to move it around."
+msgstr "啟用這項設定後，可讓使用者拖曳以移動地圖。"
+
+#: widgets/google-map/google-map.php:142
+msgid "Draggable"
+msgstr "可拖曳地圖"
+
+#: widgets/google-map/google-map.php:133
+msgid "Allow scrolling over the map to zoom in or out."
+msgstr "啟用這項設定後，可讓使用者透過捲動操作進行地圖比例縮放。"
+
+#: widgets/google-map/google-map.php:132
+msgid "Scroll to zoom"
+msgstr "捲動以縮放"
+
+#: widgets/google-map/google-map.php:118
+msgid "A value from 0 (the world) to 21 (street level)."
+msgstr "縮放比例值可從 0 (世界層級) 設定至 21 (街道層級)。 "
+
+#: widgets/google-map/google-map.php:117
+msgid "Zoom level"
+msgstr "縮放比例"
+
+#: widgets/hero/hero.php:162 widgets/layout-slider/layout-slider.php:124
+#: widgets/contact/contact.php:417 widgets/google-map/google-map.php:93
+msgid "Height"
+msgstr "高度"
+
+#: widgets/contact/contact.php:373 widgets/contact/contact.php:598
+#: widgets/contact/contact.php:649 widgets/google-map/google-map.php:88
+#: widgets/button/button.php:101
+msgid "Width"
+msgstr "寬度"
+
+#: widgets/google-map/google-map.php:77
+msgid "Static image"
+msgstr "靜態圖片"
+
+#: widgets/google-map/google-map.php:76
+msgid "Interactive"
+msgstr "互動式"
+
+#: widgets/google-map/google-map.php:70
+msgid "Map type"
+msgstr "地圖類型"
+
+#: widgets/google-map/google-map.php:65
+msgid "Set map display options."
+msgstr "設定地圖顯示方式。"
+
+#: widgets/contact/contact.php:58 widgets/testimonial/testimonial.php:99
+#: widgets/google-map/google-map.php:63 admin/tpl/admin.php:90
+msgid "Settings"
+msgstr "設定"
+
+#: widgets/google-map/google-map.php:37
+msgid "Map center"
+msgstr "地圖中心"
+
+#: widgets/google-map/google-map.php:18
+msgid "A Google Maps widget."
+msgstr "Google 地圖小工具。"
+
+#: widgets/google-map/google-map.php:16
+msgid "SiteOrigin Google Maps"
+msgstr "SiteOrigin Google 地圖"
+
+#: widgets/features/features.php:246
+msgid "Open more URL in a new window"
+msgstr "在新視窗中開啟 [閱讀全文] 網址"
+
+#: widgets/features/features.php:240
+msgid "Link icon to more URL"
+msgstr "將圖示連結至 [閱讀全文] 網址"
+
+#: widgets/features/features.php:234
+msgid "Link feature title to more URL"
+msgstr "將特色說明標題連結至 [閱讀全文] 網址"
+
+#: widgets/features/features.php:228
+msgid "Responsive layout"
+msgstr "回應式版面配置"
+
+#: widgets/features/features.php:222
+msgid "Features per row"
+msgstr "每列的特色說明數量"
+
+#: widgets/features/features.php:210
+#: widgets/social-media-buttons/social-media-buttons.php:116
+msgid "Icon size"
+msgstr "圖示尺寸"
+
+#: widgets/features/features.php:120
+msgid "More link URL"
+msgstr "[閱讀全文] 連結網址"
+
+#: widgets/features/features.php:115
+msgid "More link text"
+msgstr "[閱讀全文] 連結文字"
+
+#: widgets/taxonomy/taxonomy.php:50 widgets/contact/contact.php:151
+#: widgets/testimonial/testimonial.php:81 widgets/headline/headline.php:40
+#: widgets/headline/headline.php:111 widgets/features/features.php:110
+#: widgets/features/features.php:153 widgets/price-table/price-table.php:110
+msgid "Text"
+msgstr "文字"
+
+#: widgets/image/image.php:67 widgets/features/features.php:105
+msgid "Title text"
+msgstr "標題"
+
+#: widgets/features/features.php:93
+msgid "Use your own icon image."
+msgstr "使用自有圖片作為圖示。"
+
+#: widgets/features/features.php:92
+msgid "Icon image"
+msgstr "圖示圖片"
+
+#: widgets/features/features.php:43 widgets/price-table/price-table.php:101
+msgid "Feature"
+msgstr "特色內容"
+
+#: widgets/features/features.php:42 widgets/price-table/price-table.php:100
+msgid "Features"
+msgstr "特色項目"
+
+#: widgets/features/features.php:15
+msgid "Displays a list of features."
+msgstr "呈現需要說明的特色清單。"
+
+#: widgets/features/features.php:13
+msgid "SiteOrigin Features"
+msgstr "SiteOrigin 特色說明"
+
+#: widgets/editor/editor.php:42
+msgid "Automatically add paragraphs"
+msgstr "自動新增段落"
+
+#: widgets/editor/editor.php:18
+msgid "A rich-text, text editor."
+msgstr "RTF 文字編輯器。"
+
+#: widgets/editor/editor.php:16
+msgid "SiteOrigin Editor"
+msgstr "SiteOrigin 編輯器"
+
+#: widgets/hero/hero.php:65 widgets/hero/hero.php:77 widgets/cta/cta.php:111
+msgid "Button"
+msgstr "按鈕"
+
+#: widgets/cta/cta.php:98
+msgid "Button align"
+msgstr "按鈕對齊方式"
+
+#: widgets/contact/contact.php:312 widgets/contact/contact.php:429
+#: widgets/contact/contact.php:545 widgets/tabs/tabs.php:90
+#: widgets/tabs/tabs.php:124 widgets/tabs/tabs.php:158 widgets/cta/cta.php:81
+#: widgets/accordion/accordion.php:108 widgets/accordion/accordion.php:136
+msgid "Border color"
+msgstr "框線色彩"
+
+#: widgets/hero/hero.php:119 widgets/layout-slider/layout-slider.php:81
+#: widgets/contact/contact.php:302 widgets/contact/contact.php:535
+#: widgets/tabs/tabs.php:85 widgets/tabs/tabs.php:105 widgets/tabs/tabs.php:149
+#: widgets/cta/cta.php:77
+#: widgets/social-media-buttons/social-media-buttons.php:85
+#: widgets/accordion/accordion.php:89 widgets/accordion/accordion.php:127
+msgid "Background color"
+msgstr "背景色彩"
+
+#: widgets/contact/contact.php:292 widgets/tabs/tabs.php:75
+#: widgets/testimonial/testimonial.php:182 widgets/cta/cta.php:73
+#: widgets/accordion/accordion.php:79
+msgid "Design"
+msgstr "設計"
+
+#: widgets/cta/cta.php:68 widgets/price-table/price-table.php:64
+msgid "Subtitle"
+msgstr "子標題"
+
+#: widgets/cta/cta.php:17
+msgid "A simple call-to-action widget with massive power."
+msgstr "簡易卻具有強大吸引力的行動號召小工具。"
+
+#: widgets/cta/cta.php:15
+msgid "SiteOrigin Call-to-action"
+msgstr "SiteOrigin 行動號召"
+
+#: widgets/button/button.php:215
+msgid "Run this Javascript when the button is clicked. Ideal for tracking."
+msgstr "點擊按鈕後便會執行這項 Javascript 事件，這對於追蹤相當有幫助。"
+
+#: widgets/contact/contact.php:101 widgets/button/button.php:214
+msgid "Onclick"
+msgstr "Onclick 事件"
+
+#: widgets/button/button.php:209
+msgid "Adds a title attribute to the button link."
+msgstr "將標題 (title) 屬性加入按鈕連結中。"
+
+#: widgets/button/button.php:208
+msgid "Title attribute"
+msgstr "標題屬性"
+
+#: widgets/button/button.php:197
+msgid "An ID attribute allows you to target this button in Javascript."
+msgstr "設定 ID 屬性可讓你在 Javascript 中指向這個按鈕。"
+
+#: widgets/contact/contact.php:96 widgets/button/button.php:196
+msgid "Button ID"
+msgstr "按鈕 ID"
+
+#: widgets/button/button.php:191
+msgid "Other attributes and SEO"
+msgstr "其他屬性及 SEO"
+
+#: widgets/button/button.php:182
+#: widgets/social-media-buttons/social-media-buttons.php:143
+#: widgets/social-media-buttons/social-media-buttons.php:176
+msgid "Very high"
+msgstr "極大"
+
+#: widgets/button/button.php:181
+#: widgets/social-media-buttons/social-media-buttons.php:142
+#: widgets/social-media-buttons/social-media-buttons.php:175
+msgid "High"
+msgstr "大"
+
+#: widgets/button/button.php:179
+#: widgets/social-media-buttons/social-media-buttons.php:140
+#: widgets/social-media-buttons/social-media-buttons.php:173
+msgid "Low"
+msgstr "小"
+
+#: widgets/contact/contact.php:307 widgets/contact/contact.php:413
+#: widgets/contact/contact.php:593 widgets/testimonial/testimonial.php:233
+#: widgets/button/button.php:176
+#: widgets/social-media-buttons/social-media-buttons.php:137
+msgid "Padding"
+msgstr "邊框間距"
+
+#: widgets/button/button.php:170
+#: widgets/social-media-buttons/social-media-buttons.php:132
+msgid "Completely rounded"
+msgstr "全圓"
+
+#: widgets/button/button.php:169
+#: widgets/social-media-buttons/social-media-buttons.php:131
+msgid "Very rounded"
+msgstr "特圓"
+
+#: widgets/button/button.php:168
+#: widgets/social-media-buttons/social-media-buttons.php:130
+msgid "Slightly rounded"
+msgstr "略圓"
+
+#: widgets/contact/contact.php:325 widgets/contact/contact.php:442
+#: widgets/contact/contact.php:553 widgets/contact/contact.php:638
+#: widgets/headline/headline.php:185 widgets/button/button.php:167
+#: widgets/social-media-buttons/social-media-buttons.php:129
+msgid "None"
+msgstr "不使用"
+
+#: widgets/button/button.php:164
+#: widgets/social-media-buttons/social-media-buttons.php:126
+msgid "Rounding"
+msgstr "圓角"
+
+#: widgets/button/button.php:158
+#: widgets/social-media-buttons/social-media-buttons.php:121
+msgid "Extra large"
+msgstr "特大"
+
+#: widgets/button/button.php:157
+#: widgets/social-media-buttons/social-media-buttons.php:120
+msgid "Large"
+msgstr "大"
+
+#: widgets/contact/contact.php:259 widgets/contact/contact.php:484
+#: widgets/contact/contact.php:586 widgets/button/button.php:155
+#: widgets/social-media-buttons/social-media-buttons.php:118
+msgid "Normal"
+msgstr "正常"
+
+#: widgets/contact/contact.php:351 widgets/contact/contact.php:578
+#: widgets/button/button.php:153
+msgid "Font size"
+msgstr "字體大小"
+
+#: widgets/button/button.php:142
+#: widgets/social-media-buttons/social-media-buttons.php:111
+msgid "Use hover effects"
+msgstr "使用游標暫留效果"
+
+#: widgets/hero/hero.php:250 widgets/layout-slider/layout-slider.php:185
+#: widgets/contact/contact.php:573 widgets/button/button.php:136
+msgid "Text color"
+msgstr "文字色彩"
+
+#: widgets/price-table/price-table.php:149 widgets/button/button.php:131
+msgid "Button color"
+msgstr "按鈕色彩"
+
+#: widgets/button/button.php:124
+#: widgets/social-media-buttons/social-media-buttons.php:106
+msgid "Wire"
+msgstr "線框"
+
+#: widgets/button/button.php:123
+#: widgets/social-media-buttons/social-media-buttons.php:105
+msgid "Flat"
+msgstr "平面"
+
+#: widgets/price-table/price-table.php:133 widgets/button/button.php:122
+#: widgets/social-media-buttons/social-media-buttons.php:104
+msgid "Atom"
+msgstr "原子"
+
+#: widgets/button/button.php:119
+#: widgets/social-media-buttons/social-media-buttons.php:101
+msgid "Button theme"
+msgstr "按鈕主題"
+
+#: widgets/contact/contact.php:384 widgets/headline/headline.php:90
+#: widgets/headline/headline.php:161 widgets/button/button.php:113
+#: widgets/social-media-buttons/social-media-buttons.php:154
+#: widgets/social-media-buttons/social-media-buttons.php:165
+msgid "Justify"
+msgstr "左右對齊"
+
+#: widgets/image/image.php:49 widgets/image/image.php:61
+#: widgets/contact/contact.php:383 widgets/contact/contact.php:607
+#: widgets/icon/icon.php:47 widgets/headline/headline.php:87
+#: widgets/headline/headline.php:158 widgets/headline/headline.php:213
+#: widgets/button/button.php:112
+#: widgets/social-media-buttons/social-media-buttons.php:153
+#: widgets/social-media-buttons/social-media-buttons.php:164
+msgid "Center"
+msgstr "置中"
+
+#: widgets/image/image.php:48 widgets/image/image.php:60
+#: widgets/contact/contact.php:367 widgets/contact/contact.php:382
+#: widgets/contact/contact.php:606 widgets/icon/icon.php:49
+#: widgets/testimonial/testimonial.php:254 widgets/headline/headline.php:89
+#: widgets/headline/headline.php:160 widgets/headline/headline.php:215
+#: widgets/cta/cta.php:102 widgets/features/features.php:64
+#: widgets/button/button.php:85 widgets/button/button.php:111
+#: widgets/social-media-buttons/social-media-buttons.php:152
+#: widgets/social-media-buttons/social-media-buttons.php:163
+msgid "Right"
+msgstr "靠右"
+
+#: widgets/image/image.php:47 widgets/image/image.php:59
+#: widgets/contact/contact.php:366 widgets/contact/contact.php:381
+#: widgets/contact/contact.php:605 widgets/icon/icon.php:48
+#: widgets/testimonial/testimonial.php:253 widgets/headline/headline.php:88
+#: widgets/headline/headline.php:159 widgets/headline/headline.php:214
+#: widgets/cta/cta.php:101 widgets/features/features.php:66
+#: widgets/button/button.php:87 widgets/button/button.php:110
+#: widgets/social-media-buttons/social-media-buttons.php:151
+#: widgets/social-media-buttons/social-media-buttons.php:162
+msgid "Left"
+msgstr "靠左"
+
+#: widgets/contact/contact.php:378 widgets/contact/contact.php:602
+#: widgets/button/button.php:107
+#: widgets/social-media-buttons/social-media-buttons.php:148
+msgid "Align"
+msgstr "對齊方式"
+
+#: widgets/button/button.php:95
+#: widgets/social-media-buttons/social-media-buttons.php:91
+msgid "Design and layout"
+msgstr "設計及版面配置"
+
+#: widgets/button/button.php:76
+msgid "Replaces the icon with your own image icon."
+msgstr "使用自有圖片成為圖示。"
+
+#: widgets/button/button.php:75
+msgid "Image icon"
+msgstr "圖片圖示"
+
+#: widgets/features/features.php:85 widgets/price-table/price-table.php:122
+#: widgets/button/button.php:70
+#: widgets/social-media-buttons/social-media-buttons.php:81
+msgid "Icon color"
+msgstr "圖示色彩"
+
+#: widgets/icon/icon.php:30 widgets/features/features.php:75
+#: widgets/price-table/price-table.php:118 widgets/button/button.php:61
+#: widgets/button/button.php:65
+msgid "Icon"
+msgstr "圖示"
+
+#: widgets/taxonomy/taxonomy.php:64
+#: widgets/simple-masonry/simple-masonry.php:83 widgets/icon/icon.php:62
+#: widgets/google-map/google-map.php:108 widgets/headline/headline.php:49
+#: widgets/headline/headline.php:120 widgets/button/button.php:56
+#: widgets/social-media-buttons/social-media-buttons.php:96
+msgid "Open in a new window"
+msgstr "在新視窗中開啟"
+
+#: widgets/hero/hero.php:125 widgets/image/image.php:88
+#: widgets/simple-masonry/simple-masonry.php:78
+#: widgets/layout-slider/layout-slider.php:87 widgets/icon/icon.php:56
+#: widgets/google-map/google-map.php:97 widgets/headline/headline.php:44
+#: widgets/headline/headline.php:115 widgets/button/button.php:50
+#: widgets/slider/slider.php:84
+msgid "Destination URL"
+msgstr "目標網址"
+
+#: widgets/price-table/price-table.php:92 widgets/button/button.php:45
+msgid "Button text"
+msgstr "按鈕文字"
+
+#: widgets/button/button.php:16
+msgid "A customizable button widget."
+msgstr "自訂按鈕小工具。"
+
+#: widgets/button/button.php:14
+msgid "SiteOrigin Button"
+msgstr "SiteOrigin 按鈕"
+
+#: so-widgets-bundle.php:749
+msgid "Support"
+msgstr "技術支援"
+
+#: so-widgets-bundle.php:748
+msgid "Manage Widgets"
+msgstr "管理小工具"
+
+#: so-widgets-bundle.php:492
+msgid "Deactivated"
+msgstr "已停用"
+
+#: so-widgets-bundle.php:492
+msgid "Activated"
+msgstr "已啟用"
+
+#: so-widgets-bundle.php:490
+msgid "%s was %s"
+msgstr "%s %s"
+
+#: so-widgets-bundle.php:464 so-widgets-bundle.php:465
+#: compat/visual-composer/visual-composer.php:40
+msgid "SiteOrigin Widgets"
+msgstr "SiteOrigin 小工具"
+
+#: icons/icons.php:7
+msgid "Elegant Themes Line Icons"
+msgstr "Elegant Themes Line Icons"
+
+#: icons/icons.php:11
+msgid "Typicons"
+msgstr "Typicons"
+
+#: icons/icons.php:9
+msgid "Genericons"
+msgstr "Genericons"
+
+#: icons/icons.php:10
+msgid "Icomoon Free"
+msgstr "Icomoon Free"
+
+#: icons/icons.php:8
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: base/siteorigin-widget.class.php:585
+msgid "Are you sure?"
+msgstr "確定要繼續操作嗎？"
+
+#: base/siteorigin-widget.class.php:491
+msgid "Help"
+msgstr "線上說明"
+
+#: base/siteorigin-widget.class.php:486
+msgid "Preview"
+msgstr "預覽"
+
+#: base/siteorigin-widget.class.php:558
+msgid "You will only need to do this once."
+msgstr "僅需要執行這項操作一次。"
+
+#: base/siteorigin-widget.class.php:557
+msgid "This widget has scripts and styles that need to be loaded before you can use it. Please save and reload your current page."
+msgstr "這個小工具的程式碼與樣式必須在使用前加以載入，請儲存並重新載入目前的頁面。"
+
+#: base/inc/widgets/base-slider.class.php:144
+msgid "Maximum height"
+msgstr "高度最大值"
+
+#: base/inc/widgets/base-slider.class.php:134
+msgid "Video format"
+msgstr "視訊格式"
+
+#: base/inc/widgets/base-slider.class.php:122
+msgid "An external URL of the video. Overrides video file."
+msgstr "視訊的外部網址。請注意，這項設定會覆寫 [視訊檔案] 設定。"
+
+#: base/inc/widgets/base-slider.class.php:120 widgets/video/video.php:84
+msgid "Video URL"
+msgstr "視訊網址"
+
+#: base/inc/widgets/base-slider.class.php:114
+msgid "Video file"
+msgstr "視訊檔案"
+
+#: base/inc/widgets/base-slider.class.php:90
+msgid "Navigation size"
+msgstr "導覽尺寸"
+
+#: base/inc/widgets/base-slider.class.php:84
+msgid "Rounded thick"
+msgstr "粗含圓角"
+
+#: base/inc/widgets/base-slider.class.php:83
+msgid "Rounded medium"
+msgstr "適中含圓角"
+
+#: base/inc/widgets/base-slider.class.php:82
+msgid "Rounded thin"
+msgstr "細含圓角"
+
+#: base/inc/widgets/base-slider.class.php:81
+msgid "Rounded ultra thin"
+msgstr "極細含圓角"
+
+#: base/inc/widgets/base-slider.class.php:80
+msgid "Thick"
+msgstr "粗"
+
+#: base/inc/widgets/base-slider.class.php:79 widgets/button/button.php:156
+#: widgets/button/button.php:180
+#: widgets/social-media-buttons/social-media-buttons.php:119
+#: widgets/social-media-buttons/social-media-buttons.php:141
+#: widgets/social-media-buttons/social-media-buttons.php:174
+msgid "Medium"
+msgstr "適中"
+
+#: base/inc/widgets/base-slider.class.php:78
+msgid "Thin"
+msgstr "細"
+
+#: base/inc/widgets/base-slider.class.php:77
+msgid "Ultra thin"
+msgstr "極細"
+
+#: base/inc/widgets/base-slider.class.php:74
+msgid "Navigation style"
+msgstr "導覽樣式"
+
+#: base/inc/widgets/base-slider.class.php:68
+msgid "Navigation color"
+msgstr "導覽色彩"
+
+#: base/inc/widgets/base-slider.class.php:62
+msgid "How long each frame is displayed for in milliseconds."
+msgstr "每張投影片的播放時間，以毫秒為單位。"
+
+#: base/inc/widgets/base-slider.class.php:61
+msgid "Timeout"
+msgstr "停留時間"
+
+#: base/inc/widgets/base-slider.class.php:55
+msgid "Animation speed in milliseconds."
+msgstr "動畫速度以毫秒為單位。"
+
+#: base/inc/widgets/base-slider.class.php:54
+msgid "Animation speed"
+msgstr "動畫速度"
+
+#: base/siteorigin-widget.class.php:642 base/inc/actions.php:50
+#: base/inc/preview.tpl.php:3
+msgid "Widget Preview"
+msgstr "小工具預覽"
+
+#: base/inc/fields/posts.class.php:126
+msgid "Additional query arguments. See <a href=\"http://codex.wordpress.org/Function_Reference/query_posts\" target=\"_blank\" rel=\"noopener noreferrer\">query_posts</a>."
+msgstr "如需進一步瞭解其他查詢引數，請參閱《<a href=\"http://codex.wordpress.org/Function_Reference/query_posts\" target=\"_blank\" rel=\"noopener noreferrer\">query_posts</a>》(英文) 一文。"
+
+#: base/inc/fields/posts.class.php:125
+msgid "Additional"
+msgstr "其他查詢引數"
+
+#: base/inc/fields/posts.class.php:118
+msgid "Exclude sticky"
+msgstr "排除置頂文章"
+
+#: base/inc/fields/posts.class.php:117
+msgid "Ignore sticky"
+msgstr "忽略置頂文章"
+
+#: base/inc/fields/posts.class.php:116
+#: compat/beaver-builder/beaver-builder.php:65 widgets/image/image.php:46
+#: widgets/image/image.php:58 widgets/google-map/google-map.php:269
+msgid "Default"
+msgstr "預設"
+
+#: base/inc/fields/posts.class.php:114
+msgid "Sticky posts"
+msgstr "置頂文章"
+
+#: base/inc/fields/posts.class.php:109
+msgid "Posts per page"
+msgstr "文章顯示數量"
+
+#: base/inc/fields/posts.class.php:92
+msgid "By include order"
+msgstr "加入順序"
+
+#: base/inc/fields/posts.class.php:91
+msgid "By numeric meta value"
+msgstr "數值式中繼資料值"
+
+#: base/inc/fields/posts.class.php:90
+msgid "By meta value"
+msgstr "中繼資料值"
+
+#: base/inc/fields/posts.class.php:89
+msgid "Menu order"
+msgstr "選單順序"
+
+#: base/inc/fields/posts.class.php:88
+msgid "Comment count"
+msgstr "留言計數"
+
+#: base/inc/fields/posts.class.php:87
+msgid "Random order"
+msgstr "隨機順序"
+
+#: base/inc/fields/posts.class.php:86
+msgid "By parent"
+msgstr "上層項目"
+
+#: base/inc/fields/posts.class.php:85
+msgid "Modified date"
+msgstr "修改日期"
+
+#: base/inc/fields/posts.class.php:84
+msgid "Published date"
+msgstr "發佈日期"
+
+#: base/inc/fields/posts.class.php:83 widgets/video/video.php:32
+#: widgets/editor/editor.php:32 widgets/taxonomy/taxonomy.php:33
+#: widgets/simple-masonry/simple-masonry.php:43
+#: widgets/simple-masonry/simple-masonry.php:74 widgets/contact/contact.php:47
+#: widgets/tabs/tabs.php:46 widgets/tabs/tabs.php:59
+#: widgets/post-carousel/post-carousel.php:97
+#: widgets/testimonial/testimonial.php:40 widgets/cta/cta.php:63
+#: widgets/features/features.php:132 widgets/price-table/price-table.php:41
+#: widgets/price-table/price-table.php:60
+#: widgets/social-media-buttons/social-media-buttons.php:53
+#: widgets/accordion/accordion.php:46 widgets/accordion/accordion.php:59
+msgid "Title"
+msgstr "標題"
+
+#: base/inc/fields/posts.class.php:82
+msgid "Author"
+msgstr "作者"
+
+#: base/inc/fields/posts.class.php:81
+msgid "Post ID"
+msgstr "文章 ID"
+
+#: base/inc/fields/posts.class.php:80
+msgid "No order"
+msgstr "無排序依據"
+
+#: base/inc/fields/posts.class.php:78
+msgid "Order by"
+msgstr "排序依據"
+
+#: base/inc/fields/posts.class.php:36 widgets/taxonomy/taxonomy.php:37
+msgid "Taxonomies"
+msgstr "分類法"
+
+#: base/inc/fields/posts.class.php:30
+msgid "Post in"
+msgstr "指定內容"
+
+#: base/inc/fields/posts.class.php:22
+msgid "Post type"
+msgstr "內容類型"
+
+#: base/inc/meta-box-manager.php:77
+msgid "Widgets Bundle Post Meta Data"
+msgstr "SiteOrigin Widgets Bundle 文章中繼資料"
+
+#: base/inc/meta-box-manager.php:35
+msgid "SiteOrigin Meta Box Manager"
+msgstr "SiteOrigin 中繼資料欄位管理員"
+
+#: base/inc/fields/widget.class.php:58
+msgid "%s is not a SiteOrigin Widget"
+msgstr "%s 並不是 SiteOrigin 小工具"
+
+#: base/inc/fields/widget.class.php:48
+msgid "%s does not exist"
+msgstr "%s 不存在"
+
+#: base/inc/fields/repeater.class.php:93
+msgid "Add"
+msgstr "新增"
+
+#: base/inc/fields/repeater.class.php:54
+msgid "Item"
+msgstr "項目"
+
+#: base/inc/fields/media.class.php:123
+msgid "External URL"
+msgstr "外部網址"
+
+#: base/inc/fields/media.class.php:111 base/inc/fields/icon.class.php:29
+msgid "Remove"
+msgstr "移除"
+
+#: base/inc/fields/media.class.php:69
+msgid "You need to <a href=\"%s\">upgrade</a> to WordPress 3.5 to use media fields"
+msgstr "必須<a href=\"%s\">升級</a>至 WordPress 3.5 才能使用媒體欄位"
+
+#: base/inc/fields/media.class.php:61
+msgid "Set Media"
+msgstr "設定媒體"
+
+#: base/inc/fields/media.class.php:60
+msgid "Choose Media"
+msgstr "選擇媒體"
+
+#: base/inc/fields/link.class.php:30 base/inc/fields/autocomplete.class.php:51
+msgid "Close"
+msgstr "關閉"
+
+#: base/inc/fields/link.class.php:25
+msgid "Search Content"
+msgstr "搜尋內容"
+
+#: base/inc/fields/link.class.php:20
+msgid "Select Content"
+msgstr "選取內容"
+
+#: base/inc/fields/icon.class.php:26
+msgid "Choose Icon"
+msgstr "選擇圖示"
+
+#: base/inc/fields/font.class.php:17
+msgid "Use theme font"
+msgstr "使用佈景主題字型"
+
+#: base/inc/fields/factory.class.php:22
+msgid "This field does not have a type. Please specify a type for it to be rendered correctly."
+msgstr "這個欄位並未設定類型，請設定它的欄位類型以便正確呈現欄位。"
+
+#: base/inc/fields/base.class.php:328
+msgid "Optional"
+msgstr "選用"
+
+#: admin/tpl/admin.php:105
+msgid "Read More"
+msgstr "閱讀全文"
+
+#: admin/tpl/admin.php:104
+msgid "Developers - create your own widgets for the Widgets Bundle."
+msgstr "開發人員請留意，你可以為 SiteOrigin Widgets Bundle 開發自有小工具。"
+
+#: admin/tpl/admin.php:19
+msgid "Disabled"
+msgstr "已停用"
+
+#: admin/tpl/admin.php:18
+msgid "Enabled"
+msgstr "已啟用"
+
+#: base/inc/fields/posts.class.php:12 widgets/google-map/google-map.php:337
+#: admin/tpl/admin.php:17
+msgid "All"
+msgstr "全部"
+
+#. Plugin Name of the plugin
+#: so-widgets-bundle.php:200 admin/tpl/admin.php:9
+msgid "SiteOrigin Widgets Bundle"
+msgstr "SiteOrigin Widgets Bundle"

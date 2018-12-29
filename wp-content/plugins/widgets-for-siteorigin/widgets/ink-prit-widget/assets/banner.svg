@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>element-pricing table</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-1179.000000, -106.000000)">
+            <g id="pricing-table" transform="translate(1179.000000, 106.000000)">
+                <rect id="Rectangle-16" fill="#FFFFFF" x="0" y="0" width="125" height="125"></rect>
+                <g id="post" transform="translate(10.000000, 21.000000)">
+                    <rect id="Rectangle-20" stroke="#3EB0F7" stroke-width="2" x="1" y="9" width="30" height="65"></rect>
+                    <rect id="Rectangle-20-Copy-2" stroke="#3EB0F7" stroke-width="2" x="38" y="1" width="30" height="81"></rect>
+                    <rect id="Rectangle-20-Copy-3" stroke="#3EB0F7" stroke-width="2" x="75" y="9" width="30" height="65"></rect>
+                    <text id="$" font-family="VarelaRound-Regular, Varela Round" font-size="18" font-weight="normal" letter-spacing="0.899999976" fill="#DDDDDD">
+                        <tspan x="10.042" y="46">$</tspan>
+                    </text>
+                    <text id="$-copy" font-family="VarelaRound-Regular, Varela Round" font-size="18" font-weight="normal" letter-spacing="0.899999976" fill="#DDDDDD">
+                        <tspan x="84.042" y="46">$</tspan>
+                    </text>
+                    <text id="$-copy-2" font-family="VarelaRound-Regular, Varela Round" font-size="18" font-weight="normal" letter-spacing="0.899999976" fill="#DDDDDD">
+                        <tspan x="47.042" y="46">$</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

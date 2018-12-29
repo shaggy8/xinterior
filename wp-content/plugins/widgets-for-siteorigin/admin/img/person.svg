@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>element-person</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-559.000000, -416.000000)">
+            <g id="person" transform="translate(559.000000, 416.000000)">
+                <rect id="Rectangle-16" fill="#FFFFFF" x="0" y="0" width="125" height="125"></rect>
+                <g id="Group-3" transform="translate(39.000000, 39.000000)" stroke="#3EB0F7" stroke-width="3">
+                    <path d="M23.1570117,26.0463388 C27.9073099,26.0463388 31.7581875,16.5859813 31.7581875,11.0021047 C31.7581875,5.41822799 27.9073099,0.891601562 23.1570117,0.891601562 C18.4067135,0.891601562 14.5558359,5.41822799 14.5558359,11.0021047 C14.5558359,16.5859813 18.4067135,26.0463388 23.1570117,26.0463388 Z" id="Oval-Copy"></path>
+                    <path d="M17.2520898,21.8903388 C17.2520898,21.8903388 4.044409,27.5653284 1.38591852,31.4403287 C-1.27257195,35.315329 0.711367176,46 0.711367176,46" id="Line" stroke-linecap="square"></path>
+                    <path d="M29.7733008,21.8903388 C29.7733008,21.8903388 42.9809816,27.5653284 45.6394721,31.4403287 C48.2979626,35.315329 46.3140234,46 46.3140234,46" id="Line-Copy-26" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

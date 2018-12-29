@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Re-attacher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-03 17:34+0300\n"
+"PO-Revision-Date: 2015-11-03 17:34+0300\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <plugin@bestwebsoft.com>\n"
+"Language: ru_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n"
+"+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../re-attacher.php:33 ../re-attacher.php:166 ../re-attacher.php:791
+#: ../re-attacher.php:807
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../re-attacher.php:103
+msgid ""
+"Please update Gallery plugin to make sure it works correctly with Re-"
+"attacher plugin."
+msgstr ""
+"Пожалуйста, обновите плагин Gallery для корректной работы с плагином Re-"
+"attacher."
+
+#: ../re-attacher.php:162
+msgid "Settings saved"
+msgstr "Настройки сохранены"
+
+#: ../re-attacher.php:174
+msgid "Show media files author their files only"
+msgstr "Показывать Авторам только их медиа файлы"
+
+#: ../re-attacher.php:181
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: ../re-attacher.php:250
+msgid "You are not allowed to unattach files from this post."
+msgstr "Вы не можете откреплять файлы от этой записи."
+
+#: ../re-attacher.php:256
+msgid "Error unattaching files from the post."
+msgstr "Ошибка открепления от записи."
+
+#: ../re-attacher.php:281
+msgid "You are not allowed to edit this post."
+msgstr "Вы не можете редактировать эту запись."
+
+#: ../re-attacher.php:320
+msgid "Select the item that needs to be attached"
+msgstr "Выберите объект который хотите прикрепить"
+
+#: ../re-attacher.php:321
+msgid "Attach item"
+msgstr "Прикрепить объект"
+
+#: ../re-attacher.php:344
+msgid "NOTICE"
+msgstr "ВНИМАНИЕ:"
+
+#: ../re-attacher.php:349
+msgid ""
+"If you want Re-attacher plugin to work correctly, please enable JavaScript "
+"in your browser!"
+msgstr ""
+"Если вы хотите чтобы плагин Re-attacher работал, необходимо включить в "
+"браузере JavaScript !"
+
+#: ../re-attacher.php:369 ../re-attacher.php:406 ../re-attacher.php:574
+#: ../re-attacher.php:701 ../re-attacher.php:722 ../re-attacher.php:751
+msgid "Unattach"
+msgstr "Открепить"
+
+#: ../re-attacher.php:370 ../re-attacher.php:404 ../re-attacher.php:749
+msgid "Reattach"
+msgstr "Прикрепить к ..."
+
+#: ../re-attacher.php:404 ../re-attacher.php:749
+msgid "Reattach this media item"
+msgstr "Перекрепить этот медиа объект"
+
+#: ../re-attacher.php:406 ../re-attacher.php:751
+msgid "Unattach this media item"
+msgstr "Открепить этот медиа файл"
+
+#: ../re-attacher.php:409 ../re-attacher.php:753
+msgid "Unattached"
+msgstr "Не прикреплено"
+
+#: ../re-attacher.php:411 ../re-attacher.php:754
+msgid "Attach this media item"
+msgstr "Прикрепить этот медиа файл"
+
+#: ../re-attacher.php:411 ../re-attacher.php:754
+msgid "Attach"
+msgstr "Прикрепить"
+
+#: ../re-attacher.php:422
+msgid "Attachment details"
+msgstr "Особенности прикрепленного файла"
+
+#: ../re-attacher.php:423
+msgid "Already attached"
+msgstr "Уже прикреплен"
+
+#: ../re-attacher.php:434
+msgid "Attach media item to the portfolio"
+msgstr "Прикрепить медиа файл к портфолио"
+
+#: ../re-attacher.php:544 ../re-attacher.php:623
+msgid "Notice"
+msgstr "Внимание"
+
+#: ../re-attacher.php:544 ../re-attacher.php:623
+msgid "this item attached to"
+msgstr "этот файл уже прикреплен к"
+
+#: ../re-attacher.php:544 ../re-attacher.php:623
+msgid "If you attach it to the current "
+msgstr "Если вы прикрепите его к текущей(му)"
+
+#: ../re-attacher.php:544 ../re-attacher.php:623
+msgid "it will disappear from the"
+msgstr "то он станет недоступен в "
+
+#: ../re-attacher.php:556
+msgid "Don`t attach"
+msgstr "Не прикреплять"
+
+#: ../re-attacher.php:564 ../re-attacher.php:628
+msgid "Warning"
+msgstr "Внимание"
+
+#: ../re-attacher.php:564 ../re-attacher.php:628
+msgid "You are not allowed to attach this image"
+msgstr "У вас недостаточно прав чтоб прикреплять это изображение"
+
+#: ../re-attacher.php:704
+msgid "Nothing attached"
+msgstr "Ничего не прикреплено"
+
+#: ../re-attacher.php:713
+msgid "Choose a media file that will be attached"
+msgstr "Выберите медиа файлы для прикрепления"
+
+#: ../re-attacher.php:713
+msgid "Attach media item to this gallery"
+msgstr "Прикрепить медиа файл к галерее"
+
+#: ../re-attacher.php:739 ../re-attacher.php:767
+msgid "Attached to"
+msgstr "Прикреплен к"
+
+#: ../re-attacher.php:748
+msgid "If you want change the attachment, please click on"
+msgstr ""
+"Если вы хотите прикрепить этот файл к другой записи или открепить его "
+"совсем, нажмите на:"
+
+#: ../re-attacher.php:750
+msgid "or"
+msgstr "или"
+
+#: ../re-attacher.php:792
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../re-attacher.php:793
+msgid "Support"
+msgstr "Служба поддержки"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button"
+#~ msgstr ""
+#~ "Настройки плагина были изменены. Чтобы сохранить их, пожалуйста, не "
+#~ "забудьте нажать кнопку \"Сохранить изменения\""
+
+#~ msgid "requires"
+#~ msgstr "требует"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "или выше, поэтому он был отключен! Пожалуйста, обновите WordPress и "
+#~ "попробуйте еще раз."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Вернуться к WordPress"
+
+#~ msgid "Plugins page"
+#~ msgstr "Страницe плагинов"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr ""
+#~ " Если вам понравился плагин, мы будем благодарны, если вы поставите нам 5 "
+#~ "звезд на WordPress"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Оценить плагин"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Если у вас есть какие-то вопросы, обращайтесь"
+
+#~ msgid "'Don`t attach'"
+#~ msgstr "'Не прикреплять'"
+
+#~ msgid "Re-attacher Settings"
+#~ msgstr "Настройки Re-attacher "
+
+#~ msgid "Re-attacher"
+#~ msgstr "Re-attacher"
+
+#~ msgid "Gallery Plugin has old version"
+#~ msgstr "Вы используете  устаревший плагин Gallery"
+
+#~ msgid "UnAttach"
+#~ msgstr "Открепить"
+
+#~ msgid "ReAttach this media item"
+#~ msgstr "Прекрепить этот медиа файл к ..."
+
+#~ msgid "ReAttach this media item."
+#~ msgstr "Прекрепить этот медиа файл к ..."
+
+#~ msgid "UnAttach this media item."
+#~ msgstr "Открепить этот медиа файл"
+
+#~ msgid "Attach this media item."
+#~ msgstr "Прикрепить этот медиа объект"
+
+#~ msgid "Attached to:"
+#~ msgstr "Прикреплен к:"
+
+#~ msgid "Not set"
+#~ msgstr "Не задан"
+
+#~ msgid "On"
+#~ msgstr "Вкл"
+
+#~ msgid "Off"
+#~ msgstr "Выкл"
+
+#~ msgid "N/A"
+#~ msgstr "Неизвестно"
+
+#~ msgid " Mb"
+#~ msgstr " Mb"
+
+#~ msgid "Yes"
+#~ msgstr "Да"
+
+#~ msgid "No"
+#~ msgstr "Нет"
+
+#~ msgid "Operating System"
+#~ msgstr "Операционная система"
+
+#~ msgid "Server"
+#~ msgstr "Тип сервера"
+
+#~ msgid "Memory usage"
+#~ msgstr "Памяти использовано"
+
+#~ msgid "MYSQL Version"
+#~ msgstr "Версия MYSQL"
+
+#~ msgid "SQL Mode"
+#~ msgstr "Версия SQL"
+
+#~ msgid "PHP Version"
+#~ msgstr "Версия PHP"
+
+#~ msgid "PHP Safe Mode"
+#~ msgstr "PHP Safe Mode"
+
+#~ msgid "PHP Allow URL fopen"
+#~ msgstr "PHP Allow URL fopen"
+
+#~ msgid "PHP Memory Limit"
+#~ msgstr "Лимит памяти"
+
+#~ msgid "PHP Max Upload Size"
+#~ msgstr "Макс. размер загружаемого файла"
+
+#~ msgid "PHP Max Post Size"
+#~ msgstr "Макс. размер записи"
+
+#~ msgid "PHP Max Script Execute Time"
+#~ msgstr "Макс. время выполнения сценария"
+
+#~ msgid "PHP Exif support"
+#~ msgstr "Поддержка PHP Exif"
+
+#~ msgid "PHP IPTC support"
+#~ msgstr "Поддержка PHP IPTC"
+
+#~ msgid "PHP XML support"
+#~ msgstr "Поддержка PHP XML"
+
+#~ msgid "Site URL"
+#~ msgstr "Адрес сайта"
+
+#~ msgid "Home URL"
+#~ msgstr "Основной адрес сайта"
+
+#~ msgid "WordPress Version"
+#~ msgstr "Версия WordPress"
+
+#~ msgid "WordPress DB Version"
+#~ msgstr "Версия базы данных WordPress"
+
+#~ msgid "Multisite"
+#~ msgstr "Мультиблог"
+
+#~ msgid "Active Theme"
+#~ msgstr "Текущая тема"
+
+#~ msgid "Please enter a valid email address."
+#~ msgstr "Пожалуйста, введите валидный емайл."
+
+#~ msgid "Email with system info is sent to "
+#~ msgstr "E-mail с системной информацией отправлен на"
+
+#~ msgid "Thank you for contacting us."
+#~ msgstr "Спасибо что связались с нами."
+
+#~ msgid "Sorry, email message could not be delivered."
+#~ msgstr "Извините, ваш email не может быть отправлен."
+
+#~ msgid "Need help?"
+#~ msgstr "Нужна помощь?"
+
+#~ msgid "Client area"
+#~ msgstr "Client area"
+
+#~ msgid "System status"
+#~ msgstr "Системная информация"
+
+#~ msgid "Plugins"
+#~ msgstr "Плагины"
+
+#~ msgid "Themes"
+#~ msgstr "Темы"
+
+#~ msgid "All"
+#~ msgstr "Все"
+
+#~ msgid "Installed"
+#~ msgstr "Установленные"
+
+#~ msgid "Recommended"
+#~ msgstr "Рекомендованные"
+
+#~ msgid "Installed plugins"
+#~ msgstr "Установленные плагины"
+
+#~ msgid "Learn more"
+#~ msgstr "Подробнее"
+
+#~ msgid "Activate"
+#~ msgstr "Активировать"
+
+#~ msgid "Go"
+#~ msgstr "Перейти на"
+
+#~ msgid "DONATE"
+#~ msgstr "Пожертвовать"
+
+#~ msgid "Recommended plugins"
+#~ msgstr "Рекомендованные к установке плагины"
+
+#~ msgid "Install now"
+#~ msgstr "Установить"
+
+#~ msgid "Try again"
+#~ msgstr "Попробовать снова"
+
+#~ msgid "Preview &#8220;%s&#8221;"
+#~ msgstr "Просмотр &#8220;%s&#8221;"
+
+#~ msgid "Install %s"
+#~ msgstr "Установлено %s"
+
+#~ msgid "Install Now"
+#~ msgstr "Установить"
+
+#~ msgid "Update to version %s"
+#~ msgstr "Обновить до версии %s"
+
+#~ msgid "Update"
+#~ msgstr "Обновить"
+
+#~ msgid "Preview %s"
+#~ msgstr "Просмотр %s"
+
+#~ msgid "Preview"
+#~ msgstr "Просмотр"
+
+#~ msgid "By %s"
+#~ msgstr "%s"
+
+#~ msgid "Details"
+#~ msgstr "Детали"
+
+#~ msgid "Environment"
+#~ msgstr "Системная среда"
+
+#~ msgid "Active Plugins"
+#~ msgstr "Активированные плагины"
+
+#~ msgid "Inactive Plugins"
+#~ msgstr "Неактивированные плагины"
+
+#~ msgid "Send to support"
+#~ msgstr "Служба поддержки "
+
+#~ msgid "Send to custom email &#187;"
+#~ msgstr "Отправить на емейл &#187;"
+
+#~ msgid "loaded"
+#~ msgstr "загружено"

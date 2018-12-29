@@ -1,0 +1,50 @@
+.iw-so-image-wrapper::after {
+  clear: both;
+  content: "";
+  display: table; }
+
+.iw-so-image-wrapper .iw-so-image {
+  position: relative;
+  display: inline-block; }
+  .iw-so-image-wrapper .iw-so-image a {
+    display: inline-block;
+    vertical-align: middle;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    outline: none; }
+  .iw-so-image-wrapper .iw-so-image img {
+    vertical-align: middle;
+    border-style: solid; }
+  .iw-so-image-wrapper .iw-so-image .iw-so-caption-wrapper {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%; }
+  .iw-so-image-wrapper .iw-so-image .iw-so-image-caption {
+    width: 100%;
+    height: 100%;
+    -webkit-transition: all 450ms ease-out;
+    -moz-transition: all 450ms ease-out;
+    transition: all 450ms ease-out;
+    position: relative; }
+    .iw-so-image-wrapper .iw-so-image .iw-so-image-caption figcaption {
+      display: inline-block;
+      line-height: 1.5;
+      position: absolute;
+      width: 100%; }
+    .iw-so-image-wrapper .iw-so-image .iw-so-image-caption .iw-so-cap-title,
+    .iw-so-image-wrapper .iw-so-image .iw-so-image-caption .iw-so-cap-desc {
+      opacity: 0;
+      visibility: hidden;
+      margin: 0;
+      padding: 15px;
+      -webkit-transition: all 450ms ease-out;
+      -moz-transition: all 450ms ease-out;
+      transition: all 450ms ease-out; }
+  .iw-so-image-wrapper .iw-so-image:hover .iw-so-image-caption .iw-so-cap-title,
+  .iw-so-image-wrapper .iw-so-image:hover .iw-so-image-caption .iw-so-cap-desc {
+    opacity: 1;
+    visibility: visible; }

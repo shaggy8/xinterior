@@ -1,0 +1,1772 @@
+# Translation of Themes - Sydney in Turkish
+# This file is distributed under the same license as the Themes - Sydney package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-10 12:27:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Sydney\n"
+
+#. Description of the plugin/theme
+msgid "Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. Sydney brings plenty of customization possibilities like access to all Google Fonts, full color control, layout control, logo upload, full screen slider, header image, sticky navigation and much more. Also, Sydney provides all the construction blocks you need to rapidly create an engaging front page."
+msgstr "Sydney, şirketlere veya serbest çalışanlara müthiş bir çevrimiçi varlık oluşturmak için hızlı bir yol sağlayan güçlü bir iş temasıdır. Sydney, tüm Google Fonts yazı tiplerine erişim, tam renk kontrolü, yerleşim kontrolü, logo yükleme, tam ekran kaydırıcı, üst kısım görseli, yapışkan menü gibi birçok özelleştirme olanağı getirir. Ayrıca Sydney ilgi çekici bir ön sayfa oluşturmak için ihtiyaç duyduğunuz tüm yapım bloklarını sağlar."
+
+#. Theme Name of the plugin/theme
+msgid "Sydney"
+msgstr "Sydney"
+
+#: inc/customizer.php:138 inc/customizer.php:161 inc/customizer.php:1735
+msgid "Video"
+msgstr "Video"
+
+#: demo-content/setup.php:15
+msgid "Demo content"
+msgstr "Demo içerik"
+
+#: inc/page-builder.php:65
+msgid "Add a value in the field to change the top/bottom row padding, otherwise 100px will be applied by default"
+msgstr "Üst/alt satır dolgusunu değiştirmek için alana bir değer girin, aksi halde varsayılan olarak 100px uygulanacaktır"
+
+#: widgets/fp-services-type-a.php:46 widgets/fp-services-type-b.php:54
+msgid "Excerpt"
+msgstr "Özet"
+
+#: widgets/fp-services-type-a.php:45 widgets/fp-services-type-b.php:53
+msgid "Full content"
+msgstr "Tüm içerik"
+
+#: widgets/fp-services-type-a.php:43 widgets/fp-services-type-b.php:51
+msgid "Content to display:"
+msgstr "Gösterilecek içerik:"
+
+#: inc/upsell/class-customize.php:77
+msgid "Get Sydney Pro"
+msgstr "Sydney Proyu alın"
+
+#: inc/upsell/class-customize.php:76
+msgid "Ready for more?"
+msgstr "Daha fazlası için hazır mısın?"
+
+#: inc/page-builder.php:198
+msgid "This applies to all headings in the widget, except the widget title"
+msgstr "Bu, bileşen başlığı dışındaki tüm başlıklara uygulanır"
+
+#: inc/page-builder.php:194
+msgid "Headings color"
+msgstr "Başlıkların rengi"
+
+#: inc/page-builder.php:187
+msgid "Widget title color"
+msgstr "Bileşen başlık rengi"
+
+#: inc/page-builder.php:183
+msgid "This setting depends on the content, it may or may not work"
+msgstr "Bu ayar içeriğe bağlıdır, çalışabilir veya çalışmayabilir"
+
+#: inc/page-builder.php:180
+msgid "Right"
+msgstr "Sağ"
+
+#: inc/page-builder.php:179
+msgid "Center"
+msgstr "Orta"
+
+#: inc/page-builder.php:178
+msgid "Left"
+msgstr "Sol"
+
+#: inc/page-builder.php:174
+msgid "Content alignment"
+msgstr "İçerik hizalama"
+
+#: inc/page-builder.php:113
+msgid "Overlay color"
+msgstr "Kaplama rengi"
+
+#: inc/page-builder.php:107
+msgid "Disable row overlay?"
+msgstr "Satır kaplaması etkisizleştirilsin mi?"
+
+#: inc/customizer.php:1695
+msgid "[DEPRECATED] Please use the color option from Edit Row > Design > Overlay color"
+msgstr "[ARIK KULLANILMIYOR] Lütfen Satırı düzenle > Tasarım > Kaplama rengi kısmından renk seçeneğini kullanın"
+
+#: inc/customizer.php:1322
+msgid "Header"
+msgstr "Üst kısım"
+
+#: inc/customizer.php:1317
+msgid "Colors"
+msgstr "Renkler"
+
+#: widgets/fp-portfolio.php:163
+msgid "Show project title?"
+msgstr "Proje başlığını gösterilsin mi?"
+
+#: widgets/fp-portfolio.php:160
+msgid "\"Show all\" text:"
+msgstr "\"Tümünü göster\" metni:"
+
+#: widgets/fp-portfolio.php:159
+msgid "Show navigation filter? (Category slugs must be specified)."
+msgstr "Gezinme süzgeci gösterilsin mi? (Kategori kısa adları belirtilmelidir)."
+
+#: widgets/fp-portfolio.php:156
+msgid "Enter the slugs (comma separated) for your categories or leave empty to show all projects."
+msgstr "Kategorileriniz için kısa adları girin (virgülle ayrılmış) veya tüm projeleri göstermek için boş bırakın."
+
+#: widgets/fp-portfolio.php:154
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "Gösterilecek proje sayısı (-1 hepsini gösterir):"
+
+#: widgets/fp-portfolio.php:35 widgets/fp-portfolio.php:148
+msgid "Show all"
+msgstr "Tümünü göster"
+
+#: widgets/fp-portfolio.php:13
+msgid "Sydney FP: Portfolio"
+msgstr "Sydney FP: Portfolyo"
+
+#: widgets/fp-portfolio.php:12
+msgid "Display your projects in a grid."
+msgstr "Projelerinizi bir ızgara içinde gösterin."
+
+#: inc/customizer.php:91
+msgid "Page wrapper - bottom padding"
+msgstr "Sayfa kapsayıcı - alt dolgu"
+
+#: widgets/fp-clients.php:35
+msgid "Open clients links in a new tab?"
+msgstr "Müşterilerin bağlantıları yeni sekmede açılsın mı?"
+
+#: inc/customizer.php:94
+msgid "Bottom padding for the page wrapper (the space between the page content and the footer)"
+msgstr "Sayfa kapsayıcısı için alt dolgu (sayfa içeriği ile alt kısım arasındaki boşluk)"
+
+#: inc/customizer.php:84
+msgid "100"
+msgstr "100"
+
+#: inc/customizer.php:71
+msgid "Top padding for the page wrapper (the space between the header and the page title)"
+msgstr "Sayfa kapsayıcısı için üst dolgu (üst kısım ile sayfa başlığı arasındaki boşluk)"
+
+#: inc/customizer.php:68
+msgid "Page wrapper - top padding"
+msgstr "Sayfa kapsayıcı - üst dolgu"
+
+#: inc/customizer.php:61
+msgid "83"
+msgstr "83"
+
+#: inc/theme-info.php:22
+msgid "Support"
+msgstr "Destek"
+
+#: inc/theme-info.php:23
+msgid "Pro version"
+msgstr "Pro sürümü"
+
+#: widgets/fp-testimonials.php:33
+msgid "Autoplay time [ms]"
+msgstr "Otomatik oynatma süresi [ms]"
+
+#: inc/theme-info.php:11 inc/theme-info.php:19
+msgid "Sydney Info"
+msgstr "Sydney Bilgileri"
+
+#: inc/theme-info.php:20
+msgid "Theme demo"
+msgstr "Tema demosu"
+
+#: inc/theme-info.php:21
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+#: plugins/class-tgm-plugin-activation.php:2784
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Etkinleştirilecek herhangi bir eklenti seçilmedi. Hiçbir işlem yapılmadı."
+
+#: plugins/class-tgm-plugin-activation.php:2641
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Güncellenecek herhangi bir eklenti seçilmedi. Hiçbir işlem yapılmadı."
+
+#: plugins/class-tgm-plugin-activation.php:2679
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu anda güncellenecek herhangi bir eklenti yok."
+
+#: plugins/class-tgm-plugin-activation.php:3358
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti güncelleştiriliyor %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:2639
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Kurulacak herhangi bir eklenti seçilmedi. Hiçbir işlem yapılmadı."
+
+#: plugins/class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "%2$s eklentisini güncelle"
+
+#: plugins/class-tgm-plugin-activation.php:2566
+msgid "Upgrade message from the plugin author:"
+msgstr "Eklenti geliştiricisinden yükseltme mesajı:"
+
+#: plugins/class-tgm-plugin-activation.php:2605
+msgid "Update"
+msgstr "Güncelle"
+
+#: plugins/class-tgm-plugin-activation.php:2367
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "bilinmiyor"
+
+#: plugins/class-tgm-plugin-activation.php:2383
+msgid "Minimum required version:"
+msgstr "Gerekli en küçük sürüm:"
+
+#: plugins/class-tgm-plugin-activation.php:2285
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+msgstr[1] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2375
+msgid "Installed version:"
+msgstr "Kurulu sürüm:"
+
+#: plugins/class-tgm-plugin-activation.php:2395
+msgid "Available version:"
+msgstr "Uygun sürüm:"
+
+#: plugins/class-tgm-plugin-activation.php:2438
+msgid "Version"
+msgstr "Sürüm"
+
+#: plugins/class-tgm-plugin-activation.php:2279
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Kurulacak <span class=\"count\">(%s)</span>"
+msgstr[1] "Kurulacak <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2282
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Güncelleme mevcut <span class=\"count\">(%s)</span>"
+msgstr[1] "Güncelleme mevcut <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2217
+msgid "Required Update not Available"
+msgstr "Gerekli güncelleme mevcut değil"
+
+#: plugins/class-tgm-plugin-activation.php:2223
+msgid "Update recommended"
+msgstr "Güncelleme önerilir"
+
+#: plugins/class-tgm-plugin-activation.php:2220
+msgid "Requires Update"
+msgstr "Güncelleme gerekli"
+
+#: plugins/class-tgm-plugin-activation.php:2231
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: plugins/class-tgm-plugin-activation.php:2276
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tümü <span class=\"count\">(%s)</span>"
+msgstr[1] "Tümü <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:931
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Uzaktaki eklenti paketi olması gereken kısa isimle bir klasör içermiyor ve isim değiştirme işe yaramadı."
+
+#: plugins/class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Üzgünüm ancak %1$s eklentisini kurmak için doğru yetkilere sahip değilsiniz."
+msgstr[1] "Üzgünüm ancak %1$s eklentilerini kurmak için doğru yetkilere sahip değilsiniz."
+
+#: plugins/class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "%1$s eklentisi için güncellemeler mevcut."
+msgstr[1] "%1$s eklentileri için güncellemeler mevcut."
+
+#: plugins/class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Üzgünüm ancak %1$s eklentisini güncellemek için doğru yetkilere sahip değilsiniz."
+msgstr[1] "Üzgünüm ancak %1$s eklentilerini güncellemek için doğru yetkilere sahip değilsiniz."
+
+#: plugins/class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Üzgünüm ancak %1$s eklentisini etkinleştirmek için doğru yetkilere sahip değilsiniz."
+msgstr[1] "Üzgünüm ancak %1$s eklentilerini etkinleeştirmek için doğru yetkilere sahip değilsiniz."
+
+#: plugins/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklenti güncellemesine başla"
+msgstr[1] "Eklenti güncelleştirmelerine başla"
+
+#: plugins/class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Hiçbir eylem yapılmadı. %1$s eklentisi zaten etkindi."
+
+#: plugins/class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Eklenti etkinleştirilmedi. Bu tema için %s eklentisinin daha yeni bir sürümü gerekiyor. Lütfen eklentiyi güncelleyin."
+
+#: plugins/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Lütfen yardım için bu sitenin yöneticisi ile iletişim kurun."
+
+#: plugins/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Temanız ile uyumlu olabilmesi için bu eklentinin güncellenmesi gerekiyor."
+
+#: plugins/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Güncelleme gerekli"
+
+#: plugins/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Yerine parent_slug ayar değişkenini belirleyin."
+
+#: plugins/class-tgm-plugin-activation.php:931
+#: plugins/class-tgm-plugin-activation.php:934
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Lütfen eklenti geliştiricisi ile iletişime geçip eklentisini WordPress kurallarına uygun paketlemesi gerektiğini iletin."
+
+#: plugins/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Uzak eklenti paketi birden fazla dosyadan oluşuyor ancak bu dosyalar bir klasör içinde paketlenmemiş."
+
+#: plugins/class-tgm-plugin-activation.php:1112
+#: plugins/class-tgm-plugin-activation.php:2824
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ve"
+
+#: plugins/class-tgm-plugin-activation.php:1877
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: plugins/class-tgm-plugin-activation.php:2211
+msgid "Active"
+msgstr "Etkin"
+
+#: plugins/class-tgm-plugin-activation.php:2185
+msgid "External Source"
+msgstr "Dış kaynak"
+
+#: plugins/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'siyle ilgili bir şeyler yanlış gitti."
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "Tam genişlik"
+
+#. Template Name of the plugin/theme
+msgid "Front Page"
+msgstr "Ön sayfa"
+
+#: widgets/video-widget.php:24
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Videonun bağlantı adresini yapıştırın (sadece oEmbed destekleyen, Youtube, Vimeo vb ağlardan alın):"
+
+#: widgets/video-widget.php:7
+msgid "Sydney: Video"
+msgstr "Sydney: Video"
+
+#: widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr "Youtube, Vimeo vb. bir video gösterin."
+
+#: widgets/fp-testimonials.php:108
+msgid "See all our testimonials"
+msgstr "Tüm referanslarımıza bakın"
+
+#: widgets/fp-testimonials.php:31
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr "Kategoriniz için kısa ad girin veya tüm referansları göstermek için boş bırakın."
+
+#: widgets/fp-testimonials.php:29
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "Düğme için metin [Boş bırakılırsa varsayılan <em>Tüm referanslarımıza bakın</em>]"
+
+#: widgets/fp-testimonials.php:27
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr "Düğmeniz için bağlantı adresi [referanslar bloğunuzun altında bir düğme isterseniz]"
+
+#: widgets/fp-testimonials.php:25
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "Gösterilecek referans sayısı (-1 hepsini gösterir):"
+
+#: widgets/fp-testimonials.php:20
+msgid "In order to display this widget, you must first add some testimonials from your admin area."
+msgstr "Bu bileşeni görüntülemek için öncelikle yönetici bölümünden bazı referanslar eklemeniz gerekir."
+
+#: widgets/fp-testimonials.php:7
+msgid "Sydney FP: Testimonials"
+msgstr "Sydney FP: Referanslar"
+
+#: widgets/fp-testimonials.php:6
+msgid "Display your testimonials in a slider."
+msgstr "Referanslarınızı bir kaydırıcı içinde gösterin."
+
+#: widgets/fp-social.php:64
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seç &mdash;"
+
+#: widgets/fp-social.php:62
+msgid "Select your social menu:"
+msgstr "Sosyal ağ menünüzü seçin:"
+
+#: widgets/fp-social.php:60
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr "Bir bileşen içinde sosyal ağ simgelerini göstermek için tüm yapmanız gereken <strong>Görünüm > Menüler</strong>'e gidip sosyal ağ profillerinize bağlantılar içeren bir menü oluşturmak ve daha sonra o menüyü buraya atamak. Desteklenen sosyal ağlar: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+
+#: widgets/fp-social.php:52
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Henüz hiç menü oluşturulmamış. <a href=\"%s\">Bir tane oluşturun</a>."
+
+#: widgets/fp-social.php:6
+msgid "Sydney FP: Social Profile"
+msgstr "Sydney FP: Sosyal Ağ Profili"
+
+#: widgets/fp-social.php:5
+msgid "Display your social profile on your front page"
+msgstr "Ön sayfanızda sosyal ağ profillerinizi gösterin."
+
+#: widgets/fp-skills.php:68
+msgid "Fourth skill value"
+msgstr "Dömrdüncü beceri değeri"
+
+#: widgets/fp-skills.php:63
+msgid "Fourth skill name"
+msgstr "Dördüncü beceri adı"
+
+#: widgets/fp-skills.php:57
+msgid "Third skill value"
+msgstr "Üçüncü beceri değeri"
+
+#: widgets/fp-skills.php:52
+msgid "Third skill name"
+msgstr "Üçüncü beceri adı"
+
+#: widgets/fp-skills.php:46
+msgid "Second skill value"
+msgstr "İkinci beceri değeri"
+
+#: widgets/fp-skills.php:41
+msgid "Second skill name"
+msgstr "İkinci beceri adı"
+
+#: widgets/fp-skills.php:35
+msgid "First skill value"
+msgstr "İlk beceri değeri"
+
+#: widgets/fp-skills.php:30
+msgid "First skill name"
+msgstr "İlk beceri adı"
+
+#: widgets/fp-skills.php:7
+msgid "Sydney FP: Skills"
+msgstr "Sydney FP: Beceriler"
+
+#: widgets/fp-skills.php:6
+msgid "Show your visitors some of your skills."
+msgstr "Ziyaretçilerinize bazı becerilerinizi gösterin."
+
+#: widgets/fp-services-type-b.php:41
+msgid "Number of columns:"
+msgstr "Sütun sayısı:"
+
+#: widgets/fp-services-type-b.php:12
+msgid "Sydney FP: Services type B"
+msgstr "Sydney FP: B Tipi Hizmetler"
+
+#: widgets/fp-services-type-a.php:145 widgets/fp-services-type-b.php:160
+msgid "See all our services"
+msgstr "Tüm hizmetlerimize bakın"
+
+#: widgets/fp-services-type-a.php:42
+msgid "Display services in two columns instead of three?"
+msgstr "Hizmetler iki sütun yerine üç sütunda gösterilsin mi?"
+
+#: widgets/fp-services-type-a.php:39 widgets/fp-services-type-b.php:38
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr "Kategoriniz için kısa ad girin veya tüm hizmetleri göstermek için boş bırakın."
+
+#: widgets/fp-services-type-a.php:37 widgets/fp-services-type-b.php:36
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "Düğme için metin [Boş bırakılırsa varsayılan <em>Tüm hizmetlerimize bakın</em>]"
+
+#: widgets/fp-services-type-a.php:35 widgets/fp-services-type-b.php:34
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr "Düğmeniz için bağlantı adresi [hizmetler bloğunuzun altında bir düğme isterseniz]"
+
+#: widgets/fp-services-type-a.php:33 widgets/fp-services-type-b.php:32
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "Gösterilecek hizmet sayısı (-1 hepsini gösterir):"
+
+#: widgets/fp-services-type-a.php:28 widgets/fp-services-type-b.php:27
+msgid "In order to display this widget, you must first add some services from your admin area."
+msgstr "Bu bileşeni görüntülemek için öncelikle yönetici bölümünden bazı hizmetler eklemeniz gerekir."
+
+#: widgets/fp-services-type-a.php:12
+msgid "Sydney FP: Services Type A"
+msgstr "Sydney FP: A Tipi Hizmetler"
+
+#: widgets/fp-services-type-a.php:11 widgets/fp-services-type-b.php:11
+msgid "Show what services you are able to provide."
+msgstr "Hangi hizmetleri verebileceğinizi gösterin."
+
+#: widgets/fp-list.php:75
+msgid "Call to action button text:"
+msgstr "Eylem çağrısı düğmesi metni:"
+
+#: widgets/fp-list.php:72
+msgid "Call to action button URL:"
+msgstr "Eylem çağrısı düğmesi bağlantı adresi:"
+
+#: widgets/fp-list.php:69
+msgid "Add your list items here. One item per row, start each row with <strong>^</strong>. Example: <strong>^ list item </strong>"
+msgstr "Liste ögelerinizi buradan ekleyin. Her satıra bir öge ve her satıra <strong>^</strong> ile başlayın. Örneğin: <strong>^ liste ögesi</strong>"
+
+#: widgets/fp-list.php:66
+msgid "Add a bit of text here. It will be displayed."
+msgstr "Buraya bir parça metin ekleyin. Gösterilecek."
+
+#: widgets/fp-list.php:63 widgets/fp-portfolio.php:152 widgets/fp-social.php:57
+msgid "Title:"
+msgstr "Başlık:"
+
+#: widgets/fp-list.php:13
+msgid "Sydney FP: List"
+msgstr "Sydney FP: Liste"
+
+#: widgets/fp-list.php:11
+msgid "A simple list widget"
+msgstr "Basit bir listeleme bileşeni"
+
+#: widgets/fp-latest-news.php:51 widgets/fp-latest-news.php:53
+msgid "See all our news"
+msgstr "Tüm haberlerimize bakın"
+
+#: widgets/fp-latest-news.php:26
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "Varsayılan <em>Tüm haberlerimize bakın</em> metnini değiştirmek isterseniz düğme için bir metin ekleyin"
+
+#: widgets/fp-latest-news.php:23
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Kategoriniz için kısa ad girin veya tüm kategorilerden yazıları göstermek için boş bırakın."
+
+#: widgets/fp-latest-news.php:7
+msgid "Sydney FP: Latest News"
+msgstr "Sydney FP: Son Haberler"
+
+#: widgets/fp-latest-news.php:6
+msgid "Show the latest news from your blog."
+msgstr "Blogunuzdan son haberleri gösterin."
+
+#: widgets/fp-facts.php:96
+msgid "Fourth fact icon"
+msgstr "Dördüncü durum simgesi"
+
+#: widgets/fp-facts.php:91
+msgid "Fourth fact value"
+msgstr "Dördüncü durum değeri"
+
+#: widgets/fp-facts.php:86
+msgid "Fourth fact name"
+msgstr "Dördüncü durum adı"
+
+#: widgets/fp-facts.php:80
+msgid "Third fact icon"
+msgstr "Üçüncü durum simgesi"
+
+#: widgets/fp-facts.php:75
+msgid "Third fact value"
+msgstr "Üçüncü durum değeri"
+
+#: widgets/fp-facts.php:70
+msgid "Third fact name"
+msgstr "Üçüncü durum adı"
+
+#: widgets/fp-facts.php:64
+msgid "Second fact icon"
+msgstr "İkinci durum simgesi"
+
+#: widgets/fp-facts.php:59
+msgid "Second fact value"
+msgstr "İkinci durum değeri"
+
+#: widgets/fp-facts.php:54
+msgid "Second fact name"
+msgstr "İkinci durum adı"
+
+#: widgets/fp-facts.php:48
+msgid "First fact icon"
+msgstr "İlk durum simgesi"
+
+#: widgets/fp-facts.php:43
+msgid "First fact value"
+msgstr "İlk durum değeri"
+
+#: widgets/fp-facts.php:38
+msgid "First fact name"
+msgstr "İlk durum adı"
+
+#: widgets/fp-facts.php:30
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr "Kullanım örneği: <strong>fa-android</strong>"
+
+#: widgets/fp-facts.php:30
+msgid "here."
+msgstr "buradan."
+
+#: widgets/fp-facts.php:30
+msgid "You can find a list of the available icons "
+msgstr "Kullanılabilir simgelerin bir listesini bulabilirsiniz "
+
+#: widgets/fp-facts.php:8
+msgid "Sydney FP: Facts"
+msgstr "Sydney FP: Durumlar"
+
+#: widgets/fp-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "Şirketiniz hakkındaki bazı durumları ziyaretçilerinize gösterin."
+
+#: widgets/fp-employees.php:140
+msgid "See all our employees"
+msgstr "Tüm çalışanlarımıza bakın"
+
+#: widgets/fp-employees.php:35
+msgid "Center the employees? (use only if you have 1 or 2 employees)"
+msgstr "Çalışanları ortalansın mı? (1 veya 2 çalışan varsa kullanın)"
+
+#: widgets/fp-employees.php:32
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr "Kategoriniz için kısa ad girin veya tüm çalışanları göstermek için boş bırakın."
+
+#: widgets/fp-employees.php:30
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "Düğme için metin [Boş bırakılırsa varsayılan <em>Tüm çalışanlarımıza bakın</em>]"
+
+#: widgets/fp-employees.php:28
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr "Bir yere bağlantı vermek isterseniz buraya bir bağlantı adresi girin."
+
+#: widgets/fp-employees.php:26
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "Gösterilecek çalışan sayısı (-1 hepsini gösterir):"
+
+#: widgets/fp-employees.php:21
+msgid "In order to display this widget, you must first add some employees from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "Bu bileşeni görüntülemek için öncelikle başlangıç ekranından bazı çalışanlar eklemeniz gerekir. İstediğiniz kadar ekleyin ve tema otomatik olarak tümünü gösterecektir."
+
+#: widgets/fp-employees.php:7
+msgid "Sydney FP: Employees"
+msgstr "Sydney FP: Çalışanlar"
+
+#: widgets/fp-employees.php:6
+msgid "Display your team members in a stylish way."
+msgstr "Takım üyelerinizi şık bir şeklide gösterin."
+
+#: widgets/fp-clients.php:111
+msgid "See all our clients"
+msgstr "Tüm müşterilerimize bakın"
+
+#: widgets/fp-clients.php:32
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr "Kategoriniz için kısa ad girin veya tüm müşterileri göstermek için boş bırakın."
+
+#: widgets/fp-clients.php:30
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr "Düğme için metin [Boş bırakılırsa varsayılan <em>Tüm müşterilerimize bakın</em>]"
+
+#: widgets/fp-clients.php:28
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr "Düğmeniz için bağlantı adresi [müşteriler bloğunuzun altında bir düğme isterseniz]"
+
+#: widgets/fp-clients.php:26
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr "Gösterilecek müşteri sayısı (-1 hepsini gösterir):"
+
+#: widgets/fp-clients.php:21
+msgid "In order to display this widget, you must first add some clients from your admin area. Set your client logos as featured images."
+msgstr "Bu bileşeni görüntülemek için öncelikle yönetici bölümünden bazı müşterileri eklemeniz gerekir. Müşteri logolarınızı öne çıkan görsel olarak ayarlayın."
+
+#: widgets/fp-clients.php:7
+msgid "Sydney FP: Clients"
+msgstr "Sydney FP: Müşteriler"
+
+#: widgets/fp-clients.php:6
+msgid "Display your clients list."
+msgstr "Müşteriler listenizi gösterin."
+
+#: widgets/fp-call-to-action.php:27
+msgid "Display the button inline with the text?"
+msgstr "Düğme metinle aynı hizada gösterilsin mi?"
+
+#: widgets/fp-call-to-action.php:24
+msgid "Title for the button"
+msgstr "Düğme için başlık"
+
+#: widgets/fp-call-to-action.php:22
+msgid "Link for the button"
+msgstr "Düğme için bağlantı"
+
+#: widgets/fp-call-to-action.php:20
+msgid "Enter your call to action."
+msgstr "Eylem çağrınızı girin"
+
+#: widgets/fp-call-to-action.php:7
+msgid "Sydney FP: Call to action"
+msgstr "Sydney FP: Eylem çağrısı"
+
+#: widgets/fp-call-to-action.php:6
+msgid "Display a call to action block."
+msgstr "Bir eylem çağrısı bloğu gösterin."
+
+#: widgets/contact-info.php:30
+msgid "Enter your email address"
+msgstr "E-posta adresinizi girin"
+
+#: widgets/contact-info.php:27
+msgid "Enter your phone number"
+msgstr "Telefon numaranızı girin"
+
+#: widgets/contact-info.php:24
+msgid "Enter your address"
+msgstr "Adresinizi girin"
+
+#: widgets/contact-info.php:20 widgets/fp-call-to-action.php:18
+#: widgets/fp-clients.php:23 widgets/fp-employees.php:23
+#: widgets/fp-facts.php:32 widgets/fp-latest-news.php:19
+#: widgets/fp-services-type-a.php:30 widgets/fp-services-type-b.php:29
+#: widgets/fp-skills.php:24 widgets/fp-testimonials.php:22
+#: widgets/video-widget.php:20
+msgid "Title"
+msgstr "Başlık"
+
+#: widgets/contact-info.php:7
+msgid "Sydney: Contact info"
+msgstr "Sydney: İletişim bilgileri"
+
+#: widgets/contact-info.php:6
+msgid "Display your contact info"
+msgstr "İletişim bilgilerinizi gösterin"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Arama sonuçları: %s"
+
+#: plugins/class-tgm-plugin-activation.php:3374
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) kuruluyor"
+
+#: plugins/class-tgm-plugin-activation.php:3373
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlandı."
+
+#: plugins/class-tgm-plugin-activation.php:3372
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla kuruldu."
+
+#: plugins/class-tgm-plugin-activation.php:3371
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#: plugins/class-tgm-plugin-activation.php:3368
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) kuruluyor ve etkinleştiriliyor"
+
+#: plugins/class-tgm-plugin-activation.php:3367
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulum ve etkinleştirmeler tamamlandı."
+
+#: plugins/class-tgm-plugin-activation.php:3366
+#: plugins/class-tgm-plugin-activation.php:3372
+msgid "Hide Details"
+msgstr "Detayları gizle"
+
+#: plugins/class-tgm-plugin-activation.php:3366
+#: plugins/class-tgm-plugin-activation.php:3372
+msgid "Show Details"
+msgstr "Detayları göster"
+
+#: plugins/class-tgm-plugin-activation.php:3366
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla kuruldu ve etkinleştirildi."
+
+#: plugins/class-tgm-plugin-activation.php:3365
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum ve etkinleştirme işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#: plugins/class-tgm-plugin-activation.php:3361
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#: plugins/class-tgm-plugin-activation.php:3360
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s kurulurken bir hata oluştu: <strong>%2$s</strong>."
+
+#: plugins/class-tgm-plugin-activation.php:3024
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirmesi başarısız oldu."
+
+#: plugins/class-tgm-plugin-activation.php:2810
+msgid "No plugins are available to be activated at this time."
+msgstr "Şu anda etkinleştirilecek herhangi bir eklenti yok."
+
+#: plugins/class-tgm-plugin-activation.php:2677
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu anda kurulacak herhangi bir eklenti yok."
+
+#: plugins/class-tgm-plugin-activation.php:2608
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: plugins/class-tgm-plugin-activation.php:2599
+msgid "Install"
+msgstr "Yükle"
+
+#: plugins/class-tgm-plugin-activation.php:2439
+msgid "Status"
+msgstr "Durum"
+
+#: plugins/class-tgm-plugin-activation.php:2434
+msgid "Type"
+msgstr "Tür"
+
+#: plugins/class-tgm-plugin-activation.php:2433
+msgid "Source"
+msgstr "Kaynak"
+
+#: plugins/class-tgm-plugin-activation.php:2432
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: plugins/class-tgm-plugin-activation.php:2418
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Kurulacak, güncellenecek ya da etkinleştirilecek eklenti yok. <a href=“%1$s”>Başlangıç ekranına dön</a>"
+
+#: plugins/class-tgm-plugin-activation.php:2496
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "%2$s eklentisini etkinleştir"
+
+#: plugins/class-tgm-plugin-activation.php:2487
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "%2$s eklentisini kur"
+
+#: plugins/class-tgm-plugin-activation.php:2209
+msgid "Installed But Not Activated"
+msgstr "Kurulmuş ancak etkinleştirilmemiş"
+
+#: plugins/class-tgm-plugin-activation.php:2205
+msgid "Not Installed"
+msgstr "Kurulmamış"
+
+#: plugins/class-tgm-plugin-activation.php:2166
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: plugins/class-tgm-plugin-activation.php:2163
+msgid "Required"
+msgstr "Gerekli"
+
+#: plugins/class-tgm-plugin-activation.php:2182
+msgid "WordPress Repository"
+msgstr "WordPress veri havuzu"
+
+#: plugins/class-tgm-plugin-activation.php:2188
+msgid "Pre-Packaged"
+msgstr "Önceden paketlenmiş"
+
+#: plugins/class-tgm-plugin-activation.php:824
+#: plugins/class-tgm-plugin-activation.php:3434
+msgid "Return to the Dashboard"
+msgstr "Başlangıca dön"
+
+#: plugins/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Bu uyarıyı yoksay"
+
+#: plugins/class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla kuruldu ve etkinleştirildi. %1$s"
+
+#: plugins/class-tgm-plugin-activation.php:400
+#: plugins/class-tgm-plugin-activation.php:2828
+msgid "The following plugin was activated successfully:"
+msgstr "Şu eklenti başarıyla etkinleştirildi:"
+
+#: plugins/class-tgm-plugin-activation.php:399
+#: plugins/class-tgm-plugin-activation.php:3025
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: plugins/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Başlangıca dön"
+
+#: plugins/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli eklenti kurulumuna dön"
+
+#: plugins/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklenti etkinleştirmesine başla"
+msgstr[1] "Eklenti etkinleştirmelerine başla"
+
+#: plugins/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklenti kurulumuna başla"
+msgstr[1] "Eklenti kurulumlarına başla"
+
+#: plugins/class-tgm-plugin-activation.php:352
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Bu temayla en iyi uyumu sağlamak için aşağıdaki eklentinin en son sürüme güncellenmesi gerekiyor: %1$s."
+msgstr[1] "Bu temayla en iyi uyumu sağlamak için aşağıdaki eklentilerin en son sürüme güncellenmesi gerekiyor: %1$s."
+
+#: plugins/class-tgm-plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Şu önerilen eklenti şu anda pasif durumda: %1$s."
+msgstr[1] "Şu önerilen eklentiler şu anda pasif durumda: %1$s."
+
+#: plugins/class-tgm-plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Şu gerekli eklenti şu anda pasif durumda: %1$s."
+msgstr[1] "Şu gerekli eklentiler şu anda pasif durumda: %1$s."
+
+#: plugins/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema şu eklentiyi öneriyor: %1$s."
+msgstr[1] "Bu tema şu eklentileri öneriyor: %1$s."
+
+#: plugins/class-tgm-plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema şu eklentiye gerek duyuyor: %1$s."
+msgstr[1] "Bu tema şu eklentilere gerek duyuyor: %1$s."
+
+#: plugins/class-tgm-plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr "Eklenti kuruluyor: %s"
+
+#: plugins/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Eklenti kur"
+
+#: plugins/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Gerekli eklentileri kur"
+
+#: inc/template-tags.php:173
+msgid "Archives"
+msgstr "Arşivler"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:171
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:167
+msgid "Archives: %s"
+msgstr "Arşivler: %s"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Sohbetler"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Ses"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Durumlar"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Alıntılar"
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videolar"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Görseller"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeriler"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Yan sütunlar"
+
+#: inc/template-tags.php:145
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:145
+msgid "Day: %s"
+msgstr "Gün :%s"
+
+#: inc/template-tags.php:143
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:143
+msgid "Month: %s"
+msgstr "Ay: %s"
+
+#: inc/template-tags.php:141
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:141
+msgid "Year: %s"
+msgstr "Yıl: %s"
+
+#: inc/template-tags.php:139
+msgid "Author: %s"
+msgstr "Yazar: %s"
+
+#: inc/template-tags.php:137
+msgid "Tag: %s"
+msgstr "Etiket: %s"
+
+#: inc/template-tags.php:135
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:115
+msgid " %1$s"
+msgstr " %1$s"
+
+#: inc/template-tags.php:100
+msgid "Posted in %1$s"
+msgstr "%1$s içinde yayınlandı"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:98 inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:94
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: inc/template-tags.php:94
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: inc/template-tags.php:94
+msgid "Leave a comment"
+msgstr "Yorum yapın"
+
+#: inc/template-tags.php:86
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:81
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "%s tarihinde yayınlandı"
+
+#: inc/template-tags.php:51
+msgid "Post navigation"
+msgstr "Yazı dolaşımı"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Yeni yazılar"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Eski yazılar"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Yazı dolaşımı"
+
+#: inc/page-builder.php:101
+msgid "45px"
+msgstr "45px"
+
+#: inc/page-builder.php:100
+msgid "30px"
+msgstr "30px"
+
+#: inc/page-builder.php:99
+msgid "15px"
+msgstr "15px"
+
+#: inc/page-builder.php:98
+msgid "0"
+msgstr "0"
+
+#: inc/page-builder.php:97
+msgid "Default"
+msgstr "Varsayılan"
+
+#: inc/page-builder.php:95
+msgid "Here you can select a top/bottom row padding for screen sizes < 1024px"
+msgstr "1024px'den küçük ekran boyutu için üst/alt satır dolgusunu buradan seçebilirsiniz"
+
+#: inc/page-builder.php:93
+msgid "Mobile padding"
+msgstr "Mobil dolgu"
+
+#: inc/page-builder.php:87
+msgid "Background image of the row."
+msgstr "Satırın arka plan görseli."
+
+#: inc/page-builder.php:85
+msgid "Background Image"
+msgstr "Arka plan görseli"
+
+#: inc/page-builder.php:80
+msgid "Color of the row."
+msgstr "Satırın rengi."
+
+#: inc/page-builder.php:78
+msgid "Color"
+msgstr "Renk"
+
+#: inc/page-builder.php:72
+msgid "This may or may not work. It depends on the widget styles."
+msgstr "Bu çalışabilir veya çalışmayabilir, bileşen biçimlerine bağlıdır."
+
+#: inc/page-builder.php:70
+msgid "Center align the content?"
+msgstr "İçerik ortaya hizalansın mı?"
+
+#: inc/page-builder.php:63
+msgid "Top/bottom padding"
+msgstr "Üst/alt dolgu"
+
+#: inc/page-builder.php:57
+msgid "Bottom Border Color"
+msgstr "Alt kenarlık rengi"
+
+#: inc/page-builder.php:44
+msgid "Sydney Theme Widgets"
+msgstr "Sydney Tema Bileşenleri"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Sayfa %s"
+
+#: inc/customizer.php:1736
+msgid "Nothing (only menu)"
+msgstr "Hiçbir şey (sadece menü)"
+
+#: inc/customizer.php:1708
+msgid "2. A full theme demo can be found "
+msgstr "2. Tam bir tema demosunu bulabilirsiniz "
+
+#: inc/customizer.php:1708
+msgid "1. Documentation for Sydney can be found "
+msgstr "1. Sydney için belgelendirmeyi bulabilirsiniz "
+
+#: inc/customizer.php:1706
+msgid "Theme info"
+msgstr "Tema bilgisi"
+
+#: inc/customizer.php:1693
+msgid "Rows overlay"
+msgstr "Satır kaplaması"
+
+#: inc/customizer.php:1674
+msgid "Footer color"
+msgstr "Alt kısım rengi"
+
+#: inc/customizer.php:1654
+msgid "Footer background"
+msgstr "Alt kısım arka planı"
+
+#: inc/customizer.php:1634
+msgid "Footer widget area color"
+msgstr "Alt kısım bileşen alanı rengi"
+
+#: inc/customizer.php:1614
+msgid "Footer widget area background"
+msgstr "Alt kısım bileşen alanı arka planı"
+
+#: inc/customizer.php:1594
+msgid "Sidebar color"
+msgstr "Kenar çubuğu rengi"
+
+#: inc/customizer.php:1574
+msgid "Sidebar background"
+msgstr "Kenar çubuğu arka planı"
+
+#: inc/customizer.php:1554
+msgid "Body text"
+msgstr "Gövde metni"
+
+#: inc/customizer.php:1534
+msgid "Header slider text"
+msgstr "Üst kısım kaydırıcı metni"
+
+#: inc/customizer.php:1495
+msgid "Sub-menu background"
+msgstr "Alt menü arka planı"
+
+#: inc/customizer.php:1476
+msgid "Sub-menu items"
+msgstr "Alt menü elemanları"
+
+#: inc/customizer.php:1436
+msgid "Top level menu items"
+msgstr "En üst seviye menü elemanları"
+
+#: inc/customizer.php:1375
+msgid "Menu background"
+msgstr "Menü arka planı"
+
+#: inc/customizer.php:1355
+msgid "Primary color"
+msgstr "Birincil renk"
+
+#: inc/customizer.php:1304
+msgid "Body font size"
+msgstr "Gövde yazı tipi boyutu"
+
+#: inc/customizer.php:1285
+msgid "H6 font size"
+msgstr "H6 yazı tipi boyutu"
+
+#: inc/customizer.php:1266
+msgid "H5 font size"
+msgstr "H5 yazı tipi boyutu"
+
+#: inc/customizer.php:1247
+msgid "H4 font size"
+msgstr "H4 yazı tipi boyutu"
+
+#: inc/customizer.php:1228
+msgid "H3 font size"
+msgstr "H3 yazı tipi boyutu"
+
+#: inc/customizer.php:1209
+msgid "H2 font size"
+msgstr "H2 yazı tipi boyutu"
+
+#: inc/customizer.php:1190
+msgid "H1 font size"
+msgstr "H1 yazı tipi boyutu"
+
+#: inc/customizer.php:1171
+msgid "Menu items"
+msgstr "Menü elemanları"
+
+#: inc/customizer.php:1152 inc/customizer.php:1416
+msgid "Site description"
+msgstr "Site açıklaması"
+
+#: inc/customizer.php:1133 inc/customizer.php:1395
+msgid "Site title"
+msgstr "Site başlığı"
+
+#: inc/customizer.php:1115
+msgid "Font sizes"
+msgstr "Yazı tipi boyutu"
+
+#: inc/customizer.php:1067
+msgid "Headings fonts"
+msgstr "Başlıkların yazı tipleri"
+
+#: inc/customizer.php:1053 inc/customizer.php:1101
+msgid "Font family"
+msgstr "Yazı tipi ailesi"
+
+#: inc/customizer.php:1036 inc/customizer.php:1084
+msgid "Font name/style/sets"
+msgstr "Yazı tipi adı/biçimi/setleri"
+
+#: inc/customizer.php:1019
+msgid "Body fonts"
+msgstr "Gövde yazı tipleri"
+
+#: inc/customizer.php:1008
+msgid "Google Fonts can be found here: google.com/fonts. See the documentation if you need help in selecting Google Fonts: athemes.com/documentation/sydney"
+msgstr "Google Fonts yazı tipleri buradan bulunabilir: google.com/fonts. Google Fonts yazı tipini seçerken yardıma ihtiyacınız varsa belgelendirmeye bakın: athemes.com/documentation/sydney"
+
+#: inc/customizer.php:1006
+msgid "Fonts"
+msgstr "Yazı tipleri"
+
+#: inc/customizer.php:995 inc/customizer.php:1767
+msgid "Four"
+msgstr "Dört"
+
+#: inc/customizer.php:994 inc/customizer.php:1766
+msgid "Three"
+msgstr "Üç"
+
+#: inc/customizer.php:993 inc/customizer.php:1765
+msgid "Two"
+msgstr "İki"
+
+#: inc/customizer.php:992 inc/customizer.php:1764
+msgid "One"
+msgstr "Bir"
+
+#: inc/customizer.php:990
+msgid "Select the number of widget areas you want in the footer. After that, go to Appearance > Widgets and add your widgets."
+msgstr "Alt kısımda istediğiniz bileşen alanı sayısını girin. Daha sonra Görünüm > Bileşenler'e gidin ve bileşenlerinizi ekleyin."
+
+#: inc/customizer.php:988
+msgid "Footer widget area"
+msgstr "Alt kısım bileşen alanı"
+
+#: inc/customizer.php:972 inc/customizer.php:1338
+msgid "Footer"
+msgstr "Alt kısım"
+
+#: inc/customizer.php:959
+msgid "Check this box to hide featured images on single posts"
+msgstr "Tek sayfalarda öne çıkan görseli gizlemek için bu kutuyu işaretleyin."
+
+#: inc/customizer.php:943
+msgid "Check this box to hide featured images on index, archives etc."
+msgstr "İndeks, arşivlerde vs. öne çıkan görseli gizlemek için bu kutuyu işaretleyin."
+
+#: inc/customizer.php:926
+msgid "Featured images"
+msgstr "Öne çıkan görseller"
+
+#: inc/customizer.php:913
+msgid "Hide post meta on singles?"
+msgstr "Tek sayfalarda yazı metası gizlensin mi?"
+
+#: inc/customizer.php:896
+msgid "Hide post meta on index, archives?"
+msgstr "İndeks ve arşivlerde yazı metası gizlensin mi?"
+
+#: inc/customizer.php:878
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/customizer.php:863
+msgid "Choose your excerpt length. Default: 55 words"
+msgstr "Özet uzunluğunuzu seçin. Varsayılan: 55 kelime"
+
+#: inc/customizer.php:862
+msgid "Excerpt length"
+msgstr "Özet uzunluğu"
+
+#: inc/customizer.php:845
+msgid "Check this box to display the full content of your posts on all archives."
+msgstr "Tüm arşivlerde yazılarınızın içeriğinin tamamını göstermek için bu kutuyu işaretleyin."
+
+#: inc/customizer.php:829
+msgid "Check this box to display the full content of your posts on the home page."
+msgstr "Ana sayfada yazılarınızın içeriğinin tamamını göstermek için bu kutuyu işaretleyin."
+
+#: inc/customizer.php:811
+msgid "Content/excerpt"
+msgstr "İçerik/özet"
+
+#: inc/customizer.php:798
+msgid "Full width single posts?"
+msgstr "Yazılar tam genişlikte olsun mu?"
+
+#: inc/customizer.php:783 inc/customizer.php:1792
+msgid "Masonry (grid style)"
+msgstr "Yığma (ızgara biçimi)"
+
+#: inc/customizer.php:782 inc/customizer.php:1791
+msgid "Full width (no sidebar)"
+msgstr "Tam genişlik (kenar çubuğu olmadan)"
+
+#: inc/customizer.php:781 inc/customizer.php:1790
+msgid "Classic"
+msgstr "Klasik"
+
+#: inc/customizer.php:777
+msgid "Blog layout"
+msgstr "Blog yerleşimi"
+
+#: inc/customizer.php:760
+msgid "Layout"
+msgstr "Yerleşim"
+
+#: inc/customizer.php:748
+msgid "Blog options"
+msgstr "Blog seçenekleri"
+
+#: inc/customizer.php:736
+msgid "Upload your logo"
+msgstr "Logonuzu yükleyin"
+
+#: inc/customizer.php:718
+msgid "Disable the overlay?"
+msgstr "Kaplama etkisizleştirilsin mi?"
+
+#: inc/customizer.php:700
+msgid "Header height [default: 300px]"
+msgstr "Üst kısım yüksekliği (varsayılan: 300px)"
+
+#: inc/customizer.php:684 inc/customizer.php:1753
+msgid "Contain"
+msgstr "İçine al"
+
+#: inc/customizer.php:683 inc/customizer.php:1752
+msgid "Cover"
+msgstr "Kapla"
+
+#: inc/customizer.php:680
+msgid "Header background size"
+msgstr "Üst kısım arka plan boyutu"
+
+#: inc/customizer.php:663 inc/customizer.php:1817
+msgid "Centered (menu and site logo)"
+msgstr "Ortalanmış (menü ve site logosu)"
+
+#: inc/customizer.php:662 inc/customizer.php:1816
+msgid "Inline"
+msgstr "Satır içi"
+
+#: inc/customizer.php:642 inc/customizer.php:1779
+msgid "Static"
+msgstr "Sabit"
+
+#: inc/customizer.php:641 inc/customizer.php:1778
+msgid "Sticky"
+msgstr "Yapışkan"
+
+#: inc/customizer.php:638
+msgid "Sticky menu"
+msgstr "Yapışkan menü"
+
+#: inc/customizer.php:620 inc/customizer.php:659
+msgid "Menu style"
+msgstr "Menü biçimi"
+
+#: inc/customizer.php:610
+msgid "Text for your call to action button"
+msgstr "Eylem çağrısı düğmeniz için metin"
+
+#: inc/customizer.php:603
+msgid "Click to begin"
+msgstr "Başlamak için tıklayın"
+
+#: inc/customizer.php:594
+msgid "URL for your call to action button"
+msgstr "Eylem çağrısı düğmeniz için bağlantı adresi"
+
+#: inc/customizer.php:578
+msgid "Call to action button"
+msgstr "Eylem çağrısı düğmesi"
+
+#: inc/customizer.php:564
+msgid "Subtitle for the fifth slide"
+msgstr "Beşinci slayt için alt başlık"
+
+#: inc/customizer.php:547
+msgid "Title for the fifth slide"
+msgstr "Beşinci slayt için başlık"
+
+#: inc/customizer.php:528
+msgid "Upload your fifth image for the slider"
+msgstr "Kaydırıcı için beşinci görselinizi yükleyin"
+
+#: inc/customizer.php:510
+msgid "Fifth slide"
+msgstr "Beşinci slayt"
+
+#: inc/customizer.php:496
+msgid "Subtitle for the fourth slide"
+msgstr "Dördüncü slayt için alt başlık"
+
+#: inc/customizer.php:479
+msgid "Title for the fourth slide"
+msgstr "Dördüncü slayt için başlık"
+
+#: inc/customizer.php:460
+msgid "Upload your fourth image for the slider"
+msgstr "Kaydırıcı için dördüncü görselinizi yükleyin"
+
+#: inc/customizer.php:442
+msgid "Fourth slide"
+msgstr "Dördüncü slayt"
+
+#: inc/customizer.php:428
+msgid "Subtitle for the third slide"
+msgstr "Üçüncü slayt için alt başlık"
+
+#: inc/customizer.php:411
+msgid "Title for the third slide"
+msgstr "Üçüncü slayt için başlık"
+
+#: inc/customizer.php:392
+msgid "Upload your third image for the slider"
+msgstr "Kaydırıcı için üçüncü görselinizi yükleyin"
+
+#: inc/customizer.php:374
+msgid "Third slide"
+msgstr "Üçüncü slayt"
+
+#: inc/customizer.php:360
+msgid "Subtitle for the second slide"
+msgstr "İkinci slayt için alt başlık"
+
+#: inc/customizer.php:353
+msgid "Click the button below"
+msgstr "Aşağıdaki düğmeye tıklayın"
+
+#: inc/customizer.php:343
+msgid "Title for the second slide"
+msgstr "İkinci slayt için başlık"
+
+#: inc/customizer.php:336
+msgid "Ready to begin your journey?"
+msgstr "Yolculuğunuza başlamak için hazır mısınız?"
+
+#: inc/customizer.php:324
+msgid "Upload your second image for the slider"
+msgstr "Kaydırıcı için ikinci görselinizi yükleyin"
+
+#: inc/customizer.php:306
+msgid "Second slide"
+msgstr "İkinci slayt"
+
+#: inc/customizer.php:292
+msgid "Subtitle for the first slide"
+msgstr "İlk slayt için alt başlık"
+
+#: inc/customizer.php:285
+msgid "Feel free to look around"
+msgstr "Etrafa bakmak için çekinmeyin"
+
+#: inc/customizer.php:275
+msgid "Title for the first slide"
+msgstr "İlk slayt için başlık"
+
+#: inc/customizer.php:268
+msgid "Welcome to Sydney"
+msgstr "Sydney'e hoşgeldiniz"
+
+#: inc/customizer.php:256
+msgid "Upload your first image for the slider"
+msgstr "Kaydırıcı için ilk görseli yükleyin"
+
+#: inc/customizer.php:238
+msgid "First slide"
+msgstr "İlk slayt"
+
+#: inc/customizer.php:225
+msgid "Stop the text slider?"
+msgstr "Metin kaydırıcıyı durdurulsun mu?"
+
+#: inc/customizer.php:211
+msgid "Slider speed in miliseconds. Use 0 to disable [default: 4000]"
+msgstr "Milisaniye cinsinden kaydırıcı hızı. Devre dışı bırakmak için 0 kullanın [varsayılan: 4000]"
+
+#: inc/customizer.php:208
+msgid "Slider speed"
+msgstr "Kaydırıcı hızı"
+
+#: inc/customizer.php:201
+msgid "4000"
+msgstr "4000"
+
+#: inc/customizer.php:171
+msgid "You can add up to 5 images in the slider. Make sure you select where to display your slider from the Header Type section found above. You can also add a Call to action button (scroll down to find the options)"
+msgstr "Kaydırıcıya en fazla 5 tane görsel ekleyebilirsiniz. Aşağıda bulunan üst kısım tipinden kaydırıcının nerede gösterileceğini seçtiğinizden emin olun. Eylem çağrısı düğmesi de ekleyebilirsiniz (seçenekleri bulmak için sayfayı aşağıya kaydırın)"
+
+#: inc/customizer.php:170
+msgid "Header Slider"
+msgstr "Üst kısım kaydırıcısı"
+
+#: inc/customizer.php:157
+msgid "Select the header type for all pages except the front page"
+msgstr "Ön sayfa hariç tüm sayfalar için üst kısım tipini seçin"
+
+#: inc/customizer.php:155
+msgid "Site header type"
+msgstr "Site üst kısım tipi"
+
+#: inc/customizer.php:139 inc/customizer.php:162
+msgid "No header (only menu)"
+msgstr "Üst kısım yok (sadece menü)"
+
+#: inc/customizer.php:137 inc/customizer.php:160 inc/customizer.php:1734
+msgid "Image"
+msgstr "Görsel"
+
+#: inc/customizer.php:136 inc/customizer.php:159 inc/customizer.php:1733
+msgid "Full screen slider"
+msgstr "Tam genişlikte kaydırıcı"
+
+#: inc/customizer.php:134
+msgid "Select the header type for your front page"
+msgstr "Ön sayfanız için üst kısım tipini seçin"
+
+#: inc/customizer.php:132
+msgid "Front page header type"
+msgstr "Ön sayfa üst kısım tipi"
+
+#: inc/customizer.php:117
+msgid "You can select your header type from here. After that, continue below to the next two tabs (Header Slider and Header Image) and configure them."
+msgstr "Üst kısım tipini buradan seçebilirsiniz. Daha sonra aşağıdaki iki sekmeden (üst kısım kaydırıcı ve üst kısım görseli) devam edin ve onları yapılandırın."
+
+#: inc/customizer.php:114
+msgid "Header type"
+msgstr "Üst kısım tipi"
+
+#: inc/customizer.php:108
+msgid "Header area"
+msgstr "Üst kısım"
+
+#: inc/customizer.php:17 inc/customizer.php:53
+msgid "General"
+msgstr "Genel"
+
+#: inc/customizer.php:16
+msgid "Site title/tagline/logo"
+msgstr "Site başlığı/sloganı/logosu"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "İçeriğe atla"
+
+#: functions.php:242
+msgid "Create your menu here"
+msgstr "Menünüzü buradan oluşturun"
+
+#: functions.php:106
+msgid "Footer "
+msgstr "Alt kısım"
+
+#: functions.php:93 inc/customizer.php:1330
+msgid "Sidebar"
+msgstr "Kenar çubuğu"
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: footer.php:26
+msgid "Theme: %2$s by %1$s."
+msgstr "Tema: %1$s tarafından %2$s."
+
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "%s gururla sunar"
+
+#: footer.php:24
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-page.php:25 inc/template-tags.php:118
+msgid "Edit"
+msgstr "Düzenle"
+
+#: content-page.php:18 content-search.php:32 content-single.php:31
+#: content.php:34
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka kriterler ile tekrar deneyin."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Bulunamadı"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Yeni yorumlar &arr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&arr; Eski yorumlar"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; üzerine bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; üzerine %1$s yorum"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada hiçbir şeyin bulunmadığı görülüyor. Belki alttaki bağlantılardan birini veya bir arama yapmayı denemelisin?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Off! Bu sayfa bulunamadı."
+
+#. Author URI of the plugin/theme
+msgid "http://athemes.com"
+msgstr "http://athemes.com"
+
+#. Author of the plugin/theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the plugin/theme
+msgid "http://athemes.com/theme/sydney"
+msgstr "http://athemes.com/theme/sydney"

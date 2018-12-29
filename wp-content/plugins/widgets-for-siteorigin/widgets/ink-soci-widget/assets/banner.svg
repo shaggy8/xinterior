@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>element-social icons</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-404.000000, -416.000000)">
+            <g id="social-icons" transform="translate(404.000000, 416.000000)">
+                <rect id="Rectangle-16" fill="#FFFFFF" x="0" y="0" width="125" height="125"></rect>
+                <rect id="Rectangle-22" stroke="#3EB0F7" stroke-width="2" x="26" y="56" width="13" height="13"></rect>
+                <rect id="Rectangle-22-Copy" stroke="#3EB0F7" stroke-width="2" x="46" y="56" width="13" height="13"></rect>
+                <rect id="Rectangle-22-Copy-2" stroke="#3EB0F7" stroke-width="2" x="66" y="56" width="13" height="13"></rect>
+                <rect id="Rectangle-22-Copy-3" stroke="#3EB0F7" stroke-width="2" x="86" y="56" width="13" height="13"></rect>
+                <circle id="Oval" fill="#DDDDDD" cx="32.5" cy="62.5" r="2.5"></circle>
+                <circle id="Oval-Copy" fill="#DDDDDD" cx="52.5" cy="62.5" r="2.5"></circle>
+                <circle id="Oval-Copy-2" fill="#DDDDDD" cx="72.5" cy="62.5" r="2.5"></circle>
+                <circle id="Oval-Copy-3" fill="#DDDDDD" cx="72.5" cy="62.5" r="2.5"></circle>
+                <circle id="Oval-Copy-4" fill="#DDDDDD" cx="92.5" cy="62.5" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

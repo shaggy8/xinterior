@@ -1,0 +1,13 @@
+.iw-so-social-icons .iw-so-social-icon {
+  text-decoration: none;
+  border: 2px solid transparent;
+  display: inline-block;
+  -webkit-transition: all 250ms ease-in;
+  -moz-transition: all 250ms ease-in;
+  transition: all 250ms ease-in; }
+  .iw-so-social-icons .iw-so-social-icon [class^="sow-icon-"] {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transition: all 250ms ease-in;
+    -moz-transition: all 250ms ease-in;
+    transition: all 250ms ease-in; }

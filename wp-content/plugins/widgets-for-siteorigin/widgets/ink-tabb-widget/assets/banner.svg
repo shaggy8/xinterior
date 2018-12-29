@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>element-tabs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-94.000000, -261.000000)">
+            <g id="tabs" transform="translate(94.000000, 261.000000)">
+                <rect id="Rectangle-16" fill="#FFFFFF" x="0" y="0" width="125" height="125"></rect>
+                <g id="Group" transform="translate(16.000000, 32.000000)" stroke-width="2">
+                    <rect id="Rectangle" stroke="#3EB0F7" x="1" y="9.05194805" width="91" height="51.9480519"></rect>
+                    <rect id="Rectangle-Copy" stroke="#3EB0F7" x="1" y="1" width="17.8640777" height="7.66233766"></rect>
+                    <rect id="Rectangle-Copy-2" stroke="#3EB0F7" x="19.0582524" y="1" width="17.8640777" height="7.66233766"></rect>
+                    <path d="M6.77184466,4.83116883 L13.9951456,4.83116883" id="Line" stroke="#DDDDDD" stroke-linecap="square"></path>
+                    <path d="M8.5776699,21.7402597 L84.8737864,21.7402597" id="Line-Copy-10" stroke="#DDDDDD" stroke-linecap="square"></path>
+                    <path d="M8.5776699,34.6233766 L66.815534,34.6233766" id="Line-Copy-11" stroke="#DDDDDD" stroke-linecap="square"></path>
+                    <path d="M8.5776699,47.5064935 L31.6019417,47.5064935" id="Line-Copy-12" stroke="#DDDDDD" stroke-linecap="square"></path>
+                    <path d="M24.8300971,4.83116883 L32.0533981,4.83116883" id="Line-Copy-9" stroke="#DDDDDD" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

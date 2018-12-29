@@ -1,0 +1,72 @@
+/* display preview media item in gallery */
+.rttchr-details{
+	display:inline-block;
+	position:relative;
+	margin:0.5em;
+}
+.post-type-gallery .rttchr-details,
+#rttchr_preview_media .rttchr-details{
+	background: none repeat scroll 0 0 #99F099;
+	border: 1px solid #339933;
+	width: 200px;
+	margin-bottom: 2px;
+	margin-right: 10px;
+	padding: 10px;
+}
+/* button for unattach or noattach in portfolio & gallery */
+.rttchr-unattach-media-item,
+.rttchr-noattach-media-item{
+	position: absolute;
+	display: none;
+	top: 0;
+	right: 0;
+	font-size: 0em;
+	background-color: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	width: 20px;
+	height: 20px;
+}
+.rttchr-unattach-media-item:before,
+.rttchr-noattach-media-item:before{
+	content: '';
+	font: 400 20px/1 dashicons;
+	speak: none;
+	vertical-align: middle;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #666;
+	background-image: url(../images/close_icon.png );
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 20px;
+	height: 20px;
+	display: block;  
+}
+.rttchr-details:hover .rttchr-unattach-media-item,
+.rttchr-details:hover .rttchr-noattach-media-item{
+	display: block;
+}
+/* style for imaage in metabox */
+.rttchr-details img{
+	vertical-align:top;
+}
+/* display notice in plagin page */
+.rttchr-notice-activatea .rttchr-disable{
+	cursor: default ;
+	pointer-events: none ;
+}
+#rttchr_settings_notice{
+	display:none;
+}
+/* display notice in portfolio page */
+#rttchr_portfolio_notice{
+	padding-bottom: 1em;
+	border-bottom: 1px solid #DFDFDF;
+}
+/* button  in gallery */
+#rttchr-gallery-media-buttons{
+	line-height: 2.5em;
+}
+#rttchr_metabox_in_edit #find-posts{
+	position: fixed;
+}

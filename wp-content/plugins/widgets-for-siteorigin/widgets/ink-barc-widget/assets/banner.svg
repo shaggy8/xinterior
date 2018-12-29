@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>element-bar counter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-869.000000, -261.000000)">
+            <g id="bar-counter" transform="translate(869.000000, 261.000000)">
+                <rect id="Rectangle-16" fill="#FFFFFF" x="0" y="0" width="125" height="125"></rect>
+                <path d="M25.5,50.5 L101.5,50.5" id="Line" stroke="#3EB0F7" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M25.5,61.5 L72.5,61.5" id="Line-Copy-19" stroke="#3EB0F7" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M25.5,72.5 L88.5,72.5" id="Line-Copy-20" stroke="#3EB0F7" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1416 @@
+# Translation of Plugins - MetaSlider - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - MetaSlider - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-08 13:33:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - MetaSlider - Stable (latest release)\n"
+
+#: themes/manifest.php:140
+msgid "A bold and clear design that works well on a darker images."
+msgstr "En djärv och tydlig design som fungerar bra på mörkare bilder."
+
+#: themes/manifest.php:131
+msgid "This theme has a unique design that gives it a sophisticated look."
+msgstr "Detta tema har en unik design som ger den ett sofistikerat utseende."
+
+#: themes/manifest.php:91
+msgid "A simple theme that neatly blends into any existing website."
+msgstr "Ett enkelt tema som smidigt förenar sig med alla befintliga webbplatser."
+
+#: admin/slideshows/Themes.php:159
+msgid "Your selected theme is no longer available. Was the folder deleted?"
+msgstr "Ditt valda tema är inte längre tillgängligt. Var mappen borttagen?"
+
+#: ml-slider.php:2075
+msgid "Copy all code"
+msgstr "Kopiera all kod"
+
+#: ml-slider.php:2072
+msgid "Show title"
+msgstr "Visa rubrik"
+
+#: ml-slider.php:1988
+msgid "Create a slideshow full of your favorite videos easily and quickly by simply adding a URL to a Vimeo slide."
+msgstr "Skapa enkelt och snabbt ett bildspel som är fyllt med dina favoritvideoklipp genom att bara lägga in URL till en Vimeo-bild."
+
+#: ml-slider.php:1965 ml-slider.php:1992 ml-slider.php:2018 ml-slider.php:2043
+msgid "Opens in a new window"
+msgstr "Öppnas i ett nytt fönster"
+
+#: ml-slider.php:1964 ml-slider.php:1991 ml-slider.php:2017 ml-slider.php:2042
+msgid "Find out more about all the features of the Add-on Pack here"
+msgstr "Ta reda på mer om alla funktioner i tilläggspaketet här"
+
+#: ml-slider.php:1963
+msgid "Additional optimization and customization options including using a video as the slide background, and adjusting the padding and background color of each layer."
+msgstr "Ytterligare optimeringar och anpassningsalternativ, såsom videobakgrund i bilder och justering av padding och bakgrundsfärg för varje lager."
+
+#: ml-slider.php:1962
+msgctxt "Translators: %1$s opens and %2$s closes a strong tag"
+msgid "Layers can include %1$s text, HTML, images, videos %2$s and even %1$s shortcodes%2$s!"
+msgstr "Lager kan inkludera %1$stext, HTML, bilder, videoklipp%2$s och till och med %1$skortkoder%2$s!"
+
+#: ml-slider.php:1962
+msgctxt "Translators: %s opens and closes a strong tag"
+msgid "Ideal for easily creating eye-catching presentations and slideshows using stunning effects with %s 30 animation options %s and a beautiful, easy to use interface."
+msgstr "Idealiskt för att enkelt skapa iögonfallande presentationer och bildspel med fantastiska övergångseffekter med %s30 animeringsvarianter%s och med ett vackert och lättanvänt användargränssnitt."
+
+#: inc/slide/metaslide.image.class.php:363
+msgid "Schedule"
+msgstr "Schemaläggning"
+
+#: admin/views/slides/tabs/schedule.php:9
+msgid "Get it now!"
+msgstr "Skaffa det nu!"
+
+#: admin/views/slides/tabs/schedule.php:8
+msgid "Get the Pro add-on pack now to add a start/end date option to your slides"
+msgstr "Skaffa PRO-tilläggspaketet nu för att lägga till inställningar för start- och slutdatum för dina bilder"
+
+#: admin/views/slides/tabs/schedule.php:6
+msgid "Why am I seeing this?"
+msgstr "Varför visas detta?"
+
+#: admin/views/slides/tabs/schedule.php:5
+msgctxt "A coupon code and a discount amount"
+msgid "Have an expired license? Use coupon code %s for a %s discount"
+msgstr "Har din licens löpt ut? Använd rabattkoden %s så får du %s rabatt"
+
+#: admin/views/slides/tabs/schedule.php:4
+msgid "Update or activate your pro add-on pack now to add a start/end date option to your slides"
+msgstr "Uppdatera eller aktivera ditt PRO-tilläggspaket nu för att lägga till inställningen för start- och slutdatum för dina bilder"
+
+#: admin/views/pages/upgrade.php:104
+msgid "Allows you to hide any slide, without having to delete them."
+msgstr "Låter dig dölja valfri bild utan att du behöver radera den."
+
+#: admin/views/pages/upgrade.php:103
+msgid "Toggle your slide's visibility"
+msgstr "Slå på/av visningen av dina bilder"
+
+#: admin/views/pages/upgrade.php:96
+msgid "Add a start/end date to individual slides."
+msgstr "Lägg till start- och slutdatum för enskilda bilder."
+
+#: admin/views/pages/upgrade.php:95
+msgid "Schedule your slides"
+msgstr "Schemalägg dina bilder"
+
+#: admin/slideshows/Themes.php:45
+msgid "No themes found."
+msgstr "Inga teman hittades."
+
+#: admin/slideshows/Slides.php:56
+msgid "We could not find any images to import."
+msgstr "Vi hittade inga bilder att importera."
+
+#: admin/routes/api.php:217
+msgid "This slideshow is no longer available."
+msgstr "Detta bildspel är inte längre tillgängligt."
+
+#: admin/routes/api.php:165 admin/routes/api.php:209
+msgid "The request format was not valid."
+msgstr "Förfrågans format var ogiltigt."
+
+#: ml-slider.php:1636
+msgid "Fade in the first slide"
+msgstr "Tona in den första bilden"
+
+#: ml-slider.php:1633
+msgid "Fade in"
+msgstr "Tona in"
+
+#: ml-slider.php:672
+msgid "The slideshow was successfully updated."
+msgstr "Bildspelet har uppdaterats."
+
+#: ml-slider.php:656
+msgid "There was an error while updating the title."
+msgstr "Ett fel inträffade när rubriken skulle uppdateras."
+
+#: ml-slider.php:624
+msgid "The slideshow you're trying to update was not found."
+msgstr "Det gick inte att hitta det bildspel du försöker ändra."
+
+#: admin/routes/api.php:69 admin/routes/api.php:94 admin/routes/api.php:121
+#: admin/routes/api.php:159 admin/routes/api.php:202 admin/routes/api.php:256
+msgid "You do not have access to this resource."
+msgstr "Du saknar åtkomst till denna resurs."
+
+#: admin/views/slides/tabs/seo.php:16
+msgid "Use the image alt text"
+msgstr "Använd bildens alt-text"
+
+#: admin/views/slides/tabs/seo.php:15
+msgid "Enable this to inherit the image alt text"
+msgstr "Aktivera detta för att ärva bildens alt-text"
+
+#: admin/views/slides/tabs/seo.php:6
+msgid "Use the image title"
+msgstr "Använd bildrubriken"
+
+#: admin/views/slides/tabs/seo.php:5
+msgid "Enable this to inherit the image title"
+msgstr "Aktivera detta för att ärva bildrubriken"
+
+#: admin/views/slides/tabs/general.php:15
+msgid "Open in a new window"
+msgstr "Öppna i ett nytt fönster"
+
+#: admin/views/slides/tabs/general.php:9
+msgid "No default caption set"
+msgstr "Ingen standardiserad bildtext har angivits"
+
+#: admin/views/slides/tabs/general.php:6
+msgid "Use the image caption"
+msgstr "Använd bildtexten"
+
+#: admin/views/slides/tabs/general.php:5
+msgid "Enable this to inherit the caption from the image"
+msgstr "Aktivera detta för att ärva bildens bildtext"
+
+#: admin/views/notices/dashboard-notice.php:9
+#: admin/views/notices/header-notice.php:11
+msgid "Dismiss"
+msgstr "Avfärda"
+
+#: ml-slider.php:2181
+msgid "Add-ons / Other Plugins"
+msgstr "Utökningar/andra tillägg"
+
+#: ml-slider.php:2181
+msgid "View Add-ons / Other Plugins"
+msgstr "Visa utökningar/andra tillägg"
+
+#: ml-slider.php:2083
+msgid "To display your slideshow using id or title, add the following shortcodes (in orange) to your page. If adding the slideshow to your theme files, additionally include the surrounding PHP function (in gray)."
+msgstr "För att visa ditt bildspel med id eller rubrik lägger du till följande kortkoder (i orange) på din sida. Om du lägger till bildspelet i dina temafiler, behöver du dessutom inkludera den omgivande PHP-funktionen (i grått)."
+
+#: ml-slider.php:1565
+msgid "Click to toggle"
+msgstr "Klicka för att slå på/av"
+
+#: ml-slider.php:2069
+msgid "How to Use"
+msgstr "Hur man använder"
+
+#: admin/Pages.php:80
+msgid "Item was copied to your clipboard"
+msgstr "Objektet har kopierats till ditt urklipp"
+
+#: admin/Pages.php:79
+msgid "Success"
+msgstr "Klart"
+
+#: ml-slider.php:2190
+msgid "View The Documentation"
+msgstr "Se dokumentationen"
+
+#: ml-slider.php:2171
+msgid "Layout"
+msgstr "Layout"
+
+#: ml-slider.php:2151
+msgid "Get The Pro Pack Today!"
+msgstr "Skaffa Pro Pack idag!"
+
+#: ml-slider.php:2149
+msgid "Upgrade Now"
+msgstr "Uppgradera nu"
+
+#: ml-slider.php:2113
+msgid "Leave a review"
+msgstr "Lämna en recension"
+
+#: ml-slider.php:2106
+msgid "Premium Support"
+msgstr "Premium support"
+
+#: ml-slider.php:2110
+msgid "Support"
+msgstr "Support"
+
+#: ml-slider.php:2104
+msgid "Take a tour"
+msgstr "Ta en rundtur"
+
+#: ml-slider.php:1854
+msgid "Delete Slideshow"
+msgstr "Ta bort bildspel"
+
+#: ml-slider.php:1546
+msgid "Trash"
+msgstr "Papperskorg"
+
+#: ml-slider.php:1545
+msgid "View trashed slides"
+msgstr "Visa bilder i papperskorgen"
+
+#: ml-slider.php:1513
+msgid "Filmstrip"
+msgstr "Filmremsa"
+
+#: ml-slider.php:1509
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: ml-slider.php:1401
+msgid "You are viewing slides that have been trashed, which will be automatically deleted in %s days. Click <a href=\"%s\">here</a> to view active slides."
+msgstr "Du tittar på bilder som har raderats och kommer att raderas automatiskt om %s dagar. Klicka <a href=\"%s\">här </a> för att visa de bilder som är aktiva."
+
+#: ml-slider.php:1372
+msgid "Add a New Slide"
+msgstr "Lägg till ny bild"
+
+#: ml-slider.php:1364
+msgid "<a href=\"%s\">view active</a>"
+msgstr "<a href=\"%s\">visa aktiv</a>"
+
+#: ml-slider.php:1363
+msgid "Trashed Slides"
+msgstr "Bilder i papperskorgen"
+
+#: ml-slider.php:1240
+msgid "Create a New Slideshow"
+msgstr "Skapa ett nytt bildspel"
+
+#: ml-slider.php:1227
+msgid "Select Slideshow"
+msgstr "Välj bildspel"
+
+#: ml-slider.php:1085
+msgid "Get the Add-on Pack today!"
+msgstr "Skaffa utökningspaket idag!"
+
+#: ml-slider.php:928 ml-slider.php:1247
+msgid "New Slideshow"
+msgstr "Nytt bildspel"
+
+#: ml-slider.php:746
+msgid "The slide was successfully trashed"
+msgstr "Bilden har lagts i papperskorgen"
+
+#: ml-slider.php:713
+msgid "The attempt to restore the slide failed."
+msgstr "Försöket att återställa bilden misslyckades."
+
+#: ml-slider.php:697
+msgid "The slide was successfully restored"
+msgstr "Bilden har återskapats"
+
+#: ml-slider.php:491
+msgid "Add to slideshow"
+msgstr "Lägg till i bildspelet"
+
+#: inc/slider/metaslider.class.php:109
+msgid "Previous"
+msgstr "Föregående"
+
+#: inc/slide/metaslide.image.class.php:83
+msgid "This isn't an accepted image. Please try again."
+msgstr "Detta är inte en accepterad bild. Försök igen."
+
+#: inc/slide/metaslide.class.php:380 inc/slide/metaslide.image.class.php:252
+msgid "Update slide image"
+msgstr "Uppdatera bild"
+
+#: inc/slide/metaslide.class.php:370
+msgid "Delete Permanently"
+msgstr "Ta bort permanent"
+
+#: inc/slide/metaslide.class.php:358
+msgid "Restore"
+msgstr "Återställ"
+
+#: inc/slide/metaslide.class.php:277
+msgid "There was an error while updating the database. Please try again."
+msgstr "Det uppstod ett fel vid uppdatering av databasen. Försök igen."
+
+#: inc/slide/metaslide.class.php:121
+msgid "There was an error updating the image. Please try again"
+msgstr "Det uppstod ett fel vid uppdateringen av bilden. Försök igen"
+
+#: inc/slide/metaslide.class.php:115
+msgid "The image was successfully updated."
+msgstr "Bilden har uppdaterats utan problem."
+
+#: inc/slide/metaslide.class.php:94
+msgid "The requested slide does not exist or something is wrong with the current image. Please try again or remove this slide."
+msgstr "Antingen saknas den begärda bilden eller så är det något fel med den aktuella bilden. Försök igen eller ta bort denna bild."
+
+#: admin/views/pages/upgrade.php:180
+msgid "Logging in with %s is simple. Once users have installed the app onto their smartphone and secured it using a fingerprint or 4-number pin, they just open the app, point it at the moving on-screen barcode and voila!"
+msgstr "Det är enkelt att logga in med %s. När användarna har installerat appen på sin smartphone och säkrat den med sitt fingeravtryck eller en pinkod på 4 siffror behöver de bara öppna appen och peka med den mot en rörlig streckkod på skärmen så är det klart!"
+
+#: admin/views/pages/upgrade.php:179
+msgid "Using innovative RSA public-key cryptography, %s is highly secure and prevents password-based hacking risks such as brute-forcing, key-logging, shoulder-surfing and connection sniffing."
+msgstr "%s har hög säkerhet genom att det använder innovativ RSA-kryptering av och publik nyckel. Det förhindrar risk för lösenordsbaserad hackning, såsom brute force, tangentbordsloggning, ”kika över axeln” och avlyssning av förbindelsen."
+
+#: admin/views/pages/upgrade.php:178
+msgid "%s is a unique 2-factor authentication plugin that allows you to log in to your website with just a wave of your smartphone. It represents the ultimate UX, doing away with the need for usernames, passwords and other 2FA tokens."
+msgstr "%s är ett unikt program för tvåfaktorsautentisering som låter dig logga in på din webbplats genom att bara vinka med din smartphone. Det är den ultimata användarupplevelsen. Du slipper hålla reda på användarnamn, lösenord och andra hårdvarunycklar för 2FA."
+
+#: admin/views/pages/upgrade.php:177
+msgid "%s – instant &amp; secure logins with a wave of your phone"
+msgstr "%s – direkt och säker inloggning genom att du vinkar med din telefon"
+
+#: admin/views/pages/upgrade.php:176
+msgid "%s Two-Factor Authentication"
+msgstr "%s tvåfaktorsautentisering"
+
+#: admin/views/pages/upgrade.php:168
+msgid "%s has a load of valuable features, including automated weekly clean up scheduling, the retention of a set number of weeks’ data, a display of how much space can be cleared, the enabling / disabling of trackbacks and comments for all published posts, and an ‘administrators only’ security feature."
+msgstr "%s har en mängd värdefulla funktioner, inklusive automatisk, schemalagd rensning varje vecka, behåller data för ett visst antal veckor tillbaka, visar hur mycket utrymme som kan rensas, aktivering/inaktivering av trackbacks och kommentarer för alla publicerade inlägg, och en säkerhetsfunktion ”enbart för administratörer”."
+
+#: admin/views/pages/upgrade.php:167
+msgid "Incredibly simple to use, %s clears out old webpage revisions, spam, trash and unapproved comments, all of which take up megabytes of valuable space and leave your database sluggish and ultimately unfit for purpose."
+msgstr "Otroligt lättanvänt, %s rensar bort gamla webbsidor, spam, skräp och ej godkända kommentarer, saker som tar upp megabytes av värdefullt utrymme och gör din databas trög och så småningom oanvändbar för dess ändamål."
+
+#: admin/views/pages/upgrade.php:166
+msgid "%s, the #1 optimization plugin, keeps your %s site at prime speed by cleaning the database without the need for %s."
+msgstr "%s, optimeringstillägget nummer 1, ser till att din %s-webbplats är snabb som blixten genom att rensa databasen utan du behöver %s."
+
+#: admin/views/pages/upgrade.php:165
+msgid "%s – faster, fitter, cleaner WP sites for optimal performance."
+msgstr "%s - Snabbare, snyggare, renare WP-webbplatser för optimal prestanda."
+
+#: admin/views/pages/upgrade.php:156
+msgid "With a wide range of useful features, including automated backup schedules and sophisticated one click updates, UpdraftCentral is sure to boost to your productivity and save you time."
+msgstr "Med ett brett utbud av användbara funktioner, inklusive automatiskt schema för reservkopiering och sofistikerade uppdateringar med ett klick, kommer UpdraftCentral säkert att öka din produktivitet och spara tid."
+
+#: admin/views/pages/upgrade.php:155
+msgid "%s is a powerful tool that allows you to efficiently manage, update, backup and even restore multiple websites from just one location. You can also manage users and comments on all the sites at once, and through its central login feature, you can access each WP-dashboard with a single click."
+msgstr "%s är ett kraftfullt verktyg som låter dig effektivt hantera, uppdatera, säkerhetskopiera och även återställa flera webbplatser från en central plats. Du kan också på en och samma gång hantera användare och kommentarer från alla webbplatserna samtidigt, och genom dess funktion för central inloggning når du varje WP-instrumentpanel med ett enda klick."
+
+#: admin/views/pages/upgrade.php:154
+msgid "If you manage a few %s sites, you need UpdraftCentral."
+msgstr "Om du hanterar några %s webbplatser behöver du UpdraftCentral."
+
+#: admin/views/pages/upgrade.php:153
+msgid "%s – save hours managing multiple WP sites from one place"
+msgstr "%s – spara timmar med hantering av flera WP-webbplatser från ett ställe"
+
+#: admin/views/pages/upgrade.php:152
+msgid "%s Dashboard"
+msgstr "%s adminpanel"
+
+#: admin/views/pages/upgrade.php:145 admin/views/pages/upgrade.php:157
+#: admin/views/pages/upgrade.php:169 admin/views/pages/upgrade.php:181
+msgid "Try for free"
+msgstr "Prova gratis"
+
+#: admin/views/pages/upgrade.php:144
+msgid "With a long-standing reputation for excellence and outstanding reviews, it’s no wonder that %s is the world’s most popular %s backup plugin."
+msgstr "Med dess långvariga rykte för excellens och enastående recensioner är det inte konstigt att %s är världens populäraste tillägg för reservkopiering av %s."
+
+#: admin/views/pages/upgrade.php:143
+msgid "You can also migrate your website with few clicks without hassle."
+msgstr "Du kan också migrera din webbplats med några klick utan krångel."
+
+#: admin/views/pages/upgrade.php:142
+msgid "With %s, you can rest assured that if the worst does happen, it's no big deal. rather than losing everything, you can simply restore the backup and be up and running again in no time at all."
+msgstr "Med %s kan du vara säker på att om det värsta händer, är det inte hela världen. Istället för att förlora allt, behöver du bara återställa din säkerhetskopia och kan vara igång igen på nolltid."
+
+#: admin/views/pages/upgrade.php:141
+msgid "Hacking, server crashes, dodgy updates or simple user error can ruin everything."
+msgstr "Hackare, serverkraschar, tvivelaktiga uppdateringar eller enkla handhavandefel kan förstöra allt."
+
+#: admin/views/pages/upgrade.php:140
+msgid "If you’ve got a %s website, you need a backup."
+msgstr "Om du har en %s webbplats behöver du en säkerhetskopia."
+
+#: admin/views/pages/upgrade.php:138
+msgid "%s – the ultimate protection for your site, hard work and business"
+msgstr "%s – det ultimata skyddet för din webbplats, hårda arbete och företag"
+
+#: admin/views/pages/upgrade.php:130
+msgid "More Professional-Quality Plugins for your Website"
+msgstr "Fler professionella kvalitetstillägg för din webbplats"
+
+#: admin/views/pages/upgrade.php:111
+msgid "Have your specific queries addressed directly by our experts"
+msgstr "Få dina specifika frågor direkt till våra experter"
+
+#: admin/views/pages/upgrade.php:110
+msgid "Premium support"
+msgstr "Premium support"
+
+#: admin/views/pages/upgrade.php:89
+msgid "Easily build slides based on your %s posts."
+msgstr "Bygg enkelt bilder utifrån dina %s-inlägg."
+
+#: admin/views/pages/upgrade.php:88
+msgid "Post feed slides"
+msgstr "Bilder från inläggsflödet"
+
+#: admin/views/pages/upgrade.php:82
+msgid "Add layers to your slides with over 50 available transition effects."
+msgstr "Lägg till ytterligare skikt i dina bilder med över 50 tillgängliga övergångseffekter."
+
+#: admin/views/pages/upgrade.php:81
+msgid "Add slide layers"
+msgstr "Lägg till bildskikt"
+
+#: admin/views/pages/upgrade.php:75
+msgid "Create completely customized %s slides using the inline editor."
+msgstr "Skapa fullständigt anpassade %s-bilder med hjälp av den inbyggda redigeraren."
+
+#: admin/views/pages/upgrade.php:74
+msgid "%s overlay slides"
+msgstr "bilder med %s-överlägg"
+
+#: admin/views/pages/upgrade.php:68
+msgid "Easily include responsive high definition %s and %s videos."
+msgstr "Lägg enkelt till responsiva, högupplösta videoklipp från %s och %s."
+
+#: admin/views/pages/upgrade.php:67
+msgid "Add video slides"
+msgstr "Lägg till video i bildspelet"
+
+#: admin/views/pages/upgrade.php:62 admin/views/pages/upgrade.php:69
+#: admin/views/pages/upgrade.php:76 admin/views/pages/upgrade.php:83
+#: admin/views/pages/upgrade.php:90 admin/views/pages/upgrade.php:97
+#: admin/views/pages/upgrade.php:105 admin/views/pages/upgrade.php:112
+msgid "No"
+msgstr "Nej"
+
+#: admin/views/pages/upgrade.php:61
+msgid "Easily allow users to navigate your slideshows by thumbnails."
+msgstr "Låt enkelt användare navigera i dina bildspel med miniatyrbilder."
+
+#: admin/views/pages/upgrade.php:60
+msgid "Thumbnail navigation"
+msgstr "Miniatyrnavigering"
+
+#: admin/views/pages/upgrade.php:54
+msgid "Unique %s functionality ensures your slides are perfectly resized."
+msgstr "Den unika funktionen %s säkerställer att dina bilders storlek alltid är perfekt anpassad."
+
+#: admin/views/pages/upgrade.php:53
+msgid "Intelligent image cropping"
+msgstr "Intelligent bildskärning"
+
+#: admin/views/pages/upgrade.php:47
+msgid "Our word to keep %s compatible with the latest versions of %s."
+msgstr "Vårt ord för att hålla %s kompatibelt med de senaste versionerna av %s."
+
+#: admin/views/pages/upgrade.php:46
+msgid "Regular updates"
+msgstr "Regelbundna uppdateringar"
+
+#: admin/views/pages/upgrade.php:40
+msgid "Including %s, %s and we will soon be adding more."
+msgstr "Inklusive %s, %s och vi kommer snart att lägga till mer."
+
+#: admin/views/pages/upgrade.php:39
+msgid "Multiple slideshow types"
+msgstr "Flera bildspelstyper"
+
+#: admin/views/pages/upgrade.php:34 admin/views/pages/upgrade.php:35
+#: admin/views/pages/upgrade.php:41 admin/views/pages/upgrade.php:42
+#: admin/views/pages/upgrade.php:48 admin/views/pages/upgrade.php:49
+#: admin/views/pages/upgrade.php:55 admin/views/pages/upgrade.php:56
+#: admin/views/pages/upgrade.php:63 admin/views/pages/upgrade.php:70
+#: admin/views/pages/upgrade.php:77 admin/views/pages/upgrade.php:84
+#: admin/views/pages/upgrade.php:91 admin/views/pages/upgrade.php:98
+#: admin/views/pages/upgrade.php:106 admin/views/pages/upgrade.php:113
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/slide/metaslide.class.php:87
+msgid "The requested image does not exist. Please try again."
+msgstr "Den efterfrågade bilden finns inte. Försök igen."
+
+#: admin/views/pages/upgrade.php:33
+msgid "Create and manage as many slideshows as you need."
+msgstr "Skapa och hantera så många bildspel som du behöver."
+
+#: admin/views/pages/upgrade.php:32
+msgid "Create unlimited slideshows"
+msgstr "Skapa obegränsade bildspel"
+
+#: admin/views/pages/upgrade.php:28 admin/views/pages/upgrade.php:120
+msgid "Upgrade now"
+msgstr "Uppgradera nu"
+
+#: admin/views/pages/upgrade.php:27 admin/views/pages/upgrade.php:119
+msgid "Installed"
+msgstr "Installerad"
+
+#: admin/views/pages/upgrade.php:21
+msgid "pro"
+msgstr "pro"
+
+#: admin/views/pages/upgrade.php:21 ml-slider.php:350 ml-slider.php:2109
+msgid "Add-ons"
+msgstr "Utökningar"
+
+#: admin/views/pages/upgrade.php:20
+msgid "free"
+msgstr "gratis"
+
+#: admin/views/pages/upgrade.php:20 admin/views/pages/upgrade.php:21
+msgid "logo"
+msgstr "logga"
+
+#: admin/views/pages/upgrade.php:15
+msgid "Comparison Chart"
+msgstr "Jämförelsediagram"
+
+#: admin/views/notices/header-notice.php:6
+msgid "Logo"
+msgstr "Logga"
+
+#: admin/Tour.php:130
+msgid "This method does not exist. Please refresh the page and try again."
+msgstr "Denna metod existerar inte. Uppdatera sidan och försök igen."
+
+#: admin/Tour.php:80
+msgid "You've completed the tour and are ready to add great slideshows to your website. Don't forget, if you want your slideshows to really stand out, pick up the add-on pack today. "
+msgstr "Nu har du sett hela rundvisningen och är klart att lägga till härliga bildspel på din webbplats. Om du vill att dina bildspel verkligen ska märkas rekommenderar vi att du skaffar tilläggspaketet redan idag. "
+
+#: admin/Tour.php:79
+msgid "Congratulations!"
+msgstr "Gratulerar!"
+
+#: admin/Tour.php:76 admin/Tour.php:81
+msgid "Finish"
+msgstr "Slutför"
+
+#: admin/Tour.php:75
+msgid "You are all set! If you want to add the slideshow to a post, you may use this shortcode."
+msgstr "Allt är klart! Om du vill lägga till bildspelet i ett inlägg kan du använda följande kortkod."
+
+#: admin/Tour.php:74
+msgid "Shortcode Usage"
+msgstr "Användning av kortkod"
+
+#: admin/Tour.php:71
+msgid "If you need to adjust the settings for this slideshow, you may do so here."
+msgstr "Om du behöver justera inställningarna för detta bildspel kan du göra det här."
+
+#: admin/Tour.php:70
+msgid "Adjust Settings"
+msgstr "Justera inställningar"
+
+#: admin/Tour.php:67
+msgid "Now that you have some slides set, you can preview your slideshow by clicking here."
+msgstr "Nu, när några bilder har lagts in kan du förhandsvisa ditt bildspel genom att klicka här."
+
+#: admin/Tour.php:66
+msgid "Preview Slideshow"
+msgstr "Förhandsgranska bildspel"
+
+#: admin/Tour.php:63
+msgid "After you have selected your media from the left, click below to continue."
+msgstr "När du har valt ditt media från vänster, klicka nedan för att fortsätta."
+
+#: admin/Tour.php:62
+msgid "Select Media"
+msgstr "Välj media"
+
+#: admin/Tour.php:59
+msgid "Premium users that have the Add-on Pack activated can access additional slide types!"
+msgstr "Användare av premiumversionen som har aktiverat tilläggspaketet kommer åt ytterligare bildtyper!"
+
+#: admin/Tour.php:58
+msgid "Select Slide Type"
+msgstr "Välj bildtyp"
+
+#: admin/Tour.php:55
+msgid "Congratulations! Now that you've created a slideshow, click here to add a slide."
+msgstr "Det var det! Nu har du skapat ett bildspel. Klicka här för att lägga till en bild."
+
+#: admin/Tour.php:54
+msgid "Add A Slide"
+msgstr "Lägg till en bild"
+
+#: admin/Tour.php:50
+msgid "Skip this step"
+msgstr "Hoppa över det här steget"
+
+#: admin/Tour.php:49 inc/slider/metaslider.class.php:110
+msgid "Next"
+msgstr "Nästa"
+
+#: admin/Tour.php:48 ml-slider.php:1085
+msgid "Learn More"
+msgstr "Lär dig mer"
+
+#: admin/Tour.php:42
+msgid "Thanks for using the MetaSlider WordPress plugin. It looks like you don’t have any slideshows yet! To get started, click above to add your first one."
+msgstr "Tack för att du använder MetaSlider WordPress-tillägg. Det verkar som om du inte har några bildspel ännu! För att komma igång, klicka ovan för att lägga till din första."
+
+#: admin/Tour.php:41
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: admin/Pages.php:81
+msgid "Press to undo"
+msgstr "Tryck för att ångra"
+
+#: admin/Pages.php:78
+msgid "Slide deleted"
+msgstr "Bild raderad"
+
+#: admin/Pages.php:77
+msgid "Slide restored"
+msgstr "Bild återställd"
+
+#: admin/Pages.php:76
+msgid "Undo"
+msgstr "Ångra"
+
+#: admin/Notices.php:685
+msgid "The attempt to update the option failed."
+msgstr "Försöket att uppdatera alternativet misslyckades."
+
+#: admin/Notices.php:661
+msgid "The requested data does not exist."
+msgstr "De begärda uppgifterna finns inte."
+
+#: admin/Notices.php:604
+msgid "The option was successfully updated"
+msgstr "Alternativet har uppdaterats utan problem"
+
+#: admin/Notices.php:591
+msgid "This item does not exist. Please refresh the page and try again."
+msgstr "Detta objekt existerar inte. Uppdatera sidan och försök igen."
+
+#: admin/Notices.php:585 admin/Tour.php:123 inc/slide/metaslide.class.php:133
+#: inc/slide/metaslide.image.class.php:122
+#: inc/slide/metaslide.image.class.php:163 ml-slider.php:617 ml-slider.php:684
+#: ml-slider.php:733
+msgid "The security check failed. Please refresh the page and try again."
+msgstr "Säkerhetskontrollen misslyckades. Uppdatera sidan och försök igen."
+
+#: admin/Notices.php:572
+msgid "Read more"
+msgstr "Läs mer"
+
+#: admin/Notices.php:570
+msgid "Go there"
+msgstr "Gå dit"
+
+#: admin/Notices.php:569
+msgid "Sign up"
+msgstr "Registrera dig"
+
+#: admin/Notices.php:568
+msgid "Find out more"
+msgstr "Få reda på mer"
+
+#: admin/Notices.php:567
+msgid "Review MetaSlider"
+msgstr "Recensera MetaSlider"
+
+#: admin/Notices.php:566
+msgid "Let's Start"
+msgstr "Låt oss börja"
+
+#: admin/Notices.php:565
+msgid "Get UpdraftCentral"
+msgstr "Skaffa UpdraftCentral"
+
+#: admin/Notices.php:564
+msgid "Optimize today"
+msgstr "Optimera idag"
+
+#: admin/Notices.php:563
+msgid "Get Keyy"
+msgstr "Skaffa Keyy"
+
+#: admin/Notices.php:562
+msgid "Get UpdraftPlus"
+msgstr "Skaffa UpdraftPlus"
+
+#: admin/Notices.php:546
+msgid "weeks"
+msgstr "veckor"
+
+#: admin/Notices.php:333
+msgid "is a highly efficient way to manage, update and backup multiple websites from one place."
+msgstr "är ett synnerligen effektivt sätt att hantera, uppdatera och reservkopiera flera webbplatser från en central plats."
+
+#: admin/Notices.php:332
+msgid "UpdraftCentral"
+msgstr "UpdraftCentral"
+
+#: admin/Notices.php:326
+msgid "Simple & secure login with a wave of your phone."
+msgstr "Enkel och säker inloggning med en rörelse med din telefon."
+
+#: admin/Notices.php:325
+msgid "Keyy:"
+msgstr "Keyy:"
+
+#: admin/Notices.php:319
+msgid "auto-clean your WordPress database so that it runs at maximum efficiency."
+msgstr "rensa automatiskt din WordPress-databas så att den fungerar optimalt."
+
+#: admin/Notices.php:318
+msgid "WP-Optimize:"
+msgstr "WP-Optimize:"
+
+#: admin/Notices.php:312
+msgid "simplifies backups and restoration. It is the world's highest ranking and most popular scheduled backup plugin, with over a million currently-active installs."
+msgstr "förenklar säkerhetskopiering och återställning. Det är världens högst rankade och mest populära tillägg för schemalagd reservkopiering, med för närvarande över en miljon för aktiva installationer."
+
+#: admin/Notices.php:311
+msgid "UpdraftPlus"
+msgstr "UpdraftPlus"
+
+#: admin/Notices.php:291
+msgid "Increase your conversion rate with video slides and many more options."
+msgstr "Höj din konverteringsgrad med video i bildspel och många andra alternativ."
+
+#: admin/Notices.php:290
+msgid "MetaSlider Add-on Pack:"
+msgstr "Utökningspaket för MetaSlider:"
+
+#: admin/Notices.php:267
+msgid "Summer sale - 20% off the MetaSlider Add-on Pack until July 31st"
+msgstr "Sommarrea – 50&nbsp;% rabatt på MetaSlider Add-on Pack till 31 juli"
+
+#: admin/Notices.php:254
+msgid "Spring sale - 20% off the MetaSlider Add-on Pack until April 30th"
+msgstr "Vårrea – 20&nbsp;% rabatt på MetaSlider Add-on Pack till 30 april"
+
+#: admin/Notices.php:241
+msgid "Happy New Year - 20% off the MetaSlider Add-on Pack until January 14th"
+msgstr "Nyårserbjudande – 20&nbsp;% rabatt på MetaSlider Add-on Pack till 14 januari"
+
+#: admin/Notices.php:228
+msgid "Christmas sale - 20% off the MetaSlider Add-on Pack until December 25th"
+msgstr "Julrea – 20&nbsp;% rabatt på MetaSlider Add-on Pack till 25 december"
+
+#: admin/Notices.php:216 admin/Notices.php:229 admin/Notices.php:242
+#: admin/Notices.php:255 admin/Notices.php:268
+msgid "To benefit, use this discount code:"
+msgstr "Använd denna rabattkod för att utnytta erbjudandet:"
+
+#: admin/Notices.php:215
+msgid "Black Friday - 20% off the MetaSlider Add-on Pack until November 30th"
+msgstr "Black Friday – 20&nbsp;% rabatt på MetaSlider Add-on Pack till 30 november"
+
+#: admin/Notices.php:173
+msgid "Supercharge & secure your WordPress site with our other top plugins:"
+msgstr "Få ut mycket mer av din WordPress-webbplats och säkra den med våra andra populära tillägg:"
+
+#: admin/Notices.php:172
+msgid "Thank you for installing MetaSlider"
+msgstr "Tack för att du installerade MetaSlider"
+
+#: admin/Notices.php:162
+msgid "Please go here for instructions - it is easy."
+msgstr "Vänligen gå hit för instruktioner - det är enkelt."
+
+#: admin/Notices.php:161
+msgid "Can you translate? Want to improve MetaSlider for speakers of your language?"
+msgstr "Kan du översätta? Vill du förbättra MetaSlider för användare på ditt språk?"
+
+#: admin/Notices.php:152
+msgid "Upgrade today to benefit from many more premium features. Find out more."
+msgstr "Uppgradera idag för att dra nytta av många fler premiumfunktioner. Få reda på mer."
+
+#: admin/Notices.php:151
+msgid "Increase your revenue and conversion with video slides and many more features"
+msgstr "Öka dina intäkter och höj din konverteringsgrad med video i bildspel och många andra funktioner"
+
+#: admin/Notices.php:142
+msgid "With the MetaSlider Add-on pack you can give your slideshows a professional look!"
+msgstr "Med MetaSlider utökningspaket kan du ge dina bildspel ett professionellt utseende!"
+
+#: admin/Notices.php:141
+msgid "Spice up your site with animated layers and video slides"
+msgstr "Piffa upp din webbplats med animerade skicka och video i bildspelet"
+
+#: admin/Notices.php:122
+msgid "Please help MetaSlider by giving a positive review at wordpress.org."
+msgstr "Hjälp MetaSlider genom att ge en positiv recension på Wordpress.org."
+
+#: admin/Notices.php:121
+msgid "Like MetaSlider and have a minute to spare?"
+msgstr "Gillar du MetaSlider och har en minut över?"
+
+#: admin/Notices.php:111
+msgid "UpdraftCentral is a highly efficient way to take backup, update and manage multiple WP sites from one location"
+msgstr "UpdraftCentral är ett mycket effektivt sätt att reservkopiera, genomföra uppdateringar och hantera flera WP-webbplatser från en central plats"
+
+#: admin/Notices.php:110
+msgid "Save Time and Money. Manage multiple WordPress sites from one location."
+msgstr "Spara tid och pengar. Hantera flera WordPress-webbplatser från en plats."
+
+#: admin/Notices.php:100
+msgid "No more forgotten passwords. Find out more about our revolutionary new WordPress plugin"
+msgstr "Inga fler glömda lösenord. Ta reda på mer om vårt nya revolutionerande WordPress-tillägg"
+
+#: admin/Notices.php:99
+msgid "Keyy: Instant and secure logon with a wave of your phone"
+msgstr "Keyy: Omedelbar och säker inloggning när du vinkar med din telefon"
+
+#: admin/Notices.php:89
+msgid "UpdraftPlus is the world's #1 backup plugin from the makers of MetaSlider. Backup to the cloud, on a schedule and restore with 1 click!"
+msgstr "UpdraftPlus är reservkopieringstillägget nr 1 i världen från tillverkarna av MetaSlider. Schemalagd säkerhetskopiering till molnet och återställning med ett klick!"
+
+#: admin/Notices.php:88
+msgid "Always backup WordPress to avoid losing your site!"
+msgstr "Säkerhetskopiera alltid WordPress för att undvika att förlora din webbplats!"
+
+#. Author of the plugin/theme
+msgid "Team Updraft"
+msgstr "Team Updraft"
+
+#: ml-slider.php:532
+msgid "Layer Slide"
+msgstr "Bild med skikt"
+
+#: ml-slider.php:531
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ml-slider.php:530
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ml-slider.php:529
+msgid "Post Feed"
+msgstr "Inläggsflöde"
+
+#. Description of the plugin/theme
+msgid "Easy to use slideshow plugin. Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides."
+msgstr "Lättanvänt tillägg för bildspel. Skapa SEO-optimerade responsiva bildspel med Nivo Slider, Flex Slider, Coin Slider och Responsive Slides."
+
+#. #-#-#-#-#  ml-slider-code.pot (MetaSlider 3.10.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  ml-slider-code.pot (MetaSlider 3.10.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.metaslider.com"
+msgstr "https://www.metaslider.com"
+
+#: ml-slider.php:1931
+msgid "Insert slideshow"
+msgstr "Infoga bildspel"
+
+#: ml-slider.php:1925
+msgid "Choose slideshow"
+msgstr "Välj bildspel"
+
+#: ml-slider.php:1923
+msgid "Insert MetaSlider"
+msgstr "Infoga MetaSlider"
+
+#: ml-slider.php:1889
+msgid "Add slider"
+msgstr "Lägg till bildspel"
+
+#: ml-slider.php:1886
+msgid "Select slideshow to insert into post"
+msgstr "Välj bildspel att infoga i inlägg"
+
+#: ml-slider.php:1839
+msgid "Delay adding the flexslider class to the slideshow"
+msgstr "Fördröjning innan flexslider-klassen läggs till i bildspelet"
+
+#: ml-slider.php:1836
+msgid "No conflict mode"
+msgstr "Inget konfliktläge"
+
+#: ml-slider.php:1831
+msgid "Uncheck this is you would like to include your own Javascript"
+msgstr "Avmarkera det här är du vill inkludera ditt eget Javascript"
+
+#: ml-slider.php:1828
+msgid "Print JS"
+msgstr "Skriv ut JS"
+
+#: ml-slider.php:1823
+msgid "Uncheck this is you would like to include your own CSS"
+msgstr "Avmarkera det här om du vill inkludera din egen CSS"
+
+#: ml-slider.php:1820
+msgid "Print CSS"
+msgstr "Skriv ut CSS"
+
+#: ml-slider.php:1814
+msgid "Specify any custom CSS Classes you would like to be added to the slider wrapper"
+msgstr "Ange eventuella anpassade CSS-klasser som du vill lägga till i reglaget för bildspelet"
+
+#: ml-slider.php:1812
+msgid "CSS classes"
+msgstr "CSS-klasser"
+
+#: ml-slider.php:1807
+msgid "Developer options"
+msgstr "Utvecklaralternativ"
+
+#: ml-slider.php:1800
+msgid "Set the fade in speed of the caption"
+msgstr "Ange hur snabbt bildtexten tonas in"
+
+#: ml-slider.php:1798
+msgid "Caption speed"
+msgstr "Hastighet för bildtexter"
+
+#: ml-slider.php:1787
+msgid "Opacity of title and navigation"
+msgstr "Opacitet för rubrik och navigering"
+
+#: ml-slider.php:1785
+msgid "Opacity"
+msgstr "Opacitet"
+
+#: ml-slider.php:1774
+msgid "Delay between squares in ms"
+msgstr "Fördröjning mellan kvadrater i ms"
+
+#: ml-slider.php:1772
+msgid "Square delay"
+msgstr "Kvadratfördröjning"
+
+#: ml-slider.php:1761
+msgid "Set the text for the 'next' direction item"
+msgstr "Ange texten för riktningen till ”nästa” objekt"
+
+#: ml-slider.php:1759
+msgid "Next text"
+msgstr "Nästa text"
+
+#: ml-slider.php:1753
+msgid "Set the text for the 'previous' direction item"
+msgstr "Ange texten för riktningen till ”föregående” objekt"
+
+#: ml-slider.php:1751
+msgid "Previous text"
+msgstr "Föregående text"
+
+#: ml-slider.php:1744
+msgid "Animation easing effect"
+msgstr "Upplättande effekt av animeringen"
+
+#: ml-slider.php:1742
+msgid "Easing"
+msgstr "Upplättning"
+
+#: ml-slider.php:1736
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: ml-slider.php:1735
+msgid "Horizontal"
+msgstr "Horisontell"
+
+#: ml-slider.php:1732
+msgid "Select the sliding direction"
+msgstr "Välj skjutriktning"
+
+#: ml-slider.php:1730
+msgid "Slide direction"
+msgstr "Skjutriktning"
+
+#: ml-slider.php:1709 ml-slider.php:1711 ml-slider.php:1722 ml-slider.php:1724
+msgid "Number of squares"
+msgstr "Antal fyrkanter"
+
+#: ml-slider.php:1696 ml-slider.php:1698
+msgid "Number of slices"
+msgstr "Antal persienner"
+
+#: ml-slider.php:1685
+msgid "Set the speed of animations, in milliseconds"
+msgstr "Ange animationshastighet, i millisekunder"
+
+#: ml-slider.php:1683
+msgid "Animation speed"
+msgstr "Animationshastighet"
+
+#: ml-slider.php:1673 ml-slider.php:1686 ml-slider.php:1699 ml-slider.php:1775
+#: ml-slider.php:1801
+msgid "ms"
+msgstr "ms"
+
+#: ml-slider.php:1672
+msgid "How long to display each slide, in milliseconds"
+msgstr "Hur länge varje bild visas i millisekunder"
+
+#: ml-slider.php:1670
+msgid "Slide delay"
+msgstr "Fördröjning mellan bilder"
+
+#: ml-slider.php:1660
+msgid "Reverse the animation direction"
+msgstr "Vänd animationsriktningen"
+
+#: ml-slider.php:1657
+msgid "Reverse"
+msgstr "Omvänd"
+
+#: ml-slider.php:1652
+msgid "Pause the slideshow when hovering over slider, then resume when no longer hovering."
+msgstr "Gör paus i bildvisningen när markören befinner sig över bildspelet, återuppta därefter."
+
+#: ml-slider.php:1649
+msgid "Hover pause"
+msgstr "Gör paus när markören befinner sig över objektet"
+
+#: ml-slider.php:1644
+msgid "Randomise the order of the slides"
+msgstr "Sortera bilderna slumpmässigt"
+
+#: ml-slider.php:1627
+msgid "Pixel margin between slides in carousel."
+msgstr "Marginal i pixlar mellan bilder i karusellen."
+
+#: ml-slider.php:1624
+msgid "Carousel margin"
+msgstr "Karusellmarginal"
+
+#: ml-slider.php:1616
+msgid "Display multiple slides at once. Slideshow output will be 100% wide."
+msgstr "Visa flera bilder samtidigt. Bildspelets utmatning kommer att fylla 100 % av bredden."
+
+#: ml-slider.php:1613
+msgid "Carousel mode"
+msgstr "Karusellläge"
+
+#: ml-slider.php:1608
+msgid "Smart Crop ensures your responsive slides are cropped to a ratio that results in a consistent slideshow size"
+msgstr "Smart Crop säkerställer att dina responsiva bilder beskärs till ett bildformat som ger en konsekvent storlek på bildspelet"
+
+#: ml-slider.php:1606
+msgid "Disabled (Smart Pad)"
+msgstr "Inaktiverad (Smart Pad)"
+
+#: ml-slider.php:1605
+msgid "Disabled"
+msgstr "Inaktiverad"
+
+#: ml-slider.php:1604
+msgid "Standard"
+msgstr "Standard"
+
+#: ml-slider.php:1603
+msgid "Smart Crop"
+msgstr "Smart beskärning"
+
+#: ml-slider.php:1599
+msgid "Image Crop"
+msgstr "Bildbeskärning"
+
+#: ml-slider.php:1594
+msgid "Transition between slides automatically"
+msgstr "Växla automatiskt mellan bilder"
+
+#: ml-slider.php:1591
+msgid "Auto play"
+msgstr "Autospela"
+
+#: ml-slider.php:1586
+msgid "Center align the slideshow"
+msgstr "Centrera bildspelet"
+
+#: ml-slider.php:1583
+msgid "Center align"
+msgstr "Centrerat"
+
+#: ml-slider.php:1578
+msgid "Stretch the slideshow output to fill it's parent container"
+msgstr "Sträck ut bildspelet så att det fyller överordnad container"
+
+#: ml-slider.php:1576
+msgid "100% wide output"
+msgstr "Utmatning med 100 % bredd"
+
+#: ml-slider.php:1574
+msgid "Stretch"
+msgstr "Sträck ut"
+
+#: ml-slider.php:1565
+msgid "Advanced Settings"
+msgstr "Avancerade inställningar"
+
+#: ml-slider.php:1527
+msgid "Slideshow title"
+msgstr "Bildspelsrubrik"
+
+#: ml-slider.php:1526
+msgid "Title"
+msgstr "Titel"
+
+#: ml-slider.php:1507
+msgid "Dots"
+msgstr "Punkter"
+
+#: ml-slider.php:1506
+msgid "Hidden"
+msgstr "Dold"
+
+#: ml-slider.php:1504
+msgid "Show the slide navigation bullets"
+msgstr "Visa bildnavigeringspunkterna"
+
+#: ml-slider.php:1501
+msgid "Navigation"
+msgstr "Navigering"
+
+#: ml-slider.php:1496
+msgid "Show the previous/next arrows"
+msgstr "Visa pilar för föregående/nästa"
+
+#: ml-slider.php:1493
+msgid "Arrows"
+msgstr "Pilar"
+
+#: ml-slider.php:1487
+msgid "Slide"
+msgstr "Bild"
+
+#: ml-slider.php:1486
+msgid "Box Rain Grow Reverse"
+msgstr "Box regn väx och vänd"
+
+#: ml-slider.php:1485
+msgid "Box Rain Reverse"
+msgstr "Box omvänt regn"
+
+#: ml-slider.php:1484
+msgid "Box Rain"
+msgstr "Box regn"
+
+#: ml-slider.php:1483
+msgid "Box Random"
+msgstr "Box Slumpmässigt"
+
+#: ml-slider.php:1482
+msgid "Slide In Left"
+msgstr "Skjut in vänster"
+
+#: ml-slider.php:1481
+msgid "Slide In Right"
+msgstr "Skut in höger"
+
+#: ml-slider.php:1480
+msgid "Fade"
+msgstr "Tona"
+
+#: ml-slider.php:1479
+msgid "Fold"
+msgstr "Vik samman"
+
+#: ml-slider.php:1478
+msgid "Slide Up Down Left"
+msgstr "Förskjutning uppåt, nedåt, åt vänster"
+
+#: ml-slider.php:1477
+msgid "Slice Up Down"
+msgstr "Persienner uppåt och nedåt"
+
+#: ml-slider.php:1476
+msgid "Slide Up Left"
+msgstr "Förskjut uppåt åt vänster"
+
+#: ml-slider.php:1475
+msgid "Slice Up"
+msgstr "Persienner uppåt"
+
+#: ml-slider.php:1474
+msgid "Slide Down"
+msgstr "Glid ned"
+
+#: ml-slider.php:1473
+msgid "Straight"
+msgstr "Rakt"
+
+#: ml-slider.php:1472
+msgid "Rain"
+msgstr "Regn"
+
+#: ml-slider.php:1471
+msgid "Swirl"
+msgstr "Virvel"
+
+#: ml-slider.php:1470 ml-slider.php:1641
+msgid "Random"
+msgstr "Slumpat"
+
+#: ml-slider.php:1468
+msgid "Slide transition effect"
+msgstr "Övergångseffekt mellan bilder"
+
+#: ml-slider.php:1466
+msgid "Effect"
+msgstr "Effekt"
+
+#: ml-slider.php:1459
+msgid "Slideshow height"
+msgstr "Bildspelets höjd"
+
+#: ml-slider.php:1457 ml-slider.php:1722
+msgid "Height"
+msgstr "Höjd"
+
+#: ml-slider.php:1447 ml-slider.php:1460 ml-slider.php:1628
+msgid "px"
+msgstr "px"
+
+#: ml-slider.php:1446
+msgid "Slideshow width"
+msgstr "Bildspelets bredd"
+
+#: ml-slider.php:1444 ml-slider.php:1709
+msgid "Width"
+msgstr "Bredd"
+
+#: ml-slider.php:1416
+msgid "Save"
+msgstr "Spara"
+
+#: ml-slider.php:1374
+msgid "Add Slide"
+msgstr "Lägg till bild"
+
+#: ml-slider.php:1263 ml-slider.php:1265
+msgid "Add a New Slideshow"
+msgstr "Lägg till ett nytt bildspel"
+
+#: ml-slider.php:1239
+msgid "or"
+msgstr "eller"
+
+#: ml-slider.php:2169
+msgid "Switch to Tab view"
+msgstr "Byt till flikvy"
+
+#: ml-slider.php:2169
+msgid "Switch to Dropdown view"
+msgstr "Byt till rullgardinsmeny"
+
+#: ml-slider.php:490
+msgid "Image"
+msgstr "Bild"
+
+#: admin/Pages.php:91
+msgid "Caution: This setting is for advanced developers only. If you're unsure, leave it checked."
+msgstr "Varning: Denna inställning vänder sig enbart till avancerade utvecklare. Om du är osäker bör du låta rutan vara ikryssad."
+
+#: admin/Pages.php:83
+msgid "Select replacement image"
+msgstr "Välj ersättningsbild"
+
+#: admin/Pages.php:75
+msgid "Are you sure?"
+msgstr "Är du säker?"
+
+#: ml-slider.php:2112 ml-slider.php:2190
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: inc/slide/metaslide.image.class.php:350
+msgid "Crop"
+msgstr "Beskär"
+
+#: admin/views/slides/tabs/crop.php:15
+msgid "Bottom Right"
+msgstr "Nere till höger"
+
+#: admin/views/slides/tabs/crop.php:14
+msgid "Bottom Center"
+msgstr "Nere centrerat"
+
+#: admin/views/slides/tabs/crop.php:13
+msgid "Bottom Left"
+msgstr "Nere till vänster"
+
+#: admin/views/slides/tabs/crop.php:12
+msgid "Center Right"
+msgstr "Centrerat höger"
+
+#: admin/views/slides/tabs/crop.php:11
+msgid "Center Center"
+msgstr "Centrerat mitten"
+
+#: admin/views/slides/tabs/crop.php:10
+msgid "Center Left"
+msgstr "Centrerat vänster"
+
+#: admin/views/slides/tabs/crop.php:9
+msgid "Top Right"
+msgstr "Uppe till höger"
+
+#: admin/views/slides/tabs/crop.php:8
+msgid "Top Center"
+msgstr "Uppe centrerat"
+
+#: admin/views/slides/tabs/crop.php:7
+msgid "Top Left"
+msgstr "Uppe till vänster"
+
+#: admin/views/slides/tabs/crop.php:3
+msgid "Crop Position"
+msgstr "Beskärningsposition"
+
+#: inc/slide/metaslide.image.class.php:332
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/slide/metaslide.image.class.php:328
+msgid "General"
+msgstr "Allmänt"
+
+#: admin/views/slides/tabs/seo.php:13
+msgid "Image Alt Text"
+msgstr "Bildens text för ALT"
+
+#: admin/views/slides/tabs/seo.php:3
+msgid "Image Title Text"
+msgstr "Bildens text för TITLE"
+
+#: inc/slide/metaslide.image.class.php:317
+msgid "Warning: The image data does not exist. Please re-upload the image."
+msgstr "Varning: Bilddata finns inte. Ladda upp bilden igen."
+
+#: admin/Pages.php:74
+msgid "New Window"
+msgstr "Nytt fönster"
+
+#: admin/Pages.php:72 admin/views/slides/tabs/general.php:13
+msgid "URL"
+msgstr "Webbadress"
+
+#: admin/Pages.php:73 admin/views/slides/tabs/general.php:3
+msgid "Caption"
+msgstr "Bildtext"
+
+#: inc/slide/metaslide.image.class.php:227
+msgid "Image Slide"
+msgstr "Bildsida"
+
+#: inc/slide/metaslide.image.class.php:81
+msgid "Failed to add slide. Slide is not an image."
+msgstr "Det gick inte att lägga till bilden. Bilden är ingen bildfil."
+
+#: inc/slide/metaslide.class.php:349
+msgid "Delete slide"
+msgstr "Radera bild"
+
+#: inc/metaslider.widget.class.php:119 ml-slider.php:1933
+msgid "No slideshows found"
+msgstr "Inga bildspel hittade"
+
+#: inc/metaslider.widget.class.php:109
+msgid "Select Slider:"
+msgstr "Välj bildspel:"
+
+#: inc/metaslider.widget.class.php:106
+msgid "Title:"
+msgstr "Rubrik:"
+
+#. Plugin Name of the plugin/theme
+msgid "MetaSlider"
+msgstr "MetaSlider"
